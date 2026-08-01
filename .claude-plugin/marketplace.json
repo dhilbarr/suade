@@ -1,0 +1,19 @@
+{
+  "name": "suade",
+  "description": "Suade — the narrative compiler and deck critic for Claude Code and Cowork",
+  "owner": {
+    "name": "Dhilbar Roshan",
+    "url": "https://github.com/dhilbarr"
+  },
+  "plugins": [
+    {
+      "name": "suade",
+      "description": "Critique any deck's narrative against a specific audience (YC, board, a16z...), and compile a blueprint — evidence, strategy, spine — from your source materials. Files-first: the blueprint lives in your folder, diffable and recompilable. Does not paint slides; hands off to Gamma, Google Slides, or Claude Design.",
+      "author": {
+        "name": "Dhilbar Roshan"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

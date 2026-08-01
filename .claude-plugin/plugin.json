@@ -1,0 +1,21 @@
+{
+  "name": "suade",
+  "version": "0.1.0-dev",
+  "description": "Narrative compiler and deck critic. Architects the argument of a presentation and lints existing decks against a specific audience — it does not generate slides.",
+  "author": {
+    "name": "Dhilbar Roshan",
+    "url": "https://github.com/dhilbarr"
+  },
+  "homepage": "https://github.com/dhilbarr/suade",
+  "license": "MIT",
+  "keywords": [
+    "presentation",
+    "deck",
+    "narrative",
+    "critique",
+    "pitch",
+    "blueprint",
+    "board-deck",
+    "storytelling"
+  ]
+}
