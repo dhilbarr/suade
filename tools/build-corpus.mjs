@@ -65,10 +65,16 @@ for (const file of sources) {
   }
   const meta = parsed.presentation_metadata ?? {};
 
+  const usedIds = new Set();
   const records = slides.map((s, i) => {
     const rawN = s.slide_metadata?.slide_number;
-    const n = Number.isInteger(rawN) && rawN > 0 ? rawN : i + 1;
-    const id = `${deckId}#s${String(n).padStart(3, '0')}`;
+    let n = Number.isInteger(rawN) && rawN > 0 ? rawN : i + 1;
+    const mkId = (num) => `${deckId}#s${String(num).padStart(3, '0')}`;
+    let id = mkId(n);
+    // Source decks occasionally number two slides identically; ids must not.
+    if (usedIds.has(id)) id = mkId(i + 1);
+    while (usedIds.has(id)) id = mkId(++n + slides.length);
+    usedIds.add(id);
     for (const k of ['image_url', 'cloudinary_url']) if (s[k]) imageMap[id] = s[k];
 
     const rich = s.semantic_pattern != null;
