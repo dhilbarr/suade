@@ -1,0 +1,12 @@
+{
+  "name": "suade",
+  "private": true,
+  "version": "0.1.0-dev",
+  "type": "module",
+  "description": "Narrative compiler and deck critic — Claude Code / Cowork plugin. Zero runtime dependencies by design.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs check suade",
+    "bench": "echo 'bench harness lands at day 30 (evals/)' && exit 1"
+  },
+  "license": "MIT"
+}

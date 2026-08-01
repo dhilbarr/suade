@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/dhilbarr/suade/schemas/defs.schema.json",
+  "title": "Shared Suade definitions",
+  "description": "Canonical enums shared across artifacts. Ported from the v1 Zod contracts (compiler.ts), widened for v2: 9 audience lenses, critique-era roles added (hook, financials, vision, other).",
+  "definitions": {
+    "audience": {
+      "enum": ["a16z", "yc-demo-day", "sequoia", "accel", "all-hands", "eng-standup", "board-monthly", "board-quarterly", "generic"]
+    },
+    "destination": { "enum": ["investors", "team", "board", "custom"] },
+    "role": {
+      "enum": ["cover", "hook", "problem", "why_now", "solution", "product", "market", "traction", "business_model", "gtm", "moat", "competition", "team", "financials", "roadmap", "ask", "vision", "appendix", "other"]
+    },
+    "section": { "enum": ["opening", "problem", "solution", "proof", "economics", "credibility", "close", "appendix"] },
+    "emotional_goal": { "enum": ["confidence", "urgency", "clarity", "belief", "curiosity", "momentum", "authority", "surprise"] },
+    "tone": { "enum": ["calm", "confident", "urgent", "reflective", "energetic"] },
+    "pattern_id": { "type": "string", "pattern": "^[a-z0-9-]+#s[0-9]{3}$" },
+    "nonempty": { "type": "string", "minLength": 1 }
+  }
+}

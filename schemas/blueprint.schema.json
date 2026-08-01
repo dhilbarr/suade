@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/dhilbarr/suade/schemas/blueprint.schema.json",
+  "title": "Suade blueprint",
+  "description": "The compiled narrative spine. blueprint.json is COMPILED FROM blueprint.md by scripts/validate.mjs — the markdown is the source of truth (the clay); this JSON is its machine form. Visual fields from v1 collapsed to a single optional visual_hint: renderers own pixels.",
+  "type": "object",
+  "required": ["deck_title", "audience", "version", "narrative_theme", "slide_count_target", "slides"],
+  "additionalProperties": false,
+  "properties": {
+    "blueprint_id": { "type": "string" },
+    "deck_title": { "type": "string", "minLength": 1 },
+    "audience": { "$ref": "defs.schema.json#/definitions/audience" },
+    "destination": { "$ref": "defs.schema.json#/definitions/destination" },
+    "version": { "type": "integer", "minimum": 1 },
+    "sources_hash": { "type": "string" },
+    "narrative_theme": { "type": "string", "minLength": 1 },
+    "slide_count_target": { "type": "integer", "minimum": 1 },
+    "slides": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["n", "role", "title", "core_message", "audience_job", "emotional_goal"],
+        "additionalProperties": false,
+        "properties": {
+          "n": { "type": "integer", "minimum": 1 },
+          "role": { "$ref": "defs.schema.json#/definitions/role" },
+          "section": { "$ref": "defs.schema.json#/definitions/section" },
+          "title": { "type": "string", "minLength": 1 },
+          "core_message": { "type": "string", "minLength": 1 },
+          "audience_job": { "type": "string", "minLength": 1 },
+          "earns_next": { "type": "string" },
+          "emotional_goal": { "$ref": "defs.schema.json#/definitions/emotional_goal" },
+          "must_prove": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+          "evidence_refs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+          "open_gaps": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+          "visual_hint": { "type": "string" },
+          "optionality": { "enum": ["required", "recommended", "optional"] }
+        }
+      }
+    },
+    "assumptions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "unresolved_questions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "created_at": { "type": "string" }
+  }
+}

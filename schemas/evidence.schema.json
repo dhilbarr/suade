@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/dhilbarr/suade/schemas/evidence.schema.json",
+  "title": "Suade evidence set",
+  "description": "Canonical extraction from source materials. Every metric/claim/entity cites source_refs (ids from sources.json files, referenced as file paths or src ids); missing information becomes a gap, never a guess.",
+  "type": "object",
+  "required": ["evidence_set_id", "audience", "company_profile", "metrics", "claims", "entities", "sources", "gaps"],
+  "additionalProperties": false,
+  "properties": {
+    "evidence_set_id": { "type": "string", "minLength": 1 },
+    "audience": { "$ref": "defs.schema.json#/definitions/audience" },
+    "destination": { "$ref": "defs.schema.json#/definitions/destination" },
+    "created_at": { "type": "string" },
+    "company_profile": {
+      "type": "object",
+      "required": ["company_name"],
+      "additionalProperties": false,
+      "properties": {
+        "company_name": { "type": "string", "minLength": 1 },
+        "one_liner": { "type": "string" },
+        "sector": { "type": "string" },
+        "business_model": { "type": "string" },
+        "stage_hint": { "enum": ["pre_seed", "seed", "series_a", "series_b_plus", "growth", "public", "internal"] }
+      }
+    },
+    "metrics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "value", "source_refs"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "label": { "type": "string", "minLength": 1 },
+          "value": { "type": ["string", "number"] },
+          "unit": { "type": "string" },
+          "period": { "type": "string" },
+          "trend": { "enum": ["up", "down", "flat"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "source_refs": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "text", "category", "source_refs"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "text": { "type": "string", "minLength": 1 },
+          "category": { "enum": ["problem", "customer", "product", "market", "traction", "gtm", "moat", "team", "fundraise", "financials", "risk", "other"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "source_refs": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+        }
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "entity_type", "source_refs"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "entity_type": { "enum": ["customer", "competitor", "market", "product", "team_member", "channel", "investor", "partner", "other"] },
+          "attributes": { "type": "object" },
+          "source_refs": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "title"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "kind": { "enum": ["upload", "synthetic", "manual", "integration"] },
+          "title": { "type": "string", "minLength": 1 },
+          "location": { "type": "string" },
+          "excerpt": { "type": "string" }
+        }
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "severity", "reason"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "label": { "type": "string", "minLength": 1 },
+          "severity": { "enum": ["low", "medium", "high"] },
+          "reason": { "type": "string", "minLength": 1 },
+          "suggested_fallback": { "type": "string" }
+        }
+      }
+    }
+  }
+}

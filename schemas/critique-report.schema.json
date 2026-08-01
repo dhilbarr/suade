@@ -114,7 +114,7 @@
       }
     },
     "role": {
-      "enum": ["hook", "problem", "why_now", "solution", "product", "market", "traction", "business_model", "gtm", "moat", "competition", "team", "financials", "ask", "vision", "appendix", "other"]
+      "enum": ["cover", "hook", "problem", "why_now", "solution", "product", "market", "traction", "business_model", "gtm", "moat", "competition", "team", "financials", "roadmap", "ask", "vision", "appendix", "other"]
     },
     "patternRef": {
       "type": "object",
