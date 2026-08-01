@@ -85,7 +85,7 @@
    "title": "Investor Day 2024"
   },
   {
-   "id": "cloudflare-investor-day-2024#s003",
+   "id": "cloudflare-investor-day-2024#s002",
    "schema": "rich",
    "core_message": "This presentation will be led by Phil Winslow, our Vice President of Strategic Finance, Treasury, & Investor Relations, who is a credible authority on the topic.",
    "intents": [],
@@ -163,7 +163,7 @@
    "title": "Welcome"
   },
   {
-   "id": "cloudflare-investor-day-2024#s004",
+   "id": "cloudflare-investor-day-2024#s003",
    "schema": "rich",
    "core_message": "Our company's fundamental purpose is to contribute to a positive, large-scale goal, in this case, 'building a better Internet'.",
    "intents": [],
@@ -241,7 +241,7 @@
    "title": "Our Mission"
   },
   {
-   "id": "cloudflare-investor-day-2024#s005",
+   "id": "cloudflare-investor-day-2024#s004",
    "schema": "rich",
    "core_message": "The entire IT infrastructure stack is undergoing a massive, parallel evolution from fragmented physical hardware to a unified, multi-tenant cloud, and Cloudflare's platform is the inevitable endpoint of this shift.",
    "intents": [],
@@ -319,7 +319,7 @@
    "title": "Cloudflare is built for what's next"
   },
   {
-   "id": "cloudflare-investor-day-2024#s006",
+   "id": "cloudflare-investor-day-2024#s005",
    "schema": "rich",
    "core_message": "Our product is incredibly easy to set up ('five minutes') and offers a clear freemium model that provides a frictionless entry point and a clear upgrade path for users as their needs grow.",
    "intents": [],
@@ -399,7 +399,7 @@
    "title": null
   },
   {
-   "id": "cloudflare-investor-day-2024#s007",
+   "id": "cloudflare-investor-day-2024#s006",
    "schema": "rich",
    "core_message": "Our simple, user-friendly platform is underpinned by a massive and growing global network, demonstrating our capacity for immense scale and reliability.",
    "intents": [],
@@ -475,7 +475,7 @@
    "title": "A Growing Global Network Built for Scale"
   },
   {
-   "id": "cloudflare-investor-day-2024#s008",
+   "id": "cloudflare-investor-day-2024#s007",
    "schema": "rich",
    "core_message": "Cloudflare is a large-scale, trusted, and essential platform for the modern internet, validated by millions of users, top-tier customers, and industry analysts.",
    "intents": [],
@@ -555,7 +555,7 @@
    "title": "Helping Build a Better Internet"
   },
   {
-   "id": "cloudflare-investor-day-2024#s009",
+   "id": "cloudflare-investor-day-2024#s008",
    "schema": "rich",
    "core_message": "Our 'Connectivity Cloud' is a unified platform that connects and secures all parts of a modern enterprise's IT ecosystem, delivering comprehensive benefits in control, security, speed, and cost.",
    "intents": [],
@@ -634,7 +634,7 @@
    "title": "Connect, protect and build everywhere"
   },
   {
-   "id": "cloudflare-investor-day-2024#s010",
+   "id": "cloudflare-investor-day-2024#s009",
    "schema": "rich",
    "core_message": "We are the undisputed market leader, validated across our entire platform by every major industry analyst, making us the safe and superior choice.",
    "intents": [],
@@ -712,7 +712,7 @@
    "title": null
   },
   {
-   "id": "cloudflare-investor-day-2024#s011",
+   "id": "cloudflare-investor-day-2024#s010",
    "schema": "rich",
    "core_message": "Our platform provides a comprehensive, integrated solution across four key pillars of customer need: connecting, protecting, accelerating, and building.",
    "intents": [],
@@ -790,7 +790,7 @@
    "title": "With Cloudflare, customers can:"
   },
   {
-   "id": "cloudflare-investor-day-2024#s012",
+   "id": "cloudflare-investor-day-2024#s011",
    "schema": "rich",
    "core_message": "This slide provides a roadmap for the presentation, outlining the key topics to be discussed, the schedule for each section, and the executive speakers who will be presenting.",
    "intents": [],
@@ -869,7 +869,7 @@
    "title": "Agenda"
   },
   {
-   "id": "cloudflare-investor-day-2024#s013",
+   "id": "cloudflare-investor-day-2024#s012",
    "schema": "rich",
    "core_message": "We are now transitioning to a deep dive on our 'Network-as-a-Service' offering, presented by the product leader responsible for this area.",
    "intents": [],
@@ -949,7 +949,7 @@
    "title": "Network-as-a-Service"
   },
   {
-   "id": "cloudflare-investor-day-2024#s014",
+   "id": "cloudflare-investor-day-2024#s013",
    "schema": "rich",
    "core_message": "The demands of modern digital transformation, affecting both customer experience and workforce productivity, have created a complex set of interconnected business and IT challenges that legacy infrastructure is fundamentally unable to solve.",
    "intents": [],
@@ -1027,7 +1027,7 @@
    "title": "Current network & security infrastructure is not architected for the digital future"
   },
   {
-   "id": "cloudflare-investor-day-2024#s015",
+   "id": "cloudflare-investor-day-2024#s014",
    "schema": "rich",
    "core_message": "The world has moved from a simple, centralized IT architecture to a massively complex, distributed one, making old approaches to networking and security obsolete.",
    "intents": [],
@@ -1108,7 +1108,7 @@
    "title": "A brief history of networking"
   },
   {
-   "id": "cloudflare-investor-day-2024#s016",
+   "id": "cloudflare-investor-day-2024#s015",
    "schema": "rich",
    "core_message": "The traditional 'castle-and-moat' approach to corporate networking is a centralized, rigid, and perimeter-focused architecture that is outdated and ill-suited for the modern, distributed world.",
    "intents": [],
@@ -1187,7 +1187,7 @@
    "title": "Centralized networking & security in castle-and-moat architecture"
   },
   {
-   "id": "cloudflare-investor-day-2024#s017",
+   "id": "cloudflare-investor-day-2024#s016",
    "schema": "rich",
    "core_message": "The modern enterprise IT environment is a complex, fragmented mess of different locations, clouds, and legacy technologies, making it inefficient and insecure.",
    "intents": [],
@@ -1267,7 +1267,7 @@
    "title": "WHERE WE ARE NOW: HYBRID OVERLAY"
   },
   {
-   "id": "cloudflare-investor-day-2024#s018",
+   "id": "cloudflare-investor-day-2024#s017",
    "schema": "rich",
    "core_message": "The current approach to corporate networking relies on a complex, costly, and insecure patchwork of disparate point solutions that don't integrate well.",
    "intents": [],
@@ -1346,7 +1346,7 @@
    "title": "...Causing an explosion of point solutions"
   },
   {
-   "id": "cloudflare-investor-day-2024#s019",
+   "id": "cloudflare-investor-day-2024#s018",
    "schema": "rich",
    "core_message": "The industry is undergoing a fundamental shift from complex, legacy corporate networks to a simplified, internet-native model, and our solution represents the final, ideal state of this evolution.",
    "intents": [],
@@ -1426,7 +1426,7 @@
    "title": "The Internet is replacing the corporate network"
   },
   {
-   "id": "cloudflare-investor-day-2024#s020",
+   "id": "cloudflare-investor-day-2024#s019",
    "schema": "rich",
    "core_message": "The established way of doing things is obsolete; we must rethink the entire problem from first principles to find the correct modern solution (which we are about to present).",
    "intents": [],
@@ -1503,7 +1503,7 @@
    "title": "How would you design the network if you were starting from scratch?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s021",
+   "id": "cloudflare-investor-day-2024#s020",
    "schema": "rich",
    "core_message": "Our platform is built on a set of deliberate, interconnected architectural principles that make it uniquely superior for the modern, distributed internet.",
    "intents": [],
@@ -1582,7 +1582,7 @@
    "title": "Core principles in building a global network platform for a distributed world"
   },
   {
-   "id": "cloudflare-investor-day-2024#s022",
+   "id": "cloudflare-investor-day-2024#s021",
    "schema": "rich",
    "core_message": "Our massive, high-performance global network provides unparalleled reach and speed, forming a fundamental competitive moat that is difficult to replicate.",
    "intents": [],
@@ -1658,7 +1658,7 @@
    "title": "A single network that delivers local capabilities with global scale"
   },
   {
-   "id": "cloudflare-investor-day-2024#s023",
+   "id": "cloudflare-investor-day-2024#s022",
    "schema": "rich",
    "core_message": "Our network architecture (Anycast) is fundamentally superior to competitors' (Unicast), enabling us to deliver a faster and more secure experience by processing traffic at the closest possible location to the user.",
    "intents": [],
@@ -1736,7 +1736,7 @@
    "title": "Anycast routing to secure close to the source and accelerate to the destination"
   },
   {
-   "id": "cloudflare-investor-day-2024#s024",
+   "id": "cloudflare-investor-day-2024#s023",
    "schema": "rich",
    "core_message": "Cloudflare's global network architecture is fundamentally superior to competitors because it uses a vast, private backbone to intelligently bypass public internet problems, resulting in significantly better performance and reliability.",
    "intents": [],
@@ -1814,7 +1814,7 @@
    "title": "A global backbone for private + public traffic transport to steer around problems on the public Internet"
   },
   {
-   "id": "cloudflare-investor-day-2024#s025",
+   "id": "cloudflare-investor-day-2024#s024",
    "schema": "rich",
    "core_message": "Our platform provides a single, unified 'end-to-end' architecture that connects any user from anywhere to any resource, applying a comprehensive and consistent set of security and network services along the way.",
    "intents": [],
@@ -1893,7 +1893,7 @@
    "title": "Comprehensive on-ramps to connect and secure users, branches, clouds, data centers, applications, and/or IoT to any resource"
   },
   {
-   "id": "cloudflare-investor-day-2024#s026",
+   "id": "cloudflare-investor-day-2024#s025",
    "schema": "rich",
    "core_message": "Our fundamental architectural advantage is that every one of our services runs on a single, unified software stack across our entire global network, ensuring consistent performance, security, and rapid scalability.",
    "intents": [],
@@ -1969,7 +1969,7 @@
    "title": "Every service built to run on every server in every data center"
   },
   {
-   "id": "cloudflare-investor-day-2024#s027",
+   "id": "cloudflare-investor-day-2024#s026",
    "schema": "rich",
    "core_message": "Our unified platform architecture is fundamentally simpler and more efficient than the complex, fragmented solutions of competitors, creating a significant competitive moat.",
    "intents": [],
@@ -2049,7 +2049,7 @@
    "title": "A unified control plane minimizes complexity, lowers IT overhead, and improves performance"
   },
   {
-   "id": "cloudflare-investor-day-2024#s028",
+   "id": "cloudflare-investor-day-2024#s027",
    "schema": "rich",
    "core_message": "Our platform consolidates numerous complex network and security services into a single control plane, providing complete visibility and simplified management through one interface and one API.",
    "intents": [],
@@ -2126,7 +2126,7 @@
    "title": "Visualize and manage every traffic flow with one user interface, one API, and one policy"
   },
   {
-   "id": "cloudflare-investor-day-2024#s029",
+   "id": "cloudflare-investor-day-2024#s028",
    "schema": "rich",
    "core_message": "Our platform acts as a unified control point for all your network traffic, providing comprehensive security and performance for all your users, apps, and infrastructure.",
    "intents": [],
@@ -2205,7 +2205,7 @@
    "title": "What's possible with these principles applied? — Cloudflare is built for what's next"
   },
   {
-   "id": "cloudflare-investor-day-2024#s030",
+   "id": "cloudflare-investor-day-2024#s029",
    "schema": "rich",
    "core_message": "Cloudflare provides a single, comprehensive platform that sits at the center of all network traffic, securing and accelerating everything from customer-facing applications to internal employee access.",
    "intents": [],
@@ -2282,7 +2282,7 @@
    "title": "What's possible with these principles applied? — Cloudflare is built for what's next"
   },
   {
-   "id": "cloudflare-investor-day-2024#s031",
+   "id": "cloudflare-investor-day-2024#s030",
    "schema": "rich",
    "core_message": "Cloudflare provides a single, unified platform that processes all of a company's inbound and outbound traffic, consolidating numerous security and performance functions to protect all corporate apps and people.",
    "intents": [],
@@ -2359,7 +2359,7 @@
    "title": "What's possible with these principles applied? — Cloudflare is built for what's next"
   },
   {
-   "id": "cloudflare-investor-day-2024#s032",
+   "id": "cloudflare-investor-day-2024#s031",
    "schema": "rich",
    "core_message": "Our integrated, 'Internet-Native' platform is fundamentally superior to legacy and hybrid network architectures, delivering better performance, security, and integration at a lower total cost.",
    "intents": [],
@@ -2438,7 +2438,7 @@
    "title": "Bringing it all together"
   },
   {
-   "id": "cloudflare-investor-day-2024#s033",
+   "id": "cloudflare-investor-day-2024#s032",
    "schema": "rich",
    "core_message": "Our fundamental architecture provides a comprehensive set of advantages across infrastructure, data, and control planes that no single competitor can match, creating a strong and defensible competitive moat.",
    "intents": [],
@@ -2517,7 +2517,7 @@
    "title": "Competitors lack our underlying architecture advantages"
   },
   {
-   "id": "cloudflare-investor-day-2024#s034",
+   "id": "cloudflare-investor-day-2024#s033",
    "schema": "rich",
    "core_message": "Our company's fundamental architecture is perfectly and intentionally designed to solve the core challenges of a modern, distributed world, making us uniquely prepared for both current and future technological shifts.",
    "intents": [],
@@ -2597,7 +2597,7 @@
    "title": "Cloudflare is built to solve the problems of a distributed world — now and for the future"
   },
   {
-   "id": "cloudflare-investor-day-2024#s035",
+   "id": "cloudflare-investor-day-2024#s034",
    "schema": "rich",
    "core_message": "We are now transitioning to discuss our AI strategy, and the person with authority and ownership over this critical area, our VP of Product for the Developer Platform, will lead this section.",
    "intents": [],
@@ -2678,7 +2678,7 @@
    "title": "AI"
   },
   {
-   "id": "cloudflare-investor-day-2024#s036",
+   "id": "cloudflare-investor-day-2024#s035",
    "schema": "rich",
    "core_message": "Our platform is built on four core principles—a foundational ecosystem, automation, reliability, and predictable costs—to empower developers by increasing their velocity and improving end-user experiences.",
    "intents": [],
@@ -2756,7 +2756,7 @@
    "title": "Cloudflare's vision for developers"
   },
   {
-   "id": "cloudflare-investor-day-2024#s037",
+   "id": "cloudflare-investor-day-2024#s036",
    "schema": "rich",
    "core_message": "This slide establishes a historical baseline, showing that in 2018, our platform was in its early stages with only a few products, in stark contrast to the comprehensive offerings of the major cloud providers. It sets the stage to demonstrate our rapid product expansion.",
    "intents": [],
@@ -2833,7 +2833,7 @@
    "title": "Building blocks to create a full-stack application 2018"
   },
   {
-   "id": "cloudflare-investor-day-2024#s038",
+   "id": "cloudflare-investor-day-2024#s037",
    "schema": "rich",
    "core_message": "This slide establishes a baseline, showing that in 2020, our platform had key foundational products but was not yet a comprehensive full-stack solution compared to the major cloud providers.",
    "intents": [],
@@ -2912,7 +2912,7 @@
    "title": "Building blocks to create a full-stack application 2020"
   },
   {
-   "id": "cloudflare-investor-day-2024#s039",
+   "id": "cloudflare-investor-day-2024#s038",
    "schema": "rich",
    "core_message": "Cloudflare has rapidly built a comprehensive development platform with offerings that compete directly with the core services of major cloud providers like AWS, Azure, and GCP.",
    "intents": [],
@@ -2990,7 +2990,7 @@
    "title": "Building blocks to create a full-stack application 2022"
   },
   {
-   "id": "cloudflare-investor-day-2024#s040",
+   "id": "cloudflare-investor-day-2024#s039",
    "schema": "rich",
    "core_message": "Cloudflare now offers a comprehensive suite of developer tools, positioning it as a complete, full-stack platform that directly competes with the major cloud providers like AWS, Azure, and Google Cloud.",
    "intents": [],
@@ -3068,7 +3068,7 @@
    "title": "Building blocks to create a full-stack application 2023"
   },
   {
-   "id": "cloudflare-investor-day-2024#s041",
+   "id": "cloudflare-investor-day-2024#s040",
    "schema": "rich",
    "core_message": "We offer a complete, full-stack platform with a comprehensive set of developer tools that directly compete with and can replace the individual services of major cloud providers like AWS, Azure, and Google Cloud.",
    "intents": [],
@@ -3146,7 +3146,7 @@
    "title": "Building blocks to create a full-stack application 2024"
   },
   {
-   "id": "cloudflare-investor-day-2024#s042",
+   "id": "cloudflare-investor-day-2024#s041",
    "schema": "rich",
    "core_message": "Our developer platform has achieved massive scale with 2 million developers, demonstrating a powerful ecosystem and network effect that constitutes a significant competitive moat.",
    "intents": [],
@@ -3222,7 +3222,7 @@
    "title": null
   },
   {
-   "id": "cloudflare-investor-day-2024#s043",
+   "id": "cloudflare-investor-day-2024#s042",
    "schema": "rich",
    "core_message": "AI represents the latest and most significant technological paradigm shift, following in the footsteps of massive waves like Cloud, Mobile, and Social, and it's happening now.",
    "intents": [],
@@ -3301,7 +3301,7 @@
    "title": "AI is the next paradigm shift in the way applications are built"
   },
   {
-   "id": "cloudflare-investor-day-2024#s044",
+   "id": "cloudflare-investor-day-2024#s043",
    "schema": "rich",
    "core_message": "The adoption of AI is a massive, inevitable, and accelerating trend that is already underway and will fundamentally change how businesses operate across development, enterprise deployment, and knowledge work.",
    "intents": [],
@@ -3380,7 +3380,7 @@
    "title": "AI is reshaping how organizations work, and the shift is already in motion"
   },
   {
-   "id": "cloudflare-investor-day-2024#s045",
+   "id": "cloudflare-investor-day-2024#s044",
    "schema": "rich",
    "core_message": "The complex world of AI workloads can be simplified into two key stages: the initial 'Training' phase and the ongoing 'Inference' phase, setting the stage to argue one is a more significant opportunity.",
    "intents": [],
@@ -3457,7 +3457,7 @@
    "title": "When we say “AI,” what are the workloads involved in making that happen?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s046",
+   "id": "cloudflare-investor-day-2024#s045",
    "schema": "rich",
    "core_message": "To understand the AI market, you must distinguish between two key workloads: 'Training,' which has been the historical focus, and 'Inferencing,' which is the emerging, critical component.",
    "intents": [],
@@ -3534,7 +3534,7 @@
    "title": "When we say “AI,” what are the workloads involved in making that happen?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s047",
+   "id": "cloudflare-investor-day-2024#s046",
    "schema": "rich",
    "core_message": "By using our product (R2) as a neutral storage layer, you can avoid vendor lock-in and costly data transfer fees, enabling you to flexibly use multiple cloud providers for AI workloads.",
    "intents": [],
@@ -3612,7 +3612,7 @@
    "title": "Unlock the best prices across cloud providers with R2"
   },
   {
-   "id": "cloudflare-investor-day-2024#s048",
+   "id": "cloudflare-investor-day-2024#s047",
    "schema": "rich",
    "core_message": "To capitalize on the AI trend, one must understand that the primary, long-term opportunity is not in the initial training of models, but in the continuous, large-scale process of inference.",
    "intents": [],
@@ -3689,7 +3689,7 @@
    "title": "When we say “AI,” what are the workloads involved in making that happen?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s049",
+   "id": "cloudflare-investor-day-2024#s048",
    "schema": "rich",
    "core_message": "This slide frames the market for AI inference as a choice between two suboptimal extremes: the user's device and the centralized cloud, setting the stage for a superior third option.",
    "intents": [],
@@ -3765,7 +3765,7 @@
    "title": "Inference is the biggest AI opportunity — But, where should it happen?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s050",
+   "id": "cloudflare-investor-day-2024#s049",
    "schema": "rich",
    "core_message": "The current, centralized cloud architecture is fundamentally flawed for modern AI applications due to issues with cost, latency, and data locality.",
    "intents": [],
@@ -3843,7 +3843,7 @@
    "title": "Inference on centralized clouds has problems..."
   },
   {
-   "id": "cloudflare-investor-day-2024#s051",
+   "id": "cloudflare-investor-day-2024#s050",
    "schema": "rich",
    "core_message": "The current options for computing, on-device and in the centralized cloud, both have fundamental trade-offs and limitations, creating a problem that needs a new solution.",
    "intents": [],
@@ -3919,7 +3919,7 @@
    "title": "...But, so too do end user devices"
   },
   {
-   "id": "cloudflare-investor-day-2024#s052",
+   "id": "cloudflare-investor-day-2024#s051",
    "schema": "rich",
    "core_message": "Our distributed network architecture is uniquely positioned to power the future of AI by providing both massive scale and low-latency performance, a combination that traditional centralized clouds cannot match.",
    "intents": [],
@@ -3997,7 +3997,7 @@
    "title": "A globally distributed network helps developers scale AI inference, while staying close to the end user"
   },
   {
-   "id": "cloudflare-investor-day-2024#s053",
+   "id": "cloudflare-investor-day-2024#s052",
    "schema": "rich",
    "core_message": "Cloudflare's network architecture provides the ideal balance of performance, cost, and physical attributes for AI inferencing, positioning it as the superior 'just right' solution compared to centralized cloud or on-device options.",
    "intents": [],
@@ -4074,7 +4074,7 @@
    "title": "Cloudflare is in the “Goldilocks Zone” for AI inferencing"
   },
   {
-   "id": "cloudflare-investor-day-2024#s054",
+   "id": "cloudflare-investor-day-2024#s053",
    "schema": "rich",
    "core_message": "We have launched a globally distributed, serverless AI platform that simplifies building AI applications by leveraging our existing network, removing infrastructure complexity, and integrating with our data products.",
    "intents": [],
@@ -4152,7 +4152,7 @@
    "title": "Run inference tasks on Workers AI, the first serverless AI inference platform"
   },
   {
-   "id": "cloudflare-investor-day-2024#s055",
+   "id": "cloudflare-investor-day-2024#s054",
    "schema": "rich",
    "core_message": "Our existing developer platform, with its core components of compute, storage, and network, is perfectly architected to integrate and power new, high-value AI workloads seamlessly.",
    "intents": [],
@@ -4231,7 +4231,7 @@
    "title": "AI fits seamlessly into our developer platform"
   },
   {
-   "id": "cloudflare-investor-day-2024#s056",
+   "id": "cloudflare-investor-day-2024#s055",
    "schema": "rich",
    "core_message": "We are the essential, default infrastructure for the AI revolution, demonstrated by the fact that the vast majority (78%) of top generative AI companies already use our platform.",
    "intents": [],
@@ -4308,7 +4308,7 @@
    "title": "Leading AI companies already rely on Cloudflare"
   },
   {
-   "id": "cloudflare-investor-day-2024#s057",
+   "id": "cloudflare-investor-day-2024#s056",
    "schema": "rich",
    "core_message": "Building production-ready AI requires a complete platform that goes beyond just running models, and our integrated cloud provides all the necessary components for the entire AI lifecycle, from training to optimization.",
    "intents": [],
@@ -4384,7 +4384,7 @@
    "title": "There's more to inference than running models"
   },
   {
-   "id": "cloudflare-investor-day-2024#s058",
+   "id": "cloudflare-investor-day-2024#s057",
    "schema": "rich",
    "core_message": "Our platform enables customers to easily comply with data localization regulations by giving them granular control over where their data is stored and processed, reinforcing our commitment to privacy.",
    "intents": [],
@@ -4462,7 +4462,7 @@
    "title": "Control where data is stored and inspected with a private-by-default approach"
   },
   {
-   "id": "cloudflare-investor-day-2024#s059",
+   "id": "cloudflare-investor-day-2024#s058",
    "schema": "rich",
    "core_message": "Our 'Firewall for AI' product provides an essential security layer for applications using Large Language Models (LLMs) by inspecting both requests and responses to prevent abuse, attacks, and data leakage.",
    "intents": [],
@@ -4541,7 +4541,7 @@
    "title": "Secure how AI resources are consumed"
   },
   {
-   "id": "cloudflare-investor-day-2024#s060",
+   "id": "cloudflare-investor-day-2024#s059",
    "schema": "rich",
    "core_message": "Our new 'AI Gateway' product provides a single control plane for businesses to observe, manage, and optimize the cost, performance, and security of their AI applications.",
    "intents": [],
@@ -4620,7 +4620,7 @@
    "title": "Observe and control AI applications"
   },
   {
-   "id": "cloudflare-investor-day-2024#s061",
+   "id": "cloudflare-investor-day-2024#s060",
    "schema": "rich",
    "core_message": "Our platform is a powerful and versatile foundation for building a wide range of modern, demanding applications, including the latest in Generative AI.",
    "intents": [],
@@ -4698,7 +4698,7 @@
    "title": "Generative AI use cases on Workers"
   },
   {
-   "id": "cloudflare-investor-day-2024#s062",
+   "id": "cloudflare-investor-day-2024#s061",
    "schema": "rich",
    "core_message": "Our platform is uniquely positioned to be the foundational infrastructure for the AI revolution because we provide essential scale, simplicity, and security, as validated by our partnerships with key AI players.",
    "intents": [],
@@ -4775,7 +4775,7 @@
    "title": "Why Cloudflare for AI?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s063",
+   "id": "cloudflare-investor-day-2024#s062",
    "schema": "rich",
    "core_message": "This slide introduces the executive leader responsible for the company's go-to-market strategy, signaling a transition to a new section and building credibility for the company's sales execution.",
    "intents": [],
@@ -4855,7 +4855,7 @@
    "title": "Go-To-Market"
   },
   {
-   "id": "cloudflare-investor-day-2024#s064",
+   "id": "cloudflare-investor-day-2024#s063",
    "schema": "rich",
    "core_message": "Cloudflare is strategically positioned ahead of market trends, making it a destination for top talent who recognize that the market is evolving towards Cloudflare's established vision.",
    "intents": [],
@@ -4931,7 +4931,7 @@
    "title": "Why did I join Cloudflare?"
   },
   {
-   "id": "cloudflare-investor-day-2024#s065",
+   "id": "cloudflare-investor-day-2024#s064",
    "schema": "rich",
    "core_message": "In today's uncertain environment, business leaders are struggling with rising costs and complexity, but are fundamentally seeking opportunities to both save money and increase revenue.",
    "intents": [],
@@ -5010,7 +5010,7 @@
    "title": "The C-Suite is navigating an uncertain economic outlook and a volatile geopolitical landscape"
   },
   {
-   "id": "cloudflare-investor-day-2024#s066",
+   "id": "cloudflare-investor-day-2024#s065",
    "schema": "rich",
    "core_message": "The current approach to enterprise networking, which relies on a patchwork of disconnected 'point solutions', is overly complex, costly, and unmanageable, creating significant business risk and inefficiency.",
    "intents": [],
@@ -5088,7 +5088,7 @@
    "title": "Legacy networks and products are only adding to the rising complexity and costs"
   },
   {
-   "id": "cloudflare-investor-day-2024#s067",
+   "id": "cloudflare-investor-day-2024#s066",
    "schema": "rich",
    "core_message": "We are introducing a new, unified platform called 'Connectivity Cloud' that simplifies the complex modern IT landscape by connecting all enterprise assets (users, clouds, apps, offices) into a single, secure, and flexible system.",
    "intents": [],
@@ -5166,7 +5166,7 @@
    "title": "Introducing Connectivity Cloud"
   },
   {
-   "id": "cloudflare-investor-day-2024#s068",
+   "id": "cloudflare-investor-day-2024#s067",
    "schema": "rich",
    "core_message": "Our offering is a single, comprehensive, and integrated platform that covers the full spectrum of network services, security, and developer tools, making us a one-stop-shop solution.",
    "intents": [],
@@ -5244,7 +5244,7 @@
    "title": "WHAT WE OFFER: Cloudflare is the only composable, Internet-native platform..."
   },
   {
-   "id": "cloudflare-investor-day-2024#s069",
+   "id": "cloudflare-investor-day-2024#s068",
    "schema": "rich",
    "core_message": "Our single, unified platform replaces a complex and expensive sprawl of point solutions from multiple vendors, simplifying operations and reducing the total cost of ownership for customers.",
    "intents": [],
@@ -5320,7 +5320,7 @@
    "title": "Customer perspective: simplify and consolidate on a single, unified platform"
   },
   {
-   "id": "cloudflare-investor-day-2024#s070",
+   "id": "cloudflare-investor-day-2024#s069",
    "schema": "rich",
    "core_message": "This slide is a section header, signaling a transition to a new topic: the company's increasingly effective and accelerating sales and marketing (Go-To-Market) engine.",
    "intents": [],
@@ -5398,7 +5398,7 @@
    "title": "Accelerating GTM Momentum"
   },
   {
-   "id": "cloudflare-investor-day-2024#s071",
+   "id": "cloudflare-investor-day-2024#s070",
    "schema": "rich",
    "core_message": "This slide introduces a powerful metaphor—Momentum = Mass x Velocity—to frame the company's growth story, setting the stage to explain the key drivers of its success in a simple and memorable way.",
    "intents": [],
@@ -5476,7 +5476,7 @@
    "title": "Physics 101"
   },
   {
-   "id": "cloudflare-investor-day-2024#s072",
+   "id": "cloudflare-investor-day-2024#s071",
    "schema": "rich",
    "core_message": "Our sales growth is not random; it's a predictable outcome of two key levers we control: the size of our sales force (Capacity) and their effectiveness (Productivity).",
    "intents": [],
@@ -5551,7 +5551,7 @@
    "title": "Physics 101...translated to B2B sales"
   },
   {
-   "id": "cloudflare-investor-day-2024#s073",
+   "id": "cloudflare-investor-day-2024#s072",
    "schema": "rich",
    "core_message": "Our growth last year was held back by internal execution challenges, not by a lack of market size or demand, which remain massive.",
    "intents": [],
@@ -5626,7 +5626,7 @@
    "title": "Last year..."
   },
   {
-   "id": "cloudflare-investor-day-2024#s074",
+   "id": "cloudflare-investor-day-2024#s073",
    "schema": "rich",
    "core_message": "After a temporary dip, our sales team's productivity is now recovering, demonstrating that we have successfully addressed operational challenges and are improving our go-to-market efficiency.",
    "intents": [],
@@ -5702,7 +5702,7 @@
    "title": "Rolling 4-Quarter ACV per Account Executive (Net)"
   },
   {
-   "id": "cloudflare-investor-day-2024#s075",
+   "id": "cloudflare-investor-day-2024#s074",
    "schema": "rich",
    "core_message": "This slide serves as a transition, signaling to the audience that the presentation will now focus on the company's concrete strategic priorities and execution plan for the upcoming year.",
    "intents": [],
@@ -5778,7 +5778,7 @@
    "title": "2024 Action Plan"
   },
   {
-   "id": "cloudflare-investor-day-2024#s076",
+   "id": "cloudflare-investor-day-2024#s075",
    "schema": "rich",
    "core_message": "Our business momentum is a product of our scale ('mass') and our sales execution ('velocity'), which is defined by having the right strategy ('direction') and speed ('pace').",
    "intents": [],
@@ -5856,7 +5856,7 @@
    "title": "Physics 102...translated to B2B sales"
   },
   {
-   "id": "cloudflare-investor-day-2024#s077",
+   "id": "cloudflare-investor-day-2024#s076",
    "schema": "rich",
    "core_message": "We have a clear and focused 5-point strategic plan for the upcoming year to drive growth by maturing our team, refining our go-to-market, expanding into the enterprise, evolving our sales motion, and leveraging partners.",
    "intents": [],
@@ -5933,7 +5933,7 @@
    "title": "Top 5 action items in 2024"
   },
   {
-   "id": "cloudflare-investor-day-2024#s078",
+   "id": "cloudflare-investor-day-2024#s077",
    "schema": "rich",
    "core_message": "We have built a sophisticated and scalable sales organization by deploying specialized roles at each specific stage of the customer journey, ensuring maximum efficiency from initial lead to renewal and expansion.",
    "intents": [],
@@ -6010,7 +6010,7 @@
    "title": "Add stage-appropriate talent across the sales process"
   },
   {
-   "id": "cloudflare-investor-day-2024#s079",
+   "id": "cloudflare-investor-day-2024#s078",
    "schema": "rich",
    "core_message": "We have a sophisticated, multi-tiered go-to-market strategy that aligns the appropriate sales model—from high-touch to low-touch—with specific customer segments to drive efficient growth and market coverage.",
    "intents": [],
@@ -6087,7 +6087,7 @@
    "title": "Become more systematic and targeted"
   },
   {
-   "id": "cloudflare-investor-day-2024#s080",
+   "id": "cloudflare-investor-day-2024#s079",
    "schema": "rich",
    "core_message": "We have a sophisticated, cross-functional, and customer-centric process for engaging enterprise customers throughout their entire lifecycle, designed to maximize their lifetime value and ensure deep account penetration.",
    "intents": [],
@@ -6165,7 +6165,7 @@
    "title": "360-degree enterprise customer engagements"
   },
   {
-   "id": "cloudflare-investor-day-2024#s081",
+   "id": "cloudflare-investor-day-2024#s080",
    "schema": "rich",
    "core_message": "We have a massive, untapped growth opportunity in the enterprise segment, as our penetration of high-value customers is still very small compared to our peers and our overall customer base.",
    "intents": [],
@@ -6241,7 +6241,7 @@
    "title": "Just scratching the surface with enterprise accounts"
   },
   {
-   "id": "cloudflare-investor-day-2024#s082",
+   "id": "cloudflare-investor-day-2024#s081",
    "schema": "rich",
    "core_message": "We have a versatile go-to-market strategy with three distinct sales motions (Top Down, Solutions Over, and Bottom Up) that all drive adoption of our central platform, allowing us to capture customers regardless of their entry point.",
    "intents": [],
@@ -6320,7 +6320,7 @@
    "title": "Engage customers with three sales motions"
   },
   {
-   "id": "cloudflare-investor-day-2024#s083",
+   "id": "cloudflare-investor-day-2024#s082",
    "schema": "rich",
    "core_message": "Our top-down sales strategy targets different organizational levels, demonstrating that a comprehensive platform pitch to the C-suite results in the largest, most strategic deals.",
    "intents": [],
@@ -6399,7 +6399,7 @@
    "title": "Top Down: Targeting the right audience with a platform pitch for bigger deals"
   },
   {
-   "id": "cloudflare-investor-day-2024#s084",
+   "id": "cloudflare-investor-day-2024#s083",
    "schema": "rich",
    "core_message": "Our comprehensive platform directly maps to and solves all of our customers' most critical priorities, demonstrating the breadth and value of our integrated solutions over individual point products.",
    "intents": [],
@@ -6475,7 +6475,7 @@
    "title": "Solutions Over: Unlocking solution/sales play combinations based on customer priorities"
   },
   {
-   "id": "cloudflare-investor-day-2024#s085",
+   "id": "cloudflare-investor-day-2024#s084",
    "schema": "rich",
    "core_message": "Our partner ecosystem provides massive leverage, allowing us to efficiently scale our reach to thousands of end customers through each individual partner.",
    "intents": [],
@@ -6553,7 +6553,7 @@
    "title": "The power of partnership"
   },
   {
-   "id": "cloudflare-investor-day-2024#s086",
+   "id": "cloudflare-investor-day-2024#s085",
    "schema": "rich",
    "core_message": "We are launching a comprehensive new partner program designed to be simpler, more profitable, and more strategic, which will accelerate our channel-driven growth.",
    "intents": [],
@@ -6630,7 +6630,7 @@
    "title": "New PowerUP partner program"
   },
   {
-   "id": "cloudflare-investor-day-2024#s087",
+   "id": "cloudflare-investor-day-2024#s086",
    "schema": "rich",
    "core_message": "Multiple foundational shifts in technology are converging, and Cloudflare is the essential platform built for this new reality, making our solution both inevitable and urgent.",
    "intents": [],
@@ -6708,7 +6708,7 @@
    "title": "The market is coming to where Cloudflare is already, and the time is now"
   },
   {
-   "id": "cloudflare-investor-day-2024#s088",
+   "id": "cloudflare-investor-day-2024#s087",
    "schema": "rich",
    "core_message": "This slide serves as a transition, introducing the 'Financials' section of the presentation and the speaker, Chief Financial Officer Thomas Seifert, who will present it.",
    "intents": [],
@@ -6786,7 +6786,7 @@
    "title": "Financials"
   },
   {
-   "id": "cloudflare-investor-day-2024#s089",
+   "id": "cloudflare-investor-day-2024#s088",
    "schema": "rich",
    "core_message": "Our company's success is defined by our unique ability to combine growth, efficiency, and scale simultaneously, a rare combination that distinguishes elite technology companies.",
    "intents": [],
@@ -6863,7 +6863,7 @@
    "title": "Efficient and Productive Growth at Scale"
   },
   {
-   "id": "cloudflare-investor-day-2024#s090",
+   "id": "cloudflare-investor-day-2024#s089",
    "schema": "rich",
    "core_message": "Our growth is driven by a clear and sustainable three-pronged strategy: acquiring more large customers, selling them more products, and expanding into new markets.",
    "intents": [],
@@ -6940,7 +6940,7 @@
    "title": "Growth"
   },
   {
-   "id": "cloudflare-investor-day-2024#s091",
+   "id": "cloudflare-investor-day-2024#s090",
    "schema": "rich",
    "core_message": "We have a long and consistent track record of rapid, large-scale revenue growth, which is driven by a deliberate and repeatable go-to-market strategy.",
    "intents": [],
@@ -7015,7 +7015,7 @@
    "title": "Track record of delivering revenue growth"
   },
   {
-   "id": "cloudflare-investor-day-2024#s092",
+   "id": "cloudflare-investor-day-2024#s091",
    "schema": "rich",
    "core_message": "We are rapidly growing our base of large, high-value enterprise customers across multiple spending tiers, demonstrating strong upmarket traction and product value.",
    "intents": [],
@@ -7093,7 +7093,7 @@
    "title": "Significant Growth in Large Customer Cohorts"
   },
   {
-   "id": "cloudflare-investor-day-2024#s093",
+   "id": "cloudflare-investor-day-2024#s092",
    "schema": "rich",
    "core_message": "We are successfully moving upmarket, with our largest enterprise customer segments growing revenue much faster than our smaller customer base, demonstrating a powerful and successful expansion motion.",
    "intents": [],
@@ -7169,7 +7169,7 @@
    "title": "Rapid enterprise expansion"
   },
   {
-   "id": "cloudflare-investor-day-2024#s094",
+   "id": "cloudflare-investor-day-2024#s093",
    "schema": "rich",
    "core_message": "Our largest customers are spending significantly more with us over time, demonstrating a powerful 'land and expand' motion and our successful push into the enterprise market.",
    "intents": [],
@@ -7247,7 +7247,7 @@
    "title": "Increasing enterprise volume + scale"
   },
   {
-   "id": "cloudflare-investor-day-2024#s095",
+   "id": "cloudflare-investor-day-2024#s094",
    "schema": "rich",
    "core_message": "Our largest enterprise customers are our most valuable and sticky, with significantly longer lifetimes than smaller customers, proving the health and long-term viability of our upmarket strategy.",
    "intents": [],
@@ -7322,7 +7322,7 @@
    "title": "Increasing enterprise volume + customer lifetime"
   },
   {
-   "id": "cloudflare-investor-day-2024#s096",
+   "id": "cloudflare-investor-day-2024#s095",
    "schema": "rich",
    "core_message": "Our platform's innovation is accelerating, rapidly and consistently expanding our product portfolio to build an insurmountable competitive moat.",
    "intents": [],
@@ -7400,7 +7400,7 @@
    "title": "A platform constantly delivering innovation"
   },
   {
-   "id": "cloudflare-investor-day-2024#s097",
+   "id": "cloudflare-investor-day-2024#s096",
    "schema": "rich",
    "core_message": "Our addressable market is consistently and substantially expanding as we strategically add new product categories, creating a massive runway for future growth.",
    "intents": [],
@@ -7480,7 +7480,7 @@
    "title": "Consistent TAM expansion"
   },
   {
-   "id": "cloudflare-investor-day-2024#s098",
+   "id": "cloudflare-investor-day-2024#s097",
    "schema": "rich",
    "core_message": "Our land-and-expand strategy is highly effective; customers who adopt more of our products grow their spending with us exponentially, proving our platform's value and driving our overall growth.",
    "intents": [],
@@ -7557,7 +7557,7 @@
    "title": "Land-and-expand strategy drives growth"
   },
   {
-   "id": "cloudflare-investor-day-2024#s099",
+   "id": "cloudflare-investor-day-2024#s098",
    "schema": "rich",
    "core_message": "Our platform strategy is working: customers who adopt more of our products become significantly stickier and have a longer lifetime, creating a powerful competitive moat.",
    "intents": [],
@@ -7635,7 +7635,7 @@
    "title": "Increasing product adoption + customer lifetime"
   },
   {
-   "id": "cloudflare-investor-day-2024#s100",
+   "id": "cloudflare-investor-day-2024#s099",
    "schema": "rich",
    "core_message": "Cloudflare is a unified platform that uniquely spans multiple, converging security and networking markets, while competitors are merely point solutions in one or two of these categories.",
    "intents": [],
@@ -7713,7 +7713,7 @@
    "title": "There's a reason we use the term \"Acts\"..."
   },
   {
-   "id": "cloudflare-investor-day-2024#s101",
+   "id": "cloudflare-investor-day-2024#s100",
    "schema": "rich",
    "core_message": "Our strategy of expanding from our core business into adjacent product areas is highly successful, with these new areas driving an increasingly larger share of our total contract value over time.",
    "intents": [],
@@ -7789,7 +7789,7 @@
    "title": "EXTENDING INTO ADJACENT MARKETS ...Because acts in a play build on each other"
   },
   {
-   "id": "cloudflare-investor-day-2024#s102",
+   "id": "cloudflare-investor-day-2024#s101",
    "schema": "rich",
    "core_message": "Our 'land and expand' strategy is working: our core product has near-total customer penetration, and we are successfully cross-selling newer product lines to a significant portion of our customer base, proving multiple future growth vectors.",
    "intents": [],
@@ -7867,7 +7867,7 @@
    "title": "A multi-act play..."
   },
   {
-   "id": "cloudflare-investor-day-2024#s103",
+   "id": "cloudflare-investor-day-2024#s102",
    "schema": "rich",
    "core_message": "We have a massive, multi-billion dollar growth runway simply by selling more of our existing products to our current customers, indicating we are still in the early innings of penetrating our customer base.",
    "intents": [],
@@ -7943,7 +7943,7 @@
    "title": "...That is just getting started"
   },
   {
-   "id": "cloudflare-investor-day-2024#s104",
+   "id": "cloudflare-investor-day-2024#s103",
    "schema": "rich",
    "core_message": "This slide introduces the topic of profitability by breaking it down into its two core components: the health of individual transactions (unit economics) and the company's sustainable financial structure (long-term operating model).",
    "intents": [],
@@ -8019,7 +8019,7 @@
    "title": "Profitability"
   },
   {
-   "id": "cloudflare-investor-day-2024#s105",
+   "id": "cloudflare-investor-day-2024#s104",
    "schema": "rich",
    "core_message": "Our business model has significant operating leverage; as we scale, our expenses as a percentage of revenue consistently decrease, driving a clear and sustained improvement in profitability.",
    "intents": [],
@@ -8096,7 +8096,7 @@
    "title": "Elasticity and leverage in our operating model"
   },
   {
-   "id": "cloudflare-investor-day-2024#s106",
+   "id": "cloudflare-investor-day-2024#s105",
    "schema": "rich",
    "core_message": "Our business model is fundamentally scalable and becoming more profitable over time, as demonstrated by our improving Unit Economic Margin, which has reached 41%.",
    "intents": [],
@@ -8174,7 +8174,7 @@
    "title": "Unit economics"
   },
   {
-   "id": "cloudflare-investor-day-2024#s107",
+   "id": "cloudflare-investor-day-2024#s106",
    "schema": "rich",
    "core_message": "Our sales productivity is reaccelerating after a dip, and combined with a growing pipeline, this proves our go-to-market strategy is working and justifies further investment in scaling our sales team.",
    "intents": [],
@@ -8250,7 +8250,7 @@
    "title": "Cost to book"
   },
   {
-   "id": "cloudflare-investor-day-2024#s108",
+   "id": "cloudflare-investor-day-2024#s107",
    "schema": "rich",
    "core_message": "Our business model has strong operating leverage; as we scale, our operating expenses as a percentage of revenue consistently decrease, proving our efficiency and clear path to greater profitability.",
    "intents": [],
@@ -8327,7 +8327,7 @@
    "title": "Cost to serve"
   },
   {
-   "id": "cloudflare-investor-day-2024#s109",
+   "id": "cloudflare-investor-day-2024#s108",
    "schema": "rich",
    "core_message": "Our business model is demonstrating significant operating leverage, with costs decreasing as a percentage of revenue over time, proving we are on a clear and credible path to achieving our high long-term profitability targets.",
    "intents": [],
@@ -8404,7 +8404,7 @@
    "title": "Long-term operating model"
   },
   {
-   "id": "cloudflare-investor-day-2024#s110",
+   "id": "cloudflare-investor-day-2024#s109",
    "schema": "rich",
    "core_message": "We have a clear, phased strategy that connects near-term execution (like building our GTM team) with our long-term vision of capturing a massive market and achieving profitable growth at scale.",
    "intents": [],

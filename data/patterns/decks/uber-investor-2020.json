@@ -162,7 +162,7 @@
    "title": "Contents"
   },
   {
-   "id": "uber-investor-2020#s001",
+   "id": "uber-investor-2020#s003",
    "schema": "rich",
    "core_message": "This slide sets the stage for a review of 2020, framing it as a period where the company successfully navigated significant external challenges through strong operational performance.",
    "intents": [],
@@ -703,7 +703,7 @@
    "title": "In 2021, we will help the world move again"
   },
   {
-   "id": "uber-investor-2020#s002",
+   "id": "uber-investor-2020#s010",
    "schema": "rich",
    "core_message": "Uber is a massive, global platform uniquely positioned to capture a very large market opportunity.",
    "intents": [],
@@ -1627,7 +1627,7 @@
    "title": "U4B Delivery expansion deepened corporate engagements"
   },
   {
-   "id": "uber-investor-2020#s003",
+   "id": "uber-investor-2020#s022",
    "schema": "rich",
    "core_message": "Our core Mobility business is an undisputed global leader and remains a massive, foundational part of our overall platform, representing nearly half of our total bookings.",
    "intents": [],
@@ -2088,7 +2088,7 @@
    "title": "Expanding the category in 2021 and beyond"
   },
   {
-   "id": "uber-investor-2020#s004",
+   "id": "uber-investor-2020#s028",
    "schema": "rich",
    "core_message": "Our Delivery business is no longer a secondary service; it has achieved massive scale and is now a core pillar of our company, representing over half of our total business volume.",
    "intents": [],
@@ -2704,7 +2704,7 @@
    "title": "Uber Direct"
   },
   {
-   "id": "uber-investor-2020#s005",
+   "id": "uber-investor-2020#s036",
    "schema": "rich",
    "core_message": "Our Freight division, while currently a small portion of our overall business, is a significant new growth vector aimed at disrupting the large freight brokerage market.",
    "intents": [],
@@ -3015,7 +3015,7 @@
    "title": "Adoption & continued investment showcase the value of Uber Freight's platform"
   },
   {
-   "id": "uber-investor-2020#s006",
+   "id": "uber-investor-2020#s040",
    "schema": "rich",
    "core_message": "This slide acts as a section divider, signaling a transition to a new topic: the company's financial model and the value of its equity investments.",
    "intents": [],
@@ -3400,7 +3400,7 @@
    "title": "Investments in advanced technologies"
   },
   {
-   "id": "uber-investor-2020#s007",
+   "id": "uber-investor-2020#s045",
    "schema": "rich",
    "core_message": "This slide introduces a new section of the presentation focused on the company's corporate governance (Board) and its environmental and social responsibility efforts (Sustainability).",
    "intents": [],

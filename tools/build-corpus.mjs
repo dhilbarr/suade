@@ -66,7 +66,8 @@ for (const file of sources) {
   const meta = parsed.presentation_metadata ?? {};
 
   const records = slides.map((s, i) => {
-    const n = s.slide_metadata?.slide_number ?? i + 1;
+    const rawN = s.slide_metadata?.slide_number;
+    const n = Number.isInteger(rawN) && rawN > 0 ? rawN : i + 1;
     const id = `${deckId}#s${String(n).padStart(3, '0')}`;
     for (const k of ['image_url', 'cloudinary_url']) if (s[k]) imageMap[id] = s[k];
 

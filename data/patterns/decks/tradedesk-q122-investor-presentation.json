@@ -84,7 +84,7 @@
    "title": "First Quarter 2022 Investor Presentation"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s003",
+   "id": "tradedesk-q122-investor-presentation#s002",
    "schema": "rich",
    "core_message": "We provide a sophisticated, data-rich platform for professional ad buyers (like agencies and brands) to manage their complex campaigns.",
    "intents": [],
@@ -162,7 +162,7 @@
    "title": "What we do"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s004",
+   "id": "tradedesk-q122-investor-presentation#s003",
    "schema": "rich",
    "core_message": "We have a long and consistent track record of exponential growth in platform usage, which has translated directly into strong, sustained, and profitable financial performance.",
    "intents": [],
@@ -317,7 +317,7 @@
    "title": "theTradeDesk by the numbers"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s006",
+   "id": "tradedesk-q122-investor-presentation#s005",
    "schema": "rich",
    "core_message": "To be effective in a crowded and noisy world, communication (like advertising) must be precisely targeted to the right individual, rather than broadcast to the masses.",
    "intents": [],
@@ -396,7 +396,7 @@
    "title": "The most effective advertising is targeted."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s007",
+   "id": "tradedesk-q122-investor-presentation#s006",
    "schema": "rich",
    "core_message": "The advertising industry is undergoing a massive, misunderstood transformation that goes beyond the simple shift to digital, creating a new landscape and opportunity that we will explain.",
    "intents": [],
@@ -474,7 +474,7 @@
    "title": "There is a fundamental shift happening in advertising."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s008",
+   "id": "tradedesk-q122-investor-presentation#s007",
    "schema": "rich",
    "core_message": "This slide acts as a section header to frame the upcoming discussion around the broader market conditions, acknowledging its inherent volatility and opposing forces (bull vs. bear).",
    "intents": [],
@@ -630,7 +630,7 @@
    "title": "Price discovery enables healthy markets."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s010",
+   "id": "tradedesk-q122-investor-presentation#s009",
    "schema": "rich",
    "core_message": "We are positioned to capture an enormous market opportunity because the entire advertising industry is inevitably shifting to digital and programmatic, and this transition is still in its very early stages.",
    "intents": [],
@@ -707,7 +707,7 @@
    "title": "We are targeting a massive market"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s011",
+   "id": "tradedesk-q122-investor-presentation#s010",
    "schema": "rich",
    "core_message": "Our platform creates a more efficient advertising ecosystem by reducing the 'ad-tech tax' from intermediaries, ensuring more of an advertiser's budget reaches the publisher, which benefits everyone.",
    "intents": [],
@@ -784,7 +784,7 @@
    "title": "The pie is getting bigger while waste is being pushed out."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s012",
+   "id": "tradedesk-q122-investor-presentation#s011",
    "schema": "rich",
    "core_message": "We provide a powerful, data-rich platform for expert users to manage massive advertising scale, and our business is built on sticky, long-term enterprise contracts.",
    "intents": [],
@@ -861,7 +861,7 @@
    "title": "What we do"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s013",
+   "id": "tradedesk-q122-investor-presentation#s012",
    "schema": "rich",
    "core_message": "Our business model is to empower our customers (agencies) by providing a platform for them to build their own advantage; we are a partner, not a competitor.",
    "intents": [],
@@ -937,7 +937,7 @@
    "title": "We provide agencies a SOFTWARE PLATFORM."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s014",
+   "id": "tradedesk-q122-investor-presentation#s013",
    "schema": "rich",
    "core_message": "We have a clear, focused position in the complex ad-tech landscape as a pure-play technology platform for advertisers (the buy-side), which is our key strategic advantage.",
    "intents": [],
@@ -1016,7 +1016,7 @@
    "title": "We align agencies and their brands."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s015",
+   "id": "tradedesk-q122-investor-presentation#s014",
    "schema": "rich",
    "core_message": "Our platform provides comprehensive coverage across all major digital advertising channels, enabling advertisers to reach their audience wherever they are.",
    "intents": [],
@@ -1093,7 +1093,7 @@
    "title": "We are omnichannel."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s016",
+   "id": "tradedesk-q122-investor-presentation#s015",
    "schema": "rich",
    "core_message": "We are the essential platform for the world's largest brands across all major industries, and we serve them through their trusted agency and technology partners.",
    "intents": [],
@@ -1169,7 +1169,7 @@
    "title": "We buy advertising and data."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s017",
+   "id": "tradedesk-q122-investor-presentation#s016",
    "schema": "rich",
    "core_message": "Our revenue base is highly diversified and stable across many industries, which minimizes risk and makes our business resilient to sector-specific downturns.",
    "intents": [],
@@ -1321,7 +1321,7 @@
    "title": "The Trade Desk is global."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s019",
+   "id": "tradedesk-q122-investor-presentation#s018",
    "schema": "rich",
    "core_message": "Our platform provides unparalleled access to advertising inventory across the entire digital ecosystem, from premium publishers and streaming services to major tech platforms, demonstrating our comprehensive market coverage.",
    "intents": [],
@@ -1397,7 +1397,7 @@
    "title": "We buy the whole internet."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s020",
+   "id": "tradedesk-q122-investor-presentation#s019",
    "schema": "rich",
    "core_message": "We are the trusted, independent technology partner for agencies because, unlike our competitors, our business model is not conflicted, ensuring we always act in our clients' best interest with their data.",
    "intents": [],
@@ -1475,7 +1475,7 @@
    "title": null
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s021",
+   "id": "tradedesk-q122-investor-presentation#s020",
    "schema": "rich",
    "core_message": "Our platform's strength and competitive moat are built on our extensive ecosystem of integrations with a vast number of premier data providers.",
    "intents": [],
@@ -1550,7 +1550,7 @@
    "title": "We buy data to make better decisions."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s022",
+   "id": "tradedesk-q122-investor-presentation#s021",
    "schema": "rich",
    "core_message": "This slide acts as a clear transition, signaling to the audience that the presentation is now shifting focus to discuss the company's core technology.",
    "intents": [],
@@ -1629,7 +1629,7 @@
    "title": "Our technology."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s023",
+   "id": "tradedesk-q122-investor-presentation#s022",
    "schema": "rich",
    "core_message": "Our competitive advantage stems from our foundational data management platform, which aggregates diverse data sources (1st party, 3rd party, and our own) to power a superior decisioning engine for our customers.",
    "intents": [],
@@ -1705,7 +1705,7 @@
    "title": "Our decisioning technology"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s024",
+   "id": "tradedesk-q122-investor-presentation#s023",
    "schema": "rich",
    "core_message": "Our core competitive advantage is a unique, proprietary technological capability we call 'Expressiveness,' which is the foundation of our product's superiority.",
    "intents": [],
@@ -1783,7 +1783,7 @@
    "title": "Expressiveness is central to our technological advantage."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s025",
+   "id": "tradedesk-q122-investor-presentation#s024",
    "schema": "rich",
    "core_message": "Our underlying technology ('Bid Factors') is fundamentally different and superior to the industry standard ('Line Items'), enabling greater granularity, optimization, and performance for our customers.",
    "intents": [],
@@ -1861,7 +1861,7 @@
    "title": "We're Built Differently Than Everyone Else in the Industry."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s026",
+   "id": "tradedesk-q122-investor-presentation#s025",
    "schema": "rich",
    "core_message": "Our platform provides unparalleled transparency and detailed reporting, empowering users with the granular data needed to make sophisticated, data-driven decisions.",
    "intents": [],
@@ -1938,7 +1938,7 @@
    "title": "Goal: The most transparent and most detailed reporting."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s027",
+   "id": "tradedesk-q122-investor-presentation#s026",
    "schema": "rich",
    "core_message": "Our platform's sophisticated, multi-dimensional targeting capabilities (e.g., by location and time) allow for highly expressive and optimized campaigns, which directly translates to superior client outcomes like significant cost reduction.",
    "intents": [],
@@ -2014,7 +2014,7 @@
    "title": "TTD + Agency reduced client's booking costs by half."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s028",
+   "id": "tradedesk-q122-investor-presentation#s027",
    "schema": "rich",
    "core_message": "Our comprehensive platform consolidates spending from multiple point solutions, allowing us to capture a much larger share of our customers' total budget.",
    "intents": [],
@@ -2246,7 +2246,7 @@
    "title": "Significant Growth Drivers"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s001",
+   "id": "tradedesk-q122-investor-presentation#s030",
    "schema": "rich",
    "core_message": "This slide introduces the first major topic of the presentation: the company's central role in the convergence of Connected TV (CTV) and the internet, framing it as a key growth driver.",
    "intents": [],
@@ -2323,7 +2323,7 @@
    "title": "CTV and TTD"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s032",
+   "id": "tradedesk-q122-investor-presentation#s031",
    "schema": "rich",
    "core_message": "The market for ad-supported content is massive and durable because the alternative (ad-free subscription models) is fundamentally too expensive for the majority of consumers.",
    "intents": [],
@@ -2556,7 +2556,7 @@
    "title": "Our reach in the US is HUGE"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s035",
+   "id": "tradedesk-q122-investor-presentation#s034",
    "schema": "rich",
    "core_message": "Our data-driven approach enables precise targeting that, while more expensive on a per-impression basis, delivers far greater value and eliminates the waste inherent in traditional, broad-based methods.",
    "intents": [],
@@ -2635,7 +2635,7 @@
    "title": "Decisioning improves TV buying"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s036",
+   "id": "tradedesk-q122-investor-presentation#s035",
    "schema": "rich",
    "core_message": "Our platform provides comprehensive, sophisticated, and cross-platform measurement capabilities for Connected TV, allowing advertisers to prove and optimize the true impact of their campaigns.",
    "intents": [],
@@ -3017,7 +3017,7 @@
    "title": "Shopper Marketing"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s041",
+   "id": "tradedesk-q122-investor-presentation#s040",
    "schema": "rich",
    "core_message": "Our strategic partnership with Walmart validates our platform, gives us exclusive access to valuable retail data, and unlocks a massive $200B+ shopper marketing opportunity.",
    "intents": [],
@@ -3093,7 +3093,7 @@
    "title": "Walmart Connects With TTD"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s042",
+   "id": "tradedesk-q122-investor-presentation#s041",
    "schema": "rich",
    "core_message": "Our future growth is guided by a clear, multi-pronged strategy focused on expanding into new high-growth channels, growing globally, and advancing our core platform technology.",
    "intents": [],
@@ -3170,7 +3170,7 @@
    "title": "Our focus for the future..."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s043",
+   "id": "tradedesk-q122-investor-presentation#s042",
    "schema": "rich",
    "core_message": "Our business is managed by focusing on four key pillars: a strong culture, high customer retention, driving spend growth, and maintaining efficiency. These are the core tenets that guide our operations and strategy.",
    "intents": [],
@@ -3247,7 +3247,7 @@
    "title": "How Do We Manage Our Business?"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s044",
+   "id": "tradedesk-q122-investor-presentation#s043",
    "schema": "rich",
    "core_message": "Our business model is powerful and sustainable because it simultaneously delivers exceptional growth, stable customer relationships, scalable operating leverage, and proven profitability.",
    "intents": [],
@@ -3323,7 +3323,7 @@
    "title": "Strong financial model."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s045",
+   "id": "tradedesk-q122-investor-presentation#s044",
    "schema": "rich",
    "core_message": "We have a long and proven track record of rapid, consistent, and accelerating revenue growth, demonstrating our strong market position and sustained execution at scale.",
    "intents": [],
@@ -3400,7 +3400,7 @@
    "title": "Robust revenue growth..."
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s046",
+   "id": "tradedesk-q122-investor-presentation#s045",
    "schema": "rich",
    "core_message": "Our business is not just growing; it's fundamentally sound, delivering substantial and sustained profitability over many years, as shown by both adjusted and GAAP metrics.",
    "intents": [],
@@ -3476,7 +3476,7 @@
    "title": "...delivering substantial profitability"
   },
   {
-   "id": "tradedesk-q122-investor-presentation#s047",
+   "id": "tradedesk-q122-investor-presentation#s046",
    "schema": "rich",
    "core_message": "Our company is a uniquely compelling investment because we combine rapid growth, long-term profitability, a massive market, a sticky business model, and superior technology.",
    "intents": [],

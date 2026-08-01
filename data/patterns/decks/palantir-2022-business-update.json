@@ -86,7 +86,7 @@
    "title": "FY 2022 Business Update"
   },
   {
-   "id": "palantir-2022-business-update#s0Q4",
+   "id": "palantir-2022-business-update#s002",
    "schema": "rich",
    "core_message": "We have reached a major financial inflection point by achieving profitability for the first time, while simultaneously demonstrating strong, multi-faceted growth in revenue, key segments, and business momentum.",
    "intents": [],
@@ -324,7 +324,7 @@
    "title": "Thank you to our FoundryCon US 2023 speakers."
   },
   {
-   "id": "palantir-2022-business-update#s0Q4",
+   "id": "palantir-2022-business-update#s005",
    "schema": "rich",
    "core_message": "Our platform enables rapid, transformative solutions for mission-critical, large-scale data problems, as validated by a top external authority who witnessed the speed and impact firsthand.",
    "intents": [],
@@ -404,7 +404,7 @@
    "title": "Business Update"
   },
   {
-   "id": "palantir-2022-business-update#s0Q4",
+   "id": "palantir-2022-business-update#s006",
    "schema": "rich",
    "core_message": "Our product has a key technical differentiator (read/write capability) that is validated by a major customer, and our success comes from combining our technology and expertise with our customer's knowledge to drive transformation.",
    "intents": [],
@@ -481,7 +481,7 @@
    "title": "Business Update"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s007",
    "schema": "rich",
    "core_message": "Our platform is a critical, strategic investment for our customers, validated by their leaders who see us as the 'best' partner for their success.",
    "intents": [],
@@ -562,7 +562,7 @@
    "title": null
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s008",
    "schema": "rich",
    "core_message": "Our platform delivers transformative, real-world results for major enterprise clients, validated by their own leadership and substantiated by massive, quantifiable improvements in their operations.",
    "intents": [],
@@ -640,7 +640,7 @@
    "title": "Business Update"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s009",
    "schema": "rich",
    "core_message": "We are continuously innovating and expanding our platform's capabilities, as demonstrated by the recent launch of three significant and sophisticated new product suites.",
    "intents": [],
@@ -717,7 +717,7 @@
    "title": "Products launched at FoundryCon US 2023"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s010",
    "schema": "rich",
    "core_message": "Our platform now includes a powerful Process Mining & Automation Suite that enables customers to visualize, analyze, and optimize their complex business processes to uncover and fix inefficiencies.",
    "intents": [],
@@ -795,7 +795,7 @@
    "title": "PROCESS MINING & AUTOMATION SUITE"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s011",
    "schema": "rich",
    "core_message": "Our platform's power lies in its ability to translate vast, complex data into intelligent, automated operational decisions, as demonstrated by our new 'Scheduling Primitives' application.",
    "intents": [],
@@ -874,7 +874,7 @@
    "title": "Scheduling Primitives"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s012",
    "schema": "rich",
    "core_message": "We are evolving our product into a platform by giving customers the tools to build and share their own applications, creating a defensible ecosystem and network effects.",
    "intents": [],
@@ -1029,7 +1029,7 @@
    "title": "FY 2022 Financials"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s014",
    "schema": "rich",
    "core_message": "Our US business is a significant and rapidly growing revenue driver, achieving over a billion dollars in revenue with strong double-digit year-over-year growth.",
    "intents": [],
@@ -1106,7 +1106,7 @@
    "title": "US REVENUE GROWTH"
   },
   {
-   "id": "palantir-2022-business-update#s0Q4",
+   "id": "palantir-2022-business-update#s015",
    "schema": "rich",
    "core_message": "Our US business is growing strongly, driven by rapid acceleration in our commercial segment (67% YoY), which is now a significant growth engine alongside our large, established government business (22% YoY).",
    "intents": [],
@@ -1182,7 +1182,7 @@
    "title": "US BUSINESS PERFORMANCE"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s016",
    "schema": "rich",
    "core_message": "Our business is growing strongly across both key segments, with our commercial segment accelerating significantly faster than our more established government segment, highlighting a key driver of future growth.",
    "intents": [],
@@ -1333,7 +1333,7 @@
    "title": "TOTAL REVENUE GROWTH"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s018",
    "schema": "rich",
    "core_message": "We are consistently and rapidly growing our customer base, demonstrating strong market adoption and sustained momentum over the past year.",
    "intents": [],
@@ -1410,7 +1410,7 @@
    "title": "CUSTOMER COUNT"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s019",
    "schema": "rich",
    "core_message": "Our 'land and expand' strategy is highly effective, demonstrated by rapid growth in our overall commercial customer base combined with significant increases in spending from our largest customers.",
    "intents": [],
@@ -1486,7 +1486,7 @@
    "title": "COMMERCIAL CUSTOMER COUNT AND AVERAGE TTM REVENUE PER TOP 20 CUSTOMER"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s020",
    "schema": "rich",
    "core_message": "Our business is demonstrating strong, multi-faceted momentum, with significant year-over-year growth in both the volume of deals closed and the total value of our billings.",
    "intents": [],
@@ -1563,7 +1563,7 @@
    "title": "DEALS CLOSED & BILLINGS"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s021",
    "schema": "rich",
    "core_message": "We are consistently closing a high volume of large, high-value enterprise deals, demonstrating strong sales momentum and market traction with major customers.",
    "intents": [],
@@ -1639,7 +1639,7 @@
    "title": "DEALS CLOSED"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s022",
    "schema": "rich",
    "core_message": "Our business model is fundamentally strong and profitable, demonstrated by consistently high and stable gross margins above 80%.",
    "intents": [],
@@ -1791,7 +1791,7 @@
    "title": "Adjusted Free Cash Flow and Cash From Operations"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s024",
    "schema": "rich",
    "core_message": "We are making a deliberate strategic trade-off, accepting a lower operating margin in the short term to fund business expansion, while still maintaining substantial profitability.",
    "intents": [],
@@ -1868,7 +1868,7 @@
    "title": "Adjusted Operating Income and Margin"
   },
   {
-   "id": "palantir-2022-business-update#s004",
+   "id": "palantir-2022-business-update#s025",
    "schema": "rich",
    "core_message": "We are providing clear, confident financial guidance for the upcoming quarter and full year, projecting strong revenue growth and sustained profitability.",
    "intents": [],

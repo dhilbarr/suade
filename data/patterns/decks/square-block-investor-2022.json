@@ -86,7 +86,7 @@
    "title": "Square"
   },
   {
-   "id": "square-block-investor-2022#s003",
+   "id": "square-block-investor-2022#s002",
    "schema": "rich",
    "core_message": "Square provides a single, integrated ecosystem that manages every aspect of a business's operations, from payments and payroll to marketing and online ordering.",
    "intents": [],
@@ -164,7 +164,7 @@
    "title": null
   },
   {
-   "id": "square-block-investor-2022#s004",
+   "id": "square-block-investor-2022#s003",
    "schema": "rich",
    "core_message": "Running a business requires juggling numerous disconnected software tools and manual processes, creating a complex, inefficient, and fragmented operational nightmare.",
    "intents": [],
@@ -244,7 +244,7 @@
    "title": "The problem"
   },
   {
-   "id": "square-block-investor-2022#s005",
+   "id": "square-block-investor-2022#s004",
    "schema": "rich",
    "core_message": "The current market for business software is fragmented, forcing businesses to choose between commoditized payment processors, narrow niche software, or poorly integrated roll-ups of acquired companies.",
    "intents": [],
@@ -323,7 +323,7 @@
    "title": "Industry approach"
   },
   {
-   "id": "square-block-investor-2022#s006",
+   "id": "square-block-investor-2022#s005",
    "schema": "rich",
    "core_message": "Square is a comprehensive, integrated platform, not a point solution, offering a cohesive ecosystem of first-party and third-party tools to manage all aspects of a business.",
    "intents": [],
@@ -402,7 +402,7 @@
    "title": "The Square solution"
   },
   {
-   "id": "square-block-investor-2022#s007",
+   "id": "square-block-investor-2022#s006",
    "schema": "rich",
    "core_message": "Our platform is built on reusable microservices, which allows us to rapidly develop and launch new, integrated products, creating a significant competitive and strategic advantage.",
    "intents": [],
@@ -480,7 +480,7 @@
    "title": "Our differentiated platform approach"
   },
   {
-   "id": "square-block-investor-2022#s008",
+   "id": "square-block-investor-2022#s007",
    "schema": "rich",
    "core_message": "Our platform is built on a set of reusable core components (microservices), which allows us to efficiently build and launch a wide range of integrated products for different customer needs.",
    "intents": [],
@@ -558,7 +558,7 @@
    "title": "Our differentiated platform approach"
   },
   {
-   "id": "square-block-investor-2022#s009",
+   "id": "square-block-investor-2022#s008",
    "schema": "rich",
    "core_message": "Our platform is built on a set of reusable core components (microservices), which allows us to efficiently build and scale a wide range of integrated products for our customers.",
    "intents": [],
@@ -633,7 +633,7 @@
    "title": "Our differentiated platform approach"
   },
   {
-   "id": "square-block-investor-2022#s010",
+   "id": "square-block-investor-2022#s009",
    "schema": "rich",
    "core_message": "Our platform is built on a set of shared, reusable core components (microservices), which allows us to efficiently launch new products and deliver a seamless, integrated experience for our customers.",
    "intents": [],
@@ -788,7 +788,7 @@
    "title": "Seller Case Study: SoFi Stadium"
   },
   {
-   "id": "square-block-investor-2022#s012",
+   "id": "square-block-investor-2022#s011",
    "schema": "rich",
    "core_message": "Our platform is robust and versatile enough to power the entire complex commerce ecosystem of a major enterprise client like SoFi Stadium, demonstrating our ability to move upmarket.",
    "intents": [],
@@ -866,7 +866,7 @@
    "title": "SoFi Stadium"
   },
   {
-   "id": "square-block-investor-2022#s013",
+   "id": "square-block-investor-2022#s012",
    "schema": "rich",
    "core_message": "We have successfully evolved from a single-purpose product into a comprehensive, integrated, and global omnichannel software platform, creating a powerful ecosystem and competitive moat.",
    "intents": [],
@@ -944,7 +944,7 @@
    "title": "Multi-year transformation"
   },
   {
-   "id": "square-block-investor-2022#s014",
+   "id": "square-block-investor-2022#s013",
    "schema": "rich",
    "core_message": "We have successfully transformed our business, shifting our profit sources from simple payments to a diversified, high-value ecosystem of software, banking, and international services, which now drive the vast majority of our growth.",
    "intents": [],
@@ -1020,7 +1020,7 @@
    "title": "Multi-year transformation"
   },
   {
-   "id": "square-block-investor-2022#s015",
+   "id": "square-block-investor-2022#s014",
    "schema": "rich",
    "core_message": "Our platform strategy is successfully transforming our business, as an increasing share of our gross profit is driven by customers adopting multiple products, proving they are becoming more valuable and locked-in to our ecosystem.",
    "intents": [],
@@ -1098,7 +1098,7 @@
    "title": "Multi-year transformation"
   },
   {
-   "id": "square-block-investor-2022#s016",
+   "id": "square-block-investor-2022#s015",
    "schema": "rich",
    "core_message": "Our total addressable market is not static; it has expanded dramatically over time due to our strategic initiatives, doubling in the last five years to $120B and signaling a vast runway for future growth.",
    "intents": [],
@@ -1174,7 +1174,7 @@
    "title": "Expanding our addressable market over time"
   },
   {
-   "id": "square-block-investor-2022#s017",
+   "id": "square-block-investor-2022#s016",
    "schema": "rich",
    "core_message": "The market is fundamentally shifting towards software-enabled commerce, which is our core business, creating a massive and accelerating tailwind for our growth.",
    "intents": [],
@@ -1252,7 +1252,7 @@
    "title": "Software enablement is growing rapidly"
   },
   {
-   "id": "square-block-investor-2022#s018",
+   "id": "square-block-investor-2022#s017",
    "schema": "rich",
    "core_message": "The adoption of omnichannel services by retailers has significantly accelerated, driven by events like the pandemic, and this trend is continuing to grow, validating a major market shift towards integrated commerce.",
    "intents": [],
@@ -1329,7 +1329,7 @@
    "title": "Increasing demand for omnichannel commerce"
   },
   {
-   "id": "square-block-investor-2022#s019",
+   "id": "square-block-investor-2022#s018",
    "schema": "rich",
    "core_message": "Square has achieved market leadership by growing its gross profit faster and to a greater scale than its key competitors, when measured from each company's founding.",
    "intents": [],
@@ -1406,7 +1406,7 @@
    "title": "Leading SMB commerce businesses"
   },
   {
-   "id": "square-block-investor-2022#s020",
+   "id": "square-block-investor-2022#s019",
    "schema": "rich",
    "core_message": "Our future growth is driven by three clear strategic pillars: enhancing our omnichannel software, expanding globally, and moving upmarket to serve larger businesses.",
    "intents": [],
@@ -1484,7 +1484,7 @@
    "title": "Strategic priorities"
   },
   {
-   "id": "square-block-investor-2022#s021",
+   "id": "square-block-investor-2022#s020",
    "schema": "rich",
    "core_message": "Our platform provides a complete, integrated software solution for businesses to operate across all modern commerce channels, from in-person to online and social.",
    "intents": [],
@@ -1562,7 +1562,7 @@
    "title": "Omnichannel Software"
   },
   {
-   "id": "square-block-investor-2022#s022",
+   "id": "square-block-investor-2022#s021",
    "schema": "rich",
    "core_message": "Our platform is a comprehensive, integrated ecosystem that real businesses rely on to run their entire operation, not just a single-function tool.",
    "intents": [],
@@ -1641,7 +1641,7 @@
    "title": "Seller Case Study: Graze on Main"
   },
   {
-   "id": "square-block-investor-2022#s023",
+   "id": "square-block-investor-2022#s022",
    "schema": "rich",
    "core_message": "Our platform provides tangible business value beyond simple transactions, empowering merchants to track, understand, and accelerate their growth by connecting operations (like inventory) to outcomes (like revenue).",
    "intents": [],
@@ -1720,7 +1720,7 @@
    "title": null
   },
   {
-   "id": "square-block-investor-2022#s024",
+   "id": "square-block-investor-2022#s023",
    "schema": "rich",
    "core_message": "Our omnichannel strategy is a major success, proven by the fact that omnichannel sellers now drive the vast majority of our growth and are approaching half of our total gross profit.",
    "intents": [],
@@ -1797,7 +1797,7 @@
    "title": "Growing omnichannel"
   },
   {
-   "id": "square-block-investor-2022#s025",
+   "id": "square-block-investor-2022#s024",
    "schema": "rich",
    "core_message": "Our platform is successfully expanding worldwide, serving a diverse range of businesses across multiple key international markets.",
    "intents": [],
@@ -1874,7 +1874,7 @@
    "title": "Go global"
   },
   {
-   "id": "square-block-investor-2022#s026",
+   "id": "square-block-investor-2022#s025",
    "schema": "rich",
    "core_message": "We have a significant growth opportunity by deploying our full product suite into international markets, replicating the success of our most mature market (the U.S.).",
    "intents": [],
@@ -1951,7 +1951,7 @@
    "title": "Bringing our product ecosystem global"
   },
   {
-   "id": "square-block-investor-2022#s027",
+   "id": "square-block-investor-2022#s026",
    "schema": "rich",
    "core_message": "Our international business is a significant and rapidly accelerating growth engine, contributing an increasing share of our total gross profit over time.",
    "intents": [],
@@ -2028,7 +2028,7 @@
    "title": "Strong gross profit growth in global market"
   },
   {
-   "id": "square-block-investor-2022#s028",
+   "id": "square-block-investor-2022#s027",
    "schema": "rich",
    "core_message": "We have a proven, multi-year track record of successfully expanding our business into key international markets, demonstrating a repeatable playbook for global growth.",
    "intents": [],
@@ -2105,7 +2105,7 @@
    "title": "Global market expansion"
   },
   {
-   "id": "square-block-investor-2022#s029",
+   "id": "square-block-investor-2022#s028",
    "schema": "rich",
    "core_message": "Our platform can serve even the most remote and challenging markets that traditional systems cannot reach, demonstrating our unique capabilities and expansive market opportunity.",
    "intents": [],
@@ -2183,7 +2183,7 @@
    "title": "Falkland Islands"
   },
   {
-   "id": "square-block-investor-2022#s030",
+   "id": "square-block-investor-2022#s029",
    "schema": "rich",
    "core_message": "Our platform is powerful and adaptable enough to successfully digitize an entire region's commerce, demonstrating our capability for complex, large-scale deployments in new markets.",
    "intents": [],
@@ -2262,7 +2262,7 @@
    "title": "Falkland Islands"
   },
   {
-   "id": "square-block-investor-2022#s031",
+   "id": "square-block-investor-2022#s030",
    "schema": "rich",
    "core_message": "We have a proven, accelerating track record of successful international expansion, which demonstrates a key pillar of our future growth strategy.",
    "intents": [],
@@ -2338,7 +2338,7 @@
    "title": "Global market expansion"
   },
   {
-   "id": "square-block-investor-2022#s032",
+   "id": "square-block-investor-2022#s031",
    "schema": "rich",
    "core_message": "We have a proven, long-term track record of global expansion, and our pace of entering new markets is accelerating, signaling a large and growing international opportunity.",
    "intents": [],
@@ -2415,7 +2415,7 @@
    "title": "Global market expansion"
   },
   {
-   "id": "square-block-investor-2022#s033",
+   "id": "square-block-investor-2022#s032",
    "schema": "rich",
    "core_message": "Our platform is successfully expanding to serve larger, more complex businesses across key verticals like retail, restaurants, and services, demonstrating our ability to move upmarket.",
    "intents": [],
@@ -2491,7 +2491,7 @@
    "title": "Grow Upmarket"
   },
   {
-   "id": "square-block-investor-2022#s034",
+   "id": "square-block-investor-2022#s033",
    "schema": "rich",
    "core_message": "We are successfully moving upmarket, with our largest sellers now representing a significant and rapidly accelerating portion of our gross profit.",
    "intents": [],
@@ -2567,7 +2567,7 @@
    "title": "Upmarket progress"
   },
   {
-   "id": "square-block-investor-2022#s035",
+   "id": "square-block-investor-2022#s034",
    "schema": "rich",
    "core_message": "As our customers grow larger, they adopt more of our high-margin software products, proving our platform's ability to scale with and successfully monetize our most valuable sellers.",
    "intents": [],
@@ -2645,7 +2645,7 @@
    "title": "Larger sellers use more software and integrated payments"
   },
   {
-   "id": "square-block-investor-2022#s036",
+   "id": "square-block-investor-2022#s035",
    "schema": "rich",
    "core_message": "Our platform provides a sophisticated, integrated solution specifically designed to meet the complex needs of retail businesses, going far beyond simple payments.",
    "intents": [],
@@ -2722,7 +2722,7 @@
    "title": "Retail"
   },
   {
-   "id": "square-block-investor-2022#s037",
+   "id": "square-block-investor-2022#s036",
    "schema": "rich",
    "core_message": "Our platform provides a single, integrated solution for retailers to manage their entire online business, from designing a beautiful e-commerce site to managing real-time inventory.",
    "intents": [],
@@ -2800,7 +2800,7 @@
    "title": "Retail: Square Online and inventory"
   },
   {
-   "id": "square-block-investor-2022#s038",
+   "id": "square-block-investor-2022#s037",
    "schema": "rich",
    "core_message": "We are enhancing our retail platform by integrating key services like Afterpay, which helps our merchants increase sales by offering flexible 'Buy Now, Pay Later' options to their customers.",
    "intents": [],
@@ -2877,7 +2877,7 @@
    "title": "Retail - Afterpay integration"
   },
   {
-   "id": "square-block-investor-2022#s039",
+   "id": "square-block-investor-2022#s038",
    "schema": "rich",
    "core_message": "We are expanding our merchants' sales channels by integrating directly into major social platforms like TikTok, enabling seamless 'social commerce' from discovery to checkout.",
    "intents": [],
@@ -2955,7 +2955,7 @@
    "title": "Retail: TikTok integration"
   },
   {
-   "id": "square-block-investor-2022#s040",
+   "id": "square-block-investor-2022#s039",
    "schema": "rich",
    "core_message": "Our platform provides merchants with a comprehensive, 360-degree view of their customers, integrating purchase history, loyalty, and personal data to enable personalized marketing and drive repeat business.",
    "intents": [],
@@ -3031,7 +3031,7 @@
    "title": "Retail Customer directory"
   },
   {
-   "id": "square-block-investor-2022#s041",
+   "id": "square-block-investor-2022#s040",
    "schema": "rich",
    "core_message": "Our platform helps merchants drive repeat business and increase customer lifetime value through integrated, automated marketing tools that go beyond the point of sale.",
    "intents": [],
@@ -3111,7 +3111,7 @@
    "title": "Retail - Targeted campaigns"
   },
   {
-   "id": "square-block-investor-2022#s042",
+   "id": "square-block-investor-2022#s041",
    "schema": "rich",
    "core_message": "Our platform extends beyond payments to offer integrated, easy-to-use financial services like business loans, creating more value and stickiness for our merchants.",
    "intents": [],
@@ -3190,7 +3190,7 @@
    "title": "Retail: Banking solutions: Business loans"
   },
   {
-   "id": "square-block-investor-2022#s043",
+   "id": "square-block-investor-2022#s042",
    "schema": "rich",
    "core_message": "We are strategically targeting the restaurant vertical with a deep, purpose-built product that goes far beyond generic payment processing to manage complex restaurant operations.",
    "intents": [],
@@ -3267,7 +3267,7 @@
    "title": "Restaurants"
   },
   {
-   "id": "square-block-investor-2022#s044",
+   "id": "square-block-investor-2022#s043",
    "schema": "rich",
    "core_message": "Our platform simplifies restaurant operations by unifying orders from all channels, including direct websites and third-party delivery apps, into a single, manageable system.",
    "intents": [],
@@ -3346,7 +3346,7 @@
    "title": "Restaurants"
   },
   {
-   "id": "square-block-investor-2022#s045",
+   "id": "square-block-investor-2022#s044",
    "schema": "rich",
    "core_message": "We are creating a powerful competitive moat and growth driver by connecting our two major ecosystems—merchants (Square) and consumers (Cash App)—to create a seamless, integrated payment experience.",
    "intents": [],
@@ -3422,7 +3422,7 @@
    "title": "Restaurants"
   },
   {
-   "id": "square-block-investor-2022#s046",
+   "id": "square-block-investor-2022#s045",
    "schema": "rich",
    "core_message": "Our platform offers deep, integrated solutions like staffing management, specifically tailored for key verticals like restaurants, going far beyond basic services.",
    "intents": [],
@@ -3500,7 +3500,7 @@
    "title": "Restaurants - Staffing solutions"
   },
   {
-   "id": "square-block-investor-2022#s047",
+   "id": "square-block-investor-2022#s046",
    "schema": "rich",
    "core_message": "Our platform offers specialized, high-value solutions for key verticals, such as staffing management for restaurants, which deepens our ecosystem and increases customer stickiness.",
    "intents": [],
@@ -3579,7 +3579,7 @@
    "title": "Restaurants"
   },
   {
-   "id": "square-block-investor-2022#s048",
+   "id": "square-block-investor-2022#s047",
    "schema": "rich",
    "core_message": "Our platform provides sophisticated, integrated staffing and payroll solutions that simplify complex operations for specific verticals like restaurants, including innovative features like on-demand pay.",
    "intents": [],
@@ -3658,7 +3658,7 @@
    "title": "Restaurants - Staffing solutions"
   },
   {
-   "id": "square-block-investor-2022#s049",
+   "id": "square-block-investor-2022#s048",
    "schema": "rich",
    "core_message": "Our integrated ecosystem creates a powerful flywheel where our business products (Payroll) drive adoption of our consumer products (Cash App), creating a sticky experience for both businesses and their employees.",
    "intents": [],
@@ -3736,7 +3736,7 @@
    "title": "Restaurants - Payroll with Cash App"
   },
   {
-   "id": "square-block-investor-2022#s050",
+   "id": "square-block-investor-2022#s049",
    "schema": "rich",
    "core_message": "A single, representative customer uses a wide array of our products, demonstrating the deep integration and value of our comprehensive ecosystem.",
    "intents": [],
@@ -3815,7 +3815,7 @@
    "title": "Seller Case Study: The Kebab Shop"
   },
   {
-   "id": "square-block-investor-2022#s051",
+   "id": "square-block-investor-2022#s050",
    "schema": "rich",
    "core_message": "Our platform provides essential data that empowers customers to make strategic growth decisions, making us an indispensable business partner, not just a tool.",
    "intents": [],
@@ -3894,7 +3894,7 @@
    "title": null
   },
   {
-   "id": "square-block-investor-2022#s052",
+   "id": "square-block-investor-2022#s051",
    "schema": "rich",
    "core_message": "We are successfully expanding into strategic new market verticals, like Professional & Field Services, by offering a tailored product solution that directly addresses their specific workflows and financial needs.",
    "intents": [],
@@ -3972,7 +3972,7 @@
    "title": "Professional & Field Services"
   },
   {
-   "id": "square-block-investor-2022#s053",
+   "id": "square-block-investor-2022#s052",
    "schema": "rich",
    "core_message": "Our integrated software platform is successfully tailored to serve specific, high-value verticals like Professional & Field Services, solving their core operational needs like invoicing and payments.",
    "intents": [],
@@ -4051,7 +4051,7 @@
    "title": "Professional & Field Services"
   },
   {
-   "id": "square-block-investor-2022#s054",
+   "id": "square-block-investor-2022#s053",
    "schema": "rich",
    "core_message": "Our platform is expanding to serve new, more complex verticals like professional and field services by offering integrated, specialized software for workflows like contracts and milestone payments.",
    "intents": [],
@@ -4128,7 +4128,7 @@
    "title": "Professional & Field Services"
   },
   {
-   "id": "square-block-investor-2022#s055",
+   "id": "square-block-investor-2022#s054",
    "schema": "rich",
    "core_message": "Our banking products are deeply integrated into our customers' financial operations, with high-value sellers trusting us enough to store a significant portion of their revenue (>15% of GPV) within our ecosystem.",
    "intents": [],
@@ -4206,7 +4206,7 @@
    "title": "Professional & Field Services"
   },
   {
-   "id": "square-block-investor-2022#s056",
+   "id": "square-block-investor-2022#s055",
    "schema": "rich",
    "core_message": "We have a purpose-built solution for the Health & Beauty vertical, demonstrating our strategy of creating tailored products for key strategic markets.",
    "intents": [],
@@ -4284,7 +4284,7 @@
    "title": "Health & Beauty"
   },
   {
-   "id": "square-block-investor-2022#s057",
+   "id": "square-block-investor-2022#s056",
    "schema": "rich",
    "core_message": "Our platform provides a comprehensive, integrated solution tailored for specific service-based verticals like Health & Beauty, managing the entire customer lifecycle from booking and payment to communication and retention.",
    "intents": [],
@@ -4362,7 +4362,7 @@
    "title": "Health & Beauty"
   },
   {
-   "id": "square-block-investor-2022#s058",
+   "id": "square-block-investor-2022#s057",
    "schema": "rich",
    "core_message": "Our platform offers specialized, integrated communication tools that help businesses in key verticals like Health & Beauty manage the entire customer journey, from automated appointment reminders to post-service feedback.",
    "intents": [],
@@ -4440,7 +4440,7 @@
    "title": "Health & Beauty Messaging solutions"
   },
   {
-   "id": "square-block-investor-2022#s059",
+   "id": "square-block-investor-2022#s058",
    "schema": "rich",
    "core_message": "Our loyalty product drives significant value for merchants, demonstrated by loyalty program members spending 50% more on average than non-members.",
    "intents": [],
@@ -4516,7 +4516,7 @@
    "title": "Health & Beauty Loyalty solutions"
   },
   {
-   "id": "square-block-investor-2022#s060",
+   "id": "square-block-investor-2022#s059",
    "schema": "rich",
    "core_message": "Our integrated platform connects merchants and consumers through features like loyalty programs, which are seamlessly managed within our consumer app, driving customer engagement and repeat business.",
    "intents": [],
@@ -4595,7 +4595,7 @@
    "title": "Health & Beauty"
   },
   {
-   "id": "square-block-investor-2022#s061",
+   "id": "square-block-investor-2022#s060",
    "schema": "rich",
    "core_message": "A single customer uses a wide array of our products to run their entire business, demonstrating the power and stickiness of our integrated ecosystem.",
    "intents": [],
@@ -4674,7 +4674,7 @@
    "title": "Seller Case Study: My Salon Suite"
   },
   {
-   "id": "square-block-investor-2022#s062",
+   "id": "square-block-investor-2022#s061",
    "schema": "rich",
    "core_message": "Our platform empowers passionate service professionals to focus on their craft and deliver exceptional client experiences, reinforcing our role as a critical partner in their success.",
    "intents": [],
@@ -4754,7 +4754,7 @@
    "title": null
   },
   {
-   "id": "square-block-investor-2022#s063",
+   "id": "square-block-investor-2022#s062",
    "schema": "rich",
    "core_message": "Our growth is not accidental; it's powered by a deliberate engine, and the foundational component of that engine is our suite of remarkable, integrated products.",
    "intents": [],
@@ -4833,7 +4833,7 @@
    "title": "The Square growth engine"
   },
   {
-   "id": "square-block-investor-2022#s064",
+   "id": "square-block-investor-2022#s063",
    "schema": "rich",
    "core_message": "Our sustainable growth is driven by a powerful, two-part engine: creating remarkable products that users love, which enables a highly efficient, high-ROI customer acquisition strategy.",
    "intents": [],
@@ -4910,7 +4910,7 @@
    "title": "The Square growth engine"
   },
   {
-   "id": "square-block-investor-2022#s065",
+   "id": "square-block-investor-2022#s064",
    "schema": "rich",
    "core_message": "Our growth is a self-reinforcing engine where remarkable products enable high-ROI customer acquisition, which in turn creates opportunities for efficient cross-selling, driving a virtuous cycle.",
    "intents": [],
@@ -4985,7 +4985,7 @@
    "title": "The Square growth engine"
   },
   {
-   "id": "square-block-investor-2022#s066",
+   "id": "square-block-investor-2022#s065",
    "schema": "rich",
    "core_message": "Our growth is driven by a self-reinforcing flywheel where superior products enable efficient customer acquisition, which then fuels profitable cross-selling and further strengthens our product ecosystem.",
    "intents": [],
@@ -5063,7 +5063,7 @@
    "title": "The Square growth engine"
   },
   {
-   "id": "square-block-investor-2022#s067",
+   "id": "square-block-investor-2022#s066",
    "schema": "rich",
    "core_message": "Our entire product ecosystem, spanning both hardware and software, is not just comprehensive but also exceptionally high-quality and well-loved by a large user base, as proven by consistently high third-party ratings.",
    "intents": [],
@@ -5142,7 +5142,7 @@
    "title": "We build remarkable software & hardware"
   },
   {
-   "id": "square-block-investor-2022#s068",
+   "id": "square-block-investor-2022#s067",
    "schema": "rich",
    "core_message": "We are strategically increasing and reallocating our go-to-market investments to fuel new growth engines, particularly in international expansion and upmarket sales.",
    "intents": [],
@@ -5218,7 +5218,7 @@
    "title": "Evolving our go-to-market investment"
   },
   {
-   "id": "square-block-investor-2022#s069",
+   "id": "square-block-investor-2022#s068",
    "schema": "rich",
    "core_message": "Our brand and product awareness are growing significantly year-over-year, both across key international markets and our diverse product ecosystem, proving our expansion strategy is effective.",
    "intents": [],
@@ -5294,7 +5294,7 @@
    "title": "Growing awareness of Square"
   },
   {
-   "id": "square-block-investor-2022#s078",
+   "id": "square-block-investor-2022#s069",
    "schema": "rich",
    "core_message": "We have a significant, untapped opportunity to accelerate growth by increasing our investment in a sales-led motion, which is currently a small but proven and growing part of our acquisition strategy.",
    "intents": [],
@@ -5370,7 +5370,7 @@
    "title": "Opportunity to grow investment in sales"
   },
   {
-   "id": "square-block-investor-2022#s071",
+   "id": "square-block-investor-2022#s070",
    "schema": "rich",
    "core_message": "Our customer acquisition strategy is a highly efficient and profitable engine, with every historical cohort consistently generating strong, compounding returns long after the initial investment.",
    "intents": [],
@@ -5448,7 +5448,7 @@
    "title": "A track record of strong returns"
   },
   {
-   "id": "square-block-investor-2022#s072",
+   "id": "square-block-investor-2022#s071",
    "schema": "rich",
    "core_message": "Our platform strategy is working: customers who are larger and adopt more of our products are significantly less likely to churn, proving the stickiness and value of our integrated ecosystem.",
    "intents": [],
@@ -5525,7 +5525,7 @@
    "title": "Retention improves with larger sellers and greater product adoption"
   },
   {
-   "id": "square-block-investor-2022#s073",
+   "id": "square-block-investor-2022#s072",
    "schema": "rich",
    "core_message": "Our platform successfully cross-sells additional products to customers over their lifetime, proving our ecosystem's stickiness and ability to expand revenue from the existing customer base.",
    "intents": [],
@@ -5602,7 +5602,7 @@
    "title": "Growing adoption through cross-sell"
   },
   {
-   "id": "square-block-investor-2022#s074",
+   "id": "square-block-investor-2022#s073",
    "schema": "rich",
    "core_message": "Our superior product ecosystem creates a virtuous cycle of high-ROI customer acquisition and efficient cross-selling, which drives our sustainable growth engine.",
    "intents": [],
@@ -5682,7 +5682,7 @@
    "title": null
   },
   {
-   "id": "square-block-investor-2022#s075",
+   "id": "square-block-investor-2022#s074",
    "schema": "rich",
    "core_message": "This slide serves as a clear visual marker, either introducing or concluding the section of the presentation dedicated to the Square business unit.",
    "intents": [],

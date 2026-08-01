@@ -707,7 +707,7 @@
    "title": "Why do something nobody else was doing?"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s010",
    "schema": "rich",
    "core_message": "Our market leadership stems from a bold, contrarian strategy; we intentionally pursued a unique path that competitors ignored, and this has become our core competitive advantage.",
    "intents": [],
@@ -942,7 +942,7 @@
    "title": null
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s013",
    "schema": "rich",
    "core_message": "Our product's competitive advantage is built on three core principles: it's easy to use, delivers value fast, and provides a unified data foundation, which together create a superior and more insightful customer experience.",
    "intents": [],
@@ -2883,7 +2883,7 @@
    "title": "Ecosystem"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s038",
    "schema": "rich",
    "core_message": "Our growth is amplified and our market position is defended by building a strong ecosystem of partners that extend our reach and capabilities.",
    "intents": [],
@@ -2959,7 +2959,7 @@
    "title": "Our ecosystem strategy"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s039",
    "schema": "rich",
    "core_message": "Our platform has a massive and rapidly growing app ecosystem, which creates a powerful network effect and a significant competitive moat.",
    "intents": [],
@@ -3034,7 +3034,7 @@
    "title": "HubSpot App Ecosystem"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s040",
    "schema": "rich",
    "core_message": "Our product is a true platform, not just a tool, evidenced by the deep integration our most valuable customers have with our ecosystem.",
    "intents": [],
@@ -3491,7 +3491,7 @@
    "title": "Scaling Distribution"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s046",
    "schema": "rich",
    "core_message": "Our digital-first strategy creates a self-reinforcing growth loop, or flywheel, that efficiently acquires new users and systematically converts them into paying customers, driving scalable growth.",
    "intents": [],
@@ -3570,7 +3570,7 @@
    "title": "Digital-driven motion is scaling"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s047",
    "schema": "rich",
    "core_message": "Our partner ecosystem is a powerful and accelerating growth engine, successfully driving customer acquisition, scaling sales, and increasing deal value.",
    "intents": [],
@@ -3648,7 +3648,7 @@
    "title": "Partner-driven motion is gaining momentum"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s048",
    "schema": "rich",
    "core_message": "Our strategic investments in sales training and execution are successfully scaling our go-to-market motion, resulting in deeper customer adoption and larger average deal sizes.",
    "intents": [],
@@ -3802,7 +3802,7 @@
    "title": "Driving efficiency at scale"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s050",
    "schema": "rich",
    "core_message": "We use our own product to run our entire business ('dogfooding'), which gives us a unique advantage in developing and battle-testing our new AI features before they reach customers.",
    "intents": [],
@@ -4188,7 +4188,7 @@
    "title": "We are a company of Grow Getters"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s055",
    "schema": "rich",
    "core_message": "The company's long-term, durable growth is secured by four key pillars: a strong market position, platform innovation, scalable distribution with moats, and a balanced, resilient team culture.",
    "intents": [],
@@ -4731,7 +4731,7 @@
    "title": "Strong margin expansion"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s062",
    "schema": "rich",
    "core_message": "Our business model is highly efficient and scalable, demonstrated by our rapidly growing free cash flow and expanding margins, which has resulted in a very strong balance sheet.",
    "intents": [],
@@ -5121,7 +5121,7 @@
    "title": "HubSpot is a platform company"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s067",
    "schema": "rich",
    "core_message": "Our core strategy is centered on driving adoption of our entire platform, as this integration is the most significant lever for our business growth and success.",
    "intents": [],
@@ -5505,7 +5505,7 @@
    "title": "Acquisition: Value at the high end"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s072",
    "schema": "rich",
    "core_message": "Our platform strategy is successfully driving higher customer retention, as evidenced by the fact that customers who adopt more of our platform have significantly better dollar retention.",
    "intents": [],
@@ -6199,7 +6199,7 @@
    "title": "Innovation: Commerce continues to gain momentum"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s081",
    "schema": "rich",
    "core_message": "We are launching a new AI-powered product, 'Breeze Intelligence', which addresses clear customer use cases, targets a significant market opportunity, and has a well-defined go-to-market and pricing strategy.",
    "intents": [],
@@ -6277,7 +6277,7 @@
    "title": "Innovation: Introducing Breeze Intelligence"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s082",
    "schema": "rich",
    "core_message": "Our growth is driven by a virtuous cycle: we acquire customers onto our platform, deep product usage drives high retention, and our integrated suite provides multiple paths for expansion, all fueled by continuous innovation.",
    "intents": [],
@@ -6509,7 +6509,7 @@
    "title": "Philosophy on balancing growth and profitability"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s085",
    "schema": "rich",
    "core_message": "We are not only improving our operating margins, but we are accelerating this improvement through specific strategic initiatives, demonstrating increasing operating leverage and a clear path to higher profitability.",
    "intents": [],
@@ -6587,7 +6587,7 @@
    "title": "Delivering operating leverage"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s086",
    "schema": "rich",
    "core_message": "We are achieving our long-term profitability targets much faster than anticipated, demonstrating strong operational execution and financial discipline.",
    "intents": [],
@@ -6892,7 +6892,7 @@
    "title": "Investing in durable and efficient growth"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s090",
    "schema": "rich",
    "core_message": "We have a comprehensive, multi-channel strategy to drive sales and marketing efficiency through a combination of digital, rep-led, and partner-driven initiatives.",
    "intents": [],
@@ -7120,7 +7120,7 @@
    "title": "Key takeaways"
   },
   {
-   "id": "hubspot-2024-analystday#s024",
+   "id": "hubspot-2024-analystday#s093",
    "schema": "rich",
    "core_message": "This slide concludes the presentation, thanks the audience for their attention, and signals a transition to the Q&A session.",
    "intents": [],
