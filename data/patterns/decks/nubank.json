@@ -1,0 +1,925 @@
+{
+ "deck": "nubank",
+ "company": null,
+ "narrative_summary": null,
+ "stage": null,
+ "industry": null,
+ "record_count": 33,
+ "records": [
+  {
+   "id": "nubank#s001",
+   "schema": "light",
+   "core_message": "To set a professional yet modern and human-centric tone for the presentation, clearly stating its purpose while reinforcing the core brand identity from the outset.",
+   "intents": [
+    "Confident",
+    "Approachable",
+    "Modern"
+   ],
+   "shows": {
+    "specific_content": "The slide is split vertically into a two-column layout. The left two-fifths is a solid, bright purple background that features the company logo in the top-left corner. Below the logo, large, white, sans-serif text serves as the main title ('Q1 2022 Earnings Presentation'), with a smaller date positioned underneath. The right three-fifths of the slide is a high-quality, candid photograph of two women smiling while looking at a smartphone, creating an approachable and positive feel. The color palette is dominated by the brand's signature purple, using white text for high contrast and readability. The visual hierarchy clearly prioritizes the main title text first, then draws the eye to the engaging photograph."
+   },
+   "abstract_pattern": "This format is used for a powerful opening or section divider, balancing corporate identity with a human element to set the tone.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Company Logo (Vector image format)",
+    "Presentation Title (String of text)",
+    "Date of Presentation (String of text)",
+    "Hero Lifestyle Image (High-resolution photograph)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Introduction",
+   "position": null,
+   "title": "Hero Title Card"
+  },
+  {
+   "id": "nubank#s002",
+   "schema": "light",
+   "core_message": "To establish overwhelming proof of traction and momentum at the very beginning of the presentation, framing the company as a high-growth leader and setting a positive tone.",
+   "intents": [
+    "Impressive",
+    "Exciting",
+    "Dynamic"
+   ],
+   "shows": {
+    "specific_content": "The layout is divided into two main sections. The left two-thirds is dedicated to a large line graph plotting customer growth over a multi-year period. The curve, marked with specific data points and key product launch milestones, sweeps dramatically upwards from left to right, creating a strong visual narrative of acceleration. The right third of the slide is a clean, purple-colored block with a clear heading ('Q1'22 Results'). This section features a list of large, bolded metric values, such as '59.6MM Customers' and 'US$ 877.2MM Revenues,' each paired with smaller descriptive text and a year-over-year growth figure. The upward trajectory of the graph is the primary focal point, immediately followed by the impressive headline numbers in the KPI block."
+   },
+   "abstract_pattern": "This format is ideal for showcasing exponential growth of a core metric (like users or revenue) while providing a dashboard of related impressive KPIs to add depth and credibility.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String for the main title)",
+    "Time-series Data for Growth Chart (Array of numbers and corresponding dates for a primary metric like Customers)",
+    "Product Milestone Labels & Dates (Array of strings)",
+    "List of Key Metrics with Labels and Values (e.g., Customers, Revenue, Deposits)",
+    "Year-over-Year Growth Percentages for each metric (Numbers)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Growth Curve with KPI Highlights"
+  },
+  {
+   "id": "nubank#s003",
+   "schema": "light",
+   "core_message": "To explain the company's comprehensive business model and product strategy, showcasing how individual offerings create a synergistic and defensible ecosystem that drives growth.",
+   "intents": [
+    "Strategic",
+    "Integrated",
+    "Comprehensive"
+   ],
+   "shows": {
+    "specific_content": "The slide is visually anchored by a large, circular diagram rendered in the brand's signature purple. At the very center, the 'Nu Ecosystem' is the core, with individual product offerings like 'Credit Cards,' 'Personal Loans,' and 'NuInvest' radiating outwards. This core is flanked by two larger, overlapping circles representing the 'Digital Banking Platform for Consumers' and the platform for 'SMEs.' The entire diagram is surrounded by contextual information, including labels for the company's core markets and a sidebar highlighting 'Notable New Products.' The layout is clean and symmetrical, using clear labels and a strong central graphic to make the company's complex, multi-product ecosystem easy to understand at a glance."
+   },
+   "abstract_pattern": "This visual metaphor is perfect for explaining a synergistic business model, showing how different parts of a company work together to create a powerful, self-reinforcing loop.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Central Ecosystem Label (String)",
+    "List of Core Products (Array of strings)",
+    "Key Customer Segments & Counts (Array of strings and numbers)",
+    "Key Market Labels or Logos (Array of strings or images)",
+    "Notable New Product Labels or Logos (Array of strings or images)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Ecosystem Flywheel Diagram"
+  },
+  {
+   "id": "nubank#s004",
+   "schema": "light",
+   "core_message": "To define the massive, underserved market opportunity and visually argue why Latin America is 'ripe for disruption,' thereby justifying the company's strategic focus and immense growth potential.",
+   "intents": [
+    "Ambitious",
+    "Expansive",
+    "Opportunistic"
+   ],
+   "shows": {
+    "specific_content": "This slide features a stylized, purple-shaded map of Latin America that visually highlights the company's key operational markets. Large, bold data callouts with essential market statistics—such as GDP, population size, and the percentage of unbanked individuals—are placed directly next to the corresponding regions of Brazil, Mexico, and Colombia. A prominent summary statistic ('~60% of Latin America GDP & People') is placed on the left to reinforce the overall scale of the opportunity. The typography is clean and highly legible, making the critical data points easy to consume at a glance. The map itself functions as an infographic, anchoring the abstract market data to a tangible place and making the opportunity feel real and immense."
+   },
+   "abstract_pattern": "This format is used to define and quantify a geographic market opportunity, tying abstract statistics to a physical location to make the potential feel more tangible and vast.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Stylized Map of Target Region (Vector image)",
+    "Market Data for each Country (GDP, population, unbanked %, etc.)",
+    "Summary Statistic about total market size (String or Number)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Problem",
+   "position": null,
+   "title": "Thematic Market Map"
+  },
+  {
+   "id": "nubank#s005",
+   "schema": "light",
+   "core_message": "To demonstrate the immense room for growth by showing that even in the company's most mature market, overall penetration is still low, while in newer markets, the journey is just beginning.",
+   "intents": [
+    "Promising",
+    "Analytical",
+    "Early-stage"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized as a clean, easy-to-read table with countries (Brazil, Mexico, Colombia) as columns and key business metrics (Total Customers, Credit Card portfolio, Deposits, etc.) as rows. Each cell contains a percentage value representing market share or penetration in that specific segment. In the Brazil column, the most mature market, simple purple bar graphs are used to visually represent the magnitude of the percentages. This creates a strong visual contrast with the much smaller bars for Mexico and Colombia, effectively illustrating the nascent stage of these newer markets. The overall design is minimalist, utilizing ample white space and clear typography to focus the audience's attention entirely on the data and the compelling story it tells about future growth potential."
+   },
+   "abstract_pattern": "This format is ideal for showing relative market share or penetration across different segments, products, or geographies to highlight a large, untapped addressable market and significant room for growth.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "List of Countries for comparison (Array of strings)",
+    "List of Product/Metric Categories (Array of strings)",
+    "Market Penetration Data for each country/metric (Table of percentages, like Share of Adult Population or Share of Deposits)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Opportunity",
+   "position": null,
+   "title": "Market Penetration Scorecard"
+  },
+  {
+   "id": "nubank#s006",
+   "schema": "light",
+   "core_message": "To cleanly demarcate a new section of the presentation, manage the narrative flow, and give the audience a moment to mentally reset before diving into a new set of information.",
+   "intents": [
+    "Focused",
+    "Clear",
+    "Collaborative"
+   ],
+   "shows": {
+    "specific_content": "Structurally identical to the title slide, this slide acts as a visual break and section header. The left panel is solid purple with large, white, sans-serif text stating the new section's topic ('Q1 2022 Results'). The right panel features a high-quality photograph, in this case, a close-up of multiple hands holding a single Nu card, visually symbolizing community, trust, and sharing. The strong, consistent branding and simple, clear messaging make it an effective transitional tool that guides the audience through the narrative."
+   },
+   "abstract_pattern": "This format serves as a narrative signpost or chapter break, helping to structure a long presentation and guide the audience's attention to an upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)",
+    "Relevant Lifestyle Image (High-resolution photograph)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Section Divider Card"
+  },
+  {
+   "id": "nubank#s007",
+   "schema": "light",
+   "core_message": "To simplify and demystify the company's core earnings formula, making the key drivers of profitability clear, logical, and memorable for the audience.",
+   "intents": [
+    "Logical",
+    "Clear",
+    "Elegant"
+   ],
+   "shows": {
+    "specific_content": "This slide uses a four-part horizontal layout to build a visual formula from left to right. Each of the four parts has a descriptive label at the top ('Rapidly Growing Customer Base,' 'Increasing Revenue Per Customer,' etc.) and a corresponding icon and sub-label ('ACTIVE CUSTOMERS,' 'ARPAC,' etc.) within a purple block below. These blocks are connected by large mathematical symbols (a multiplication sign, a subtraction sign, and an equals sign) to clearly illustrate the 'Earnings Generating Formula.' The design is clean, minimalist, and highly conceptual, using bold iconography and a linear flow to communicate the key drivers of the business model with elegant simplicity."
+   },
+   "abstract_pattern": "This format is perfect for breaking down a complex business model or value proposition into a simple, memorable formula, showing how different components interact to produce a final result (e.g., Profit = (Users x LTV) - CAC).",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Components of the Formula (Array of strings, e.g., 'Active Customers')",
+    "Icons for each Component (Vector images)",
+    "Mathematical Operators (Images or Strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Visual Equation Formula"
+  },
+  {
+   "id": "nubank#s008",
+   "schema": "light",
+   "core_message": "To prove that the company's customer growth is not just about quantity but also about quality, by showing that as more customers join, a higher percentage of them are becoming actively engaged.",
+   "intents": [
+    "Robust",
+    "Healthy",
+    "Accelerating"
+   ],
+   "shows": {
+    "specific_content": "The slide is dominated by a large bar chart that clearly shows the quarter-over-quarter growth of Total Customers in millions, with each bar rendered in the brand's signature purple. An orange line graph, representing the 'Activity Rate (%)', is elegantly superimposed over the bars, plotting on a secondary axis and showing a distinct upward trend. Both the bars and the line graph include precise data labels for clarity. A prominent 'YoY' callout with an arrow spanning the first and last quarters emphasizes the impressive annual growth in both total and active customers. The design is clean and data-focused, with a clear title and legend that make the two intertwined growth stories easy to follow."
+   },
+   "abstract_pattern": "This format excels at showing that quantitative growth is accompanied by qualitative improvement. For example, it could show rising user numbers (bars) along with increasing user engagement or satisfaction (line).",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Bar Chart Data (Time-series for a primary metric like Total Customers)",
+    "Line Graph Data (Time-series for a secondary metric like Activity Rate)",
+    "YoY Growth Callout Text (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Layered Growth Chart"
+  },
+  {
+   "id": "nubank#s009",
+   "schema": "light",
+   "core_message": "To provide deep, data-backed evidence of strong and improving unit economics, proving that customers become more valuable and engaged the longer they stay with the company.",
+   "intents": [
+    "Compelling",
+    "Data-driven",
+    "Reassuring"
+   ],
+   "shows": {
+    "specific_content": "The slide is laid out as a three-column grid, with each column containing a distinct line graph that analyzes a different metric by customer acquisition cohort. The three charts—'Active Customers Using NuAccount as their Primary Banking Account (%)', 'Number of Products Per Active Customer', and 'Monthly ARPAC by Quarterly Cohort'—all display a similar, compelling pattern: lines representing different cohorts start low and curve upwards over time. A gradient of purple hues is used to distinguish the cohorts, from recent to mature, creating a visually dense but highly informative data story. Each chart has a clear title and labeled axes, and key averages are highlighted to summarize the positive trends."
+   },
+   "abstract_pattern": "This triptych format is used to tell a multi-dimensional story about customer value over time, proving that as customers mature, they become more engaged, adopt more products, and generate more revenue.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Cohort Data for Engagement Metric (Multi-series time-based data for Primary Banking Account %)",
+    "Cohort Data for Adoption Metric (Multi-series time-based data for Products per Customer)",
+    "Cohort Data for Monetization Metric (Multi-series time-based data for Monthly ARPAC)",
+    "Titles for each of the three charts (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Cohort Behavior Triptych"
+  },
+  {
+   "id": "nubank#s010",
+   "schema": "light",
+   "core_message": "To explicitly connect the dots for the audience between improving unit economics (ARPAC) and stellar top-line financial performance (Revenue growth), proving the model's effectiveness.",
+   "intents": [
+    "Powerful",
+    "Conclusive",
+    "Successful"
+   ],
+   "shows": {
+    "specific_content": "This slide utilizes a clean, symmetrical, two-panel layout. On the left is a bar chart showing the steady quarter-over-quarter growth of ARPAC (Average Revenue Per Active Customer) in US dollars. On the right is a corresponding bar chart illustrating the dramatic growth of total Revenues in US$MM over the same five quarters. Both charts feature a prominent 'YoY' growth percentage callout connected by a long arrow, visually reinforcing the powerful year-over-year performance. The design is minimalist, using the brand's purple for the bars and clean, sans-serif fonts for all labels, which ensures the audience's focus remains squarely on the powerful and easy-to-understand growth story."
+   },
+   "abstract_pattern": "This format powerfully visualizes a cause-and-effect relationship between a key driver metric and a primary outcome metric, such as showing how improved user engagement (driver) leads to higher revenue (outcome).",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series data for Driver Metric (e.g., Average Revenue Per Active Customer - ARPAC)",
+    "Time-series data for Outcome Metric (e.g., Total Revenues)",
+    "YoY Growth Percentages for both metrics (Numbers)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Paired Growth Bar Charts"
+  },
+  {
+   "id": "nubank#s011",
+   "schema": "light",
+   "core_message": "To demonstrate strong and accelerating growth in customer spending, while also proving that this growth is driven by healthy, increasing engagement from customers over their lifecycle.",
+   "intents": [
+    "Dynamic",
+    "Robust",
+    "Growing"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into a two-column layout. The left panel features a large, purple stacked bar chart illustrating the strong quarter-over-quarter growth in 'Purchase Volume,' broken down by 'Credit Card' and 'Prepaid.' A prominent year-over-year growth callout highlights the overall success. The right panel contains a cohort analysis line graph of 'Purchase Volume per Customer,' showing how spending for each customer group increases over time. The use of a gradient of purple lines for cohorts creates a sense of depth and consistent positive behavior. The layout is balanced, using clear titles and minimal text to let the data visualizations tell the story."
+   },
+   "abstract_pattern": "This format links a macro growth metric with a micro behavioral trend. It's useful for showing that overall growth (e.g., total sales) is supported by healthy underlying user behavior (e.g., individual users spending more over time).",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Stacked Bar Chart (Two data series for Credit Card and Prepaid volume)",
+    "YoY Growth Percentage Callout (String)",
+    "Cohort Analysis Data for Line Graph (Multi-series time-based data for purchase volume per customer)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Dual Performance Chart"
+  },
+  {
+   "id": "nubank#s012",
+   "schema": "light",
+   "core_message": "To showcase the robust, accelerating growth of the credit portfolio while also highlighting the successful expansion into new, high-growth lending products like personal loans.",
+   "intents": [
+    "Successful",
+    "Strategic",
+    "Expanding"
+   ],
+   "shows": {
+    "specific_content": "The slide employs a clean two-panel layout. On the left, a stacked bar chart displays the 'Total Portfolio' value in US$Bn, showing significant quarter-over-quarter growth. The stacks are color-coded to represent 'Credit Card' and 'Personal Loans.' A large 'YoY' callout emphasizes the 126% growth rate. On the right, a corresponding 100% stacked bar chart shows the same data but in terms of percentage composition. This visual choice makes it easy to see the increasing share of 'Personal Loans' in the portfolio mix. The consistent color scheme and parallel timelines create a direct and easy-to-understand comparison between absolute scale and strategic composition."
+   },
+   "abstract_pattern": "This format is used to communicate both the scale of growth and the strategic shifts within that growth. It can show how a total value is increasing while also showing how the composition of that total is changing over time.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Portfolio Components (e.g., Credit Card and Personal Loan balances)",
+    "YoY Growth Percentage Callouts (Strings for total and individual components)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Paired Portfolio Composition Charts"
+  },
+  {
+   "id": "nubank#s013",
+   "schema": "light",
+   "core_message": "To provide clear and compelling evidence of the company's growing deposit franchise, signaling increasing customer trust and a strengthening funding base.",
+   "intents": [
+    "Strong",
+    "Trustworthy",
+    "Growing"
+   ],
+   "shows": {
+    "specific_content": "The entire slide is dedicated to a single, bold bar chart illustrating the growth of 'Deposits' in US$ billions over five consecutive quarters. The purple bars progressively increase in height from left to right, creating a clear and impactful visual of momentum. A large arrow and a 'YoY: 94% FXN' text box span from the first to the last bar, explicitly highlighting the substantial annual growth. The design is exceptionally clean, with a clear title, labeled axes, and ample white space, making the data the undisputed hero of the slide. This simplicity makes the message of strong growth impossible to miss."
+   },
+   "abstract_pattern": "This format is designed for maximum impact on a single key performance indicator. It is best used to showcase clear, unambiguous, and strong growth in a foundational business metric like revenue, users, or in this case, deposits.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for the chosen metric (e.g., quarterly deposit balances)",
+    "YoY Growth Percentage (Number)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Single Metric Growth Chart"
+  },
+  {
+   "id": "nubank#s014",
+   "schema": "light",
+   "core_message": "To prove that the company's growth is not just rapid but also efficient, showcasing meaningful scale benefits and a structurally low-cost operating platform.",
+   "intents": [
+    "Efficient",
+    "Scalable",
+    "Disciplined"
+   ],
+   "shows": {
+    "specific_content": "The slide features a central bar chart that plots the 'Cost to Serve per Active Customer' in US dollars over five quarters. The bars are kept low and relatively stable, with the final bar showing a noticeable dip, visually reinforcing efficiency. Above each bar, the total 'Cost to Serve' in US$ millions is shown in a small box, providing context for the scale of operations. A year-over-year callout with an arrow highlights the 30% reduction in this key cost metric. The layout is clean and focused, using the brand's purple and clear typography to present a compelling story about operational leverage and cost discipline."
+   },
+   "abstract_pattern": "This format is used to demonstrate operating leverage and efficiency at scale. It effectively shows that as the business grows, the cost to service each individual user or unit is decreasing or remaining stable, leading to higher profitability.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for the per-unit cost metric (e.g., Cost to Serve per Customer)",
+    "Time-series Data for the total cost metric (e.g., Total Cost to Serve)",
+    "YoY Change Percentage (Number)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Efficiency Metric Chart"
+  },
+  {
+   "id": "nubank#s015",
+   "schema": "light",
+   "core_message": "To demonstrate continuous and substantial gross profit expansion, reassuring investors that the business model is fundamentally profitable and scales effectively, even with prudent provisioning.",
+   "intents": [
+    "Profitable",
+    "Encouraging",
+    "Resilient"
+   ],
+   "shows": {
+    "specific_content": "This slide features a large bar chart as its central element, illustrating the 'Gross Profit' in US$ millions over five quarters. The purple bars show a clear and continuous upward trend, visually communicating expansion. Positioned directly above each bar is a box containing the 'Gross Margin' percentage for that quarter, allowing the audience to instantly correlate absolute profit growth with operational efficiency. A 'YoY' growth callout of 131% is prominently displayed with an arrow, underscoring the rapid expansion. The title's mention of 'Front-Loading Loan Loss Provisions' proactively frames the result as strong despite conservative accounting."
+   },
+   "abstract_pattern": "This format effectively communicates both growth in absolute profitability and the underlying efficiency. It's useful for showing that a company isn't just making more money, but is also maintaining or improving its profit margins as it scales.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Gross Profit (Numbers)",
+    "Time-series Data for Gross Margin (Percentages)",
+    "YoY Growth Percentage (Number)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Profitability Trend Chart"
+  },
+  {
+   "id": "nubank#s016",
+   "schema": "light",
+   "core_message": "To show a clear and positive trend towards sustained profitability on an adjusted basis, demonstrating financial maturation and the earnings power of the business model.",
+   "intents": [
+    "Improving",
+    "Promising",
+    "Transparent"
+   ],
+   "shows": {
+    "specific_content": "The slide presents a bar chart of 'Adj. Net Income (US$MM)' over five quarters. The chart is centered on a horizontal zero line, with bars extending downwards for losses (Q1'21, Q3'21) and upwards for profits (Q2'21, Q4'21, Q1'22). This visual treatment makes the 'sequential improvement' unmistakable. Above each bar for adjusted net income, the corresponding 'Net Income (Loss)' is shown in a box, providing transparent reconciliation. The final bar for Q1'22 is substantially positive, ending the visual story on a strong, upward note. The design is clean and focuses solely on this single, crucial financial metric."
+   },
+   "abstract_pattern": "This format is ideal for telling a 'turnaround' or 'path to profitability' story. It visually represents progress over time, showing a key metric crossing from negative to positive territory, building a narrative of improvement and future success.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Adjusted Net Income (Positive and negative numbers)",
+    "Time-series Data for Net Income (Loss) (For callout boxes)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Profitability Journey Chart"
+  },
+  {
+   "id": "nubank#s017",
+   "schema": "light",
+   "core_message": "To reassure investors and analysts of the company's robust financial health, demonstrating a strong capital base and ample liquidity to navigate any economic cycle with confidence.",
+   "intents": [
+    "Secure",
+    "Stable",
+    "Confident"
+   ],
+   "shows": {
+    "specific_content": "The slide is split into two distinct sections: 'Capital Position' on the left and 'Liquidity Position' on the right. In the Capital section, stacked bar charts compare the capital requirement to the actual capital position, with a large callout emphasizing the company holds '~6x' the required capital. In the Liquidity section, a bar chart compares the 'Interest Earning Portfolio' to 'Total Deposits,' with a callout highlighting a low 'LDR' (Loan-to-Deposit Ratio) of 24%. The use of simple, bold visuals, minimal text, and clear labels for all components makes complex financial data feel straightforward and reassuring. The consistent purple color scheme maintains brand cohesion."
+   },
+   "abstract_pattern": "This dashboard format is used to communicate financial health and stability. It presents key balance sheet metrics and solvency ratios in a simple, side-by-side view to build confidence and demonstrate prudent management.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Capital Position Data (Capital requirement, excess, and cash equivalents in $Bn)",
+    "Liquidity Position Data (Interest Earning Portfolio and Total Deposits in $Bn)",
+    "Key Ratio Callouts (e.g., Capital Ratio Multiplier, Loan-to-Deposit Ratio)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Financial Stability Dashboard"
+  },
+  {
+   "id": "nubank#s018",
+   "schema": "light",
+   "core_message": "To cleanly transition the presentation to the topic of credit underwriting, signaling to the audience that the company will now address the important aspect of risk management.",
+   "intents": [
+    "Focused",
+    "Serious",
+    "Transparent"
+   ],
+   "shows": {
+    "specific_content": "Following the presentation's visual system, this slide is split into two vertical panels. The left panel is a solid field of the brand's signature purple, featuring large, white, sans-serif text that introduces the new section: 'Q1 2022 Credit Underwriting.' The right panel contains a high-quality photograph showing a close-up of diverse hands holding a Nu card, an image that evokes trust and collaboration. The clean separation and clear messaging effectively pause the narrative and redirect the audience's focus to the critical topic of risk management and underwriting."
+   },
+   "abstract_pattern": "This format serves as a narrative signpost or chapter break, helping to structure a long presentation and guide the audience's attention to an upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)",
+    "Relevant Lifestyle Image (High-resolution photograph)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Thematic Section Divider"
+  },
+  {
+   "id": "nubank#s019",
+   "schema": "light",
+   "core_message": "To prove that the company's underwriting model is not only effective at managing risk but is also highly profitable, with new customer cohorts quickly generating strong, positive returns.",
+   "intents": [
+    "Reassuring",
+    "Profitable",
+    "Data-driven"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two equal panels, each containing a line graph that plots the 'Actual Cumulative Risk-Adjusted Margin' for a different product: 'Nu Credit Card Cohorts' on the left and 'Nu Personal Loan Cohorts' on the right. Both graphs feature a smooth, purple curve that starts deeply negative (representing initial customer acquisition and risk costs) and quickly crosses the 0% axis to become strongly positive. The clear titles and the explicit note 'This chart is not a representation, it contains actual data' lend significant credibility. The parallel structure invites comparison and reinforces the conclusion that the underwriting strategy is successful across products."
+   },
+   "abstract_pattern": "This format uses cohort curves to demonstrate strong unit economics and rapid payback periods for different products or customer segments. The 'J-curve' shape is highly effective at showing initial investment followed by long-term profitability.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Cohort Data for Product 1 (Cumulative risk-adjusted margin over time for Credit Card Cohorts)",
+    "Cohort Data for Product 2 (Cumulative risk-adjusted margin over time for Personal Loan Cohorts)",
+    "Titles for each chart (Strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Paired Cohort Profitability Curves"
+  },
+  {
+   "id": "nubank#s020",
+   "schema": "light",
+   "core_message": "To proactively address concerns about rising delinquencies by showing that the current trends are well-understood, predictable due to seasonality, and in line with the company's expectations for a normalizing credit cycle.",
+   "intents": [
+    "Transparent",
+    "Controlled",
+    "Analytical"
+   ],
+   "shows": {
+    "specific_content": "The slide is split into two panels, one for '15-90 NPLs' and one for '90+ NPLs.' Each panel contains a line graph tracking the respective delinquency rate over several years. A key feature is the inclusion of two lines: one for the actual consumer finance portfolio and a dotted line showing a constant product mix for comparison. Crucially, annotations in the form of circled text boxes highlight the 'Historical Q1 Seasonality,' visually explaining the expected quarterly uptick in delinquencies. The clear conclusion at the bottom of each panel ('remained unchanged' or 'increased... in line with expectations') provides the key takeaway, framing the data positively."
+   },
+   "abstract_pattern": "This format is used to proactively manage expectations around a potentially negative metric. By benchmarking against historical or market trends, it contextualizes performance and shows that fluctuations are normal and expected.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for 15-90 Day NPLs (Actual and adjusted mix)",
+    "Time-series Data for 90+ Day NPLs (Actual and adjusted mix)",
+    "Historical Seasonality Data (For annotation callouts)",
+    "Concluding statement for each chart (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Asset Quality Trend Analysis"
+  },
+  {
+   "id": "nubank#s021",
+   "schema": "light",
+   "core_message": "To provide definitive, data-backed proof that the company's asset quality is superior to the market average and that it is managing credit risk more effectively than competitors, especially in a post-Covid environment.",
+   "intents": [
+    "Superior",
+    "Confident",
+    "Reassuring"
+   ],
+   "shows": {
+    "specific_content": "The slide is structured as a four-quadrant grid. The top two charts show Nu's performance on 'Lagged 15-90 NPLs' and 'Lagged 90+ NPLs,' while the bottom two charts show the 'Market' average for the same metrics. Each chart plots delinquency rates over a calendar year, with different colored lines representing different years (2019, 2020, 2021, 2022). This layout forces a direct visual comparison between the top row (Nu) and the bottom row (Market). The clear labeling and consistent axes make it easy to see that Nu's delinquency lines are trending lower than the market's, supporting the slide's headline."
+   },
+   "abstract_pattern": "This 2x2 grid format is used for direct competitive benchmarking, visually proving a company's superior performance against the market average on key metrics.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Company's 15-90 NPLs (by year)",
+    "Time-series Data for Company's 90+ NPLs (by year)",
+    "Time-series Data for Market's 15-90 NPLs (by year)",
+    "Time-series Data for Market's 90+ NPLs (by year)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Competitive Benchmark Grid"
+  },
+  {
+   "id": "nubank#s022",
+   "schema": "light",
+   "core_message": "To educate investors on how IFRS accounting standards for loan loss provisioning can distort the view of profitability for a rapidly growing lender, and to argue that the underlying cash flow economics are stronger than they may appear on the P&L.",
+   "intents": [
+    "Educational",
+    "Clarifying",
+    "Transparent"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two equal panels, side-by-side. The left panel, labeled 'Illustrative IFRS View,' shows a graph of cumulative gross profit over time, where the curve starts negative due to the upfront recognition of 'ECL' (Expected Credit Loss). The right panel, 'Illustrative Cash Flow View,' shows a more intuitive curve that starts at zero and rises, reflecting the actual cash dynamics. Both graphs use a simple, clean line on a time-based axis, with the final profit amount labeled 'X.' The design is intentionally schematic and minimalist to focus the viewer's attention on understanding the conceptual difference between the two views, rather than on specific data."
+   },
+   "abstract_pattern": "This format uses parallel, simplified diagrams to explain a complex technical or financial concept, contrasting a formal view with an intuitive one to build understanding and trust.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Title for Chart 1 (String, e.g., 'Illustrative IFRS View')",
+    "Title for Chart 2 (String, e.g., 'Illustrative Cash Flow View')",
+    "Illustrative data points for two conceptual curves (Array of numbers)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Conceptual Explainer Diagram"
+  },
+  {
+   "id": "nubank#s023",
+   "schema": "light",
+   "core_message": "To explain that the significant increase in the loan loss provision balance is primarily driven by healthy portfolio growth (80% of the change), rather than a deterioration in credit quality, thereby reassuring investors.",
+   "intents": [
+    "Clear",
+    "Analytical",
+    "Reassuring"
+   ],
+   "shows": {
+    "specific_content": "The slide features a single, prominent waterfall chart. It begins on the left with a purple bar representing the 'Provision Balance - Dec 31st.' A second, floating bar labeled 'Portfolio Growth' shows a large increase. A third, smaller floating bar for 'Risk Normalization & Seasonality' shows a minor increase. These components visually 'bridge' to the final, taller bar on the right, representing the 'Provision Balance - Mar 31st.' Percentage callouts above the floating bars (80% and 20%) clearly attribute the drivers of the change. The design is clean and linear, making the story behind the numbers immediately apparent."
+   },
+   "abstract_pattern": "The waterfall (or bridge) chart is used to deconstruct the change in a metric over time, showing the positive and negative drivers that contribute to the final result.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Starting Balance Value (Number, for Provision Balance - Dec 31st)",
+    "Ending Balance Value (Number, for Provision Balance - Mar 31st)",
+    "Values for each component of change (e.g., Portfolio Growth, Risk Normalization)",
+    "Labels for each component (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Waterfall Chart Analysis"
+  },
+  {
+   "id": "nubank#s024",
+   "schema": "light",
+   "core_message": "To cleanly signal the end of the main body of the presentation and to transition the audience's focus towards the final summary and key takeaways.",
+   "intents": [
+    "Focused",
+    "Concluding",
+    "Calm"
+   ],
+   "shows": {
+    "specific_content": "The entire slide is a flat, solid purple background, consistent with the company's brand identity. The only element on the slide is the white, sans-serif text 'Wrapping up...' located in the upper-left corner. There are no other logos, images, or graphical elements. This extreme simplicity ensures there are no distractions, forcing the audience to pause and mentally prepare for the concluding remarks of the presentation. The aesthetic is clean, modern, and confident."
+   },
+   "abstract_pattern": "This minimalist slide acts as a narrative pause or transition, signaling a shift in topic or the conclusion of a section without adding new information.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Transition Text (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Simple Transition Slide"
+  },
+  {
+   "id": "nubank#s025",
+   "schema": "light",
+   "core_message": "To summarize the entire presentation and investment case into four clear, powerful, and memorable pillars, leaving the audience with a final, convincing argument.",
+   "intents": [
+    "Confident",
+    "Authoritative",
+    "Compelling"
+   ],
+   "shows": {
+    "specific_content": "The slide is structured as a perfectly balanced four-quadrant grid under the headline 'Why Nu?'. Each of the four boxes has a solid purple header with a key value proposition in white text (e.g., 'A Technology Company Leading...', 'Strong Unit Economics...'). Below the header, in a white section, is a single, impactful metric that supports the claim (e.g., '59.6MM Customers', '>30x LTV/CAC'). This design is highly scannable and visually organized. The use of bold statements and hard numbers creates a feeling of authority and confidence, effectively summarizing the entire presentation into four key takeaways."
+   },
+   "abstract_pattern": "This 2x2 grid format serves as a powerful summary of the core value proposition or investment thesis, breaking it down into a few memorable, digestible points.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Four Pillar Statements (Array of strings)",
+    "Four Supporting Proof Points (Array of strings/numbers, e.g., 59.6MM Customers, 90+ NPS, ~85% lower cost, >30x LTV/CAC)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Investment Thesis Summary"
+  },
+  {
+   "id": "nubank#s026",
+   "schema": "light",
+   "core_message": "To formally conclude the prepared remarks and open the floor for questions from the audience in a professional and branded manner.",
+   "intents": [
+    "Open",
+    "Approachable",
+    "Concluding"
+   ],
+   "shows": {
+    "specific_content": "The slide follows the signature two-column layout. The left two-fifths is a solid purple background. It features the company logo in the top-left, the large white text 'Q&A' in the center, and the date in the lower-left corner. The right three-fifths is the same warm, approachable photograph of two women smiling that was used on the title slide, bringing the presentation full circle. This consistent visual language provides a sense of closure and professionalism, clearly marking the transition to the final, interactive part of the event."
+   },
+   "abstract_pattern": "This branded card acts as a formal closing for the presentation, transitioning to the interactive Q&A portion while maintaining a professional look and feel.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Company Logo (Vector image)",
+    "Section Title (String, e.g., 'Q&A')",
+    "Date of Presentation (String)",
+    "Closing Lifestyle Image (High-resolution photograph)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Closing",
+   "position": null,
+   "title": "Q&A Session Card"
+  },
+  {
+   "id": "nubank#s027",
+   "schema": "light",
+   "core_message": "To clearly demarcate the beginning of the appendix, signaling to the audience that the primary presentation has concluded and the following slides contain supplementary information.",
+   "intents": [
+    "Organized",
+    "Professional",
+    "Final"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two vertical panels. The left panel is a full-bleed, high-quality photograph of three women walking, conveying a sense of forward momentum and community. The right panel is a clean, white space that features the company's purple logo and the word 'Appendix' in a simple, elegant sans-serif font. The layout is clean and asymmetrical, providing a visual break that feels both professional and aligned with the brand's modern aesthetic. It effectively acts as the cover page for the final section of the deck."
+   },
+   "abstract_pattern": "This format serves as a formal divider or cover page for a new section of the presentation, typically used to separate the main body from supplementary materials like an appendix.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String, e.g., 'Appendix')",
+    "Company Logo (Vector image)",
+    "Section Divider Image (High-resolution photograph)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Closing",
+   "position": null,
+   "title": "Appendix Divider Card"
+  },
+  {
+   "id": "nubank#s028",
+   "schema": "light",
+   "core_message": "To demonstrate how simple, fast, and seamless the user experience is for a key product, thereby proving the company's claims of a superior customer experience.",
+   "intents": [
+    "Simple",
+    "Effortless",
+    "Fast"
+   ],
+   "shows": {
+    "specific_content": "The slide presents a four-step process horizontally from left to right. Each step is numbered and has a short, descriptive title (e.g., 'Select NuPay at checkout'). Below each title is a screenshot of the mobile app's user interface at that specific stage of the payment process. Large white chevrons are placed between the screenshots to clearly indicate the flow and progression. The headline at the top makes a bold claim—'Finalized on Average in 24 Seconds'—which the simple, four-step visual powerfully substantiates. The design is clean and intuitive, effectively simulating the user journey."
+   },
+   "abstract_pattern": "This step-by-step format is used to demonstrate a product's user experience, making abstract claims of simplicity or speed tangible by walking the audience through the actual flow.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String with a key benefit, e.g., 'With 3 Simple Steps...')",
+    "Numbered steps in the process (Array of strings)",
+    "UI Screenshots for each step (High-resolution images)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Product Flow Walkthrough"
+  },
+  {
+   "id": "nubank#s029",
+   "schema": "light",
+   "core_message": "To demonstrate that G&A expenses are growing slower than revenues, proving that the company is achieving operating leverage and reaping the benefits of scale.",
+   "intents": [
+    "Efficient",
+    "Scalable",
+    "Mature"
+   ],
+   "shows": {
+    "specific_content": "The slide features a single, detailed chart showing 'G&A (US$MM)' over five quarters. The core visual is a stacked bar chart, with the bottom portion representing 'G&A - Exc. Share-based compensation' and the top portion representing 'Share-based Compensation.' An orange line graph is overlaid on the chart, plotting 'G&A - Exc. Share-based compensation' as a percentage of total revenues. While the bars (absolute costs) are rising, the orange line (relative cost) is clearly trending downwards, from 27% to 20%. This visual contrast is the key takeaway, made clear by the legend and data labels."
+   },
+   "abstract_pattern": "This layered chart format is used to demonstrate operating leverage, showing that while absolute costs may rise with growth, relative costs (as a % of revenue) are decreasing, leading to improved efficiency.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Stacked Bar Chart (Two expense categories, e.g., G&A Exc. SBC and Share-based Comp)",
+    "Time-series Data for Line Graph (Expense as a % of Revenue)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Operating Leverage Chart"
+  },
+  {
+   "id": "nubank#s030",
+   "schema": "light",
+   "core_message": "To reassure investors that the company maintains prudent and robust loan loss coverage ratios, demonstrating a conservative and responsible approach to managing credit risk throughout different economic cycles.",
+   "intents": [
+    "Prudent",
+    "Responsible",
+    "Stable"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into a two-panel layout, with each panel containing a detailed line graph. The left chart, 'Coverage Ratio Over Total Balance,' plots the percentage of loan loss reserves against the total loan portfolio. The right chart, 'Coverage Ratio Over NPL 90+,' plots the reserves against the most delinquent loans. Both charts include two lines: one for the 'Actual portfolio' and another for a 'Portfolio adjusted to Q4'19 mix,' showing consistency. The graphs span several years, demonstrating 'prudent coverage ratios throughout the cycles' as stated in the sub-header. The data-rich visuals project a sense of analytical rigor and long-term stability."
+   },
+   "abstract_pattern": "This parallel chart format acts as a dashboard to showcase prudent risk management, presenting multiple, related risk metrics to provide a comprehensive view of the company's stability.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Coverage Ratio over Total Balance (Actual and Adjusted)",
+    "Time-series Data for Coverage Ratio over NPL 90+ (Actual and Adjusted)",
+    "Titles for each chart (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Risk Management Dashboard"
+  },
+  {
+   "id": "nubank#s031",
+   "schema": "light",
+   "core_message": "To provide objective, third-party data that explains the seasonality of delinquency in Brazil, thereby reinforcing the company's earlier point that recent increases in its own NPLs are expected and in line with market patterns.",
+   "intents": [
+    "Informative",
+    "Analytical",
+    "Contextual"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two main panels, side-by-side, one for 'Credit Card' and one for 'Personal Loans.' Each panel contains a line graph plotting the average quarter-over-quarter change in delinquency rates, based on historical central bank data. Two lines are plotted on each graph: '15-90 days Late' and '90+ days Late,' showing how early and late-stage delinquencies behave differently throughout the year. The charts clearly show a spike in delinquencies in the Q4-Q1 period. The design is clean and academic, intended to inform and provide context for the preceding asset quality slides."
+   },
+   "abstract_pattern": "This format is used to provide external market context for a key metric. By showing historical, industry-wide trends (like seasonality), it helps explain fluctuations in the company's own performance.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Title for Chart 1 (String, e.g., 'Credit Card')",
+    "Title for Chart 2 (String, e.g., 'Personal Loans')",
+    "Historical seasonal delinquency data for two different stages (e.g., 15-90 days, 90+ days Late)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Market Seasonality Explainer"
+  },
+  {
+   "id": "nubank#s032",
+   "schema": "light",
+   "core_message": "To provide long-term evidence that the company's underwriting has been consistently improving over time, leading to better credit outcomes and lower losses in more recent customer cohorts.",
+   "intents": [
+    "Improving",
+    "Consistent",
+    "Data-driven"
+   ],
+   "shows": {
+    "specific_content": "The slide features a single, large line graph that plots 'Losses (NPL 360+)' by the year the customer was acquired ('Booking Yearly Cohort'). The x-axis represents the number of months since acquisition, while the y-axis represents the loss rate. Four distinct lines, each a different shade of purple, represent the cohorts from 2018, 2019, 2020, and 2021. The visual story clearly shows that the loss curves for the more recent years (2020 and 2021) are peaking at a significantly lower level than the older cohorts (2018 and 2019). A clean legend on the right identifies each yearly cohort."
+   },
+   "abstract_pattern": "This cohort analysis format is used to demonstrate performance improvement over time. By comparing the outcome curves of different user vintages, it can prove that a process (like underwriting or user onboarding) is getting better.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Chart Title (String)",
+    "Historical Loss Cohort Data (Multi-series time-based data for Losses (NPL 360+) by Booking Yearly Cohort)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Addressing Concerns",
+   "position": null,
+   "title": "Historical Cohort Performance"
+  },
+  {
+   "id": "nubank#s033",
+   "schema": "light",
+   "core_message": "To provide essential contact information for investors and to end the presentation on a clean, confident, and strongly branded note, reinforcing the company's identity.",
+   "intents": [
+    "Final",
+    "Clean",
+    "Professional"
+   ],
+   "shows": {
+    "specific_content": "The entire slide consists of a solid, vibrant purple background. The company's modern, white 'nu' logo is featured prominently in the center of the slide, acting as the primary and almost sole focal point. At the very bottom, in a small, clean, white sans-serif font, are the company's investor relations website and email address. The design is the essence of simplicity, using negative space to create a feeling of calm and confidence. It's a visually quiet but strong way to end the presentation, leaving the brand mark as the final memory."
+   },
+   "abstract_pattern": "This minimalist format is used for a concluding or contact slide. It reinforces brand identity one last time and provides essential follow-up information without distracting the audience.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Company Logo (High-resolution vector image)",
+    "Investor Relations Website (String)",
+    "Investor Relations Email (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Closing",
+   "position": null,
+   "title": "Branded Closing Slide"
+  }
+ ]
+}

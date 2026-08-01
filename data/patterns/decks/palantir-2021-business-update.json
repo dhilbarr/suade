@@ -1,0 +1,1718 @@
+{
+ "deck": "palantir-2021-business-update",
+ "company": "Palantir",
+ "narrative_summary": "This presentation showcases Palantir as a high-growth, high-margin software company operating at scale. The key story is the rapid acceleration of its commercial business, especially in the US, which is presented as the new engine for growth, complementing its established and profitable government segment.",
+ "stage": null,
+ "industry": null,
+ "record_count": 22,
+ "records": [
+  {
+   "id": "palantir-2021-business-update#s001",
+   "schema": "rich",
+   "core_message": "This slide introduces the presentation's topic: a formal business update covering the company's performance and activities for Fiscal Year 2021.",
+   "intents": [],
+   "shows": {
+    "visual_type": "title_slide",
+    "specific_content": "A dark-themed title slide with large, white, sans-serif text that reads 'FY-2021 Business Update'. The Palantir logo and the date 'Feb 17 2022' are in the top left corner. A copyright notice is in the top right.",
+    "data_points_shown": "Presentation Title: FY-2021 Business Update, Company: Palantir, Date: Feb 17 2022"
+   },
+   "abstract_pattern": "This is a classic title slide pattern used to formally open a presentation and clearly state its subject and scope. Any company can use this to introduce a periodic business review, such as an annual or quarterly update, to an internal or external audience. The design is typically minimalist and professional, focusing attention on the topic at hand and setting a serious tone for the information that will follow. It serves as a clear signpost, orienting the audience before diving into detailed data.",
+   "keywords": [
+    "title_slide",
+    "presentation_opener",
+    "context_setting",
+    "agenda_setting",
+    "business_review",
+    "performance_update",
+    "fiscal_year_summary",
+    "quarterly_report",
+    "framing_the_discussion",
+    "formal_introduction",
+    "earnings_call_opener"
+   ],
+   "works_for": [
+    "Presenting our Q3 2023 Earnings Report",
+    "This is our Annual Investor Day for 2024",
+    "Welcome to the H1 Company All-Hands Meeting",
+    "Here is the 2022 Marketing Performance Review",
+    "This is our New Product Strategy for the next fiscal year",
+    "A review of our progress in the European market",
+    "Presenting the financial results for the first half of the year"
+   ],
+   "variable_elements": {
+    "primary_metric": "Presentation Topic / Title",
+    "secondary_metric": "Time Period (e.g., Fiscal Year, Quarter)",
+    "time_dimension": "The specific time period being reviewed (e.g., FY-2021)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Presentation title",
+     "Company name/logo",
+     "Relevant date or time period"
+    ],
+    "data_shape_needed": "point-in-time_snapshot",
+    "minimum_data_points": "1 title, 1 date/period",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Starting any formal business presentation, like an earnings call or board meeting.",
+     "Kicking off an investor update to clearly state the purpose.",
+     "Introducing a major section of a longer presentation.",
+     "Establishing a professional and authoritative tone from the beginning.",
+     "Clearly defining the scope and topic for the audience to manage expectations."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When a more dynamic, visual, or narrative-driven opening is needed to capture attention.",
+     "In the middle of a detailed data section, where it would be disruptive.",
+     "For informal team check-ins or creative brainstorming sessions."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "highly_polished"
+   },
+   "section": "Presentation Title",
+   "position": "beginning",
+   "title": "FY-2021 Business Update"
+  },
+  {
+   "id": "palantir-2021-business-update#s002",
+   "schema": "rich",
+   "core_message": "We are delivering strong, profitable growth, highlighted by the massive acceleration of our US commercial business, which is now our primary growth engine.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A dashboard of seven key financial and growth metrics for Q4. It shows year-over-year growth rates for Total Revenue (34%), Government Revenue (26%), Commercial Revenue (47%), and US Commercial Revenue (132%). It also displays absolute values and margins for Adjusted Operating Income ($124M, 29% Margin), Adjusted Free Cash Flow ($104M, 24% Margin), and GAAP Gross Margin (80%).",
+    "data_points_shown": "Total Revenue Growth: 34%, Government Revenue Growth: 26%, Commercial Revenue Growth: 47%, US Commercial Revenue Growth: 132%, Adjusted Operating Income: $124M, Adjusted Free Cash Flow: $104M, GAAP Gross Margin: 80%."
+   },
+   "abstract_pattern": "Any company can use this pattern to present a 'balanced scorecard' of performance for a specific period, showcasing both strong top-line growth and bottom-line profitability. The core technique is to break down an overall growth metric into its component segments to reveal a specific, high-performing area that is driving acceleration. This allows the presenter to tell a story of strategic success and identify the future engine of the business, proving that growth is not only happening but is being driven by a successful, targeted strategy.",
+   "keywords": [
+    "kpi_dashboard",
+    "financial_snapshot",
+    "growth_and_profitability",
+    "segment_performance",
+    "business_acceleration",
+    "profitable_growth",
+    "headline_metrics",
+    "quarterly_results",
+    "operating_leverage",
+    "growth_decomposition",
+    "balanced_scorecard"
+   ],
+   "works_for": [
+    "Our enterprise segment is now our fastest-growing business, proving our move upmarket is working.",
+    "We achieved record user growth this quarter while also reaching profitability for the first time.",
+    "Our international expansion is accelerating, growing 3x faster than our domestic market.",
+    "While our overall growth is strong, our new product line is showing hyper-growth and is the future of the company.",
+    "We are successfully balancing rapid customer acquisition with strong unit economics.",
+    "This quarter's results demonstrate both market leadership and financial discipline.",
+    "Our new self-serve offering is growing exponentially, validating our product-led growth strategy."
+   ],
+   "variable_elements": {
+    "primary_metric": "Top-line growth rate (e.g., Revenue, Bookings, ARR)",
+    "secondary_metric": "Profitability/Margin metric (e.g., EBITDA, Operating Income, Free Cash Flow)",
+    "time_dimension": "Point-in-time snapshot (e.g., a single quarter or year)",
+    "comparison_basis": "Comparison of internal business segments (e.g., Commercial vs. Government, US vs. International, New Product vs. Core Product)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Revenue or primary growth metric data, segmented by business line or geography",
+     "A key profitability metric (e.g., Operating Income, EBITDA, Free Cash Flow)",
+     "A high-level margin metric (e.g., Gross Margin)"
+    ],
+    "data_shape_needed": "needs clear contrast between the growth rates of different segments, with one segment significantly outperforming others to create a narrative focal point.",
+    "minimum_data_points": "2+ business segments to compare, plus 2+ profitability/margin metrics.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "In an earnings call or investor update to summarize quarterly performance.",
+     "When you need to show that your growth story is evolving and a new segment is becoming the primary driver.",
+     "To prove that rapid growth is not coming at the expense of profitability (countering the 'growth at all costs' narrative).",
+     "To provide a high-level 'executive summary' of the business's health before diving into details.",
+     "When you have one standout 'hero' metric that you want to anchor the entire story around.",
+     "To demonstrate the success of a strategic shift or new market entry."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your growth is uniform across all segments and there's no acceleration story to tell.",
+     "When you are unprofitable and have no clear path or positive margin metrics to show.",
+     "When you are a very early-stage company and should be focused on simpler metrics like user growth or product engagement."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Performance Summary",
+   "position": "Beginning",
+   "title": "Q4 results [year-over-year growth & margins]"
+  },
+  {
+   "id": "palantir-2021-business-update#s003",
+   "schema": "rich",
+   "core_message": "We achieved strong, profitable growth in FY21, highlighted by exceptional acceleration in our US commercial segment, proving our business model is both powerful and scalable.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A dashboard of seven key financial and operational metrics for Fiscal Year 2021. It shows growth rates for total, government, commercial, and US commercial revenue, as well as absolute values and margins for operating income, free cash flow, and gross margin.",
+    "data_points_shown": "Total Revenue Growth: 41%; Government Revenue Growth: 47%; Commercial Revenue Growth: 34%; US Commercial Revenue Growth: 102%; Adjusted Operating Income: $473M (31% Margin); Adjusted Free Cash Flow: $424M (28% Margin); GAAP Gross Margin: 78%. Also notes that commercial customer count tripled."
+   },
+   "abstract_pattern": "This slide pattern acts as a 'Financial Scorecard' to provide a comprehensive, multi-faceted snapshot of a company's performance over a specific period (e.g., a fiscal year or quarter). It combines top-line growth metrics, profitability figures, and efficiency measures (margins) to tell a holistic story of healthy, balanced growth. By breaking down growth by segment, it can also highlight a specific engine of acceleration. Any company can use this pattern to summarize their results and prove that they are not just growing, but growing efficiently and profitably, thereby building investor confidence in the fundamental health of the business.",
+   "keywords": [
+    "financial_summary",
+    "kpi_dashboard",
+    "performance_snapshot",
+    "growth_and_profitability",
+    "business_health_metrics",
+    "annual_results",
+    "quarterly_highlights",
+    "balanced_growth",
+    "segment_performance",
+    "operating_leverage",
+    "rule_of_40"
+   ],
+   "works_for": [
+    "We had a record year, firing on all cylinders with strong growth and profitability.",
+    "Our enterprise segment is now our fastest-growing business, proving our expansion strategy is working.",
+    "We've successfully balanced rapid user acquisition with a clear path to profitability.",
+    "Our financial results demonstrate a healthy, scalable, and efficient business model.",
+    "We exceeded all our financial targets for the fiscal year.",
+    "While our core business remains strong, our new division is showing hyper-growth.",
+    "Our unit economics are translating into strong margins and significant free cash flow."
+   ],
+   "variable_elements": {
+    "primary_metric": "Overall growth rate (e.g., Total Revenue Growth)",
+    "secondary_metric": "Profitability metrics (e.g., Operating Income, Free Cash Flow, Margins)",
+    "time_dimension": "Point-in-time summary of a period (e.g., Fiscal Year, Quarter)",
+    "comparison_basis": "Comparison between internal business segments (e.g., Government vs. Commercial)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Total revenue growth % for a period (e.g., YoY)",
+     "Revenue growth % by key business segment",
+     "A key profitability metric (e.g., Operating Income, EBITDA)",
+     "A key margin metric (e.g., Gross Margin, Operating Margin)"
+    ],
+    "data_shape_needed": "needs point-in-time snapshot of impressive, well-rounded metrics",
+    "minimum_data_points": "4-6 key metrics covering both growth and profitability",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Summarizing annual or quarterly financial results for investors.",
+     "Proving a 'growth with profitability' story.",
+     "Highlighting the performance of a new or accelerating business segment.",
+     "Kicking off an investor day or earnings call to set a strong tone.",
+     "Building confidence in the overall health and stability of the business.",
+     "When you need to show strength across multiple financial dimensions at once."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your metrics tell a conflicting story (e.g., high growth but worsening margins and cash burn).",
+     "You are a very early-stage company with only one or two metrics to show.",
+     "The primary goal is to show a trend over multiple time periods (a line chart is better)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Performance Summary",
+   "position": "middle",
+   "title": "FY '21 results [revenue & margins]"
+  },
+  {
+   "id": "palantir-2021-business-update#s004",
+   "schema": "rich",
+   "core_message": "Palantir is a rare company that achieves both high growth and high profitability simultaneously, placing it in an elite class of top-performing software companies.",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart",
+    "specific_content": "A scatter plot titled '2021 AFCF Margin vs 2021 Revenue Growth'. The Y-axis is '2021 Adjusted Free Cash Flow Margin (%)' and the X-axis is '2021 Revenue Growth (y/y)'. The chart plots numerous anonymous competitor companies as grey dots, which form a cloud mostly in the lower-left. Palantir is highlighted as a distinct black dot in the upper-right quadrant, indicating high performance on both metrics. To the right, key metrics for Palantir's FY'21 are listed: $1.5B Revenue, 41% Growth, and 28% Adjusted Free Cash Flow Margin.",
+    "data_points_shown": "Palantir FY'21: Revenue $1.5B, Growth 41%, Adjusted Free Cash Flow Margin 28%. The chart visually plots Palantir at (41%, 28%) against dozens of unnamed peers."
+   },
+   "abstract_pattern": "This is a 'You Are Here' competitive positioning chart. It uses a 2x2 matrix or scatter plot to benchmark a company against its peers on two critical, often conflicting, performance dimensions (e.g., growth vs. profitability). The company is positioned as a clear outlier in the desirable 'top-right' quadrant, visually proving it has achieved a 'best of both worlds' status that competitors have not. Any company can use this pattern to demonstrate its elite performance and argue that it has broken the typical trade-offs within its industry.",
+   "keywords": [
+    "competitive_positioning",
+    "peer_benchmarking",
+    "outlier_performance",
+    "growth_and_profitability",
+    "rule_of_40",
+    "capital_efficiency",
+    "best_of_both_worlds",
+    "elite_quadrant",
+    "2x2_matrix",
+    "market_leadership",
+    "balanced_performance",
+    "sustainable_growth"
+   ],
+   "works_for": [
+    "We are growing faster than our competitors while maintaining superior margins.",
+    "Our product has higher user engagement and lower churn than any other platform in the market.",
+    "We acquire customers more cheaply and monetize them more effectively than our peers.",
+    "Our marketplace has the most liquidity and the lowest take rate, a combination no one else has matched.",
+    "We deliver new features faster than anyone while also having the highest reliability scores.",
+    "Our growth is more capital-efficient than the rest of the industry.",
+    "We are the only company in our space that is both large-scale and nimble."
+   ],
+   "variable_elements": {
+    "primary_metric": "A growth or speed metric (e.g., Revenue Growth, User Growth, Feature Velocity)",
+    "secondary_metric": "An efficiency or quality metric (e.g., Profit Margin, FCF Margin, Churn Rate, Customer Satisfaction)",
+    "time_dimension": "Point-in-time snapshot (e.g., last fiscal year, last quarter)",
+    "comparison_basis": "vs_competitors or vs_peer_group"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Company's own data for two key performance metrics (e.g., growth rate and profit margin)",
+     "The same two metrics for a representative set of competitor or peer companies",
+     "A clear definition of the peer group (e.g., public software companies with >$1B revenue)"
+    ],
+    "data_shape_needed": "needs_clear_outlier_status, where the company's data point is in the most favorable position (typically top-right) relative to the peer group.",
+    "minimum_data_points": "10+ competitors to create a visually compelling 'cloud' for comparison.",
+    "data_sophistication": "late_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a premium valuation to investors.",
+     "Proving a sustainable and efficient business model at scale.",
+     "Visually demonstrating market leadership in a competitive landscape.",
+     "Showing you have broken the common trade-off between growing fast and being profitable.",
+     "In an IPO roadshow or investor day presentation.",
+     "When you need to clearly differentiate from a crowded field of competitors."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your company is not a clear outlier on the chosen metrics (i.e., you are in the middle of the pack).",
+     "Reliable, comparable data for your peer group is unavailable.",
+     "Your story is about future potential, not current, proven performance."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Performance & Benchmarking",
+   "position": "middle",
+   "title": "High growth, high cash flow"
+  },
+  {
+   "id": "palantir-2021-business-update#s005",
+   "schema": "rich",
+   "core_message": "Our platform is indispensable for solving the world's most complex, high-stakes problems across diverse industries, proving our unique value and mission-critical reliability.",
+   "intents": [],
+   "shows": {
+    "visual_type": "proof_point_gallery",
+    "specific_content": "A grid of ten images, each paired with a short text description of a high-stakes, mission-critical problem that Palantir's software helped solve. The examples span government, finance, public health, industrial, and cybersecurity sectors.",
+    "data_points_shown": "Examples include: A350 production crisis, combatting ISIS, Afghanistan evacuation, US/UK vaccine programs, identifying $200B money laundering, mitigating wildfire risk, managing multi-trillion dollar mortgage portfolios, minimizing air travel disruptions, and remediating log4j vulnerabilities."
+   },
+   "abstract_pattern": "Any company can use this pattern to establish its credibility and indispensability for mission-critical tasks. It works by presenting a gallery of diverse, high-impact 'wins' or case studies, each represented by a compelling image and a concise description. This visual and narrative barrage proves the company's value proposition is not theoretical but has been battle-tested in a wide range of real-world, complex scenarios, building trust and demonstrating a unique moat.",
+   "keywords": [
+    "mission_critical",
+    "establishing_credibility",
+    "proof_of_value",
+    "case_study_showcase",
+    "battle-tested",
+    "high-stakes_problems",
+    "industry_agnostic_platform",
+    "demonstrating_moat",
+    "unique_capability",
+    "trust_building",
+    "impact_stories",
+    "breadth_of_application"
+   ],
+   "works_for": [
+    "Our security platform protects the world's most critical internet infrastructure from the largest attacks.",
+    "We power the financial transactions for the most innovative and fastest-growing companies globally.",
+    "Our observability platform is what mission-critical applications rely on to stay online.",
+    "When the world's biggest brands are breached, we are the ones they call to respond.",
+    "We deliver life-saving medicines and critical supplies to the world's most challenging environments.",
+    "Our engineering software is used to design and test the world's safest and most advanced vehicles.",
+    "Our AI models are trusted by leading medical institutions to accelerate disease diagnosis.",
+    "We provide the core infrastructure for global logistics and supply chain resilience."
+   ],
+   "variable_elements": {
+    "primary_metric": "Qualitative proof points / case studies of impact",
+    "secondary_metric": null,
+    "time_dimension": "Not time-based; it's a collection of achievements.",
+    "comparison_basis": "Implicitly compares the company to any/all other potential solutions, positioning it as unique and superior."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A collection of compelling, high-impact customer stories or project examples",
+     "Permission to use customer names/scenarios or compelling anonymized descriptions",
+     "High-quality imagery related to each example"
+    ],
+    "data_shape_needed": "Needs a diverse set of examples across different verticals or use cases to show breadth and versatility.",
+    "minimum_data_points": "5-10 distinct, powerful examples",
+    "data_sophistication": "late_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Establishing your company as a leader in a complex field.",
+     "Justifying a premium price point by showing unique, high-stakes value.",
+     "Building trust with investors or enterprise customers early in a presentation.",
+     "Demonstrating the breadth and versatility of a platform technology.",
+     "Proving your product is 'battle-tested' and reliable for mission-critical applications.",
+     "Making an argument for a strong competitive moat that is hard to replicate."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your product is simple and competes on price or features, not on solving complex problems.",
+     "When you are an early-stage company without a portfolio of impressive case studies.",
+     "If your primary message is about rapid user growth or simple metrics, not deep impact."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Company Introduction & Credibility",
+   "position": "Beginning",
+   "title": "When it has to work, there is only Palantir."
+  },
+  {
+   "id": "palantir-2021-business-update#s006",
+   "schema": "rich",
+   "core_message": "Our product provides significantly better value and return on investment than alternatives, refuting the perception that it is 'too expensive' by using a credible third-party comparison.",
+   "intents": [],
+   "shows": {
+    "visual_type": "quote",
+    "specific_content": "A large quote from a report by 'The King's Fund' is displayed next to an image of the report's cover. The quote contrasts the cost of Palantir's Foundry license for the NHS (£25m over two years) with the cost of the 'Test and Trace' program (£155m in one year), noting the latter struggled on a simpler task.",
+    "data_points_shown": "Palantir Foundry License Cost: 'just under £25 million' (for two years). Alternative ('Test and Trace') Cost: '£155 million in 2020-21 alone'. Outcome: Alternative 'struggled to produce the desired outcome'."
+   },
+   "abstract_pattern": "This pattern uses a credible third-party quote to directly address and dismantle a common objection, typically related to price. It frames the company's solution as a high-value investment by contrasting its cost and positive outcome against a much more expensive and less effective alternative. This reframes the conversation from 'cost' to 'value' and 'ROI', using external validation to build trust and prove the superiority of the company's approach. Any company can use this when they need to justify a premium price point by showing the even higher cost of the status quo or a failed alternative.",
+   "keywords": [
+    "objection_handling",
+    "third_party_validation",
+    "roi_proof",
+    "value_proposition",
+    "cost_vs_value",
+    "testimonial_slide",
+    "case_study_quote",
+    "competitive_contrast",
+    "price_justification",
+    "total_cost_of_ownership",
+    "alternative_cost",
+    "value_over_price"
+   ],
+   "works_for": [
+    "Our security software prevents breaches that cost companies millions, making our subscription a bargain.",
+    "While our marketing platform has a high upfront cost, it generates 3x more qualified leads than relying on a manual sales team.",
+    "Building this infrastructure in-house would take 2 years and $5M; our platform delivers it in a month for a fraction of the cost.",
+    "Customers who switch to our logistics software reduce shipping errors by 90%, saving more than our annual fee in the first quarter.",
+    "Our employee training platform seems expensive, but it reduces staff turnover by 50%, saving millions in recruitment costs.",
+    "Yes, our data platform is a significant investment, but it replaces three other tools and delivers insights twice as fast.",
+    "The cost of not using our compliance software is fines and legal fees that are 10x our annual license."
+   ],
+   "variable_elements": {
+    "primary_metric": "Cost of our solution",
+    "secondary_metric": "Cost and outcome of the alternative/status quo",
+    "time_dimension": "A specific time period for comparison (e.g., per year, per project)",
+    "comparison_basis": "Our solution vs. an alternative approach or the cost of inaction"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A credible third-party quote (from a customer, analyst, or publication)",
+     "A specific cost comparison between your solution and an alternative",
+     "A qualitative or quantitative outcome comparison"
+    ],
+    "data_shape_needed": "needs_clear_contrast_difference",
+    "minimum_data_points": "One strong case study with at least two cost points and an outcome statement.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you have a premium-priced product and need to justify the cost.",
+     "To proactively address the most common sales objection you hear from prospects.",
+     "When you have a powerful case study or analyst report that highlights your ROI.",
+     "To differentiate your solution based on value and outcome, not just features.",
+     "When you want to build credibility and trust with a skeptical audience.",
+     "To frame your product as an investment, not an expense."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your product is a low-cost commodity and price is your main advantage.",
+     "When you don't have a credible, independent source to quote.",
+     "When the cost-benefit analysis is not dramatically in your favor."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Value Proposition & ROI",
+   "position": "middle",
+   "title": "Too bad it's too expensive...right?"
+  },
+  {
+   "id": "palantir-2021-business-update#s007",
+   "schema": "rich",
+   "core_message": "Our total addressable market is continuously expanding because our core product platforms (Gotham, Foundry, Apollo) are constantly evolving to address new, more complex use cases, creating ever-larger opportunities for growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A timeline from 2013-2024 showing the evolution of three product lines: Gotham, Foundry, and Apollo. Each product is represented by a series of expanding concentric circles, where each circle corresponds to a year and lists new capabilities or use cases added, visually demonstrating product and market expansion over time.",
+    "data_points_shown": "Key capabilities added by year for each product. Gotham (2013-2021): HUMINT, Defense intelligence, Law enforcement, Operations, Logistics, AI-enabled mission command, EdgeAI. Foundry (2017-2021): Data Platform, Analytics, ML, Simulation, OpsPI. Apollo (2020-2021): Bringing Palantir/customer SaaS to any environment."
+   },
+   "abstract_pattern": "This pattern visualizes how a company's market opportunity expands over time, driven by internal product innovation. It uses a timeline combined with a visual metaphor of growth (like expanding circles) for multiple product lines or business units. Any company can use this to show that their addressable market isn't a fixed number but is actively being enlarged by their own R&D, turning product features into new market segments. It frames the company as a category creator, not just a participant in a pre-existing market.",
+   "keywords": [
+    "TAM_expansion",
+    "market_creation",
+    "product_evolution",
+    "expanding_use_cases",
+    "platform_strategy",
+    "innovation_timeline",
+    "deepening_moat",
+    "category_leadership",
+    "addressable_market_growth",
+    "product-led_growth",
+    "compounding_value",
+    "product_roadmap_visualization"
+   ],
+   "works_for": [
+    "Our platform started with e-commerce but has expanded to serve logistics, finance, and healthcare.",
+    "We are not just a CRM; our product roadmap has consistently added marketing automation and customer service modules, tripling our TAM.",
+    "Our initial hardware product has become a full-stack IoT platform, opening up the entire smart home market.",
+    "We continuously add new data integrations and AI models, allowing us to sell into new enterprise departments.",
+    "Our open-source project has evolved into a multi-product enterprise suite, creating a new commercial market.",
+    "Our core API has expanded with new services that address progressively larger and more valuable problems for developers.",
+    "We began by serving small businesses, but have systematically added enterprise-grade features to move upmarket.",
+    "Our evolution from a single tool to a comprehensive platform demonstrates our growing competitive advantage."
+   ],
+   "variable_elements": {
+    "primary_metric": "Product capabilities / Use cases",
+    "secondary_metric": "Product lines / Business units",
+    "time_dimension": "Explicit year-by-year timeline",
+    "comparison_basis": "Self over time"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear product roadmap history",
+     "Key feature or capability launches mapped to specific years",
+     "Multiple product lines or distinct evolutionary phases of a single product"
+    ],
+    "data_shape_needed": "Needs a chronological progression of innovations that can be grouped into meaningful 'expansion' steps.",
+    "minimum_data_points": "4-5+ years of product evolution for at least one core product.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a high valuation by showing the market is much larger than it appears.",
+     "Explaining how a platform company creates value and expands its moat over time.",
+     "Shifting the narrative from a single-product company to a multi-product platform.",
+     "Demonstrating a long-term vision and a history of successful execution against it.",
+     "Arguing that past growth is repeatable because the engine of innovation continues to open new markets.",
+     "Illustrating the compounding effect of R&D investments over many years."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product has not significantly evolved or added major new use cases.",
+     "You are a single-point solution company with no plans to expand into a platform.",
+     "You are an early-stage company without a multi-year history of innovation."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity & Strategy",
+   "position": "middle",
+   "title": "TAM expansion"
+  },
+  {
+   "id": "palantir-2021-business-update#s008",
+   "schema": "rich",
+   "core_message": "We are continuously and rapidly innovating, having launched a diverse portfolio of seven significant new products and capabilities since our DPO, reinforcing our technological leadership and expanding our market reach.",
+   "intents": [],
+   "shows": {
+    "visual_type": "product_showcase_gallery",
+    "specific_content": "A gallery of seven new products or capabilities launched since the company's DPO. Each item has a name and a representative visual, including software UIs (Edge AI, HyperAuto, Cosmos, Apollo, MetaConstellation), a conceptual diagram (OpsPI), and a hardware photo (Titan).",
+    "data_points_shown": "Product Names: Edge AI, HyperAuto, Cosmos, OpsPI, Titan, MetaConstellation, Apollo for customers' SaaS. The visuals imply capabilities in AI/ML, data pipelines, logistics, SaaS management, satellite data, operational intelligence, and hardware."
+   },
+   "abstract_pattern": "Any company can use this pattern to demonstrate the breadth and velocity of its product development since a key milestone (like a funding round, acquisition, or public offering). It visually catalogues new products, features, or capabilities to prove that the company is not stagnant and is actively building its technological moat. This format is effective for communicating a multi-pronged innovation strategy, showing expansion into new areas or deepening capabilities in existing ones, without getting bogged down in the details of any single product.",
+   "keywords": [
+    "product_innovation",
+    "R&D_velocity",
+    "portfolio_expansion",
+    "technology_moat",
+    "product_roadmap_execution",
+    "breadth_of_capability",
+    "innovation_showcase",
+    "new_product_launch",
+    "platform_extension",
+    "continuous_development",
+    "product_momentum",
+    "feature_release"
+   ],
+   "works_for": [
+    "Our platform has expanded from one core product to a full suite covering the entire workflow.",
+    "We've launched five new AI-powered features this year, solidifying our market leadership.",
+    "Since our Series B, we've executed on our promise to build out our enterprise-grade security and compliance modules.",
+    "Our hardware and software ecosystem is growing, with three new devices launched this quarter.",
+    "We are rapidly expanding our service offerings to address new customer segments.",
+    "Look at the pace of our innovation; we're out-building the competition.",
+    "Our R&D investment is paying off with a pipeline of new revenue-generating products."
+   ],
+   "variable_elements": {
+    "primary_metric": "Number and diversity of new products/features",
+    "secondary_metric": "Implied technical complexity or market application of each product",
+    "time_dimension": "Progression since a specific event (e.g., DPO, funding round)",
+    "comparison_basis": "Implicitly, the company's own product portfolio before the milestone event"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of recently launched products or significant features",
+     "A compelling visual (screenshot, diagram, photo) for each item",
+     "A clear milestone to frame the timeline (e.g., 'since last year', 'since our IPO')"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3-4+ new products/features to show meaningful progress",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Demonstrating R&D velocity and execution on a product roadmap.",
+     "Justifying high R&D spend to investors by showing tangible outputs.",
+     "Establishing a technology or innovation moat against competitors.",
+     "Showing how the company is expanding its Total Addressable Market (TAM) through new offerings.",
+     "Updating investors or the market on progress since a major corporate event (IPO, large funding round).",
+     "Shifting the narrative to product leadership and future growth."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You have only launched one or two minor features.",
+     "Your innovation is primarily backend or not easily visualized.",
+     "The narrative focus is purely on sales execution or financial metrics, not product development."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product & Technology",
+   "position": "Middle",
+   "title": "Product / New products released since DPO"
+  },
+  {
+   "id": "palantir-2021-business-update#s009",
+   "schema": "rich",
+   "core_message": "Our platform is the new foundational layer for enterprise application development, analogous to the role AWS played for the previous generation, as evidenced by major customers like Airbus and Merck building their own critical systems on it.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A central abstract diagram representing a platform, with dashed lines connecting to five customer examples. Each example includes a customer logo (wejo, Merck, Swiss Re, Airbus) and an image representing the application they built on the platform. The slide is headlined by a powerful quote comparing the platform's impact to that of AWS.",
+    "data_points_shown": "Customer logos: wejo, Merck, Swiss Re, Airbus. Application/System names: EV Operating System, Athinia, Athena, Skywise, Syntropy."
+   },
+   "abstract_pattern": "This pattern establishes a product as a foundational platform by making a bold analogy to a well-known category creator (e.g., AWS, Stripe, Shopify). It substantiates this claim by showcasing logos of impressive, high-profile customers and the specific, diverse applications they have built using the technology. The 'hub-and-spoke' visual reinforces the idea of a central, enabling platform that fosters an ecosystem of user-created value. Any company can use this to elevate their narrative from being a 'tool' to being the essential 'infrastructure' for an industry.",
+   "keywords": [
+    "platform_story",
+    "ecosystem_proof",
+    "customer_validation",
+    "analogy_to_leader",
+    "category_creation",
+    "enabling_technology",
+    "hub_and_spoke_diagram",
+    "enterprise_adoption",
+    "mission_critical_use_cases",
+    "voice_of_customer",
+    "building_blocks",
+    "social_proof"
+   ],
+   "works_for": [
+    "Our API is the 'Stripe for logistics,' enabling any company to embed shipping into their product.",
+    "We are the 'Shopify for B2B SaaS,' providing the core infrastructure for companies to launch and scale.",
+    "Our developer tools are the 'Figma for AI agents,' where teams collaborate to build and deploy.",
+    "Our data platform is the 'Databricks for biotech,' powering discovery at leading pharma companies.",
+    "We provide the 'operating system for the modern factory,' with customers like BMW and Siemens building their own control towers on top.",
+    "Our security framework is the 'Okta for Web3,' providing the identity layer for decentralized applications.",
+    "Our headless CMS is the 'Contentful for regulated industries,' used by top banks and insurers."
+   ],
+   "variable_elements": {
+    "primary_metric": "High-profile customer logos and their specific use cases.",
+    "secondary_metric": "A powerful quote or analogy comparing the product to a known category leader.",
+    "time_dimension": "Implicit future potential (e.g., 'this decade').",
+    "comparison_basis": "Analogy to a previous generation's category-defining company."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Permission to use logos of well-known, respected customers",
+     "Specific examples of applications or systems built by those customers",
+     "A strong, credible quote or analogy that frames the product's value proposition"
+    ],
+    "data_shape_needed": "Needs a diverse set of customer use cases to demonstrate the platform's flexibility and broad applicability.",
+    "minimum_data_points": "3-5 high-quality, recognizable customer logos with distinct use cases.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When shifting the narrative from being a product to being a foundational platform.",
+     "To justify a high valuation by drawing parallels to a massive, successful tech company.",
+     "To demonstrate the breadth and flexibility of your technology through diverse customer examples.",
+     "When you need to show a strong moat by highlighting the ecosystem built around your product.",
+     "To provide powerful social proof and credibility using logos of market leaders."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your customers are not well-known or impressive brands.",
+     "If your product is a simple point solution, not a platform that others build upon.",
+     "If you lack permission to use customer logos and showcase their use cases."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Customer Proof & Platform Vision",
+   "position": "middle",
+   "title": "Our customers are saying: Foundry is to app developers this decade what AWS was to them last decade"
+  },
+  {
+   "id": "palantir-2021-business-update#s010",
+   "schema": "rich",
+   "core_message": "We are achieving rapid, high-quality growth by both acquiring new customers at a fast pace (71% growth) and significantly increasing spending from our existing customers (131% Net Dollar Retention).",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart_with_kpi_callouts",
+    "specific_content": "A bar chart showing 'Total Customer Count' increasing from 139 in FY 2020 to 237 in FY 2021, with a dashed line indicating +71% growth. Two large text callouts highlight 'Net dollar retention of 131% in 2021' and 'Total customers grew 71%'.",
+    "data_points_shown": "Total Customers (FY 2020): 139; Total Customers (FY 2021): 237; Customer Growth: 71%; Net Dollar Retention (2021): 131%."
+   },
+   "abstract_pattern": "This pattern demonstrates a dual-engine growth story by pairing a 'quantity' metric (like customer count) with a 'quality' or 'expansion' metric (like net dollar retention). It shows that the company is not only successful at acquiring new entities but also at extracting more value from its existing base over time. This 'land and expand' visual proves the business model is healthy, sticky, and compounds growth efficiently. Any company can use this to show that growth is driven by both new business and deepening existing relationships.",
+   "keywords": [
+    "land_and_expand",
+    "dual_growth_engine",
+    "customer_acquisition_and_expansion",
+    "net_dollar_retention",
+    "product_stickiness",
+    "revenue_expansion",
+    "compounding_growth",
+    "customer_health",
+    "growth_quality",
+    "efficient_scaling",
+    "negative_churn"
+   ],
+   "works_for": [
+    "Our user base is growing 50% YoY, and average revenue per user is up 25%.",
+    "We've doubled our store count while increasing same-store sales by 15%.",
+    "Our monthly active users are up 100%, and our power user cohort is spending 3x more time in the app.",
+    "We've expanded to 10 new markets, and our revenue from existing markets grew by 40%.",
+    "Our developer community grew by 80%, and API call volume per developer increased by 60%.",
+    "We are successfully upselling our customers to higher tiers, driving a 120% net revenue retention.",
+    "Not only are we adding more patients, but the average treatment value per patient is also increasing."
+   ],
+   "variable_elements": {
+    "primary_metric": "A count of entities (e.g., customers, users, stores, partners)",
+    "secondary_metric": "An expansion rate or value metric (e.g., Net Dollar Retention, ARPU, Same-Store Sales, usage per user)",
+    "time_dimension": "Year-over-year or period-over-period comparison",
+    "comparison_basis": "Self over time"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a primary count metric (e.g., customer count)",
+     "A corresponding expansion/retention metric for the same period (e.g., Net Dollar Retention, Net Revenue Retention)"
+    ],
+    "data_shape_needed": "Needs strong positive growth in the count metric and an expansion metric ideally over 100% to show net positive expansion.",
+    "minimum_data_points": "Two consecutive time periods (e.g., two years or two quarters) to show a growth percentage.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a 'land and expand' business model is working effectively.",
+     "Demonstrating to investors that growth is healthy and compounds over time.",
+     "Highlighting product stickiness and the ability to upsell or expand within the customer base.",
+     "Showing a powerful combination of new logo acquisition and existing account growth.",
+     "Justifying a high valuation based on strong, efficient growth dynamics.",
+     "In a Series B or later pitch deck to show the growth engine is firing on all cylinders."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your net dollar/revenue retention is below 100%, as it highlights churn.",
+     "Your new customer growth is stagnant or declining.",
+     "You can only show one of the two metrics; the story is weakest without the combination."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Growth & Traction",
+   "position": "middle",
+   "title": "Focus on customer growth"
+  },
+  {
+   "id": "palantir-2021-business-update#s011",
+   "schema": "rich",
+   "core_message": "This slide signals a major transition in the presentation to focus specifically on the performance and importance of the Commercial Business segment.",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_title_slide",
+    "specific_content": "A dark background with the words 'Commercial Business' in large, white, sans-serif font, separated by a horizontal line. The presentation title 'FY 2021 Business Update' and slide number '9' are in the header.",
+    "data_points_shown": "None. This is a textual, transitional slide."
+   },
+   "abstract_pattern": "This is a classic 'section divider' or 'chapter title' slide used to create a clear break in the narrative and signal a deep dive into a new topic. Any company can use this pattern to introduce a new product line, a new market segment, a new strategic initiative, or a specific part of their business they want to highlight. It acts as a signpost for the audience, telling them 'pay attention, we are changing subjects to something important.' The minimalist design focuses all attention on the upcoming topic.",
+   "keywords": [
+    "section_divider",
+    "topic_transition",
+    "narrative_pivot",
+    "focus_attention",
+    "chapter_title",
+    "segment_introduction",
+    "building_anticipation",
+    "thematic_break",
+    "signposting",
+    "narrative_structure"
+   ],
+   "works_for": [
+    "Now let's talk about our new Enterprise Platform.",
+    "The next key area is our International Expansion.",
+    "Let's dive into our Product Roadmap.",
+    "Our second growth pillar is Direct-to-Consumer.",
+    "We will now discuss our path to profitability.",
+    "Let's examine the competitive landscape.",
+    "The next section covers our go-to-market strategy."
+   ],
+   "variable_elements": {
+    "primary_metric": "Topic Name (e.g., Business Unit, Strategic Initiative, Product Line)",
+    "secondary_metric": null,
+    "time_dimension": "N/A (static title)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear presentation structure with distinct sections",
+     "The name of the section to be introduced"
+    ],
+    "data_shape_needed": "N/A (no data is presented)",
+    "minimum_data_points": "1 section name",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Transitioning between major parts of a presentation (e.g., from 'Problem' to 'Solution').",
+     "Introducing a deep dive into a specific business unit, like 'Commercial' vs. 'Government'.",
+     "Signaling a shift from historical performance to future strategy.",
+     "Creating a dramatic pause to emphasize the importance of the next section.",
+     "Breaking up a long, data-heavy presentation to give the audience a mental reset.",
+     "When you have two or more distinct but equally important pillars to your story."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a very short, high-level pitch (e.g., a 3-minute elevator pitch).",
+     "When the presentation has only one single, linear topic with no sub-sections.",
+     "When you want to maintain a very fast pace without any pauses or breaks."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "highly_polished"
+   },
+   "section": "Commercial Business Performance",
+   "position": "middle",
+   "title": "Commercial Business"
+  },
+  {
+   "id": "palantir-2021-business-update#s012",
+   "schema": "rich",
+   "core_message": "Our commercial business is experiencing explosive and accelerating growth, proven by a trifecta of metrics: rapid customer acquisition, accelerating revenue growth, and strong customer expansion (high net dollar retention).",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A multi-part slide showing commercial business momentum. On the left, it lists quarterly year-over-year revenue growth rates for 2021, which are accelerating. Below that, it shows Net Dollar Retention for commercial customers, broken down by overall, US, and International. On the right, a bar chart compares the commercial customer count from FY 2020 to FY 2021, highlighting a 200% increase.",
+    "data_points_shown": "Commercial Revenue Growth YoY: 19% (Q1), 28% (Q2), 37% (Q3), 47% (Q4). Net Dollar Retention: 113% (Overall), 150% (US), 103% (International). Commercial Customer Count: 49 (FY 2020) to 147 (FY 2021)."
+   },
+   "abstract_pattern": "This slide pattern proves momentum in a specific business segment by triangulating three key types of metrics: customer acquisition (top of funnel), customer value expansion (retention/upsell), and the resulting financial outcome (revenue growth). It tells a comprehensive story, showing that growth is not only happening but is also healthy and accelerating. Any company can use this to showcase the success of a new product line, geographic expansion, or go-to-market strategy by connecting the drivers (more customers, spending more) to the outcome (faster revenue growth).",
+   "keywords": [
+    "business_momentum",
+    "growth_acceleration",
+    "segment_deep_dive",
+    "customer_acquisition_growth",
+    "net_dollar_retention",
+    "expansion_revenue",
+    "product_market_fit_proof",
+    "go-to-market_success",
+    "triangulating_metrics",
+    "holistic_growth_story",
+    "flywheel_effect"
+   ],
+   "works_for": [
+    "Our new SMB offering is taking off and showing strong unit economics.",
+    "Our expansion into the European market is showing powerful early traction.",
+    "We are successfully moving upmarket, with enterprise customers growing faster and retaining better.",
+    "Our direct-to-consumer channel is now a major, accelerating growth engine for the company.",
+    "The launch of our new platform has unlocked a new wave of growth from both new and existing users.",
+    "Our marketplace is showing strong network effects, with both buyer and seller growth accelerating.",
+    "We have found product-market fit in a new vertical, and it's scaling rapidly."
+   ],
+   "variable_elements": {
+    "primary_metric": "Customer/User Count Growth",
+    "secondary_metric": "Revenue Growth Rate (or Bookings Growth)",
+    "time_dimension": "Year-over-year and quarter-over-quarter progression",
+    "comparison_basis": "Self over time, with internal segmentation (e.g., by geography, customer size)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data on customer count for a specific segment",
+     "Time-series revenue data for that segment (at least quarterly)",
+     "Cohort-based revenue data to calculate Net Dollar Retention"
+    ],
+    "data_shape_needed": "Needs a clear upward and accelerating trend in growth metrics, and net retention above 100%.",
+    "minimum_data_points": "4+ quarters of revenue growth data, 2+ years of customer count data, and at least one year of cohort data for NDR.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to prove a specific business segment or product line is accelerating.",
+     "To show that growth is healthy, driven by both new logos and existing customer expansion.",
+     "When making the case for a new growth narrative (e.g., commercial overtaking a legacy segment).",
+     "To build investor confidence in a new go-to-market strategy that is starting to work.",
+     "In a Series B or later pitch to demonstrate scalable, repeatable growth.",
+     "During an earnings call to highlight a particularly strong part of the business."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your growth is decelerating or flat.",
+     "If your net dollar retention is below 100%, as it undermines the expansion story.",
+     "If your growth is coming from only one vector (e.g., new customers) but churn is high."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Performance & Growth",
+   "position": "middle",
+   "title": "Commercial momentum"
+  },
+  {
+   "id": "palantir-2021-business-update#s013",
+   "schema": "rich",
+   "core_message": "Our US commercial business is a key growth engine, demonstrating explosive and accelerating growth driven by both rapid new customer acquisition and strong expansion from existing customers.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A dashboard slide with four components showing US commercial momentum: 1) Quarterly YoY revenue growth accelerating from 72% to 132% through 2021. 2) A 150% Net Dollar Retention metric. 3) A bar chart showing customer count growing 371% from 17 to 80 between FY20 and FY21. 4) A line chart showing the segment's share of total revenue increasing from 6% to 13% from FY19 to FY21.",
+    "data_points_shown": "YoY Revenue Growth: 72%, 90%, 103%, 132% for Q1-Q4 2021. Net Dollar Retention: 150%. Customer Count: 17 (FY20), 80 (FY21). % of Overall Revenue: 6% (FY19), 9% (FY20), 13% (FY21)."
+   },
+   "abstract_pattern": "Any company can use this pattern to showcase the momentum of a specific business segment, product line, or geographic market. It works by presenting a 'dashboard' of complementary metrics that, together, paint a comprehensive picture of accelerating growth. The pattern combines a headline growth rate (like revenue growth), a metric showing the source of that growth (like new customers), a metric showing the quality of that growth (like retention), and a metric showing the segment's increasing importance to the overall business.",
+   "keywords": [
+    "growth_acceleration",
+    "segment_momentum",
+    "business_line_deep_dive",
+    "new_growth_engine",
+    "compounding_growth",
+    "product_market_fit_proof",
+    "customer_acquisition_velocity",
+    "revenue_diversification",
+    "market_penetration",
+    "land_and_expand",
+    "retention_proof",
+    "hockey_stick_growth"
+   ],
+   "works_for": [
+    "Our new SMB product is our fastest-growing segment and is showing incredible traction.",
+    "Our expansion into Europe is showing explosive growth and strong unit economics.",
+    "Our enterprise tier is accelerating, driven by both new logos and massive expansion deals.",
+    "We've found product-market fit in the healthcare vertical, and it's becoming a major part of our business.",
+    "Our mobile user base is growing exponentially and showing higher engagement than web.",
+    "Our direct-to-consumer channel is accelerating and improving our overall margin mix.",
+    "The new platform is not just growing, it's accelerating quarter over quarter."
+   ],
+   "variable_elements": {
+    "primary_metric": "Segment revenue growth rate",
+    "secondary_metric": "Customer count, Net Dollar Retention, and % of total revenue",
+    "time_dimension": "Quarterly and Yearly",
+    "comparison_basis": "Self over time (quarterly and yearly) and segment vs. total company"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series revenue data for a specific business segment",
+     "Time-series customer count for that segment",
+     "Net Dollar Retention (or similar expansion metric) for the segment",
+     "Total company revenue data for the same time period"
+    ],
+    "data_shape_needed": "needs accelerating upward trend in the primary growth metric and strong supporting metrics",
+    "minimum_data_points": "4+ quarters to show acceleration; 2-3 years to show longer-term trends",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Highlighting a new or breakout growth engine to investors.",
+     "Proving that a strategic pivot or new market entry is working effectively.",
+     "Demonstrating accelerating product-market fit in a specific vertical or customer segment.",
+     "Justifying increased investment in a particular part of the business.",
+     "In an earnings call, to explain the drivers behind strong top-line growth.",
+     "Showing that the business is successfully diversifying its revenue streams."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Growth is flat, linear, or decelerating.",
+     "The segment is still an immaterial part of the overall business.",
+     "The growth is driven by one-time events rather than a sustainable trend."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "FY 2021 Business Update",
+   "position": "middle",
+   "title": "US commercial momentum"
+  },
+  {
+   "id": "palantir-2021-business-update#s014",
+   "schema": "rich",
+   "core_message": "We are making a massive investment in our sales force, which is a leading indicator that will drive significant future revenue growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "grouped_bar_chart",
+    "specific_content": "A grouped bar chart comparing sales headcount at the end of year 2020 versus 2021. It shows two metrics for each year: total headcount (dark bar) and headcount with tenure greater than 9 months (outline bar).",
+    "data_points_shown": "EOY 2020: Total Headcount 12, Tenured Headcount 6. EOY 2021: Total Headcount 80, Tenured Headcount 25."
+   },
+   "abstract_pattern": "This pattern shows a dramatic increase in an input metric (like headcount or budget) over time to justify a forward-looking claim about a future output (like revenue or user growth). It uses the investment as a leading indicator to build confidence in future performance. The pattern can be strengthened by showing a secondary metric that indicates the quality or maturity of the investment (e.g., tenured staff vs. total staff). Any company can use this to signal a major strategic push and make future forecasts feel more tangible and credible.",
+   "keywords": [
+    "leading_indicator",
+    "investment_for_growth",
+    "input_metric_growth",
+    "capacity_building",
+    "sales_team_scaling",
+    "go-to-market_expansion",
+    "future_growth_justification",
+    "headcount_acceleration",
+    "resource_allocation",
+    "strategic_investment",
+    "building_the_machine"
+   ],
+   "works_for": [
+    "We've tripled our engineering team to accelerate our product roadmap.",
+    "Our marketing spend has quadrupled, building a massive pipeline for next year.",
+    "We are rapidly expanding our physical footprint, with store openings set to double.",
+    "Our investment in R&D is a leading indicator of our future innovation.",
+    "We've scaled our customer support team by 5x to prepare for projected user growth.",
+    "The number of developers building on our platform has grown 10x, signaling future ecosystem value.",
+    "Our investment in new manufacturing capacity will unlock the next phase of growth."
+   ],
+   "variable_elements": {
+    "primary_metric": "An input/investment metric (e.g., headcount, budget, number of locations).",
+    "secondary_metric": "A sub-segment or quality indicator of the primary metric (e.g., tenured headcount, senior engineers, budget for a specific channel).",
+    "time_dimension": "Comparison between two or more distinct time points (e.g., Year-over-Year).",
+    "comparison_basis": "Self over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for an input metric like headcount, department budget, or R&D spend",
+     "A clear narrative connecting the input metric to a future business outcome (e.g., revenue, users)"
+    ],
+    "data_shape_needed": "Needs a dramatic upward trend in the primary metric to be impactful.",
+    "minimum_data_points": "2+ time periods to show a significant change.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a large increase in operating expenses (e.g., Sales & Marketing).",
+     "Signaling a major strategic push into a new market or customer segment.",
+     "Providing a leading indicator for future growth before that growth appears in revenue.",
+     "Building investor confidence in a forward-looking growth story during a fundraising pitch.",
+     "Explaining the use of capital after a recent funding round.",
+     "Showing you are building the operational capacity to scale rapidly."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When the investment is not substantial or visually impressive.",
+     "When you can't draw a credible link between the investment and future results.",
+     "When the primary goal is to show efficiency or profitability, as this slide highlights spending."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Growth Strategy & Investments",
+   "position": "middle",
+   "title": "US commercial sales investments will fuel FY '22 growth"
+  },
+  {
+   "id": "palantir-2021-business-update#s015",
+   "schema": "rich",
+   "core_message": "Our US commercial business is accelerating rapidly, driven by both acquiring valuable new customer cohorts and significant revenue expansion from existing customers over time.",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart",
+    "specific_content": "A stacked bar chart showing total US Commercial Revenue from 2018 to 2021. Each bar represents a year, and the segments within each bar represent the revenue contribution from different customer acquisition cohorts (e.g., '2018 Cohort', '2019 Cohort'). The chart demonstrates that total revenue is growing, and that revenue from individual cohorts (like 2019) is also growing year-over-year.",
+    "data_points_shown": "Total US Commercial Revenue by year: 2018: $39M, 2019: $48M, 2020: $99M, 2021: $201M. Revenue is broken down by cohort contribution for each year."
+   },
+   "abstract_pattern": "This is a 'layer cake' or cohort analysis pattern. It visualizes a key metric (like revenue) over time, broken down by the acquisition vintage of the contributing groups (e.g., customers acquired in a specific year). The pattern is most powerful when it shows two things simultaneously: 1) new cohorts are consistently added, creating new layers of the metric, and 2) existing cohorts (the older layers) are stable or growing, demonstrating retention and expansion. This combination visually proves a compounding growth model driven by both new business and increasing value from the existing customer base.",
+   "keywords": [
+    "cohort_analysis",
+    "net_dollar_retention",
+    "customer_expansion",
+    "revenue_stack",
+    "layer_cake_growth",
+    "product_stickiness",
+    "land_and_expand",
+    "long_term_customer_value",
+    "recurring_revenue_quality",
+    "compounding_growth",
+    "customer_retention",
+    "negative_churn"
+   ],
+   "works_for": [
+    "Our 'land and expand' motion is working, with customers spending more each year.",
+    "We have strong net revenue retention, proving the long-term value of our product.",
+    "Our growth is compounding because we retain customers and they grow with us.",
+    "This shows the health of our subscription base; churn is low and expansion is high.",
+    "Each new user cohort becomes more valuable over time.",
+    "Our marketplace has strong retention, with cohorts transacting more in subsequent years.",
+    "We are building a predictable, multi-layered revenue stream.",
+    "Our product is deeply embedded, leading to significant negative churn."
+   ],
+   "variable_elements": {
+    "primary_metric": "Revenue (can be substituted with GMV, usage minutes, transaction volume, etc.)",
+    "secondary_metric": "Customer acquisition cohort (by year, quarter, or month)",
+    "time_dimension": "Time-series progression (years, quarters)",
+    "comparison_basis": "Self over time, segmented by customer vintage"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key metric (e.g., revenue) at the individual customer level.",
+     "The acquisition date for each customer to assign them to a cohort."
+    ],
+    "data_shape_needed": "Needs to show both the addition of new cohorts over time and the expansion of existing cohorts' metric value (net expansion > churn).",
+    "minimum_data_points": "At least 3-4 time periods (e.g., years) and 3+ cohorts to show the layering and expansion pattern effectively.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a 'land and expand' business model is effective.",
+     "Demonstrating high net revenue retention (NRR) to investors.",
+     "Showing the quality and predictability of a recurring revenue business.",
+     "Justifying a high valuation based on strong customer lifetime value.",
+     "Highlighting the health of a specific customer segment or product line.",
+     "In a Series B or later pitch to show the business model is mature and scalable."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You have high churn and low expansion (the layers will shrink, telling a negative story).",
+     "Your business is purely transactional with no repeat customer behavior.",
+     "You have less than 3 years of data, as the pattern won't be clear."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Performance & Growth Metrics",
+   "position": "middle",
+   "title": "US commercial cohort growth"
+  },
+  {
+   "id": "palantir-2021-business-update#s009",
+   "schema": "rich",
+   "core_message": "Our significant investment in the non-US commercial sales team is already driving rapid acceleration in both customer acquisition and revenue growth, proving our growth strategy for this segment is working.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A multi-part dashboard showing performance for the Non-US commercial business. It displays: 1) Quarterly YoY revenue growth rates for 2021, showing acceleration. 2) A single metric for Net Dollar Retention. 3) A bar chart showing a large increase in sales headcount from EOY 2020 to EOY 2021. 4) A bar chart showing a 109% increase in customer count from FY 2020 to FY 2021.",
+    "data_points_shown": "Non-US Commercial Revenue Growth YoY: 7% (Q1), 14% (Q2), 19% (Q3), 22% (Q4). Net Dollar Retention: 103%. Sales Heads: 4 (EOY 2020) to 29 (EOY 2021). Customer Count: 32 (FY 2020) to 67 (FY 2021), a 109% increase."
+   },
+   "abstract_pattern": "This slide pattern demonstrates a 'cause and effect' growth story for a specific business segment. It starts by showing a significant investment in a key input resource (the 'cause', e.g., sales headcount). It then connects this investment to strong growth in a leading indicator (e.g., customer count). Finally, it shows how these early results are translating into accelerating growth in a key financial outcome (the 'effect', e.g., revenue growth). Any company can use this pattern to justify a strategic investment and prove that its growth playbook is working and repeatable.",
+   "keywords": [
+    "investment_and_return",
+    "cause_and_effect_growth",
+    "growth_acceleration",
+    "leading_and_lagging_indicators",
+    "segment_deep_dive",
+    "justifying_spend",
+    "repeatable_growth_playbook",
+    "scaling_proof",
+    "input_output_metrics",
+    "go-to-market_validation",
+    "momentum_story"
+   ],
+   "works_for": [
+    "Our increased marketing spend is directly leading to faster user acquisition and accelerating ARR.",
+    "We doubled our engineering team, which resulted in a 3x increase in feature shipment and higher user engagement.",
+    "Our investment in a new channel partner program is already yielding a significant increase in qualified leads and pipeline growth.",
+    "By opening a new regional office, we've seen a dramatic acceleration in customer growth in that geography.",
+    "Our new self-serve product (an R&D investment) has cut our sales cycle in half and is driving SMB customer growth.",
+    "We are proving our land-and-expand model works by showing how new customer acquisition is accelerating our net revenue retention.",
+    "The expansion of our distribution network has led to a direct increase in unit sales and market share."
+   ],
+   "variable_elements": {
+    "primary_metric": "An accelerating output metric (e.g., Revenue Growth, ARR Growth)",
+    "secondary_metric": "An input/investment metric (e.g., Headcount, Marketing Spend) and a leading indicator (e.g., Customer Count, Lead Volume)",
+    "time_dimension": "Year-over-year or quarter-over-quarter comparison",
+    "comparison_basis": "Self over time, showing change between two periods for a specific business segment"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for an investment metric (e.g., sales headcount, marketing spend)",
+     "Time-series data for a leading indicator metric (e.g., customer count, user signups)",
+     "Time-series data for a lagging financial metric (e.g., revenue growth rate)",
+     "All data must be attributable to a specific business segment"
+    ],
+    "data_shape_needed": "Needs a clear, significant increase in the investment metric, followed by a clear acceleration or strong positive trend in the output metrics.",
+    "minimum_data_points": "2+ time points for investment/leading indicators (e.g., year-end), 4+ time points for the accelerating metric (e.g., quarters).",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a recent, large increase in operating expenses (like sales & marketing).",
+     "Proving to investors that a new growth strategy or market entry is working.",
+     "Demonstrating a repeatable 'playbook' for growth that can be applied to new segments.",
+     "Showing momentum in a specific part of the business to change the overall company narrative.",
+     "Answering the question 'How will you use this new capital to grow?'",
+     "In a board meeting, to show the early ROI of a strategic bet."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You've increased spending but can't yet show a clear return in customer or revenue metrics.",
+     "Your growth is flat or decelerating despite the investment.",
+     "The connection between the investment and the outcome is weak or purely correlational without a strong narrative."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Segment Deep Dive",
+   "position": "middle",
+   "title": "Non-US commercial: investments in sales in 2022"
+  },
+  {
+   "id": "palantir-2021-business-update#s017",
+   "schema": "rich",
+   "core_message": "This slide acts as a structural signpost, indicating to the audience that the presentation is now shifting focus to the 'Government Business' segment.",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_divider",
+    "specific_content": "A dark-themed slide with large, white, sans-serif text that reads 'Government Business'. The text is separated by a thin horizontal line. It functions as a title card for a new section.",
+    "data_points_shown": "None. This is a purely textual, structural slide."
+   },
+   "abstract_pattern": "Any company can use this pattern to clearly demarcate a shift in topic within a presentation. It serves as a signpost for the audience, signaling that the narrative is moving from one major theme, product line, or business segment to another. This minimalist, high-contrast design creates a moment of pause, allowing the audience to reset their focus before diving into a new set of data and arguments. It is a fundamental tool for creating a clear, well-structured, and easy-to-follow story.",
+   "keywords": [
+    "section_divider",
+    "narrative_structure",
+    "topic_transition",
+    "chapter_break",
+    "signposting",
+    "pacing_control",
+    "audience_guidance",
+    "segment_focus",
+    "business_unit_analysis",
+    "thematic_shift",
+    "presentation_flow"
+   ],
+   "works_for": [
+    "We will now discuss our Enterprise Segment.",
+    "Let's take a look at our International Operations.",
+    "Next, we'll cover the Product Roadmap.",
+    "Our Go-to-Market Strategy is the next topic.",
+    "Let's dive into the Financials.",
+    "Now for a look at the Competitive Landscape.",
+    "This section covers our Technology and IP.",
+    "Let's review our Q3 Performance."
+   ],
+   "variable_elements": {
+    "primary_metric": "Not applicable. The variable is the section title itself.",
+    "secondary_metric": null,
+    "time_dimension": "Not applicable. It marks a point in the presentation's narrative, not a point in time.",
+    "comparison_basis": "Not applicable. It separates sections for future comparison."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A presentation outline with at least two distinct sections or topics."
+    ],
+    "data_shape_needed": "Not applicable. This slide requires a logical presentation outline, not quantitative data.",
+    "minimum_data_points": "2+ distinct presentation sections.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Transitioning between different business units (e.g., Government vs. Commercial).",
+     "Shifting from a macro overview to a specific product deep-dive.",
+     "Moving from discussing the 'Problem' to presenting the 'Solution'.",
+     "Creating a deliberate pause to add dramatic effect before a key section.",
+     "Clearly separating financial results from operational updates in an earnings call.",
+     "When presenting a complex business with multiple revenue streams or customer segments."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a very short presentation (e.g., under 5 slides) where it would feel disruptive.",
+     "In a rapid-fire, informal update where structure is less important than speed.",
+     "When the entire presentation covers a single, indivisible topic."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "highly_polished"
+   },
+   "section": "Government Business",
+   "position": "Middle",
+   "title": "Government Business"
+  },
+  {
+   "id": "palantir-2021-business-update#s018",
+   "schema": "rich",
+   "core_message": "Our growth in the government sector is driven by dramatically increasing the value of our existing customers, not by adding new ones, proving the success of our 'land and expand' strategy.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard_with_chart",
+    "specific_content": "A slide detailing the performance of the 'Government' business segment. The left side lists key metrics: decelerating quarterly YoY revenue growth for 2021, high net dollar retention (total, US, and International), and a flat customer count from 2020 to 2021. The right side features a line chart showing a steep increase in Government Trailing Twelve Month (TTM) Revenue per Customer from 2018 to 2021.",
+    "data_points_shown": "YoY Growth: 76% (Q1), 66% (Q2), 34% (Q3), 26% (Q4). Net Dollar Retention: 146% (Total), 141% (US), 161% (Int'l). Customer Count: 90 (Q4 2020 & Q4 2021). TTM Revenue per Customer: $3.1M (2018), $4.2M (2019), $6.8M (2020), $10.0M (2021)."
+   },
+   "abstract_pattern": "This pattern demonstrates growth driven by deepening existing customer relationships rather than acquiring new ones. It juxtaposes a stable or slowly growing customer count with a sharply increasing metric for customer value, such as 'revenue per customer' or 'average contract value'. This combination powerfully illustrates a successful 'land and expand' model. Any company with long sales cycles and high-value customers can use this to prove that once a customer is won, their value compounds significantly over time, creating a strong, predictable revenue stream from the installed base.",
+   "keywords": [
+    "land_and_expand",
+    "customer_expansion",
+    "revenue_per_customer_growth",
+    "net_dollar_retention",
+    "account_growth",
+    "customer_value_compounding",
+    "existing_customer_monetization",
+    "product_stickiness",
+    "high_switching_costs",
+    "deepening_customer_relationships",
+    "enterprise_sales_model"
+   ],
+   "works_for": [
+    "Our growth comes from our existing customers buying more and more.",
+    "We have a powerful land-and-expand model that drives compounding revenue.",
+    "While our customer base is stable, the value of each customer is skyrocketing.",
+    "Our net retention of over 140% shows how integral our product becomes.",
+    "We focus on high-value customers and grow with them over time.",
+    "Our platform's value increases exponentially after initial deployment.",
+    "We are successfully upselling and cross-selling into our enterprise accounts.",
+    "Our core business is incredibly sticky and generates predictable expansion revenue."
+   ],
+   "variable_elements": {
+    "primary_metric": "Revenue per customer (or ARPA, ACV per customer)",
+    "secondary_metric": "Customer count",
+    "time_dimension": "Year-over-year time series",
+    "comparison_basis": "Self over time"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for revenue per customer (or similar expansion metric)",
+     "Time-series data for customer count for the same segment",
+     "Net Dollar Retention (NDR) or Net Revenue Retention (NRR) for the segment"
+    ],
+    "data_shape_needed": "Needs a strong upward trend in the expansion metric (e.g., revenue per customer) contrasted with a relatively flat or slowly growing trend in the customer count metric.",
+    "minimum_data_points": "3+ years of annual data for the expansion metric; 2+ data points for customer count to show stability.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a successful 'land and expand' business model is working.",
+     "Justifying a focus on enterprise customers with long sales cycles.",
+     "Explaining slowing new customer acquisition when expansion revenue is strong.",
+     "Demonstrating a product's increasing value and stickiness over time.",
+     "Showing a strong moat built on deep customer integration and high switching costs.",
+     "Highlighting the quality and profitability of a mature customer cohort."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your business model is based on high-volume, low-ACV customer acquisition.",
+     "Your revenue per customer is flat or declining.",
+     "You are experiencing significant customer churn and a decreasing customer count."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Segment Performance",
+   "position": "middle",
+   "title": "Government momentum"
+  },
+  {
+   "id": "palantir-2021-business-update#s019",
+   "schema": "rich",
+   "core_message": "Our customer relationships are highly durable and profitable; not only do we retain customers, but they significantly increase their spending with us over time, creating powerful, compounding growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "stacked_bar_chart",
+    "specific_content": "A stacked bar chart showing total government revenue from 2018 to 2021. Each bar represents a year, and the stacks within each bar represent revenue from customer cohorts based on their acquisition year. The chart visually demonstrates that revenue from each cohort grows significantly in the years following acquisition.",
+    "data_points_shown": "Total annual government revenue grows from $255M in 2018 to $897M in 2021. It breaks down revenue by cohort, for example, the pre-2017 cohort grew from $224M in 2018 to $337M in 2021, and the 2020 cohort grew from $77M in 2020 to $227M in 2021."
+   },
+   "abstract_pattern": "This pattern uses a stacked bar chart to visualize cohort performance over time, often called a 'layer cake' or 'cohort smile' chart. Each bar represents a time period (e.g., a year), and the stacks within it represent distinct customer cohorts based on their acquisition date. The key is to show that not only are new cohorts being added (new layers), but the value from existing cohorts (older layers) consistently grows over time. This visually proves strong net retention and the compounding nature of the business model, where growth comes from both new business and expansion within the existing customer base.",
+   "keywords": [
+    "cohort_analysis",
+    "net_revenue_retention",
+    "customer_expansion",
+    "compounding_growth",
+    "land_and_expand",
+    "product_stickiness",
+    "customer_lifetime_value",
+    "durable_revenue",
+    "negative_churn",
+    "unit_economics",
+    "SaaS_metrics",
+    "retention_proof"
+   ],
+   "works_for": [
+    "Our 'land and expand' strategy is working, with customers dramatically increasing their spend after the first year.",
+    "We have strong negative net churn, as expansion revenue from existing customers more than covers any churn.",
+    "Our growth is compounding because our existing customer base becomes more valuable each year.",
+    "The lifetime value of our customers is much higher than their initial contract value.",
+    "Our platform becomes more embedded in our customers' operations over time, leading to increased usage and revenue.",
+    "We demonstrate best-in-class net dollar retention for our industry.",
+    "Our product's value increases for customers the longer they use it.",
+    "Our business model is highly predictable and durable due to strong customer retention and expansion."
+   ],
+   "variable_elements": {
+    "primary_metric": "Revenue, Bookings, or Gross Merchandise Value (GMV)",
+    "secondary_metric": null,
+    "time_dimension": "Time periods (e.g., years, quarters) on the x-axis",
+    "comparison_basis": "Self over time, comparing the performance of different customer cohorts"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series revenue data for each customer",
+     "Customer acquisition date (to assign to a cohort)"
+    ],
+    "data_shape_needed": "Needs to show expansion from older cohorts (older layers in the stack should grow year-over-year) and the addition of new cohorts, creating a 'layer cake' effect.",
+    "minimum_data_points": "3+ years of cohort data to show the expansion trend effectively",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a 'land and expand' business model is working effectively.",
+     "Demonstrating high net revenue retention (NRR) or negative net churn to investors.",
+     "Showing the long-term value and stickiness of customers in a SaaS or subscription business.",
+     "Justifying high customer acquisition costs by showing high lifetime value (LTV).",
+     "Highlighting the predictability and compounding nature of your revenue streams.",
+     "When you need to prove the health of your unit economics at scale."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you have high churn and low expansion (the layers would shrink over time).",
+     "If your business is purely transactional with no repeat/expansion behavior.",
+     "If you only have 1-2 years of data, as the compounding effect won't be visible."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "Customer Economics & Retention",
+   "position": "middle",
+   "title": "Government cohort growth"
+  },
+  {
+   "id": "palantir-2021-business-update#s020",
+   "schema": "rich",
+   "core_message": "Our 'land and expand' model is highly effective; existing customer cohorts dramatically increase their spending over time, creating a powerful, compounding growth engine as new cohorts are layered on top.",
+   "intents": [],
+   "shows": {
+    "visual_type": "stacked_bar_chart",
+    "specific_content": "A stacked bar chart showing total US Government revenue from 2018 to 2021. Each bar represents a year, and the stacks within each bar represent revenue from different customer cohorts based on their acquisition year (e.g., ≤2017, 2018, 2019). The chart shows that revenue from older cohorts grows over time, and new cohorts add layers of new revenue.",
+    "data_points_shown": "Total annual revenue growing from $170M in 2018 to $678M in 2021. It breaks down revenue by cohort, for example, the ≤2017 cohort grew from $169M in 2018 to $237M in 2021."
+   },
+   "abstract_pattern": "This pattern uses a stacked bar chart to visualize cohort performance over time, proving a 'land and expand' strategy. Each bar represents a time period (e.g., a year), and the stacks represent different customer cohorts. The key insight is showing that the metric (e.g., revenue) from older cohorts not only persists but grows over time, demonstrating strong retention and expansion. New cohorts are layered on top, illustrating how new business compounds on a growing base, leading to accelerated, predictable growth.",
+   "keywords": [
+    "cohort_analysis",
+    "land_and_expand",
+    "net_revenue_retention",
+    "customer_stickiness",
+    "compounding_growth",
+    "revenue_expansion",
+    "customer_lifetime_value",
+    "product_moat",
+    "predictable_revenue",
+    "cohort_stacking",
+    "negative_churn"
+   ],
+   "works_for": [
+    "Our customers dramatically increase their spending with us over time.",
+    "We have strong negative churn, as expansion revenue from existing customers outpaces any churn.",
+    "Our platform becomes more integral to our clients' operations each year, leading to higher usage.",
+    "Each new vintage of marketplace sellers grows its GMV on our platform, creating a compounding effect.",
+    "Our free users convert to paid and upgrade tiers over time, creating a predictable revenue stack.",
+    "Our core enterprise segment shows incredible loyalty and expansion, forming a stable base for growth.",
+    "The longer customers are with us, the more valuable they become.",
+    "Our growth is not just from new logos, but from deep penetration within our existing customer base."
+   ],
+   "variable_elements": {
+    "primary_metric": "Revenue",
+    "secondary_metric": "Customer Cohort (by acquisition year)",
+    "time_dimension": "Annual bars over several years",
+    "comparison_basis": "Self over time, segmented by customer cohort"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series revenue data (or other key metric)",
+     "Customer acquisition dates to create cohorts",
+     "Revenue data broken down by individual customer over time"
+    ],
+    "data_shape_needed": "needs upward trend in both total metric and metric from individual cohorts over time (i.e., net retention > 100%)",
+    "minimum_data_points": "3-4 years of data to show the compounding effect",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a 'land and expand' business model is working effectively.",
+     "Visually demonstrating high net revenue retention or negative churn.",
+     "Showing investors the predictability and compounding nature of your revenue.",
+     "Justifying a high valuation based on customer stickiness and lifetime value.",
+     "Highlighting the strength and profitability of a core customer segment.",
+     "When you want to show that your product has a strong moat and is hard to displace."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you have high churn and low expansion (cohorts shrink over time).",
+     "If your business is purely transactional with no repeat customer relationships.",
+     "If you don't have at least 3 years of clean, cohort-able data."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Customer Cohort Analysis",
+   "position": "middle",
+   "title": "US government cohort"
+  },
+  {
+   "id": "palantir-2021-business-update#s021",
+   "schema": "rich",
+   "core_message": "This slide serves as a bold declaration that the company is focused on and has a clear plan to achieve GAAP profitability, setting the stage for the financial proof points that will follow.",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_header",
+    "specific_content": "Large, white, sans-serif text on a black background that reads 'Path to GAAP Profitability'. The text is split into two lines, separated by a thin horizontal line.",
+    "data_points_shown": "None. This is a textual title slide."
+   },
+   "abstract_pattern": "This is a 'Thesis Statement' or 'Declaration of Intent' slide. It's used to introduce a critical strategic pillar, often one that addresses a key investor question or concern, such as profitability, market entry, or competitive dominance. By using bold, minimalist typography, it creates a moment of focus and signals that the following slides will provide the evidence to support this central claim. Any company can use this pattern to pivot the narrative or emphasize a core goal that demonstrates business maturity and long-term viability.",
+   "keywords": [
+    "path_to_profitability",
+    "strategic_focus",
+    "thesis_statement",
+    "section_header",
+    "investor_assurance",
+    "financial_discipline",
+    "addressing_concerns",
+    "long-term_viability",
+    "business_maturity",
+    "declaration_of_intent",
+    "bold_statement"
+   ],
+   "works_for": [
+    "Our strategy for winning the enterprise market.",
+    "The roadmap to becoming cash-flow positive.",
+    "How we will achieve market leadership in our category.",
+    "Our framework for sustainable, long-term growth.",
+    "The next chapter: Global expansion.",
+    "Our plan to build an enduring competitive moat.",
+    "The three pillars of our product strategy."
+   ],
+   "variable_elements": {
+    "primary_metric": "The core strategic goal being declared (e.g., GAAP Profitability, Market Leadership, Global Scale).",
+    "secondary_metric": null,
+    "time_dimension": "Implied future state ('Path to...', 'Roadmap for...').",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clearly defined strategic goal to announce. The slide itself has no data, but it promises that the following slides will have supporting data (e.g., financial trends, market analysis, strategic plans)."
+    ],
+    "data_shape_needed": "This slide requires a narrative turning point. The data that follows must show a clear trend or plan supporting the declared goal (e.g., narrowing losses, improving margins, market share gains).",
+    "minimum_data_points": "N/A for this slide, but the subsequent section would need at least 4-6 quarters of data to be credible.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the financial section of an investor or board presentation.",
+     "Signaling a strategic shift from 'growth at all costs' to 'profitable growth'.",
+     "Directly addressing common investor questions about long-term financial viability.",
+     "Creating a strong transition to a new section of the presentation.",
+     "Making a bold, confident statement about the company's future direction.",
+     "When a company is maturing and needs to prove its business model is sustainable."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In an early-stage (Seed/Series A) pitch where the focus is on product-market fit and vision.",
+     "If you cannot provide credible evidence in the following slides to support the claim.",
+     "In a presentation focused on product features or technical details."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financials & Profitability",
+   "position": "middle",
+   "title": "Path to GAAP Profitability"
+  },
+  {
+   "id": "palantir-2021-business-update#s022",
+   "schema": "rich",
+   "core_message": "We operate a highly profitable and efficient business, consistently maintaining best-in-class adjusted gross margins above 80% while also improving our standard GAAP margins.",
+   "intents": [],
+   "shows": {
+    "visual_type": "line_chart",
+    "specific_content": "A dual-line chart tracking GAAP Gross Margin (GM) and Adjusted Gross Margin (Adj GM) on a quarterly basis from Q4 2020 to Q4 2021. The 'Adj GM' line remains high and stable in the 82-84% range. The 'GAAP GM' line starts at 78%, dips to 76%, and recovers to 80%, showing an overall improvement over the period.",
+    "data_points_shown": "Time Period: Q4 2020 to Q4 2021. Adjusted GM: 84%, 83%, 82%, 82%, 83%. GAAP GM: 78%, 78%, 76%, 78%, 80%."
+   },
+   "abstract_pattern": "This pattern showcases two related performance metrics over time: a primary 'adjusted' or 'core' metric and a secondary 'standard' or 'GAAP' metric. The primary metric is shown to be consistently high and stable, proving the fundamental strength and efficiency of the core operation. The secondary metric, while lower, is shown to be stable or improving, demonstrating progress towards full, standardized profitability. Any company can use this to highlight the health of its underlying business model while transparently showing the path to improving its official financial results.",
+   "keywords": [
+    "margin_stability",
+    "profitability_proof",
+    "financial_health",
+    "GAAP_vs_non-GAAP",
+    "unit_economics",
+    "high_margin_business",
+    "operating_leverage",
+    "metric_consistency",
+    "path_to_profitability",
+    "core_vs_all-in_metrics",
+    "financial_discipline"
+   ],
+   "works_for": [
+    "Our contribution margin is consistently high, and our overall net margin is steadily improving.",
+    "Our core product retention is stable at 95%, while overall customer retention is increasing as we reduce churn in smaller segments.",
+    "Our adjusted EBITDA has been positive for a year, and we are on a clear path to GAAP net income profitability.",
+    "Our organic user growth rate is consistently high, and our blended growth rate is improving as paid acquisition becomes more efficient.",
+    "Our platform's uptime is a stable 99.99%, and our customer-reported satisfaction scores are trending upwards.",
+    "We have best-in-class software margins, demonstrating the efficiency of our business model at scale.",
+    "Our non-GAAP operating income shows the core business is profitable, and we are managing stock-based compensation to improve GAAP results."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key 'adjusted' or 'core' performance metric (e.g., Adjusted Gross Margin, Contribution Margin, Core Product Engagement).",
+    "secondary_metric": "The corresponding 'standard' or 'GAAP' version of the metric (e.g., GAAP Gross Margin, Net Margin, Overall Engagement).",
+    "time_dimension": "Time-series, typically quarterly or annually.",
+    "comparison_basis": "Self over time, comparing an adjusted/core metric to its standard/GAAP counterpart."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key profitability or efficiency metric",
+     "Data for both a GAAP/standard version and a non-GAAP/adjusted version of that metric",
+     "A clear definition of the adjustment between the two metrics (e.g., stock-based compensation)"
+    ],
+    "data_shape_needed": "Needs a high and relatively stable trend for the primary (adjusted) metric, and a stable or improving trend for the secondary (GAAP) metric.",
+    "minimum_data_points": "4-5 time periods (e.g., quarters) to establish a credible trend or pattern of stability.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving the fundamental profitability of your product, separate from non-cash expenses like stock-based compensation.",
+     "Reassuring investors about financial health and margin stability, especially for a mature or public company.",
+     "Showing a clear path to GAAP profitability by demonstrating the gap between adjusted and GAAP metrics is stable or narrowing.",
+     "Benchmarking your company as a top-tier performer with best-in-class margins.",
+     "In an investor day or earnings call to justify valuation and long-term financial targets."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your margins are low, volatile, or declining across the board.",
+     "If the gap between your adjusted and GAAP metrics is widening, as it may signal deteriorating financial discipline.",
+     "For very early-stage companies where the distinction between GAAP and non-GAAP is not yet relevant."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Performance",
+   "position": "middle",
+   "title": "Gross margins"
+  }
+ ]
+}

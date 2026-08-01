@@ -1,0 +1,781 @@
+{
+ "deck": "snap-2024",
+ "company": null,
+ "narrative_summary": null,
+ "stage": null,
+ "industry": null,
+ "record_count": 28,
+ "records": [
+  {
+   "id": "snap-2024#s001",
+   "schema": "light",
+   "core_message": "To establish a clean, confident, and modern tone for the presentation, clearly stating the company name and the document's purpose without any distraction.",
+   "intents": [
+    "Confident",
+    "Modern",
+    "Bold"
+   ],
+   "shows": {
+    "specific_content": "The slide features a solid, bright yellow background that fills the entire frame. The company name, 'Snap Inc.', is rendered in a black serif font and centered in the upper half of the slide. Below it, in the bottom-left corner, the words 'Investor Presentation' and the year '2024' are written in a smaller, black sans-serif font. There are no images, logos, or other graphical elements, creating a design that is clean, direct, and high-contrast. The visual hierarchy is simple, drawing the eye first to the company name and then to the contextual title."
+   },
+   "abstract_pattern": "This format uses extreme minimalism to create a bold, confident opening statement. The focus is entirely on the company name and presentation title, conveying authority.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Company Name (String)",
+    "Presentation Title (String)",
+    "Year (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Introduction",
+   "position": null,
+   "title": "Minimalist Title Page"
+  },
+  {
+   "id": "snap-2024#s002",
+   "schema": "light",
+   "core_message": "To clearly and unequivocally define the company's identity, core belief, and overarching mission, setting a purpose-driven context for the business strategy that follows.",
+   "intents": [
+    "Purposeful",
+    "Clear",
+    "Aspirational"
+   ],
+   "shows": {
+    "specific_content": "The slide has a clean white background with black text. At the top, a single sentence, 'Snap Inc. is a technology company.', is highlighted with a bright yellow background, making it the primary focal point. Below this statement, two paragraphs of un-highlighted, sans-serif text explain the company's belief in the camera as a tool for communication and its mission to contribute to human progress. The layout is simple and balanced, with ample white space that allows the powerful, mission-driven statements to stand out. The company logo and page number are placed subtly in the corners."
+   },
+   "abstract_pattern": "This format is used to clearly state the company's core identity, mission, and purpose. It uses simple, declarative text to establish the 'why' behind the business.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Company Identity Statement (String, e.g., 'Snap Inc. is a technology company.')",
+    "Core Belief Statement (String of text)",
+    "Mission Statement (String of text)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Introduction",
+   "position": null,
+   "title": "Mission Statement Slide"
+  },
+  {
+   "id": "snap-2024#s003",
+   "schema": "light",
+   "core_message": "To provide a clear, high-level overview of the core investment thesis, setting the agenda and providing a mental framework for the detailed information that will follow in the presentation.",
+   "intents": [
+    "Strategic",
+    "Organized",
+    "Confident"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two main vertical sections. The left section has a bright yellow background with the main title, 'Investment Thesis,' and a brief summary of the overall strategy. The right, larger section has a white background and lists five key pillars of the thesis: 'LARGE AUDIENCE,' 'REVENUE GROWTH,' 'ADVANCING AUGMENTED REALITY,' 'OPERATING LEVERAGE and FCF GENERATION,' and 'CONSERVATIVE CAPITAL STRUCTURE.' Each pillar is in bold, black, all-caps text, followed by a short sentence that elaborates on the point. This creates a clear visual rhythm of 'Pillar' and 'Proof,' making the entire investment case easy to grasp at a high level."
+   },
+   "abstract_pattern": "This slide acts as an executive summary for an investment thesis, breaking down a complex strategy into a few key pillars. It's designed to give the audience a clear framework for the rest of the presentation.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Main Thesis Title (String, e.g., 'Investment Thesis')",
+    "Overall Strategy Summary (String of text)",
+    "List of Key Pillars (Array of strings, e.g., 'LARGE AUDIENCE', 'REVENUE GROWTH')",
+    "Brief Explanations for each Pillar (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Introduction",
+   "position": null,
+   "title": "Investment Thesis Pillars"
+  },
+  {
+   "id": "snap-2024#s004",
+   "schema": "light",
+   "core_message": "To cleanly and forcefully introduce a new section of the presentation, focusing the audience's attention on the theme of market size and opportunity.",
+   "intents": [
+    "Bold",
+    "Focused",
+    "Clear"
+   ],
+   "shows": {
+    "specific_content": "The entire slide is a single, flat field of bright yellow. The only element on the slide, besides the small company name in the corner, is the title, 'A Growing Addressable Market,' rendered in a large, bold, black sans-serif font. The text is centered, commanding the viewer's full attention. There are no images or other graphical distractions. This minimalist design choice functions as a visual 'deep breath,' signaling that a new, important section of the presentation is about to begin."
+   },
+   "abstract_pattern": "This minimalist slide uses large, bold text on a solid color background to serve as a powerful transition or chapter header, focusing the audience's attention on the upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Problem",
+   "position": null,
+   "title": "Bold Section Divider"
+  },
+  {
+   "id": "snap-2024#s005",
+   "schema": "light",
+   "core_message": "To demonstrate the significant opportunity for user growth by showing the company's relatively low penetration of the total smartphone user base in its key markets.",
+   "intents": [
+    "Opportunistic",
+    "Expansive",
+    "Analytical"
+   ],
+   "shows": {
+    "specific_content": "The slide presents three main sections horizontally for 'North America,' 'Europe,' and 'Rest of World.' Each section features a large pie chart where a small yellow slice represents Snap's penetration, and the large gray area represents the rest of the market. Key data points, such as '22% Penetration' and '100M DAU' for North America, are clearly labeled above each chart. Below each chart, the total addressable market is quantified in terms of total smartphones (e.g., '~445M Smartphones'). The repetitive, clean layout makes it easy to compare the regions and reinforces the message of significant room for growth, especially in the 'Rest of World' segment."
+   },
+   "abstract_pattern": "This format uses comparative pie charts to visualize market penetration across different geographic regions, effectively highlighting untapped potential and the total addressable market.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "List of Geographic Regions (Array of strings)",
+    "Penetration Percentage for each region (Number)",
+    "Daily Active Users (DAU) for each region (Number)",
+    "Total Addressable Market size for each region (e.g., Number of Smartphones)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Problem",
+   "position": null,
+   "title": "Regional Penetration Snapshot"
+  },
+  {
+   "id": "snap-2024#s006",
+   "schema": "light",
+   "core_message": "To establish the massive scale and healthy growth of the digital advertising market, positioning it as a large and expanding opportunity that the company can capitalize on.",
+   "intents": [
+    "Positive",
+    "Growing",
+    "Opportunistic"
+   ],
+   "shows": {
+    "specific_content": "The slide is dominated by a single, clean bar chart titled 'Worldwide Digital Ad Spend'. The x-axis shows the years from 2020 to 2028, and the y-axis shows spending in billions of dollars. The light gray bars show a steady and significant increase in height from left to right, starting at $377B in 2020 and projected to reach $1,040B in 2028. A clear headline above the chart quantifies this growth, stating it's expected to grow by ~$351B at an 11% CAGR. The design is minimalist, with a white background and no distracting elements, ensuring the focus is entirely on the massive scale and positive trajectory of the market."
+   },
+   "abstract_pattern": "This format uses a simple bar chart to show the projected growth of a total addressable market (TAM) over several years. It establishes the scale of the opportunity and the favorable market tailwinds.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Chart Title (String)",
+    "Subtitle with key stat (String, e.g., 'Expected to Grow by ~$351B... at an 11% CAGR')",
+    "Time-series Data for Market Size (e.g., Yearly Digital Ad Spend)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Problem",
+   "position": null,
+   "title": "Market Growth Forecast"
+  },
+  {
+   "id": "snap-2024#s007",
+   "schema": "light",
+   "core_message": "To argue that there is a massive opportunity for revenue growth by highlighting the disproportionately large and valuable audience the company reaches compared to its current small share of the ad market.",
+   "intents": [
+    "Underestimated",
+    "Potential",
+    "Compelling"
+   ],
+   "shows": {
+    "specific_content": "The slide presents a striking visual contrast. On the left, a large pie chart represents the '2024 US Digital Ad Market,' with Snapchat's sub-2% share shown as a tiny, almost invisible yellow sliver. This effectively communicates how small their current revenue footprint is. On the right, this is juxtaposed with large, bold text stating, 'Yet reaches 75% of the 13- to 34-year-old population in the US.' The huge disparity between the tiny visual share and the massive text claim creates a compelling narrative of untapped potential. The layout is clean and uses ample white space to let the two opposing facts create maximum impact."
+   },
+   "abstract_pattern": "This format contrasts a small current market share with a dominant audience reach to create a compelling argument. It highlights a significant mismatch between monetization and influence, implying a large growth opportunity.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Company's Market Share Percentage (Number)",
+    "Total Market Size (Number and String, e.g., '$309B')",
+    "Key Audience Reach Statistic (Number and String, e.g., '75% of the 13- to 34-year-old population')"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Problem",
+   "position": null,
+   "title": "Market Share Mismatch"
+  },
+  {
+   "id": "snap-2024#s008",
+   "schema": "light",
+   "core_message": "To cleanly and forcefully introduce a new section of the presentation, focusing the audience's attention on the company's product and innovation.",
+   "intents": [
+    "Bold",
+    "Focused",
+    "Clear"
+   ],
+   "shows": {
+    "specific_content": "The entire slide consists of a single, flat field of bright yellow. The only element on the slide, apart from the small company name in the corner, is the title, 'Our Product,' rendered in a large, bold, black sans-serif font. The text is centered, commanding the viewer's full attention. There are no images or other graphical distractions. This minimalist design choice functions as a visual cue, signaling that a new, important section of the presentation is about to begin."
+   },
+   "abstract_pattern": "This minimalist slide uses large, bold text on a solid color background to serve as a powerful transition or chapter header, focusing the audience's attention on the upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Bold Section Divider"
+  },
+  {
+   "id": "snap-2024#s009",
+   "schema": "light",
+   "core_message": "To demonstrate a strong and consistent track record of innovation, and to visually argue that this continuous product development has been the primary engine of the company's user growth.",
+   "intents": [
+    "Innovative",
+    "Dynamic",
+    "Proven"
+   ],
+   "shows": {
+    "specific_content": "The slide features a timeline that charts the growth of Daily Active Users (DAU) from under 100M to over 400M from 2011 to 2024. The DAU growth is represented by a rising diagonal line marked with data points for key years. Along this timeline, dozens of product and feature launches (e.g., 'Stories,' 'Lenses,' 'Snap Map,' 'My AI') are plotted with icons and labels, corresponding to the year they were introduced. This visually dense layout effectively shows a constant stream of innovation that coincides with the steady upward march of user growth, making the connection between the two feel direct and undeniable."
+   },
+   "abstract_pattern": "This format overlays key product launches and innovations onto a user growth curve. It visually argues that a consistent track record of innovation is the direct driver of growth.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Growth Metric (e.g., DAU over years)",
+    "List of Key Innovations with Launch Dates (Array of strings and dates)",
+    "Icons for each innovation (Optional vector images)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Innovation Growth Timeline"
+  },
+  {
+   "id": "snap-2024#s010",
+   "schema": "light",
+   "core_message": "To introduce and explain the five core pillars of the Snapchat product, showcasing the breadth of the user experience and the value of each key feature.",
+   "intents": [
+    "Vibrant",
+    "Engaging",
+    "Comprehensive"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized into five vertical columns, each dedicated to a core feature of the Snapchat app: 'SNAP MAP,' 'CHAT,' 'CAMERA,' 'STORIES,' and 'SPOTLIGHT.' Each column displays a large, high-quality screenshot of that feature in action on a mobile device. Below each screenshot is a short, descriptive paragraph explaining what the feature does and its value to the user (e.g., 'Connect with friends and explore what is going on in the local area.'). The clean, organized grid layout is easy to scan and provides a comprehensive yet digestible overview of the entire Snapchat experience in a single glance."
+   },
+   "abstract_pattern": "This format uses a grid of product screenshots to provide a quick, visual tour of a platform's core features. Each feature is paired with a concise benefit statement to explain its purpose and value to the user.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "List of Core Features/Products (Array of strings)",
+    "High-quality screenshot for each feature (Image files)",
+    "A concise benefit statement for each feature (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Core Product Showcase"
+  },
+  {
+   "id": "snap-2024#s011",
+   "schema": "light",
+   "core_message": "To announce and explain the upcoming simplified redesign of the Snapchat app, highlighting the key user benefits and reassuring investors that the changes support long-term business goals.",
+   "intents": [
+    "Innovative",
+    "Simplified",
+    "Promising"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized with a clear title announcing 'Simple Snapchat On Track to Launch in 2025.' On the left side, three key principles of the new design ('Open to Camera,' 'Conversations all in one Place,' 'Personalized Content') are presented as bold headings followed by explanatory text. On the right side, three corresponding mobile UI mockups are displayed, visually demonstrating how these principles will look in the app. The layout is clean and balanced, with the text on the left explaining the concepts and the images on the right providing the visual proof."
+   },
+   "abstract_pattern": "This format is used to announce and explain a future product vision or redesign. It pairs key principles with UI mockups to make the upcoming changes tangible and communicate the user benefits.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Product Launch Year (String)",
+    "List of Key Principles/Benefits (Array of strings)",
+    "Explanatory text for each principle (Array of strings)",
+    "UI mockups or screenshots for each principle (Image files)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Product Vision Showcase"
+  },
+  {
+   "id": "snap-2024#s012",
+   "schema": "light",
+   "core_message": "To impress upon the audience the massive scale, deep engagement, and valuable demographic reach of the Snapchat community, establishing it as a core asset of the business.",
+   "intents": [
+    "Vibrant",
+    "Impressive",
+    "Connected"
+   ],
+   "shows": {
+    "specific_content": "The slide uses a dynamic two-column layout. The left half is a visually engaging collage of user-generated content and avatars, presented in a grid of rounded rectangles, giving a feel for the community's creativity and diversity. The right half has a bright yellow background and features three key metrics presented in a large, bold, black font: '850M+' monthly active users, '#1' reason for use (staying connected), and '75%' reach in a key demographic. Each metric is followed by a short, descriptive sentence. The contrast between the busy, colorful collage and the clean, bold text on the right makes the slide both visually interesting and easy to read."
+   },
+   "abstract_pattern": "This format combines a vibrant, humanizing visual collage with large, bold KPIs to define and quantify a user base. It's used to showcase the scale, reach, and core value proposition of a community.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "A collage of user-generated content or user photos (Image file)",
+    "Key Metric 1 (e.g., '850M+' for Monthly Active Users)",
+    "Key Metric 2 (e.g., '#1' for Global Reason for Using Snapchat)",
+    "Key Metric 3 (e.g., '75%' for 13- to 34-year-old population reach)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "Audience Snapshot"
+  },
+  {
+   "id": "snap-2024#s013",
+   "schema": "light",
+   "core_message": "To provide clear, quantitative evidence of strong and sustained growth in the daily active user base, and to show that this growth is being driven by successful international expansion.",
+   "intents": [
+    "Growing",
+    "Consistent",
+    "Global"
+   ],
+   "shows": {
+    "specific_content": "The slide is dominated by a large stacked bar chart that tracks 'Daily Active Users (M)' quarterly from Q1 2021 to Q4 2024. Each bar is divided into three segments: 'North America DAU' (yellow), 'Europe DAU' (light gray), and 'Rest of World DAU' (dark gray). The chart clearly shows a steady upward trend in total DAUs, with the 'Rest of World' segment being the primary contributor to growth. A clear legend is provided at the top, and the axes are clearly labeled. The overall design is clean, professional, and data-forward, making the growth story easy to interpret."
+   },
+   "abstract_pattern": "This stacked bar chart is used to show strong and consistent growth in a core user metric over time. Stacking the bars by region or segment adds a layer of detail, showing the geographic or categorical drivers of the overall growth.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Chart Title (String)",
+    "Time-series data for a key metric (e.g., Daily Active Users), broken down by segments (e.g., North America, Europe, Rest of World)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Traction",
+   "position": null,
+   "title": "User Growth Chart"
+  },
+  {
+   "id": "snap-2024#s014",
+   "schema": "light",
+   "core_message": "To articulate the multi-faceted strategy for growing and deepening engagement within the global community, showing a thoughtful approach that goes beyond just acquiring new users.",
+   "intents": [
+    "Strategic",
+    "Focused",
+    "Clear"
+   ],
+   "shows": {
+    "specific_content": "The slide uses a two-column layout. The left column contains a large, bold title ('Expanding Our Global Community') on a bright yellow background, acting as the slide's main theme. The right column, against a clean white background, lists four strategic pillars in bold, all-caps text: 'RELATIONSHIPS,' 'CONTENT DIVERSITY,' 'PERSONALIZATION,' and 'PRODUCT EXCELLENCE/LEADERSHIP.' Each pillar is followed by a short paragraph that explains the goal and approach for that area of focus. The strong typographic hierarchy and ample white space make the strategy easy to read and understand."
+   },
+   "abstract_pattern": "This format lays out a company's high-level strategy by defining a few key pillars. It uses bold headings and concise explanatory text to communicate the core areas of focus.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Main Title (String)",
+    "List of Strategic Pillars (Array of strings, e.g., 'RELATIONSHIPS', 'PERSONALIZATION')",
+    "Brief explanatory text for each pillar (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Strategic Pillars Slide"
+  },
+  {
+   "id": "snap-2024#s015",
+   "schema": "light",
+   "core_message": "To explain the dual-sided nature of Snap's creator ecosystem, showing how the platform supports and leverages both traditional content creators and the technical community of AR developers.",
+   "intents": [
+    "Comprehensive",
+    "Organized",
+    "Creative"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized into two main vertical sections: 'CONTENT CREATORS' and 'AR CREATORS,' under the main title 'Creator Ecosystem.' Each section contains three specific examples (e.g., 'Creator Stories,' 'Spotlight' for content creators; 'Augmented Reality,' 'Camera Kit' for AR creators). Each example is represented by a descriptive text block and a simple, bold icon enclosed in a yellow circle. This modular, symmetrical layout makes it easy to understand the different facets of the creator ecosystem and how Snap supports both content production and AR development."
+   },
+   "abstract_pattern": "This format is used to break down a complex ecosystem into its core components. It pairs icons with descriptions to explain how different parts of the business function and contribute to the whole.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Two main ecosystem categories (Strings, e.g., 'CONTENT CREATORS', 'AR CREATORS')",
+    "List of sub-points for each category (Array of strings, e.g., 'Creator Stories', 'Augmented Reality')",
+    "Brief description for each sub-point (Array of strings)",
+    "Icon for each sub-point (Vector images)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Ecosystem Breakdown"
+  },
+  {
+   "id": "snap-2024#s016",
+   "schema": "light",
+   "core_message": "To articulate the company's comprehensive, three-pronged strategy for investing in and winning the future of Augmented Reality, showcasing its deep commitment to the space.",
+   "intents": [
+    "Visionary",
+    "Ambitious",
+    "Comprehensive"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into three clean vertical columns, separated by thin lines: 'AR Creation,' 'Spectacles Hardware,' and 'Purpose-Built OS.' Each column is clearly titled and contains a heading for the specific product (e.g., 'Lens Studio,' 'Spectacles,' 'SnapOS') along with several paragraphs of descriptive text explaining its function and importance. The layout is clean, symmetrical, and text-heavy, designed to provide substantive detail on each component of the long-term AR strategy. The use of simple icons next to the product names adds a touch of visual branding to each pillar."
+   },
+   "abstract_pattern": "This three-column layout is used to detail a company's strategic vision for a key initiative. It breaks the strategy down into three distinct, manageable pillars, making a complex future plan feel organized and achievable.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Introductory paragraph (String)",
+    "Title for Pillar 1 (e.g., 'AR Creation')",
+    "Title for Pillar 2 (e.g., 'Spectacles Hardware')",
+    "Title for Pillar 3 (e.g., 'Purpose-Built OS')",
+    "Detailed descriptive text for each pillar (Strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Solution",
+   "position": null,
+   "title": "Three-Pillar Vision"
+  },
+  {
+   "id": "snap-2024#s017",
+   "schema": "light",
+   "core_message": "To cleanly and forcefully introduce a new section of the presentation, focusing the audience's attention on the company's monetization strategy.",
+   "intents": [
+    "Bold",
+    "Focused",
+    "Direct"
+   ],
+   "shows": {
+    "specific_content": "The entire slide consists of a single, flat field of bright yellow. The only element on the slide, apart from the small company name in the corner, is the title, 'Monetization,' rendered in a large, bold, black sans-serif font. The text is centered, commanding the viewer's full attention. There are no images or other graphical distractions. This minimalist design choice functions as a visual cue, signaling that the presentation is shifting to the crucial topic of how the business makes money."
+   },
+   "abstract_pattern": "This minimalist slide uses large, bold text on a solid color background to serve as a powerful transition or chapter header, focusing the audience's attention on the upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "Bold Section Divider"
+  },
+  {
+   "id": "snap-2024#s018",
+   "schema": "light",
+   "core_message": "To demonstrate the significant and continuous improvements made to the ad platform, particularly in response to industry changes like Apple's ATT framework, and to build confidence in the platform's current and future performance.",
+   "intents": [
+    "Adaptive",
+    "Iterative",
+    "Resilient"
+   ],
+   "shows": {
+    "specific_content": "The slide features a horizontal timeline that spans from 2023 to 2024. Along this timeline, key improvements to the direct-response ad platform are plotted chronologically. Each improvement (e.g., 'New Models,' 'Bigger Models,' 'Improved Signal') is marked with the quarter it was launched (e.g., 'Q1', 'Q2') and is accompanied by a short block of text explaining what the improvement was and its benefit. This layout clearly illustrates a continuous stream of enhancements, supporting the narrative that the company has been actively working to evolve its technology."
+   },
+   "abstract_pattern": "This format uses a timeline to showcase a series of product improvements over time. It visually demonstrates a commitment to iteration and progress, telling a story of how the product has evolved to meet challenges.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Subtitle (String)",
+    "List of key improvements with launch dates/quarters (Array of strings)",
+    "Brief description for each improvement (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "Product Improvement Timeline"
+  },
+  {
+   "id": "snap-2024#s019",
+   "schema": "light",
+   "core_message": "To clearly and persuasively summarize the four key reasons why Snapchat is a valuable platform for advertisers, covering audience, performance, ad products, and brand safety.",
+   "intents": [
+    "Compelling",
+    "Confident",
+    "Trustworthy"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized into four distinct vertical columns, each representing a pillar of the advertiser value proposition: 'AUDIENCE REACH AND ENGAGEMENT,' 'ADVERTISING PERFORMANCE,' 'COMPELLING AD FORMATS,' and 'BRAND-SAFE ENVIRONMENT.' Each column has a bold, all-caps heading, followed by a paragraph of text that explains the benefit and provides a proof point (e.g., 'reaches over 75% of the 13- to 34-year-old population...'). The clean separation with thin lines and ample white space makes the four key selling points easy to read and differentiate, creating a strong summary of why advertisers should choose Snapchat."
+   },
+   "abstract_pattern": "This four-column grid is used to articulate the core value proposition for a specific customer segment (in this case, advertisers). Each column represents a key pillar of value, making the 'why' clear and compelling.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Subtitle (String)",
+    "Four Pillar Titles (Array of strings)",
+    "Descriptive text for each pillar (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "Value Proposition Grid"
+  },
+  {
+   "id": "snap-2024#s020",
+   "schema": "light",
+   "core_message": "To demonstrate that Snap's advertising platform is a comprehensive, full-funnel solution that can meet the needs of both brand-oriented and direct-response advertisers.",
+   "intents": [
+    "Comprehensive",
+    "Strategic",
+    "Capable"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two main sections. On the left, text explains that ~70% of revenue comes from direct-response ads and that the company is focused on improving down-funnel conversions. On the right, a visual diagram showcases the 'Full-Funnel' offerings. A bold yellow bar at the top says 'BUILD AWARENESS' and one at the bottom says 'DRIVE CONVERSIONS.' In between, eight white buttons represent different advertiser objectives, such as 'Brand Impact,' 'Website Traffic,' 'App Downloads,' and 'Online Sales,' visually bridging the gap between the top and bottom of the funnel. This layout effectively categorizes the ad products and shows how they serve the entire marketing journey."
+   },
+   "abstract_pattern": "This format uses a visual matrix or a set of grouped items to display the breadth of a company's product offerings across a strategic framework, like a sales funnel. It shows how different products serve different customer needs.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Key statistic about revenue mix (e.g., '70% of our advertising revenue comes from direct-response...')",
+    "List of top-of-funnel offerings (Array of strings, e.g., 'Brand Impact', 'Website Traffic')",
+    "List of bottom-of-funnel offerings (Array of strings, e.g., 'App Downloads', 'Online Sales')"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "Product Offering Matrix"
+  },
+  {
+   "id": "snap-2024#s021",
+   "schema": "light",
+   "core_message": "To showcase the diverse, creative, and effective range of advertising formats available on Snapchat, and to prove that these formats drive tangible results for advertisers.",
+   "intents": [
+    "Creative",
+    "Vibrant",
+    "Engaging"
+   ],
+   "shows": {
+    "specific_content": "The slide features a row of seven distinct mobile screenshots, each showcasing a different ad format like 'AR FILTERS,' 'COLLECTION ADS,' and 'PROMOTED PLACES.' Each screenshot is a real-world example of the ad format, creating a visually diverse and engaging display. The layout is clean and horizontal, encouraging the eye to scan from left to right across the different creative possibilities. A key statistic about the effectiveness of combining AR with video ads is placed prominently below the headline, providing a quantitative proof point for the visual showcase."
+   },
+   "abstract_pattern": "This format uses a horizontal carousel of product mockups or screenshots to showcase the variety and creativity of a platform's offerings, such as different ad formats.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Key supporting statistic (String, e.g., 'Campaigns that pair AR Ads... deliver 1.6x higher lift...')",
+    "List of product/format names (Array of strings)",
+    "A high-quality screenshot/mockup for each format (Image files)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "Product Showcase Carousel"
+  },
+  {
+   "id": "snap-2024#s022",
+   "schema": "light",
+   "core_message": "To demonstrate the success of Snapchat+ as a significant and rapidly growing new revenue stream, proving the company's ability to diversify beyond advertising.",
+   "intents": [
+    "Successful",
+    "Growing",
+    "Innovative"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into several sections. On the left, a text block explains what 'Snapchat+' is. At the bottom left, a large, dark callout box emphasizes the key business impact: 'Over 14M subscribers, representing ~9% of revenue...'. The right side is dominated by a bar chart showing the strong, sequential growth of 'Snapchat+ Subscribers' from 1.5M to 14M. Below the chart, three UI mockups showcase the exclusive features offered, such as 'CUSTOM APP THEMES' and 'CHAT WALLPAPERS.' The combination of growth data, feature visuals, and a clear revenue impact KPI makes for a comprehensive and compelling slide."
+   },
+   "abstract_pattern": "This format is used to highlight the successful launch and rapid growth of a new revenue stream, like a subscription service. It combines a growth chart, feature visuals, and a key KPI to tell a complete story.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Product Name (String, e.g., 'Snapchat+')",
+    "Product Description (String)",
+    "Time-series data for subscriber growth (Numbers)",
+    "Key business impact KPI (String, e.g., 'Over 14M subscribers...')",
+    "Screenshots or mockups of key features (Image files)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Monetization",
+   "position": null,
+   "title": "New Revenue Stream Growth"
+  },
+  {
+   "id": "snap-2024#s023",
+   "schema": "light",
+   "core_message": "To cleanly and forcefully introduce the final section of the presentation, focusing the audience's attention on the company's long-term strategy and value proposition.",
+   "intents": [
+    "Bold",
+    "Focused",
+    "Forward-looking"
+   ],
+   "shows": {
+    "specific_content": "The entire slide is a single, flat field of bright yellow. The only element on the slide, apart from the small company name in the corner, is the title, 'Long-Term Value Creation,' rendered in a large, bold, black sans-serif font. The text is centered, commanding the viewer's full attention. There are no images or other graphical distractions. This minimalist design choice functions as a visual cue, signaling that the presentation is shifting to its concluding section about the long-term vision."
+   },
+   "abstract_pattern": "This minimalist slide uses large, bold text on a solid color background to serve as a powerful transition or chapter header, focusing the audience's attention on the upcoming topic.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Section Title (String)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Bold Section Divider"
+  },
+  {
+   "id": "snap-2024#s024",
+   "schema": "light",
+   "core_message": "To demonstrate the significant scale and financial maturation the company has achieved since its IPO, showcasing immense growth in users, revenue, and profitability.",
+   "intents": [
+    "Impressive",
+    "Successful",
+    "Transformative"
+   ],
+   "shows": {
+    "specific_content": "The slide is organized into three distinct sections, each representing a key metric: 'Average Daily Active Users,' 'Revenue,' and 'Adjusted EBITDA.' Each section features two simple bar charts: one for the metric 'At IPO' and one for '2024.' The visual contrast between the small 'At IPO' bar and the much larger '2024' bar is dramatic. For Adjusted EBITDA, the chart effectively shows the swing from a significant loss ('$(459)M') to a significant profit ('$509M'). The layout is clean, parallel, and easy to compare, making the story of massive growth since the IPO undeniable."
+   },
+   "abstract_pattern": "This format uses simple 'Then and Now' bar charts to dramatically illustrate long-term growth across key metrics since a major milestone, like an IPO. It's highly effective for showing massive scale and a journey to profitability.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Metric 1 Data (e.g., DAU 'At IPO' and '2024')",
+    "Metric 2 Data (e.g., TTM Revenue 'At IPO' and '2024')",
+    "Metric 3 Data (e.g., Adjusted EBITDA 'At IPO' and '2024')"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Then and Now Comparison"
+  },
+  {
+   "id": "snap-2024#s025",
+   "schema": "light",
+   "core_message": "To justify a period of weak performance (2023) by framing it as a necessary investment year that directly led to the accelerated growth and improved profitability seen in 2024.",
+   "intents": [
+    "Strategic",
+    "Resilient",
+    "Successful"
+   ],
+   "shows": {
+    "specific_content": "The slide pairs explanatory text on the left with two corresponding bar charts on the right. The text describes 2023 as a 'transformative year' of investment in the ad platform. The charts for 'Revenue' and 'Adjusted EBITDA' visually support this narrative. The 2023 Revenue bar is flat compared to 2022 (0% growth), and the 2023 Adjusted EBITDA bar is significantly lower. In stark contrast, the 2024 bars for both metrics show a dramatic increase (16% revenue growth and a 500 bps margin expansion), creating a powerful visual of a successful turnaround."
+   },
+   "abstract_pattern": "This format tells a 'J-curve' or investment payoff story. It uses parallel bar charts to show a period of flat or declining performance (the investment phase) followed by a sharp acceleration, demonstrating a successful strategic pivot.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Narrative Text (String explaining the investment period)",
+    "Time-series Data for Metric 1 (e.g., Revenue for 2022, 2023, 2024)",
+    "Time-series Data for Metric 2 (e.g., Adjusted EBITDA for 2022, 2023, 2024)",
+    "Growth/Margin percentages for each year (Numbers)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Investment Payoff Story"
+  },
+  {
+   "id": "snap-2024#s026",
+   "schema": "light",
+   "core_message": "To demonstrate the company's robust and improving ability to generate free cash flow, highlighting both the absolute amount of cash generated and the increasing efficiency of converting EBITDA into cash.",
+   "intents": [
+    "Efficient",
+    "Profitable",
+    "Strong"
+   ],
+   "shows": {
+    "specific_content": "The slide features a combination bar and line chart showing 'FCF ($M) / FCF Conversion (%)' over three years. Yellow bars represent the absolute Free Cash Flow (FCF) for each year, showing a dip in 2023 followed by a very large increase in 2024. A black line is overlaid on the chart, plotting the FCF Conversion rate, which shows a dramatic increase from 15% in 2022 to 43% in 2024. The visual interplay between the bars and the steeply rising line effectively communicates that the company is not only generating more cash but is also becoming much more efficient at it."
+   },
+   "abstract_pattern": "This combination chart is used to demonstrate strong cash generation and efficiency. It shows the growth of an absolute cash flow metric (bars) while also showing the improving efficiency of converting profit into cash (line).",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "Time-series Data for Bar Chart (e.g., Free Cash Flow for 2022, 2023, 2024)",
+    "Time-series Data for Line Chart (e.g., FCF Conversion for 2022, 2023, 2024)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Cash Flow Conversion Chart"
+  },
+  {
+   "id": "snap-2024#s027",
+   "schema": "light",
+   "core_message": "To summarize the company's long-term vision and strategy into a few key, forward-looking pillars, leaving the audience with a clear sense of the future direction and sources of value creation.",
+   "intents": [
+    "Forward-looking",
+    "Ambitious",
+    "Clear"
+   ],
+   "shows": {
+    "specific_content": "The slide features a large title on the left, 'Long-Term Value Creation.' On the right is a vertical list of six strategic goals. Each goal is represented by a simple icon in a yellow circle (e.g., a user group icon, a lightbulb, a dollar sign) followed by a short, aspirational statement (e.g., 'Path to 1 billion MAU,' 'Innovate to drive growth,' 'Diversifying revenue sources'). The layout is clean, minimalist, and uses ample white space, making the six key pillars of the long-term strategy easy to read and absorb. It serves as a final summary of the company's future plans."
+   },
+   "abstract_pattern": "This format uses icons paired with concise statements to summarize a company's forward-looking strategic priorities or long-term value drivers. It serves as a visual checklist for the future.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "List of strategic priorities or goals (Array of strings)",
+    "An icon to represent each priority (Vector images)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Strategic Roadmap Summary"
+  },
+  {
+   "id": "snap-2024#s028",
+   "schema": "light",
+   "core_message": "To provide a clear and transparent framework for the company's capital allocation strategy, reassuring investors that there is a disciplined approach to managing the balance sheet, investing for growth, and delivering shareholder value.",
+   "intents": [
+    "Disciplined",
+    "Strategic",
+    "Transparent"
+   ],
+   "shows": {
+    "specific_content": "The slide is divided into two columns. The left column contains the main title, 'Capital Allocation Priorities,' on a bright yellow background. The right column, on a white background, lists four main pillars in bold, all-caps text: 'CAPITAL STRUCTURE MANAGEMENT,' 'INVESTMENT IN BUSINESS,' 'SHAREHOLDER RETURN,' and 'M&A.' Under each pillar, two bullet points provide specific details about the strategy (e.g., 'Proactively address upcoming maturities,' 'Investing in AR,' 'Opportunistic stock repurchases'). The clean, organized list format makes the company's financial priorities clear, logical, and easy to understand."
+   },
+   "abstract_pattern": "This slide format clearly outlines a company's capital allocation priorities. It breaks down the strategy into distinct categories, providing transparency on how the company plans to invest its capital for growth and shareholder return.",
+   "keywords": [],
+   "works_for": [],
+   "variable_elements": [],
+   "data_requirements": [
+    "Headline Text (String)",
+    "List of main allocation pillars (Array of strings, e.g., 'INVESTMENT IN BUSINESS')",
+    "List of specific priorities for each pillar (Array of strings)"
+   ],
+   "use_when": null,
+   "visual_complexity": null,
+   "section": "Conclusion",
+   "position": null,
+   "title": "Capital Allocation Framework"
+  }
+ ]
+}

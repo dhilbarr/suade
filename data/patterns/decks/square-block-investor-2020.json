@@ -1,0 +1,2795 @@
+{
+ "deck": "square-block-investor-2020",
+ "company": "Square",
+ "narrative_summary": "The presentation showcases Square's two powerful ecosystems, Seller and Cash App, highlighting their rapid growth at scale and massive, underpenetrated market opportunities. It uses detailed cohort analysis and unit economics to prove the efficiency of its business model and justify future growth vectors.",
+ "stage": null,
+ "industry": null,
+ "record_count": 36,
+ "records": [
+  {
+   "id": "square-block-investor-2020#s001",
+   "schema": "rich",
+   "core_message": "This is our company overview, and we are here to support the real-world small businesses that form the backbone of the economy, especially as they navigate challenging times.",
+   "intents": [],
+   "shows": {
+    "visual_type": "title_slide_with_hero_image",
+    "specific_content": "A title slide with the text 'September 2020 Company Overview'. The background is a full-bleed photo of a hairstylist serving a client in a salon. Both are wearing face masks, indicating the COVID-19 pandemic context. The slide includes the company logo, a URL for investors, and the name/location of the salon shown.",
+    "data_points_shown": "Presentation Title: 'September 2020 Company Overview', Company Logo, Investor Relations URL: 'SQUARE.COM/INVESTORS', Customer Name: 'HEARTEN SALON, Walnut Creek, CA'"
+   },
+   "abstract_pattern": "Any company can use this pattern to open a presentation by immediately connecting their business to the real-world people they serve. It uses a powerful, evocative image of a customer in their natural environment to establish the 'why' behind the company's existence before diving into the 'what' and 'how'. This pattern is especially effective when the customer's context is relatable or topical (like a small business operating during a pandemic), creating an immediate emotional resonance and framing the company as a supportive partner.",
+   "keywords": [
+    "humanizing_the_brand",
+    "customer_centricity",
+    "title_slide",
+    "opening_statement",
+    "narrative_framing",
+    "empathetic_branding",
+    "real_world_impact",
+    "mission_driven",
+    "storytelling_opener",
+    "customer_hero_shot"
+   ],
+   "works_for": [
+    "We empower the people who build our world (construction tech).",
+    "Our mission is to improve patient outcomes at the point of care (health tech).",
+    "We're here to support educators and inspire students (edtech).",
+    "We are the backbone of modern commerce (logistics).",
+    "Our tools help creators turn their passion into a profession (creator economy platform).",
+    "We help families connect with what matters most (consumer app)."
+   ],
+   "variable_elements": {
+    "primary_metric": "Not applicable (Title slide)",
+    "secondary_metric": null,
+    "time_dimension": "Point in time (Date of presentation)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "High-quality, authentic photograph of a customer using the product or benefiting from the service in their real-world environment",
+     "Presentation title and date"
+    ],
+    "data_shape_needed": "Not applicable (qualitative image)",
+    "minimum_data_points": "1 compelling image",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Opening any major presentation (investor day, all-hands, sales kickoff).",
+     "When you want to ground your company's mission in the real people you serve.",
+     "To create an immediate emotional connection with the audience.",
+     "To frame subsequent data-heavy slides with a human-centric 'why'.",
+     "During a time of crisis, to show solidarity and relevance to your customers' struggles.",
+     "To subtly feature and celebrate a specific customer."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "For a purely internal, data-only working session.",
+     "When the image feels inauthentic, staged, or like generic stock photography.",
+     "If the image doesn't clearly connect to your core customer base."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Title / Introduction",
+   "position": "Beginning",
+   "title": "September 2020 Company Overview"
+  },
+  {
+   "id": "square-block-investor-2020#s003",
+   "schema": "rich",
+   "core_message": "Our company is built on two distinct but equally comprehensive product ecosystems, one serving businesses ('Seller') and the other serving consumers ('Cash App').",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "Two side-by-side circular diagrams representing the 'Seller' and 'Cash App' ecosystems. Each circle is surrounded by icons and labels for the various products and features within that ecosystem, illustrating the breadth of each platform.",
+    "data_points_shown": "No quantitative data is shown. The slide lists product/feature names for two business units: Seller (e.g., Point of Sale, Payroll, Capital, E-commerce) and Cash App (e.g., P2P, Bitcoin, Stocks, Cash Card)."
+   },
+   "abstract_pattern": "This pattern visually represents a company's core business as two or more distinct but comprehensive 'ecosystems' or 'platforms'. It uses a diagrammatic format to showcase the breadth and interconnectedness of the offerings within each business line. Any company with multiple, distinct product suites or that serves different customer segments (e.g., B2B and B2C) can use this to introduce their overall structure and imply a competitive moat built on platform depth, not just a single point solution.",
+   "keywords": [
+    "platform_strategy",
+    "ecosystem_diagram",
+    "product_suite_overview",
+    "business_unit_breakdown",
+    "competitive_moat",
+    "multi-product_company",
+    "synergistic_offerings",
+    "breadth_of_service",
+    "holistic_solution",
+    "two-sided_platform",
+    "company_at_a_glance"
+   ],
+   "works_for": [
+    "We operate two distinct platforms: one for creators and one for their fans.",
+    "Our company addresses both the supply and demand sides of the logistics market with tailored software suites.",
+    "Our enterprise solution consists of three core pillars: data, analytics, and action.",
+    "We serve both SMBs and Enterprise customers with separate, dedicated product ecosystems.",
+    "Our consumer offering is a super-app with services for communication, commerce, and finance.",
+    "Our business has two engines: a marketplace for goods and a SaaS platform for sellers.",
+    "We have a hardware portfolio and a software platform that ties it all together."
+   ],
+   "variable_elements": {
+    "primary_metric": "List of products/features in Ecosystem 1",
+    "secondary_metric": "List of products/features in Ecosystem 2",
+    "time_dimension": "None, this is a snapshot of the current offering.",
+    "comparison_basis": "Side-by-side showcase of a company's own distinct business units."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of the company's distinct business units or platforms.",
+     "A list of key products or features within each unit."
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "2+ business units/ecosystems, with 4+ features/products listed for each to show sufficient breadth.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the fundamental structure of a multi-product or multi-sided business.",
+     "Visually explaining how different products create a cohesive and defensible platform.",
+     "Setting the stage at the beginning of a presentation to frame the company's scope.",
+     "Demonstrating a competitive moat based on breadth of offering.",
+     "Explaining two distinct but equally important sides of your business (e.g., B2B and B2C)."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You are a single-product company.",
+     "You need to show quantitative growth, revenue, or user metrics.",
+     "The goal is to compare your product directly against a competitor's feature list on a 1-to-1 basis."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Company Overview",
+   "position": "Beginning",
+   "title": "We are growing two significant ecosystems"
+  },
+  {
+   "id": "square-block-investor-2020#s004",
+   "schema": "rich",
+   "core_message": "The company is achieving strong, sustained growth at scale, powered by a large, established business segment and a newer, rapidly accelerating segment that acts as a second engine of growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "stacked_bar_chart",
+    "specific_content": "A stacked bar chart showing annual Gross Profit from 2015 to 2019. Each bar is broken down into 'Seller Gross Profit' (the core business) and 'Cash App Gross Profit' (the new business), demonstrating strong overall growth and the increasing contribution of the Cash App segment. A headline metric of '40% five-year CAGR' is also shown.",
+    "data_points_shown": "Total Gross Profit grows from $345M in 2015 to $1.848B in 2019 (sum of $1,390M and $458M). Cash App Gross Profit grows from a small base ($5M in 2016) to a significant contributor ($458M in 2019)."
+   },
+   "abstract_pattern": "Any company can use this pattern to demonstrate strong, sustained growth in a primary metric over a multi-year period. It uses a stacked chart to break down the total metric into a large, foundational component and a newer, rapidly accelerating component. This visualizes how the company has successfully built a second engine of growth on top of its core business, de-risking future growth and proving its ability to innovate and expand.",
+   "keywords": [
+    "sustained_growth",
+    "growth_at_scale",
+    "second_growth_engine",
+    "metric_composition",
+    "diversified_growth",
+    "platform_expansion",
+    "core_and_new_business",
+    "long-term_trend",
+    "compound_growth",
+    "financial_momentum",
+    "stacked_metric_growth",
+    "business_line_contribution"
+   ],
+   "works_for": [
+    "Our core enterprise software is growing steadily, while our new SMB product is scaling exponentially.",
+    "Our US user base provides a stable foundation, and our international expansion is now our fastest-growing segment.",
+    "We are growing total transaction volume, driven by both our original marketplace and our new direct-to-consumer channel.",
+    "Our advertising revenue continues to grow, and now our subscription revenue is becoming a major contributor.",
+    "Our established product line shows consistent profit, while our latest acquisition is already adding significant, high-growth profit.",
+    "We have successfully layered a new high-growth revenue stream on top of our mature core business.",
+    "Our total user growth is accelerating, thanks to the launch of our new mobile platform."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key performance indicator like Gross Profit, Revenue, Users, or GMV.",
+    "secondary_metric": "The breakdown of the primary metric into its constituent parts (e.g., by business line, geography, product).",
+    "time_dimension": "Annual time-series data over 3-5+ years.",
+    "comparison_basis": "Self over time, showing the changing composition of a total metric."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key performance metric (e.g., Gross Profit, Revenue)",
+     "The same time-series data broken down by at least two distinct segments (e.g., business units, product lines)"
+    ],
+    "data_shape_needed": "Needs a clear upward trend in the total metric. One segment should be large and established, while the other should show clear acceleration from a small base.",
+    "minimum_data_points": "4-5 years of annual data",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Showing investors that your company has more than one growth driver.",
+     "Demonstrating successful expansion into a new product line or market.",
+     "Proving the business is not just a 'one-trick pony' and can innovate successfully.",
+     "Justifying a high valuation based on multiple, compounding growth stories.",
+     "Setting the stage for a deep dive into a newer, high-potential business unit.",
+     "Communicating a 'flywheel' or 'platform' strategy where one business enables the next."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You only have one product or business line.",
+     "Your new business line is not yet showing significant traction or growth.",
+     "Your core business is declining, as this would undermine the 'growth at scale' message."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Performance",
+   "position": "Beginning",
+   "title": "Strong growth at scale"
+  },
+  {
+   "id": "square-block-investor-2020#s005",
+   "schema": "rich",
+   "core_message": "We are targeting two massive, distinct market opportunities ($100B+ for Sellers and $60B+ for Individuals), and our current low penetration (<3% and <2%) means we have a significant runway for future growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A two-column layout comparing two business segments: 'Sellers' and 'Individuals'. The top row shows the total market opportunity for each ($100B+ and $60B+). The bottom row shows the current market penetration for each (<3% and <2% respectively).",
+    "data_points_shown": "Sellers Market: $100B+ opportunity, <3% penetrated. Individuals Market: $60B+ opportunity, <2% penetrated."
+   },
+   "abstract_pattern": "Any company can use this pattern to frame its growth story by juxtaposing a very large number (the Total Addressable Market or TAM) with a very small number (the company's current market penetration). This 'Big Market, Small Share' structure powerfully communicates a vast, untapped runway for growth. It is particularly effective when applied across multiple distinct business lines or customer segments, as it demonstrates a diversified and expansive opportunity. The core logic is to convince the audience that the company is just getting started and that its future potential far exceeds its current size.",
+   "keywords": [
+    "market_opportunity",
+    "TAM_slide",
+    "market_penetration",
+    "growth_runway",
+    "untapped_potential",
+    "addressable_market",
+    "market_sizing",
+    "low_market_share",
+    "scale_of_opportunity",
+    "headroom_for_growth",
+    "blue_ocean_strategy"
+   ],
+   "works_for": [
+    "The global logistics market is $10T, and our current revenue represents a tiny fraction of that.",
+    "Our platform serves both SMBs and Enterprise customers, huge markets where we have less than 1% share today.",
+    "We are expanding into Europe, a market twice the size of our current one, where we have zero presence.",
+    "The shift to cloud is a $1T opportunity, and we are just getting started.",
+    "We are the leader in our niche, but that niche is a gateway to a much larger adjacent market we're now entering.",
+    "Our core product has captured 5% of its market, but our new product line addresses a market 10x larger.",
+    "For every dollar of hardware we sell, there's a $10 opportunity in software that we've only just begun to tap."
+   ],
+   "variable_elements": {
+    "primary_metric": "Total Addressable Market (TAM) size, usually in dollars.",
+    "secondary_metric": "Current market penetration percentage or market share.",
+    "time_dimension": "Point-in-time snapshot (e.g., 'current' or 'as of last year').",
+    "comparison_basis": "Current penetration vs. total market size, often shown for multiple segments."
+   },
+   "data_requirements": {
+    "must_have": [
+     "An estimate of the Total Addressable Market (TAM) for each key segment, supported by third-party or internal research.",
+     "A calculation of current revenue or market share for each segment."
+    ],
+    "data_shape_needed": "Needs a large contrast: the TAM must be a very large number and the penetration a very small percentage (ideally single digits) to be effective.",
+    "minimum_data_points": "1 market segment, but the pattern is stronger with 2-3 segments to show breadth of opportunity.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Early in a pitch deck to establish the scale of the investment opportunity.",
+     "When you need to convince investors that despite your current size, there is massive room to grow.",
+     "When you operate in multiple distinct markets and want to show the total opportunity is the sum of large parts.",
+     "To justify a high valuation based on future potential rather than just current performance.",
+     "To frame a narrative of long-term, durable growth.",
+     "When launching a new product into a large, existing market."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you are in a small, niche market and cannot credibly claim a large TAM.",
+     "When your market penetration is already high (e.g., >30%), as it suggests growth is maturing.",
+     "When you cannot find credible data to back up your TAM claim."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity (TAM)",
+   "position": "Beginning",
+   "title": "Addressing significant market opportunities..."
+  },
+  {
+   "id": "square-block-investor-2020#s006",
+   "schema": "rich",
+   "core_message": "This slide introduces the next section of the presentation, which will focus on defining and quantifying the company's Total Addressable Market (TAM).",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_header_slide",
+    "specific_content": "A slide with a white background and a purple title in the top left corner that reads 'Total Addressable Market'.",
+    "data_points_shown": "None. This is a title slide for a new section."
+   },
+   "abstract_pattern": "This is a classic section header slide used to introduce a new topic and focus the audience's attention. It acts as a signpost in the presentation narrative, signaling a shift in focus to a critical part of the investment thesis, such as market size, product, or financials. Any company can use this simple, clean transition slide before diving into detailed slides to create a clear, structured flow and improve audience comprehension.",
+   "keywords": [
+    "section_header",
+    "title_slide",
+    "narrative_transition",
+    "signposting",
+    "topic_introduction",
+    "framing_the_discussion",
+    "presentation_structure",
+    "agenda_setting",
+    "market_opportunity",
+    "chapter_break"
+   ],
+   "works_for": [
+    "Our Go-To-Market Strategy",
+    "A Deep Dive on Unit Economics",
+    "Our Competitive Advantage",
+    "Product Roadmap and Vision",
+    "Financial Projections",
+    "Meet the Founding Team",
+    "The Problem We Are Solving"
+   ],
+   "variable_elements": {
+    "primary_metric": "Section Title (e.g., 'Total Addressable Market', 'Our Product', 'Financials')",
+    "secondary_metric": null,
+    "time_dimension": "Not applicable (structural)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear section title that defines the upcoming topic."
+    ],
+    "data_shape_needed": "Not applicable, this is a structural slide.",
+    "minimum_data_points": "1 section title.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing a new major section in a presentation.",
+     "Creating a 'breather' between dense, data-heavy slides.",
+     "Signaling a shift in the narrative (e.g., from problem to solution).",
+     "Clearly structuring a long or complex presentation for better audience comprehension.",
+     "Setting the stage for a key part of the investment thesis, like market size or competitive moat.",
+     "Improving the pacing and flow of a talk."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a very short (1-3 slide) or informal presentation where sections are not needed.",
+     "When you want to blend topics together seamlessly rather than creating distinct sections.",
+     "If every slide is meant to contain a substantive data point or assertion."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "professional"
+   },
+   "section": "Market Opportunity",
+   "position": "Beginning",
+   "title": "Total Addressable Market"
+  },
+  {
+   "id": "square-block-investor-2020#s007",
+   "schema": "rich",
+   "core_message": "We are targeting a massive, well-defined market opportunity of over $85 billion in the U.S. alone, which is derived from a huge and quantifiable base of businesses and their economic activity.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-step calculation flow showing how the Total Addressable Market (TAM) is derived. It starts with '20M Businesses', which leads to '$6T Gross Receipts', which in turn results in an '$85B+ U.S. TAM Opportunity'.",
+    "data_points_shown": "Businesses: 20M, Gross Receipts: $6T, U.S. TAM Opportunity: $85B+"
+   },
+   "abstract_pattern": "This slide pattern demonstrates a 'bottom-up' market sizing calculation. It starts with a large, verifiable, foundational unit (like number of users or businesses), translates that into a total economic value (like total spend or transaction volume), and then applies a monetization factor to derive the company's specific revenue opportunity (the TAM). This approach builds credibility by showing the logical steps behind the final market size number, rather than just stating a figure from a third-party report. Any company can use this to justify a large market size and explain how they capture a slice of a much larger value chain.",
+   "keywords": [
+    "market_sizing",
+    "TAM_calculation",
+    "bottom_up_analysis",
+    "addressable_market",
+    "market_opportunity",
+    "scale_of_opportunity",
+    "revenue_potential",
+    "market_validation",
+    "calculation_breakdown",
+    "value_chain_monetization",
+    "economic_flow"
+   ],
+   "works_for": [
+    "Our opportunity in logistics is $50B, derived from the total value of goods shipped by SMBs.",
+    "The market for developer tools is $30B, based on the number of developers worldwide and their average spend on software.",
+    "We have a $10B revenue opportunity in the creator economy, calculated from the total ad spend on creator content.",
+    "The global market for our healthcare AI is $100B, starting from the total number of patient scans annually.",
+    "Our addressable market in real estate is $25B, which is our take rate on the total transaction volume.",
+    "The market for sustainable packaging is $40B, based on the total volume of e-commerce shipments and our cost per box.",
+    "We can capture $5B of the total $100B spent on enterprise cybersecurity annually."
+   ],
+   "variable_elements": {
+    "primary_metric": "The final Total Addressable Market (TAM) value.",
+    "secondary_metric": "The intermediate total economic value (e.g., Gross Receipts, Total Spend).",
+    "time_dimension": "Point-in-time estimate (not a time series).",
+    "comparison_basis": "Not a comparison; it's a derivation or calculation."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A verifiable, third-party number for the base unit (e.g., number of businesses, users, devices).",
+     "A credible estimate of the total economic value generated by those units (e.g., total spend, total revenue).",
+     "A defensible assumption for the company's monetization rate or share of that economic value."
+    ],
+    "data_shape_needed": "Needs a logical, multi-step calculation that flows from a large base to a smaller, specific opportunity.",
+    "minimum_data_points": "3 steps: a base unit count, an intermediate economic value, and a final TAM figure.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a very large market size to investors.",
+     "Building credibility by showing the 'math' behind your TAM calculation.",
+     "Explaining how your company captures value from a larger economic ecosystem.",
+     "Early in a presentation to set the stage for the scale of the opportunity.",
+     "When your TAM might seem surprisingly large and needs justification.",
+     "When you want to show a clear, logical path to your revenue potential."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you don't have credible third-party data for the foundational numbers.",
+     "When the logic for your take-rate is weak or purely speculative.",
+     "When your market is niche and a top-down market size is more straightforward and compelling."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity",
+   "position": "Beginning",
+   "title": "Seller ecosystem represents a $85B+ opportunity in the U.S."
+  },
+  {
+   "id": "square-block-investor-2020#s008",
+   "schema": "rich",
+   "core_message": "Our addressable market is massive and multi-faceted, composed of several large revenue pools that directly align with our distinct product offerings.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A sum-of-the-parts diagram showing a total market opportunity of $85B+ being the sum of four sub-markets: Transaction Profit ($39B), Software ($30B), Square Capital ($12B), and Financial Services ($5B).",
+    "data_points_shown": "Total Opportunity: $85B+; Component Opportunities: Transaction Profit $39B, Software $30B, Square Capital $12B, Financial Services $5B."
+   },
+   "abstract_pattern": "This is a 'TAM Build-Up' pattern used to establish the scale of the market. It presents a large, impressive Total Addressable Market (TAM) number and then breaks it down into its constituent parts. This deconstruction makes the total number more credible by showing the underlying components and strategically aligns each market segment with the company's specific products or revenue streams. Any company with a multi-product or platform strategy can use this to prove the market is large enough to support significant growth across all its business lines.",
+   "keywords": [
+    "market_sizing",
+    "total_addressable_market",
+    "TAM_breakdown",
+    "sum_of_the_parts",
+    "market_opportunity",
+    "market_segmentation",
+    "growth_potential",
+    "investment_thesis",
+    "revenue_stream_mapping",
+    "platform_strategy",
+    "market_definition"
+   ],
+   "works_for": [
+    "Our platform targets a $100B market, composed of hardware, software, and services revenue pools.",
+    "The global logistics market we're disrupting is worth over $1T, with last-mile delivery being a $300B segment.",
+    "We are addressing the $50B creator economy, which breaks down into advertising, subscriptions, and e-commerce.",
+    "The future of enterprise AI is a $200B opportunity, split between infrastructure, models, and applications.",
+    "Our telehealth platform addresses a $75B market in the US, covering primary care, mental health, and specialist consultations.",
+    "The shift to electric vehicles represents a $500B opportunity in charging, software, and battery management.",
+    "We are building the financial operating system for SMBs, a $120B market opportunity."
+   ],
+   "variable_elements": {
+    "primary_metric": "Total Addressable Market (TAM) value",
+    "secondary_metric": "Component market values (sub-TAMs)",
+    "time_dimension": "Point-in-time snapshot",
+    "comparison_basis": "Internal breakdown (parts vs. whole)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A total market size estimate (TAM)",
+     "Market size estimates for 3+ sub-segments that align with your products/services",
+     "Credible sources for market data (e.g., industry reports, government data, internal analysis)"
+    ],
+    "data_shape_needed": "multiple_categories that sum to a total",
+    "minimum_data_points": "1 total market value and 3+ component values",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Answering the investor question 'How big can this get?' at the start of a pitch.",
+     "Justifying a multi-product strategy by showing a distinct market for each product.",
+     "Making a large TAM number feel more credible and well-researched.",
+     "Setting the stage before showing your current penetration into that market.",
+     "Framing the company as a platform play with multiple avenues for growth."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your total market is small or niche, as this format emphasizes scale.",
+     "You are a single-product company and cannot credibly break down the market.",
+     "You lack credible data sources to back up your market size claims."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity",
+   "position": "beginning",
+   "title": "Seller ecosystem represents a $85B+ opportunity in the U.S."
+  },
+  {
+   "id": "square-block-investor-2020#s009",
+   "schema": "rich",
+   "core_message": "Our total addressable market is massive, starting at over $85B today, and we have a clear, multi-vector strategy to expand this opportunity beyond $100B in the medium and long term.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A diagram showing the total market opportunity is built from several components. It starts with a '>$85B U.S. REVENUE OPPORTUNITY TODAY', adds a '$16B TRANSACTION PROFIT IN CURRENT INTERNATIONAL MARKETS' and 'NEW PRODUCTS AND USE CASES' in the medium-term, and 'NEW MARKETS' and 'EXPAND FURTHER UPMARKET' in the long-term, summing to a $100B+ total opportunity.",
+    "data_points_shown": "U.S. Revenue Opportunity Today: >$85B; Medium-Term International Transaction Profit Opportunity: $16B; Total Opportunity: $100B+."
+   },
+   "abstract_pattern": "This pattern visualizes a company's total addressable market (TAM) by breaking it down into distinct components. It starts with the core, current market opportunity and then adds successive layers of expansion opportunities, often categorized by time horizon (e.g., current, medium-term, long-term) or by growth vector (e.g., new products, new geographies, new customer segments). This 'market build-up' or 'opportunity stack' approach makes a large, ambitious TAM claim more credible and tangible by showing the logical steps to capture it. Any company can use this to justify a large market size and outline its strategic roadmap for growth.",
+   "keywords": [
+    "market_opportunity",
+    "TAM_breakdown",
+    "growth_vectors",
+    "market_expansion",
+    "strategic_roadmap",
+    "addressable_market",
+    "future_growth",
+    "market_sizing",
+    "opportunity_stack",
+    "growth_layers",
+    "long-term_vision"
+   ],
+   "works_for": [
+    "Our current $10B market is just the start; new products and international expansion will unlock a $50B opportunity.",
+    "We are expanding our TAM by moving from SMBs to Enterprise and from the US to Europe.",
+    "Our platform's core use case is a $5B market, but adjacent services we're launching represent an additional $15B.",
+    "The opportunity isn't just our current product; it's about capturing the entire value chain, which is a $100B+ prize.",
+    "We have a phased approach to growth: dominate our niche first, then expand into adjacent verticals.",
+    "Our total market opportunity is composed of three main pillars: core software, data analytics, and hardware integration.",
+    "While our beachhead market is large, the real opportunity lies in expanding to new customer segments and geographies."
+   ],
+   "variable_elements": {
+    "primary_metric": "Current Addressable Market Size (e.g., Revenue, Profit Pool, Spend)",
+    "secondary_metric": "Expansion Market Size (by vector)",
+    "time_dimension": "Categorical time horizons (e.g., Today, Medium-Term, Long-Term)",
+    "comparison_basis": "Self (current market vs. future expansion opportunities)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Estimate of current addressable market size (TAM/SAM)",
+     "Identified growth vectors (e.g., new products, geographies, customer segments)",
+     "Market size estimates for at least one expansion vector"
+    ],
+    "data_shape_needed": "Needs distinct, additive components that build up to a large total. At least one component should be quantified to anchor the claim.",
+    "minimum_data_points": "1 current market size + 2-4 distinct growth vectors",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a large valuation by showing the market is much bigger than it currently appears.",
+     "Outlining the company's long-term strategic vision for growth beyond its core business.",
+     "Making a very large TAM number feel credible and achievable to investors.",
+     "Answering the question 'What's next?' or 'Where does future growth come from?'",
+     "Shifting the narrative from a niche product to a platform with multiple expansion paths."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You are a single-product company with no clear expansion vectors yet.",
+     "Your market is genuinely small and you're focused on deep penetration, not expansion.",
+     "You lack credible market research to size the expansion opportunities."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity & Growth Strategy",
+   "position": "middle",
+   "title": "...and $100B+ opportunity with multiple vectors for future growth"
+  },
+  {
+   "id": "square-block-investor-2020#s010",
+   "schema": "rich",
+   "core_message": "Our future growth comes from moving upmarket; while there are fewer customers in larger segments, the total addressable market value is vastly greater than our traditional small business segment.",
+   "intents": [],
+   "shows": {
+    "visual_type": "market_segmentation_diagram",
+    "specific_content": "A diagram segmenting the U.S. seller market into five tiers based on annual sales (Micro, SMB, Mid Market, Enterprise). For each tier, it quantifies the number of sellers and the total gross sales volume. A box highlights the segments 'beyond Micro' as an 'Additional Area of Focus'.",
+    "data_points_shown": "Seller segments from <$250K to $100M+. Number of U.S. Sellers ranges from 15.3M (Micro) to 23K (Enterprise). U.S. Gross Sales ranges from $446B (Micro) to $6.2T (Enterprise)."
+   },
+   "abstract_pattern": "This pattern visualizes a market segmented by customer size or value, often using a pyramid or funnel shape. It demonstrates an inverse relationship: as the number of potential customers decreases in higher-value segments, the total addressable market (TAM) within those segments increases dramatically. Any company can use this to justify a strategic shift 'upmarket' from a high-volume, low-value segment to a low-volume, high-value segment. It effectively reframes the growth narrative from 'acquiring more customers' to 'capturing more value'.",
+   "keywords": [
+    "market_segmentation",
+    "total_addressable_market",
+    "TAM_expansion",
+    "upmarket_strategy",
+    "customer_value_pyramid",
+    "growth_vector",
+    "strategic_shift",
+    "market_opportunity",
+    "value_concentration",
+    "enterprise_focus",
+    "beachhead_expansion"
+   ],
+   "works_for": [
+    "Our freemium user base is huge, but the real revenue opportunity is converting them to our new enterprise plan.",
+    "We've saturated the direct-to-consumer market; our next growth phase is through large-scale channel partnerships.",
+    "While we have millions of individual developers, the top 1% of organizations represent 80% of the total cloud spend.",
+    "We started with small landlords, but our new focus on large property management firms unlocks a much larger asset pool.",
+    "Our core business serves individual clinics, but the major opportunity lies in selling to large hospital networks.",
+    "We've proven our model with small creators, now we're targeting major media companies for massive growth.",
+    "While we have many individual users, our path to monetization is through selling team licenses to large corporations."
+   ],
+   "variable_elements": {
+    "primary_metric": "Number of customers/entities per segment",
+    "secondary_metric": "Total market value/spend per segment",
+    "time_dimension": "Not applicable (static market snapshot)",
+    "comparison_basis": "Comparison across different customer segments within a single market"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Market data segmenting customers by a size metric (e.g., revenue, employee count, usage)",
+     "Data on the number of customers in each segment",
+     "Data on the total market value (e.g., total spend, total revenue) for each segment"
+    ],
+    "data_shape_needed": "needs_inverse_relationship: the segment with the most customers should have a smaller total market value than the segments with fewer, larger customers.",
+    "minimum_data_points": "3+ customer segments",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a strategic pivot from a volume-based business to a value-based one.",
+     "Explaining to investors why you are building features for enterprise customers.",
+     "Showing a new, large TAM to re-accelerate a slowing growth story.",
+     "When your company has 'graduated' from its initial beachhead market and is expanding.",
+     "Pitching a new, higher-priced product tier to investors.",
+     "Demonstrating a 'land and expand' strategy at the market level."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your market is homogenous and doesn't have clear value tiers.",
+     "Your strategy is explicitly to stay in a high-volume, low-cost segment.",
+     "The value in your market is actually concentrated in the long tail, not the 'fat head'."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity & Growth Strategy",
+   "position": "middle",
+   "title": "Significant opportunities in serving larger sellers"
+  },
+  {
+   "id": "square-block-investor-2020#s011",
+   "schema": "rich",
+   "core_message": "We are targeting a massive, multi-trillion dollar market opportunity in consumer finance, which is composed of several large, distinct segments that align with our product strategy.",
+   "intents": [],
+   "shows": {
+    "visual_type": "kpi_breakdown",
+    "specific_content": "The slide presents a headline total addressable market of $9 trillion. This total is then broken down into three large, visually emphasized components: Sending ($4T), Spending ($2T), and Investing ($3T).",
+    "data_points_shown": "Total Addressable Volume: $9 Trillion. Component Volumes: Sending $4T, Spending $2T, Investing $3T."
+   },
+   "abstract_pattern": "Any company can use this pattern to establish the massive scale of their Total Addressable Market (TAM). The slide presents a single, headline-grabbing total market size, then deconstructs it into its primary constituent parts or sub-markets. This demonstrates a deep understanding of the market landscape and shows that the overall opportunity is not monolithic, but composed of several large, individually addressable segments, implying multiple avenues for growth and product expansion.",
+   "keywords": [
+    "total_addressable_market",
+    "market_sizing",
+    "market_segmentation",
+    "opportunity_breakdown",
+    "large_market_opportunity",
+    "top_down_analysis",
+    "market_validation",
+    "scale_of_opportunity",
+    "growth_narrative",
+    "investment_thesis",
+    "market_composition"
+   ],
+   "works_for": [
+    "The global logistics market is $12T, composed of ocean freight, air freight, and ground transport.",
+    "Our addressable market in enterprise software is $500B, split between CRM, ERP, and data analytics.",
+    "The creator economy represents a $100B opportunity, broken down into advertising, subscriptions, and e-commerce.",
+    "We are tackling the $1T residential real estate transaction market, which consists of agent commissions, mortgage, and title insurance.",
+    "The digital advertising market is $600B, with search, social, and display as the key segments.",
+    "The future of transportation is a $5T market, spanning ride-sharing, autonomous vehicles, and last-mile delivery.",
+    "Our opportunity in digital health is $300B, covering telehealth, wearables, and pharmacy services."
+   ],
+   "variable_elements": {
+    "primary_metric": "Total Addressable Market (TAM) value",
+    "secondary_metric": "Sub-market or segment value",
+    "time_dimension": "None (snapshot of current market size)",
+    "comparison_basis": "Parts-to-whole (components of a total market)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Credible third-party market research (e.g., industry reports, government statistics)",
+     "A clear definition of the total market and its sub-segments",
+     "A defensible methodology for calculating the market size for each component"
+    ],
+    "data_shape_needed": "Needs a large, headline-worthy total number and at least 2-4 logical sub-components that sum to the total.",
+    "minimum_data_points": "One total market size and 2-4 component market sizes.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "At the beginning of a pitch to establish the scale of the problem and opportunity.",
+     "To justify a high valuation by showing a massive runway for growth.",
+     "To frame a company's multi-product strategy, with each product targeting a large sub-market.",
+     "In an investor day presentation to anchor the long-term vision in a large, tangible market.",
+     "When expanding into adjacent markets to show the size of the new prize."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your market is niche and small, as this slide pattern is designed to communicate massive scale.",
+     "If you cannot find credible third-party sources to back up your numbers, which would undermine credibility.",
+     "When your story is better told with a bottom-up TAM analysis (e.g., number of customers x price)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity",
+   "position": "Beginning",
+   "title": "Cash App ecosystem has a large opportunity in consumer financial services: $9 trillion in addressable volume in the U.S. alone"
+  },
+  {
+   "id": "square-block-investor-2020#s012",
+   "schema": "rich",
+   "core_message": "Our product ecosystem is targeting a massive, multi-faceted market opportunity of over $60 billion, which we've broken down into distinct revenue pools for sending, spending, and investing.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A slide showing that a $60B+ total opportunity is the sum of three smaller opportunities: $20B from 'Sending', $41B from 'Spending', and $2B from 'Investing'. The three components are shown as a simple addition problem that equals the total opportunity.",
+    "data_points_shown": "Total Opportunity: $60B+; Component Opportunities: Sending ($20B), Spending ($41B), Investing ($2B)."
+   },
+   "abstract_pattern": "Any company can use this pattern to quantify a large Total Addressable Market (TAM) by breaking it down into its constituent parts. This bottom-up approach builds credibility by showing the audience the specific sub-markets, product lines, or revenue streams that contribute to the large, top-line number. It transforms an abstract market size into a tangible, addressable set of opportunities, implicitly outlining the company's multi-pronged strategy for capturing the market.",
+   "keywords": [
+    "market_sizing",
+    "TAM_breakdown",
+    "bottom_up_analysis",
+    "market_opportunity",
+    "revenue_potential",
+    "growth_vectors",
+    "market_segmentation",
+    "sum_of_the_parts",
+    "addressable_market",
+    "strategic_pillars"
+   ],
+   "works_for": [
+    "Our platform targets a $100B opportunity in enterprise software, composed of CRM, data analytics, and security.",
+    "We have a $50B market opportunity in SMB services, split between marketing, payments, and logistics.",
+    "The creator economy represents a $200B TAM, which we address through subscriptions, brand deals, and merchandise.",
+    "Our healthcare AI can save the US system $300B, broken down by diagnostics, administration, and patient monitoring.",
+    "Our total opportunity in e-commerce is $75B, derived from marketplace fees, advertising revenue, and fulfillment services.",
+    "The future of mobility is a $500B market, consisting of ride-sharing, autonomous delivery, and data services."
+   ],
+   "variable_elements": {
+    "primary_metric": "Total market size / TAM",
+    "secondary_metric": "Component market sizes by product, service, or segment",
+    "time_dimension": "Snapshot / Not time-based",
+    "comparison_basis": "Sum of parts to whole"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A total market size (TAM) estimate",
+     "Market size estimates for at least 2-3 distinct components or segments",
+     "A logical framework that connects the components to the total (e.g., by product line, customer segment, revenue stream)",
+     "Credible sources for the data (e.g., third-party reports, internal analysis)"
+    ],
+    "data_shape_needed": "multiple_categories that can be logically summed to a total",
+    "minimum_data_points": "2-3 components plus a total",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to justify a very large TAM to investors.",
+     "To show that your market opportunity is composed of several distinct, large sub-markets.",
+     "To align your product strategy with specific, quantifiable revenue pools.",
+     "To build credibility by showing a bottom-up, well-researched market analysis.",
+     "Early in a pitch to establish the scale of the problem/opportunity you are solving."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your market is niche and the total number isn't impressive.",
+     "When you can't credibly break down the market into logical, mutually exclusive components.",
+     "When you don't have sources to back up your component sizing."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "professional"
+   },
+   "section": "Market Opportunity",
+   "position": "middle",
+   "title": "Cash App ecosystem represents a $60B+ revenue opportunity in the U.S."
+  },
+  {
+   "id": "square-block-investor-2020#s013",
+   "schema": "rich",
+   "core_message": "Our current addressable market is already massive at over $60B, and we have a clear, layered strategy to expand this opportunity even further through new products in the medium-term and new markets in the long-term.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A visual equation showing the total growth opportunity as a sum of three parts: the current revenue opportunity ('>$60B'), a medium-term opportunity from 'New Products and Use Cases', and a long-term opportunity from 'New Markets'.",
+    "data_points_shown": "Current Cash App Revenue Opportunity: >$60B. Other elements are conceptual categories."
+   },
+   "abstract_pattern": "This pattern visualizes a company's compounding growth story by stacking future opportunities on top of a large, existing base. It starts by anchoring the audience with a significant number representing the current market or revenue opportunity. It then layers on distinct future growth vectors, often categorized by timeframe (e.g., medium-term, long-term) or type (e.g., product expansion, geographic expansion). Any company can use this to prove its growth potential is not limited to its current business, but is part of a larger, multi-stage strategic plan.",
+   "keywords": [
+    "growth_vectors",
+    "market_expansion",
+    "total_addressable_market",
+    "TAM_expansion",
+    "strategic_roadmap",
+    "future_growth_story",
+    "compounding_growth",
+    "layered_opportunity",
+    "product_expansion",
+    "geographic_expansion",
+    "long-term_vision",
+    "runway_for_growth"
+   ],
+   "works_for": [
+    "Our core enterprise software market is $20B, but adding SMBs and expanding to Europe will triple our TAM.",
+    "We dominate the US sneaker resale market; our next growth phases are luxury watches and international expansion.",
+    "Our current AI model serves the legal industry, but future versions will target healthcare and finance.",
+    "Our delivery service currently covers restaurants, and we're expanding into groceries and then retail.",
+    "We have a $10B opportunity with our current developer tools, which will be amplified by our upcoming enterprise platform.",
+    "Our primary revenue comes from direct-to-consumer sales, but we see future growth in wholesale and then international licensing.",
+    "We've captured the individual creator market, and our next steps are targeting teams and then large enterprises."
+   ],
+   "variable_elements": {
+    "primary_metric": "Current market size / revenue opportunity",
+    "secondary_metric": "Categorical growth drivers (e.g., new products, new markets)",
+    "time_dimension": "Categorical time horizons (e.g., Today, Medium-Term, Long-Term)",
+    "comparison_basis": "Future opportunity vs. present opportunity"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A large, credible number for the current Total Addressable Market (TAM) or revenue opportunity.",
+     "A defined set of 2-3 future growth initiatives."
+    ],
+    "data_shape_needed": "needs_large_anchor_number",
+    "minimum_data_points": "1 large market size number and 2+ distinct future growth vectors",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Justifying a high valuation by showing a massive, expanding runway for growth.",
+     "Answering the investor question: 'Where will future growth come from?'",
+     "Presenting the company's long-term vision and strategic plan.",
+     "Transitioning from discussing the current business to the future opportunity.",
+     "Showing that the company is more than a single product or market.",
+     "Building confidence in the durability of the company's growth narrative."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You haven't yet proven your core business model or achieved product-market fit.",
+     "Your current market is small and the focus needs to be on near-term execution.",
+     "You lack a credible, well-researched basis for your future growth claims."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Opportunity & Growth Strategy",
+   "position": "middle",
+   "title": "With multiple vectors for future growth"
+  },
+  {
+   "id": "square-block-investor-2020#s014",
+   "schema": "rich",
+   "core_message": "Our company's competitive advantage is not based on a single factor, but on a powerful combination of brand, product excellence, technology, and an efficient, self-reinforcing ecosystem.",
+   "intents": [],
+   "shows": {
+    "visual_type": "bullet_list",
+    "specific_content": "A title stating 'Multiple differentiators across Seller and Cash App ecosystems' followed by a bulleted list of six key strengths. These strengths cover brand, product, design, technology, customer acquisition, and ecosystem effects.",
+    "data_points_shown": "Qualitative claims: Strong aspirational brands with word-of-mouth; Remarkable products with rapid development; Elegant design for self-serve; Integrated and scalable technology platform; Scaled acquisition with strong ROI; Ability to drive engagement and upsell within the ecosystem."
+   },
+   "abstract_pattern": "Any company can use this pattern to articulate its defensibility by listing multiple, distinct qualitative strengths that collectively form a strong competitive moat. Instead of focusing on a single feature, this approach showcases a holistic system of advantages across different business functions like brand, product, technology, and go-to-market. This communicates that the company's success is hard to replicate because it's not reliant on one thing, but on the interplay between many.",
+   "keywords": [
+    "competitive_advantage",
+    "demonstrate_moat",
+    "qualitative_strengths",
+    "holistic_differentiation",
+    "business_flywheel",
+    "ecosystem_advantage",
+    "defensibility",
+    "why_we_win",
+    "value_proposition_summary",
+    "platform_strengths",
+    "reasons_to_believe"
+   ],
+   "works_for": [
+    "Our success is built on a unique combination of proprietary data, a beloved brand, and a viral go-to-market loop.",
+    "We have a defensible moat created by our network effects, exclusive supplier relationships, and superior logistics technology.",
+    "Our competitive edge comes from our deep scientific expertise, our portfolio of patents, and our integrated manufacturing process.",
+    "We win through a combination of a powerful community, a self-service platform, and a unique content-driven acquisition model.",
+    "Our platform's defensibility stems from its deep integrations, powerful developer ecosystem, and trusted enterprise-grade security.",
+    "Our advantage is our vertically integrated supply chain, which allows for better quality control and lower costs than competitors.",
+    "We are the only player with a full-stack solution, a direct-to-consumer brand, and a data-driven personalization engine."
+   ],
+   "variable_elements": {
+    "primary_metric": "List of qualitative differentiators",
+    "secondary_metric": null,
+    "time_dimension": "Not applicable (snapshot of current strengths)",
+    "comparison_basis": "Implicitly vs. competitors/market"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined list of 3-7 key company strengths or differentiators",
+     "A clear strategic narrative about the company's moat"
+    ],
+    "data_shape_needed": "Needs a set of distinct, compelling qualitative claims that cover different aspects of the business (e.g., product, brand, tech, GTM).",
+    "minimum_data_points": "3-5 distinct points of differentiation",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Summarizing your competitive advantages in a single, easy-to-digest slide.",
+     "Answering the 'Why you?' or 'What's your moat?' question from investors.",
+     "Setting the stage before a deep dive into product, technology, or go-to-market strategy.",
+     "When your advantage is a combination of factors, not just one single thing.",
+     "Reinforcing the company's unique and defensible position in the market.",
+     "As a summary slide in the 'Why We Win' section of a pitch."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show quantitative proof of an advantage (use a chart instead).",
+     "If your differentiators are weak or generic (e.g., 'great team', 'good customer service').",
+     "When your only advantage is a single feature or a lower price point."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "professional"
+   },
+   "section": "Competitive Advantage / Moat",
+   "position": "middle",
+   "title": "Multiple differentiators across Seller and Cash App ecosystems"
+  },
+  {
+   "id": "square-block-investor-2020#s015",
+   "schema": "rich",
+   "core_message": "This slide acts as a signpost, indicating a shift in the presentation to focus specifically on the 'Seller Ecosystem' business unit.",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_title_slide",
+    "specific_content": "A slide with a white background and a title in blue text that reads 'Seller Ecosystem'. There is a small Square logo icon in the bottom right corner.",
+    "data_points_shown": "None."
+   },
+   "abstract_pattern": "Any company can use this pattern to clearly demarcate a new section in their presentation. It functions as a narrative signpost, signaling a pivot from a general overview or a previous topic to a specific business unit, product line, or strategic pillar. This simple transition slide helps the audience mentally reset and prepares them for the detailed information that will follow, improving comprehension and narrative structure.",
+   "keywords": [
+    "section_divider",
+    "topic_transition",
+    "narrative_pivot",
+    "presentation_structure",
+    "agenda_item",
+    "signposting",
+    "business_unit_focus",
+    "product_line_introduction",
+    "chapter_heading",
+    "framing_slide"
+   ],
+   "works_for": [
+    "Now, let's dive into our Enterprise Platform.",
+    "Next, we'll discuss our Go-To-Market strategy.",
+    "Let's turn our attention to the Consumer segment.",
+    "We will now cover our Financial Projections.",
+    "Here is our plan for International Expansion.",
+    "Let's examine our technology and IP.",
+    "Now for a deep dive on our SMB product suite."
+   ],
+   "variable_elements": {
+    "primary_metric": "Section or Topic Title",
+    "secondary_metric": null,
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A presentation outline with distinct sections",
+     "The name of the section being introduced"
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "1 section title",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When transitioning between major parts of a presentation (e.g., from company overview to product deep-dive).",
+     "When your company has multiple distinct business units or product lines to discuss separately.",
+     "To give the audience a moment to pause and reset before a new, detailed topic.",
+     "To clearly structure a long or complex presentation, improving audience retention.",
+     "In an investor day or detailed business review with multiple speakers or chapters."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a very short, single-topic presentation (e.g., a 3-minute elevator pitch).",
+     "When you want a seamless, continuous narrative flow without explicit breaks.",
+     "If the presentation is not long or complex enough to require sectioning."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "professional"
+   },
+   "section": "Seller Ecosystem",
+   "position": "beginning_of_a_major_section",
+   "title": "Seller Ecosystem"
+  },
+  {
+   "id": "square-block-investor-2020#s016",
+   "schema": "rich",
+   "core_message": "We offer a comprehensive and interconnected ecosystem of products and services that increases customer value and drives recurring revenue as they adopt more of our solutions.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A grid diagram categorizing the company's products and services into five main pillars: Managed Payments, POS + Business Tools, Vertical Specific Software, Financial Services, and Platform. Each pillar contains multiple specific offerings represented by icons and labels, showcasing the breadth of the ecosystem.",
+    "data_points_shown": "No quantitative data is shown. The slide lists product categories and specific product names (e.g., Payments, Square Point of Sale, Payroll, APIs, Partner App Marketplace)."
+   },
+   "abstract_pattern": "This pattern visually organizes a company's entire suite of products or services into logical categories to demonstrate breadth and strategic coherence. It shifts the perception from a single-point solution to a comprehensive, integrated platform. The structure implies synergy between the components, suggesting a strong competitive moat, high switching costs, and multiple avenues for growth (cross-sell/upsell). Any company with a multi-product strategy can use this to articulate their value proposition as a complete ecosystem.",
+   "keywords": [
+    "ecosystem_slide",
+    "product_suite",
+    "platform_strategy",
+    "breadth_of_offering",
+    "competitive_moat",
+    "interconnected_services",
+    "product_matrix",
+    "holistic_solution",
+    "land_and_expand",
+    "cross-sell_opportunity",
+    "platform_advantage",
+    "all-in-one_solution"
+   ],
+   "works_for": [
+    "We are the all-in-one operating system for modern restaurants.",
+    "Our marketing cloud covers every stage of the customer journey, from acquisition to retention.",
+    "We provide a complete suite of financial tools for startups, from banking to expense management.",
+    "Our platform integrates hardware, software, and services to create a seamless smart home experience.",
+    "We've built a full-stack developer platform, including compute, storage, and developer tools.",
+    "Our HR platform handles everything from payroll and benefits to performance management.",
+    "We are more than just a design tool; we are a complete collaborative ecosystem for creative teams."
+   ],
+   "variable_elements": {
+    "primary_metric": "Product/Service Categories",
+    "secondary_metric": "Specific Products/Features within each category",
+    "time_dimension": "Not applicable (snapshot of current offerings)",
+    "comparison_basis": "Implicitly, vs. point solutions or less comprehensive competitors"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of all major products, features, or services offered",
+     "A clear categorization or grouping for these offerings"
+    ],
+    "data_shape_needed": "needs multiple categories with several items in each",
+    "minimum_data_points": "3-4 categories with 2-3+ products/features in each to appear substantial",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to shift the narrative from a single product to a full platform.",
+     "To visually explain your 'land and expand' or cross-sell strategy.",
+     "To justify a higher valuation based on platform effects and a strong competitive moat.",
+     "In a competitive analysis to show your offering is more comprehensive than rivals.",
+     "As an introductory slide for the product section of a pitch deck.",
+     "To demonstrate how different business units or acquisitions fit into a cohesive strategy."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you only have one or two products, as the slide will look empty.",
+     "When your products are not actually integrated or synergistic.",
+     "If you need to show performance metrics (e.g., revenue, growth) rather than product breadth."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Ecosystem Overview",
+   "position": "middle",
+   "title": "Square is building a unique ecosystem of products and services"
+  },
+  {
+   "id": "square-block-investor-2020#s017",
+   "schema": "rich",
+   "core_message": "Our profit sources are successfully shifting from a legacy, standalone product to a more diversified and valuable mix of software and financial services, proving our platform strategy is working.",
+   "intents": [],
+   "shows": {
+    "visual_type": "stacked_column_chart",
+    "specific_content": "A 100% stacked column chart showing the changing percentage mix of Seller Gross Profit by four product categories from 2016 to 2019. It illustrates the 'Sidecar payments' category decreasing as a percentage, while 'Software & integrated payments', 'Capital', and 'Instant Transfer & Square Card' are increasing.",
+    "data_points_shown": "Annual gross profit mix from 2016-2019, broken down by percentage contribution from 'Sidecar payments', 'Software & integrated payments', 'Capital', and 'Instant Transfer & Square Card'. No absolute dollar values are shown."
+   },
+   "abstract_pattern": "This pattern uses a 100% stacked chart over time to show a strategic shift in the composition of a key business metric (like revenue, profit, or customer base). It demonstrates that the company is successfully moving away from a foundational or legacy component towards newer, more strategic, or higher-margin components. Any company can use this to prove that their business mix is improving in quality, becoming more diversified, or aligning with a stated strategic direction.",
+   "keywords": [
+    "business_mix_shift",
+    "revenue_composition",
+    "profit_diversification",
+    "strategic_evolution",
+    "platform_monetization",
+    "product_upsell",
+    "portfolio_shift",
+    "improving_business_quality",
+    "de-risking",
+    "value_migration",
+    "ecosystem_growth"
+   ],
+   "works_for": [
+    "Our revenue is shifting from one-time sales to recurring subscriptions.",
+    "We are successfully moving our customer base from SMBs to more profitable Enterprise clients.",
+    "Our user engagement is evolving from a single core feature to a multi-product ecosystem.",
+    "Our sales are transitioning from lower-margin hardware to higher-margin software.",
+    "We are reducing our reliance on a single geographic market by expanding internationally.",
+    "Our marketing spend is shifting from paid acquisition to more efficient organic channels.",
+    "Our developer community is moving from using our basic API to adopting our full platform SDKs."
+   ],
+   "variable_elements": {
+    "primary_metric": "Composition of a key business metric (e.g., Gross Profit, Revenue, Customer Count, Active Users).",
+    "secondary_metric": "The different categories or segments that make up the primary metric (e.g., Product lines, Customer segments, Geographic regions, Sales channels).",
+    "time_dimension": "Progression over time (e.g., years, quarters).",
+    "comparison_basis": "Self over time, showing the changing internal mix."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key metric (like revenue or profit)",
+     "A breakdown of that metric into at least two, but preferably 3-5, distinct categories or segments."
+    ],
+    "data_shape_needed": "needs a clear trend showing one or more categories decreasing as a percentage while others increase. A static or noisy mix would not work.",
+    "minimum_data_points": "3+ time periods (e.g., years or quarters) to show a clear trend.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When proving a strategic pivot or business model evolution is successful.",
+     "To show investors that you are building a more defensible, diversified business.",
+     "When demonstrating the success of a platform strategy where new products are layered on top of an old one.",
+     "To justify a higher valuation by showing a shift towards higher-margin revenue streams.",
+     "When you need to show you are successfully upselling or cross-selling your customer base into new products."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your business mix is static or not changing.",
+     "If the shift is towards lower-margin or less strategic areas.",
+     "When you are a very early-stage company with only one product."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Model Evolution",
+   "position": "middle",
+   "title": "Seller Gross Profit by Product Category"
+  },
+  {
+   "id": "square-block-investor-2020#s018",
+   "schema": "rich",
+   "core_message": "Our product is a flexible platform that supports a wide range of integrations and custom solutions, creating a powerful and defensible ecosystem around our core offering.",
+   "intents": [],
+   "shows": {
+    "visual_type": "logo_landscape",
+    "specific_content": "A grid of 12 partner and customer logos, categorized into three types of integrations: E-commerce platforms (Wix, Magento), Third-Party Apps (Quickbooks, Mailchimp), and In-House custom solutions (Philz Coffee, The RealReal). Each category has a brief description of the integration type.",
+    "data_points_shown": "Logos shown: Wix, Magento, WooCommerce, GoDaddy, QuickBooks, TouchBistro, Postmates, Mailchimp, Hampton Jitney, Philz Coffee, Laser Away, The RealReal."
+   },
+   "abstract_pattern": "Any company can use this pattern to showcase the strength and breadth of its ecosystem. It works by categorizing different types of partners, developers, or customers who integrate with or build upon the core product. Using well-known logos as social proof, this slide demonstrates that the product is not a closed system but a central, flexible hub. This visual proof of a thriving ecosystem implies a strong competitive moat, network effects, and high switching costs for customers.",
+   "keywords": [
+    "ecosystem_slide",
+    "platform_strategy",
+    "integration_partners",
+    "developer_platform",
+    "network_effects",
+    "defensible_moat",
+    "partner_landscape",
+    "social_proof",
+    "use_case_variety",
+    "app_marketplace",
+    "API_adoption",
+    "channel_partners"
+   ],
+   "works_for": [
+    "Our API is being adopted by a wide range of developers to build new applications.",
+    "We have a thriving marketplace of third-party apps that extend our platform's functionality.",
+    "Our product integrates seamlessly into our customers' existing workflows with these popular tools.",
+    "We are the central operating system for our industry, with partners building specialized solutions on our platform.",
+    "Our open architecture allows for deep customization and enterprise adoption.",
+    "Our channel partners are a key driver of our growth and market reach.",
+    "We are embedded across the entire value chain through our diverse partnerships."
+   ],
+   "variable_elements": {
+    "primary_metric": "Breadth of ecosystem / number of integrations",
+    "secondary_metric": "Quality of partners (logo recognition)",
+    "time_dimension": "Not applicable (snapshot in time)",
+    "comparison_basis": "Implicitly, the breadth of our ecosystem vs. competitors' closed systems"
+   },
+   "data_requirements": {
+    "must_have": [
+     "List of key integration partners or notable customers",
+     "Categorization of these partners/customers into distinct use cases or relationship types",
+     "Logos for the partners/customers"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3+ categories with 2-4 logos each",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to prove your product has a strong competitive moat beyond its core features.",
+     "To demonstrate the network effects of your platform.",
+     "When explaining your go-to-market strategy involves partners and developers.",
+     "To show investors that you are becoming an indispensable 'system of record' or 'hub' in your industry.",
+     "To showcase the flexibility and variety of use cases for your product.",
+     "To build credibility by associating your brand with well-known partners."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you only have a handful of unknown partners.",
+     "If your product is a closed system with no external integrations or API.",
+     "If you are very early stage and haven't built an ecosystem yet."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform & Ecosystem Strategy",
+   "position": "middle",
+   "title": "A platform for developers to meet sellers' needs"
+  },
+  {
+   "id": "square-block-investor-2020#s019",
+   "schema": "rich",
+   "core_message": "We have a comprehensive, multi-channel go-to-market strategy that drives scalable growth across the entire customer lifecycle, from brand and acquisition to distribution and retention.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A six-column layout where each column represents a pillar of a go-to-market strategy. Each pillar has an icon, a title (Brand, Marketing, Sales, Retail Distribution, Partners, Retention), and a short description of the company's approach, with some including specific proof points.",
+    "data_points_shown": "NPS of 63, 14,000 retail stores. Mentions of various marketing channels (SEO, display ads, direct mail, TV, etc.) and technologies (machine learning)."
+   },
+   "abstract_pattern": "Any company can use this pattern to deconstruct a complex strategic concept, like its go-to-market or growth engine, into several distinct, reinforcing pillars. Each pillar is visually represented and explained, often with a supporting proof point, to demonstrate a comprehensive and robust operational strategy. This shows the audience that success is not accidental or reliant on a single factor, but is the result of a well-designed, multi-faceted system.",
+   "keywords": [
+    "go_to_market_strategy",
+    "growth_pillars",
+    "strategic_framework",
+    "multi_channel_approach",
+    "customer_lifecycle_management",
+    "acquisition_channels",
+    "distribution_strategy",
+    "retention_engine",
+    "holistic_strategy",
+    "operational_breakdown",
+    "business_model_components"
+   ],
+   "works_for": [
+    "Our defensive moat is built on three pillars: network effects, high switching costs, and proprietary data.",
+    "Our path to profitability is driven by excellence in supply chain, manufacturing, and logistics.",
+    "Our innovation engine has three core components: user research, data science, and rapid prototyping.",
+    "We ensure customer success through a combination of proactive onboarding, dedicated support, and a community platform.",
+    "Our platform strategy is composed of a core API, a developer marketplace, and enterprise services.",
+    "Our talent acquisition strategy relies on university partnerships, employee referrals, and inbound marketing.",
+    "We achieve sustainable growth through a flywheel of product-led acquisition, sales-led expansion, and community-driven retention."
+   ],
+   "variable_elements": {
+    "primary_metric": "The overarching strategic concept being broken down (e.g., Go-to-Market Strategy, Growth Strategy).",
+    "secondary_metric": "The individual components or pillars of the strategy (e.g., Brand, Marketing, Sales).",
+    "time_dimension": "Not applicable; this is a static framework.",
+    "comparison_basis": "Implicitly comprehensive vs. a simpler, single-channel approach. It's a self-contained explanation of the company's own strategy."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined strategic framework (e.g., GTM, growth, product)",
+     "A list of the key components/pillars of that framework",
+     "Brief descriptions for each component",
+     "Optional but powerful: a key metric or proof point for one or more pillars"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3-6 strategic pillars",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining *how* your company acquires and retains customers in a scalable way.",
+     "Demonstrating that your growth is not dependent on a single, fragile channel.",
+     "Breaking down a complex business function into understandable components for investors.",
+     "Showing strategic maturity and a well-thought-out operational plan.",
+     "Justifying why your growth is sustainable and defensible."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your strategy is genuinely simple and relies on a single channel.",
+     "You don't have clear, distinct pillars and are just listing random activities.",
+     "You need to show performance over time (a chart would be better)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Go-to-Market Strategy",
+   "position": "middle",
+   "title": "Scalable go-to-market strategy..."
+  },
+  {
+   "id": "square-block-investor-2020#s020",
+   "schema": "rich",
+   "core_message": "Our company wins because we have a multi-faceted, defensible moat built on integrated technology, a strong brand, and an efficient business model that is difficult for competitors to replicate at scale.",
+   "intents": [],
+   "shows": {
+    "visual_type": "competitive_advantage_list",
+    "specific_content": "A two-column list detailing eight reasons why Square's Seller business wins. The left column lists categories of advantage (e.g., Technology, Brand, GTM), and the right column provides a brief explanation or a supporting data point (e.g., 'Integrated, end-to-end', 'Net promoter score of 63', '$409 million in gross profit').",
+    "data_points_shown": "Net Promoter Score: 63 (~2x industry average for banking). Gross Profit: $409 million in Q3 2020, up 12% YoY."
+   },
+   "abstract_pattern": "This pattern systematically breaks down a company's competitive moat into distinct, defensible pillars. It lists several categories of advantage and provides a concise proof point for each, mixing qualitative descriptions of strategy (e.g., 'integrated platform') with quantitative evidence (e.g., 'high NPS', 'strong growth metric'). Any company can use this to articulate why they are uniquely positioned to win by showing their advantages are multi-faceted, deeply embedded, and difficult for competitors to replicate.",
+   "keywords": [
+    "competitive_moat",
+    "defensibility",
+    "why_we_win",
+    "unique_assets",
+    "competitive_advantage",
+    "platform_advantage",
+    "ecosystem_lock-in",
+    "barriers_to_entry",
+    "value_proposition_summary",
+    "strategic_pillars",
+    "business_model_strength",
+    "sustainable_advantage"
+   ],
+   "works_for": [
+    "Our business is built on a foundation of unique technology, a trusted brand, and a scalable sales model.",
+    "Our AI model's unique training data gives us a performance edge that's impossible to copy.",
+    "We have built a powerful community that creates a strong network effect, locking out new entrants.",
+    "Our end-to-end workflow automation saves customers more time than any collection of point solutions.",
+    "Our brand is the most trusted in the category, leading to superior unit economics.",
+    "Our combination of proprietary hardware and software creates a superior user experience that can't be matched.",
+    "We have a multi-layered defense against competitors, spanning product, go-to-market, and brand."
+   ],
+   "variable_elements": {
+    "primary_metric": "Categories of competitive advantage",
+    "secondary_metric": "Supporting proof points (qualitative or quantitative)",
+    "time_dimension": "Mostly a static snapshot, with one point showing year-over-year growth",
+    "comparison_basis": "Implicitly vs. competitors; explicitly vs. a benchmark for one metric (NPS)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear articulation of 3-5 distinct competitive advantages",
+     "At least one or two quantitative proof points (e.g., a key metric, customer satisfaction score, market share, growth rate)",
+     "Qualitative descriptions for each advantage"
+    ],
+    "data_shape_needed": "Needs a collection of distinct strengths, not a single trend. The data points are typically point-in-time snapshots or simple comparisons.",
+    "minimum_data_points": "3-5 categories of advantage, each with a supporting statement. At least 1-2 should be backed by a number.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to convince investors you have a durable, long-term competitive advantage.",
+     "To summarize your 'secret sauce' after explaining what your product does.",
+     "When facing questions about new entrants or competitive threats.",
+     "To justify a high valuation by demonstrating the strength of your moat.",
+     "In a partnership pitch to show why you are a market leader.",
+     "To build confidence in your company's long-term strategy."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your only advantage is 'we have a great team' or 'we move fast', as these are not durable moats.",
+     "If you are in a commodity market with no real differentiation.",
+     "If you have no quantitative data to back up your claims of superiority."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "professional"
+   },
+   "section": "Competitive Advantage & Moat",
+   "position": "middle",
+   "title": "Why Seller wins: Unique assets, difficult to copy, and at scale"
+  },
+  {
+   "id": "square-block-investor-2020#s021",
+   "schema": "rich",
+   "core_message": "Our customer acquisition is highly efficient and profitable, with the initial marketing investment for a customer cohort being fully paid back by gross profit within four quarters.",
+   "intents": [],
+   "shows": {
+    "visual_type": "waterfall_chart",
+    "specific_content": "A waterfall chart tracking the profitability of the Q1 2015 customer cohort. It starts with a negative bar of ($32M) for Sales and Marketing Expense in Q1 2015. Subsequent blue bars show the cumulative gross profit from that cohort growing quarterly, crossing zero in Q4 2015 and reaching a positive $33M by Q1 2016.",
+    "data_points_shown": "Initial Sales and Marketing Expense (Q1 2015): ($32M). Cumulative Gross Profit after 4 quarters (by Q1 2016): $33M. Payback Period: 4 quarters."
+   },
+   "abstract_pattern": "Any company can use this pattern to prove the efficiency of its customer acquisition model by visualizing the payback period. The slide starts with an initial investment (the cost to acquire a cohort of customers) and then charts the cumulative profit or revenue generated by that same cohort over time. The key insight is demonstrating how quickly the cumulative return surpasses the initial investment, proving the long-term value of acquiring customers and the viability of the growth engine.",
+   "keywords": [
+    "payback_period",
+    "cohort_analysis",
+    "unit_economics",
+    "LTV_CAC_ratio",
+    "customer_profitability",
+    "acquisition_efficiency",
+    "return_on_investment",
+    "scalable_growth",
+    "go-to-market_efficiency",
+    "capital_efficiency",
+    "cohort_profitability",
+    "return_on_marketing_spend"
+   ],
+   "works_for": [
+    "Our marketing spend for new users pays for itself within 6 months.",
+    "Each new store we open becomes profitable in under two years.",
+    "The revenue from a cohort of subscribers surpasses their acquisition cost in just three billing cycles.",
+    "We have a highly efficient growth model, with a 9-month payback on customer acquisition costs.",
+    "For every dollar we spend on marketing, we generate three dollars in gross profit over 18 months.",
+    "Our investment in acquiring a new developer community generates a positive ROI within a year.",
+    "We can confidently scale our ad spend because we recoup the cost in less than 12 months."
+   ],
+   "variable_elements": {
+    "primary_metric": "Cumulative profit or revenue from a cohort",
+    "secondary_metric": "Initial customer acquisition cost (CAC) or marketing spend",
+    "time_dimension": "Time periods (e.g., quarters, months) since cohort acquisition",
+    "comparison_basis": "Cumulative return vs. initial investment for a single cohort over time"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Customer acquisition cost (CAC) or total marketing spend for a specific time period (the cohort)",
+     "Time-series data of revenue or gross profit generated by that same cohort"
+    ],
+    "data_shape_needed": "Needs an initial negative value (the cost) followed by a series of positive, cumulative values that eventually exceed the initial cost within a reasonable timeframe.",
+    "minimum_data_points": "An initial cost and at least 3-4 subsequent time periods of cumulative return data to show a trend and payback.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving your go-to-market strategy is efficient and profitable.",
+     "Justifying increased marketing spend by showing a strong, fast ROI.",
+     "Demonstrating strong unit economics to investors.",
+     "Showing that your business model is scalable and not just 'buying growth' at a loss.",
+     "Answering the investor question: 'How long does it take to make money on a new customer?'",
+     "Highlighting capital efficiency in your growth story."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your payback period is very long (e.g., >3 years) for your industry.",
+     "You don't have clear cohort data to track profit/revenue back to an acquisition cost.",
+     "Your unit economics are currently unprofitable and don't show a clear path to payback."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Go-to-Market Efficiency",
+   "position": "middle",
+   "title": "Profit exceeded initial sales and marketing in four quarters"
+  },
+  {
+   "id": "square-block-investor-2020#s022",
+   "schema": "rich",
+   "core_message": "Our customer acquisition is highly efficient and profitable; the investment to acquire a customer cohort is paid back quickly, and that same cohort continues to generate significant, compounding profit for years.",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart",
+    "specific_content": "A bar chart tracking the cumulative gross profit from the Q1 2015 customer cohort over five years. It begins with a single negative bar representing the initial ($32M) Sales and Marketing expense, followed by quarterly bars showing the cumulative profit growing steadily and reaching $172M by Q4 2019.",
+    "data_points_shown": "Initial Sales and Marketing Expense (Q1 2015): ($32M). Final Cumulative Gross Profit (Q4 2019): $172M. Time period shown is Q1 2015 to Q4 2019."
+   },
+   "abstract_pattern": "This pattern visualizes the long-term return on investment for a specific customer cohort. It starts by showing an initial investment (like customer acquisition cost) as a negative value. It then tracks the cumulative value (like gross profit or revenue) generated by that same cohort over time, demonstrating the payback period when the cumulative value surpasses the initial cost. The key message is that not only is the investment recouped, but the cohort becomes a long-term, growing profit engine, proving the efficiency of the go-to-market strategy.",
+   "keywords": [
+    "cohort_analysis",
+    "payback_period",
+    "customer_lifetime_value",
+    "LTV_CAC_analysis",
+    "unit_economics",
+    "long_term_profitability",
+    "investment_ROI",
+    "go_to_market_efficiency",
+    "scalable_acquisition",
+    "cumulative_profit",
+    "customer_retention_value",
+    "cohort_profitability"
+   ],
+   "works_for": [
+    "Our customer acquisition costs are paid back in under 6 months, and those customers generate 5x their CAC over 3 years.",
+    "Each new market we enter becomes profitable within 18 months and continues to grow.",
+    "The subscribers we acquired in 2020 have already generated 3x their acquisition cost in recurring revenue.",
+    "Our hardware sale is a breakeven event, but the associated software subscription generates high-margin recurring revenue for years.",
+    "We can prove that our marketing spend generates highly profitable and loyal customer groups.",
+    "Our cohorts show strong net revenue retention, leading to compounding growth over time.",
+    "This demonstrates the power of our 'land and expand' model within a single customer cohort.",
+    "Our business model has a clear and attractive payback profile."
+   ],
+   "variable_elements": {
+    "primary_metric": "Cumulative value metric (e.g., Gross Profit, Revenue, Contribution Margin)",
+    "secondary_metric": "Initial investment or cost (e.g., Sales & Marketing Expense, Customer Acquisition Cost)",
+    "time_dimension": "Time-series showing a specific cohort's progression (e.g., quarterly, annually)",
+    "comparison_basis": "Comparison of cumulative value generated by a single cohort against its initial acquisition cost over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a specific customer cohort",
+     "The initial acquisition cost for that cohort (e.g., S&M spend)",
+     "A cumulative value metric (like gross profit or revenue) generated by that cohort over time"
+    ],
+    "data_shape_needed": "Needs an initial negative value (cost) followed by a consistently increasing positive cumulative value that surpasses the initial cost within a reasonable timeframe.",
+    "minimum_data_points": "At least 8-12 time periods (e.g., quarters) to show a meaningful payback and subsequent growth.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving the long-term ROI of your marketing and sales spend.",
+     "Demonstrating strong unit economics to justify scaling customer acquisition.",
+     "Showing investors that your business model is profitable on a per-cohort basis.",
+     "Highlighting customer stickiness and long-term value generation.",
+     "Answering detailed questions about payback periods and LTV:CAC.",
+     "Justifying a high valuation based on future cohort profitability."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your payback periods are very long and you're raising early-stage capital.",
+     "You don't have the data infrastructure to track cohorts accurately.",
+     "Your cohorts churn quickly and don't show increasing cumulative value over time."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Cohort Analysis",
+   "position": "Middle",
+   "title": "...and continued to grow thereafter"
+  },
+  {
+   "id": "square-block-investor-2020#s023",
+   "schema": "rich",
+   "core_message": "Our customer acquisition model is highly efficient and predictable; each new customer cohort pays back its acquisition cost quickly and then generates compounding returns fatores of their initial cost over their lifetime.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cohort_chart",
+    "specific_content": "A line chart showing the Return on Investment (ROI) for multiple quarterly customer cohorts over time. The x-axis is 'Quarters after joining' (from 1 to 19), and the y-axis is 'ROI' (from 0 to 6). Each of the many blue lines represents a different quarterly cohort acquired between Q1 2014 and Q4 2019. All lines show a consistent, strong upward trend.",
+    "data_points_shown": "Multiple quarterly cohorts from Q1 2014 to Q4 2019. All cohorts show ROI crossing 1x (the payback point) around 4-5 quarters and continuing to grow to 4x-6x ROI by quarter 19."
+   },
+   "abstract_pattern": "This pattern visualizes the long-term value and profitability of customer cohorts. Any company can use this to prove that their customer acquisition model is not just effective but increasingly profitable over time. By plotting a cumulative value metric (like ROI or LTV) against customer tenure for different acquisition cohorts, it demonstrates that customers become more valuable the longer they are retained. The consistency and tight clustering of lines across multiple cohorts proves the business model is predictable, repeatable, and scalable, de-risking future growth investments.",
+   "keywords": [
+    "cohort_analysis",
+    "customer_lifetime_value",
+    "LTV_CAC_ratio",
+    "payback_period",
+    "unit_economics",
+    "retention_value",
+    "compounding_returns",
+    "scalable_acquisition",
+    "business_model_proof",
+    "investor_confidence",
+    "predictable_revenue",
+    "net_revenue_retention"
+   ],
+   "works_for": [
+    "Our SaaS customers expand their usage, leading to strong net dollar retention.",
+    "Each new user cohort becomes profitable within 6 months and generates 5x their acquisition cost over 3 years.",
+    "Our marketplace flywheel is working: early cohorts of sellers are now doing 10x their initial transaction volume.",
+    "We have a predictable and repeatable growth engine that justifies our marketing spend.",
+    "Our investment in customer acquisition yields strong, compounding returns.",
+    "The longer customers stay with us, the more valuable they become, proving our product's stickiness.",
+    "Our unit economics are healthy and have remained consistent even as we've scaled.",
+    "We have a clear and rapid path to profitability for every customer we acquire."
+   ],
+   "variable_elements": {
+    "primary_metric": "A cumulative value metric, such as ROI, LTV, cumulative gross profit, or cumulative revenue.",
+    "secondary_metric": "Customer cohort, typically defined by acquisition date (e.g., Q1 2020 cohort).",
+    "time_dimension": "Customer tenure (e.g., days, months, quarters, or years after acquisition).",
+    "comparison_basis": "Multiple cohorts are compared against each other to demonstrate consistency and predictability over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Customer-level revenue or profit data tracked over time",
+     "Customer acquisition dates to create cohorts",
+     "Customer acquisition cost (CAC) data, ideally per cohort"
+    ],
+    "data_shape_needed": "Needs a consistent upward trend for all or most cohorts, showing that cumulative value increases with customer tenure.",
+    "minimum_data_points": "At least 4-5 distinct cohorts, each tracked for at least 8-12 time periods (e.g., quarters) to show a meaningful long-term trend.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving to investors that your unit economics are strong and sustainable.",
+     "Demonstrating the long-term value of customer retention and product stickiness.",
+     "Justifying increased spending on customer acquisition by showing a high, predictable ROI.",
+     "Showing the stability and predictability of your business model across different time periods.",
+     "In a Series B or later pitch to de-risk the investment and prove scalability.",
+     "When you have a subscription or recurring revenue model and want to show cohort value compounding."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your cohorts are not consistent or show declining value over time (a 'leaky bucket').",
+     "If you have a one-time transactional business model where tracking long-term cohort value is not relevant.",
+     "If you don't have enough historical data to show a meaningful long-term trend (e.g., company is too young)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Business Model",
+   "position": "middle",
+   "title": "Efficient paybacks and positive retention have driven strong customer lifetime value and return on investment"
+  },
+  {
+   "id": "square-block-investor-2020#s024",
+   "schema": "rich",
+   "core_message": "Our go-to-market strategy is highly efficient and scalable; even as we significantly increase spend to acquire larger, more valuable customers, our payback period remains consistently low.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A dashboard with two charts. The left chart is a combo bar/line chart showing 'Seller Go-to-Market Spend' increasing from 2015 to 2019, while the 'Payback period' (in quarters) remains flat. The right chart is a stacked bar chart showing 'Growing GPV from Larger Sellers' from Q4 2015 to Q4 2019, segmented by two large customer tiers.",
+    "data_points_shown": "Go-to-Market Spend grows from $122M in 2015 to $265M in 2019. Payback Period remains stable at approximately 4 quarters. Gross Payment Volume (GPV) from sellers with >$125K annualized GPV is shown to be growing significantly over time."
+   },
+   "abstract_pattern": "This pattern demonstrates the robustness of a company's business model by showing a key efficiency metric remaining stable despite a significant increase in scale or a strategic shift towards a more challenging segment (e.g., moving upmarket). It juxtaposes a sharply rising 'investment' or 'scale' metric (like marketing spend) with a flat or improving 'efficiency' metric (like payback period or CAC). A supporting visual often provides evidence for the strategic shift, proving that the efficiency is being maintained under more difficult conditions. Any company can use this to prove their growth is efficient and sustainable.",
+   "keywords": [
+    "scaling_efficiency",
+    "stable_unit_economics",
+    "payback_period",
+    "go-to-market_efficiency",
+    "moving_upmarket",
+    "scalable_growth",
+    "operating_leverage",
+    "capital_efficiency",
+    "cohort_profitability",
+    "sustainable_growth",
+    "customer_acquisition_cost"
+   ],
+   "works_for": [
+    "Our customer acquisition cost has remained flat even as we've doubled our sales team to enter new regions.",
+    "We are successfully moving upmarket to enterprise clients without sacrificing our payback period.",
+    "Our sales efficiency (Magic Number) is stable despite a 3x increase in marketing investment.",
+    "We maintain industry-leading gross margins while rapidly expanding our product features.",
+    "Our infrastructure cost per user has not increased, despite exponential growth in our user base.",
+    "Our support cost per customer is decreasing even as we onboard more complex enterprise accounts.",
+    "We've proven our business model can scale efficiently into larger, more competitive markets."
+   ],
+   "variable_elements": {
+    "primary_metric": "An efficiency metric (e.g., Payback Period, CAC, Cost per unit, Magic Number).",
+    "secondary_metric": "A scale or investment metric (e.g., GTM Spend, Sales Headcount, Total Customers).",
+    "time_dimension": "Time-series, typically annual or quarterly.",
+    "comparison_basis": "Self over time, showing stability during a period of growth or strategic change."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key efficiency metric (e.g., payback period, CAC)",
+     "Time-series data for a related investment or scale metric (e.g., sales & marketing spend)",
+     "Data showing a change in scale or strategy (e.g., customer segmentation data over time, revenue growth)"
+    ],
+    "data_shape_needed": "Needs a stable or improving trend in the efficiency metric, contrasted with a sharply increasing trend in the investment/scale metric.",
+    "minimum_data_points": "4+ years or 8+ quarters to establish a credible trend.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Answering investor questions about the sustainability of your growth model.",
+     "Proving you can 'move upmarket' to larger customers without breaking your unit economics.",
+     "Demonstrating capital efficiency and a clear path to profitability.",
+     "Justifying an increase in sales and marketing spend by showing it's being deployed efficiently.",
+     "Showing that your business model has strong operating leverage as you scale.",
+     "Pre-empting concerns that growth is coming at the cost of profitability."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your unit economics (like payback period or CAC) are worsening as you scale.",
+     "You don't have several years of historical data to show a stable trend.",
+     "You are an early-stage company that hasn't yet established stable unit economics."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Go-to-Market Efficiency",
+   "position": "middle",
+   "title": "Maintained payback period even as we have grown larger sellers"
+  },
+  {
+   "id": "square-block-investor-2020#s025",
+   "schema": "rich",
+   "core_message": "Our business model is highly scalable and profitable because our customers become more valuable over time, creating compounding, recurring profit streams from each new cohort we acquire.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cohort_chart",
+    "specific_content": "A stacked bar chart titled 'Gross Profit by Cohort' showing total gross profit for each year from 2012 to 2019. Each bar is segmented by the customer acquisition cohort (e.g., '2015 Cohort'), demonstrating how each cohort's contribution to gross profit grows over time, creating a 'layer cake' effect.",
+    "data_points_shown": "The chart shows relative gross profit contribution from 8 distinct customer cohorts (Pre-2013 through 2019) over an 8-year period. No absolute dollar values are provided."
+   },
+   "abstract_pattern": "This pattern uses a cohort chart to demonstrate the compounding value of a customer base over time. It visually proves that existing customer cohorts grow in value (e.g., revenue, profit, usage), a concept known as positive net retention or negative churn. Each new cohort adds a new, growing layer of value on top of the existing, growing layers. Any company with a recurring or repeat-purchase model can use this 'layer cake' visual to prove a scalable, predictable economic engine and high lifetime value.",
+   "keywords": [
+    "cohort_analysis",
+    "net_dollar_retention",
+    "customer_lifetime_value",
+    "compounding_growth",
+    "recurring_revenue",
+    "product_stickiness",
+    "negative_churn",
+    "unit_economics",
+    "scalability_proof",
+    "retention_engine",
+    "layer_cake_chart"
+   ],
+   "works_for": [
+    "Our SaaS customers consistently upgrade and add more seats over time, proving negative revenue churn.",
+    "Our marketplace sellers increase their transaction volume the longer they are on the platform.",
+    "Our enterprise clients expand their usage across more departments after the initial sale.",
+    "We have a powerful retention flywheel; each customer cohort becomes more profitable every year.",
+    "Our cloud customers' data usage and spend grows organically as their own businesses scale.",
+    "We have strong product-market fit, proven by our 120% net revenue retention.",
+    "The long-term value of our customers justifies our current acquisition spend."
+   ],
+   "variable_elements": {
+    "primary_metric": "A value metric like Gross Profit, Revenue, Contribution Margin, or Annual Recurring Revenue (ARR).",
+    "secondary_metric": null,
+    "time_dimension": "Time-series cohorts grouped by acquisition period (e.g., annual, quarterly).",
+    "comparison_basis": "Self over time, comparing the value of different customer cohorts as they mature."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a key value metric (e.g., revenue, gross profit)",
+     "Customer-level data with acquisition dates to create cohorts"
+    ],
+    "data_shape_needed": "Needs positive net retention, meaning cohorts must show stable or growing value over time to create the 'layer cake' effect.",
+    "minimum_data_points": "At least 4-5 cohorts over a similar number of time periods to show the compounding effect.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a SaaS or subscription business has strong, positive net dollar retention.",
+     "Demonstrating to investors that your unit economics are healthy and scalable.",
+     "Showing how customer lifetime value (LTV) is much higher than initial contract value.",
+     "Justifying customer acquisition costs (CAC) by showing strong long-term payback.",
+     "Visualizing the 'flywheel' or compounding growth effect of your business model.",
+     "Arguing that the business is becoming more profitable and predictable as it scales."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your business has high churn and low net retention (cohorts shrink significantly over time).",
+     "Your business is purely transactional with no meaningful repeat customer behavior.",
+     "You don't have enough historical data (e.g., less than 3 years) to show a meaningful trend."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 7,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Model & Unit Economics",
+   "position": "Middle",
+   "title": "Positive dollar-based retention has led to recurring revenue streams"
+  },
+  {
+   "id": "square-block-investor-2020#s026",
+   "schema": "rich",
+   "core_message": "We are now shifting focus to discuss our Cash App business, which we frame as a complete and interconnected ecosystem of services.",
+   "intents": [],
+   "shows": {
+    "visual_type": "section_title_slide",
+    "specific_content": "A slide with a white background featuring a single line of text in the upper left corner. The text, in a bold, bright green font, reads 'Cash App Ecosystem'. There is a small square logo in the bottom right corner.",
+    "data_points_shown": "None. This is a title slide."
+   },
+   "abstract_pattern": "This is a classic section divider slide used to signal a major transition in the presentation's narrative. It uses a simple, bold title to introduce a new topic, business unit, or strategic theme. By explicitly naming the upcoming section, it helps the audience mentally reset and focus on the new subject matter. This pattern is fundamental for structuring a presentation and guiding the audience through a multi-part story.",
+   "keywords": [
+    "section_divider",
+    "topic_transition",
+    "narrative_shift",
+    "agenda_item",
+    "chapter_heading",
+    "framing_slide",
+    "context_setting",
+    "new_topic_introduction",
+    "presentation_structure",
+    "signaling_change"
+   ],
+   "works_for": [
+    "Now, let's look at our Go-To-Market Strategy.",
+    "Introducing our new Enterprise Platform.",
+    "Next, we'll dive into the Unit Economics.",
+    "Let's explore the Market Opportunity.",
+    "Our Technology & IP.",
+    "A look at the Competitive Landscape.",
+    "Financial Projections."
+   ],
+   "variable_elements": {
+    "primary_metric": "Section Title",
+    "secondary_metric": null,
+    "time_dimension": "Not applicable",
+    "comparison_basis": "Not applicable"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A name for the upcoming section of the presentation."
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "1 section title",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Transitioning between major parts of a presentation (e.g., Problem -> Solution).",
+     "Introducing a new business unit, product line, or market segment.",
+     "Signaling a shift in focus, such as from strategy to financials.",
+     "Helping the audience follow the narrative structure of a longer deck.",
+     "Creating a natural pause for the presenter to reset before a new topic.",
+     "Clearly delineating different chapters of your company's story."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a very short, single-topic presentation (e.g., a 3-slide update).",
+     "When you want a seamless, continuous flow with no hard breaks between ideas.",
+     "If the slide immediately following it is another title slide."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "professional"
+   },
+   "section": "Cash App Business Overview",
+   "position": "middle",
+   "title": "Cash App Ecosystem"
+  },
+  {
+   "id": "square-block-investor-2020#s027",
+   "schema": "rich",
+   "core_message": "Cash App has a powerful, defensible moat built on a virtuous cycle of network effects, high engagement, efficient acquisition, and rapid monetization, making it a clear winner in its market.",
+   "intents": [],
+   "shows": {
+    "visual_type": "key_value_list_with_metrics",
+    "specific_content": "A list of six key strengths of the Cash App platform, each with a supporting metric or qualitative statement. The strengths are: Strong Network Effects, Engagement, Product Velocity, Efficient Customer Acquisition, Healthy Cohort Economics, and Rapid Growth in Monetization.",
+    "data_points_shown": "Strong Network Effects: >30M monthly customers, 15x avg monthly transactions. Engagement: >7M Cash Card actives, up 50% YoY. Product Velocity: Launch of multiple new features. Efficient Acquisition: Low CAC from virality. Cohort Economics: Positive gross profit retention. Monetization: $385M gross profit in Q3 2020, up 212% YoY."
+   },
+   "abstract_pattern": "Any company can use this pattern to articulate its competitive moat by breaking it down into several distinct, mutually reinforcing pillars. The structure typically starts with foundational drivers like user scale or network effects, moves to operational strengths like product innovation and efficient growth, and culminates in financial proof points like strong unit economics and monetization. This creates a holistic and compelling argument for why the business is defensible and built for long-term success.",
+   "keywords": [
+    "competitive_moat",
+    "reasons_to_believe",
+    "virtuous_cycle",
+    "flywheel_effect",
+    "platform_strategy",
+    "ecosystem_advantage",
+    "network_effects",
+    "product_led_growth",
+    "efficient_growth",
+    "unit_economics",
+    "holistic_business_case"
+   ],
+   "works_for": [
+    "Our marketplace wins because of a flywheel of unique supply, buyer trust, and superior discovery tools.",
+    "Our developer platform is dominant due to its open ecosystem, powerful tooling, and strong community support.",
+    "Our B2B SaaS product has a deep moat from data network effects, high switching costs, and a viral expansion loop.",
+    "Our consumer subscription has unbeatable retention because of daily habit formation, exclusive content, and community features.",
+    "We have a sustainable advantage in logistics through proprietary routing technology, dense network coverage, and economies of scale.",
+    "Our AI model's superiority is driven by a feedback loop of proprietary data, user corrections, and continuous training.",
+    "Our gaming platform's success is built on exclusive IP, strong creator tools, and powerful social network integration."
+   ],
+   "variable_elements": {
+    "primary_metric": "A list of categories representing the pillars of the company's competitive advantage.",
+    "secondary_metric": "A supporting quantitative metric or qualitative description for each pillar.",
+    "time_dimension": "Primarily point-in-time snapshots, supplemented with year-over-year growth rates.",
+    "comparison_basis": "Self-referential, demonstrating internal strengths and momentum."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Metrics for user scale (e.g., MAU)",
+     "Metrics for user engagement (e.g., transaction frequency, feature adoption)",
+     "Evidence of acquisition efficiency (e.g., low CAC, viral coefficient)",
+     "Proof of strong unit economics (e.g., cohort profit retention, LTV)",
+     "A top-line financial growth metric (e.g., revenue or gross profit growth)"
+    ],
+    "data_shape_needed": "A collection of strong, positive metrics across different business functions that collectively tell a cohesive story of a virtuous cycle.",
+    "minimum_data_points": "4-6 distinct proof points with corresponding metrics.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Summarizing your competitive advantages in a single, powerful slide.",
+     "Explaining the 'why' behind your success to sophisticated investors.",
+     "Justifying a high valuation by showing the multiple reinforcing strengths of the business model.",
+     "Articulating a platform or ecosystem strategy.",
+     "Onboarding new executives or board members on the core business flywheel.",
+     "When you need to show how different parts of your business work together to create a defensible position."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You are a single-feature product without a clear, multi-pronged moat.",
+     "Your key metrics are not yet impressive or do not tell a cohesive story.",
+     "You are too early-stage to have proven out the full business model and its reinforcing loops."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Business Unit Deep Dive / Competitive Advantage",
+   "position": "middle",
+   "title": "Why Cash App wins: differentiated platform allow customers to easily send, spend, store and now invest money"
+  },
+  {
+   "id": "square-block-investor-2020#s028",
+   "schema": "rich",
+   "core_message": "Our revenue growth is systematic and intentional, driven by a clear formula: we grow our active customer base and simultaneously increase the revenue we generate from each customer through specific, targeted strategies.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A hierarchical diagram breaking down 'Cash App Revenue' into its two main components: 'Active Customers (#)' and 'Revenue per Customer ($)'. Each of these components is further broken down into its key drivers: Acquisition, Retention, and Winback for customers; and Product Adoption, Engagement, and Monetization for revenue per customer.",
+    "data_points_shown": "No numerical data is shown. The slide presents a conceptual model with labels for key business drivers."
+   },
+   "abstract_pattern": "This pattern deconstructs a top-line KPI into a simple formula of its core drivers (e.g., Revenue = Users x ARPU). It then breaks down each driver into the tactical levers the company can pull to influence them. Any company can use this to explain its growth engine, showing a comprehensive and structured approach to managing its key metric by breaking it into manageable, actionable components. It effectively communicates 'this is our formula for growth, and we know exactly which levers to pull.'",
+   "keywords": [
+    "business_model_breakdown",
+    "growth_formula",
+    "kpi_decomposition",
+    "strategic_framework",
+    "revenue_drivers",
+    "user_monetization",
+    "customer_lifecycle_levers",
+    "unit_economics_framework",
+    "value_creation_model",
+    "growth_levers",
+    "flywheel_components",
+    "operating_model"
+   ],
+   "works_for": [
+    "Our marketplace growth is driven by increasing both the number of sellers and the average GMV per seller.",
+    "Our subscription revenue is a function of new subscriber acquisition, expansion revenue, and churn reduction.",
+    "Our advertising revenue depends on growing our daily active users and increasing ad impressions per user.",
+    "Our cloud consumption revenue is driven by landing new customers and expanding their usage of our services.",
+    "Our business flywheel has two sides: attracting more buyers, which in turn attracts more suppliers.",
+    "We grow bookings by increasing the number of sales reps and improving the quota attainment of each rep.",
+    "Our path to profitability is based on scaling users while increasing their lifetime value."
+   ],
+   "variable_elements": {
+    "primary_metric": "A top-line KPI (e.g., Revenue, GMV, Bookings)",
+    "secondary_metric": "The core components of the primary metric's formula (e.g., Users and Revenue per User)",
+    "time_dimension": "None, it's a conceptual framework.",
+    "comparison_basis": "None, it's an internal breakdown of the company's own model."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clearly defined formula for a top-line KPI (e.g., Revenue = Users * ARPU)",
+     "Identified strategic levers for each component of the formula"
+    ],
+    "data_shape_needed": "Not applicable, as it's a conceptual diagram. It requires a logical, hierarchical structure of business drivers.",
+    "minimum_data_points": "A top-level metric, 2-3 primary drivers, and 2-3 sub-drivers for each primary driver.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the section of your presentation that details your growth strategy and unit economics.",
+     "Explaining a multi-faceted business model in a simple, digestible way.",
+     "Showing investors you have a clear, structured plan for driving growth.",
+     "Setting the stage before diving into detailed metrics for each part of the business.",
+     "When you want to communicate your 'growth equation' or 'business formula'.",
+     "To provide a roadmap for the next several slides in a presentation."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your business model is extremely simple and doesn't require a breakdown.",
+     "You don't have the data to back up the claims for each component in subsequent slides.",
+     "You are at a very early (pre-seed/seed) stage where the model is still being discovered."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "professional"
+   },
+   "section": "Business Model Breakdown",
+   "position": "middle",
+   "title": "Cash App Revenue Model"
+  },
+  {
+   "id": "square-block-investor-2020#s029",
+   "schema": "rich",
+   "core_message": "Our growth is accelerating because we are successfully layering new, diverse revenue streams onto our platform, demonstrating a repeatable engine for innovation and monetization.",
+   "intents": [],
+   "shows": {
+    "visual_type": "stacked_bar_chart",
+    "specific_content": "A stacked bar chart showing the growth of total revenue streams from 2015 to 2019. The bars are segmented into three categories: 'Sending', 'Spending', and 'Investing', which are introduced sequentially over the years. The chart illustrates exponential growth in the total height of the bars and the increasing contribution of new services.",
+    "data_points_shown": "Annual data from 2015 to 2019. In 2015-16, only 'Sending' revenue exists. In 2017, 'Spending' is added. In 2018, 'Investing' is added. The chart shows the relative and absolute growth of each stream."
+   },
+   "abstract_pattern": "This pattern uses a stacked chart over time to show how a company's total growth is composed of multiple, layered components. It visually proves that growth is accelerating due to the successful introduction of new products, services, or business lines. Any company can use this to demonstrate it has a repeatable playbook for expansion and is not reliant on a single source of growth, creating a powerful narrative of a platform strategy or successful diversification.",
+   "keywords": [
+    "revenue_diversification",
+    "layered_growth",
+    "platform_strategy",
+    "product_expansion",
+    "accelerating_growth",
+    "multi-product_success",
+    "compound_growth",
+    "new_revenue_streams",
+    "growth_engine",
+    "scalability_proof",
+    "business_model_evolution"
+   ],
+   "works_for": [
+    "Our user base is growing faster as we add new features that attract different segments.",
+    "We've evolved from a single product to a multi-service platform, with each new service adding a new layer of revenue.",
+    "Our growth isn't just linear; it's compounding as our ecosystem of products becomes more valuable.",
+    "This shows our playbook for entering new markets: establish a beachhead, then layer on additional services.",
+    "Our initial product created the foundation for launching three subsequent, successful business lines.",
+    "We are de-risking our business by diversifying our sources of income.",
+    "Our platform's value increases as we add more modules, driving accelerating adoption."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key performance indicator like Revenue, Gross Profit, or Active Users.",
+    "secondary_metric": "The breakdown of the primary metric by its source (e.g., product line, business unit, geographic region).",
+    "time_dimension": "Progression over time (e.g., annually, quarterly).",
+    "comparison_basis": "Self over time, showing the change in composition and scale."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a primary KPI (e.g., revenue, users)",
+     "Categorical data breaking down the KPI by its source (e.g., product, service, region)"
+    ],
+    "data_shape_needed": "Needs an upward, accelerating trend in the total KPI. Also requires the introduction of new categories over the time period shown, with those new categories showing strong growth.",
+    "minimum_data_points": "4+ time periods (e.g., years) and 2-3+ categories to show the layering effect.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving that your company is a platform, not just a single product.",
+     "Showing how you've successfully expanded your product suite over time.",
+     "Justifying a higher valuation based on a repeatable growth engine.",
+     "Demonstrating revenue diversification and reduced business risk.",
+     "Explaining a 'flywheel' or 'ecosystem' effect in concrete financial terms.",
+     "When telling a story of evolving from a point solution to a comprehensive platform."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your growth comes from a single product or revenue stream.",
+     "Your attempts to launch new products have not yet shown significant traction.",
+     "Your overall growth is flat or declining."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Growth Strategy & Diversification",
+   "position": "middle",
+   "title": "We have driven growth across a diversity of services and revenue streams"
+  },
+  {
+   "id": "square-block-investor-2020#s030",
+   "schema": "rich",
+   "core_message": "Our active user base is growing exponentially, demonstrating powerful product adoption and momentum at a significant scale.",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart",
+    "specific_content": "A bar chart showing the growth of 'Monthly Transacting Actives' annually from December 2015 to December 2019. The bars show a steep, accelerating upward trend, with a large headline summarizing the growth as '3x over the past three years'. A footnote provides a detailed definition of the metric.",
+    "data_points_shown": "Monthly Transacting Actives: 1M (Dec 2015), 3M (Dec 2016), 7M (Dec 2017), 15M (Dec 2018), 24M (Dec 2019)."
+   },
+   "abstract_pattern": "This pattern uses a simple bar chart to showcase the dramatic, accelerating growth of a single, core performance metric over time. The visual emphasizes a 'hockey stick' curve, proving strong traction and momentum. A large, clear headline often summarizes the growth with a compelling multiplier (e.g., '10x in 3 years') to make the key takeaway instantly digestible. Any company can use this pattern to communicate exponential growth in a key area like users, revenue, or platform activity, which serves as powerful evidence of product-market fit or market adoption.",
+   "keywords": [
+    "exponential_growth",
+    "hockey_stick_growth",
+    "user_growth",
+    "metric_acceleration",
+    "traction_proof",
+    "product_market_fit",
+    "adoption_curve",
+    "scale_and_momentum",
+    "KPI_growth",
+    "engagement_metrics",
+    "viral_growth",
+    "network_effects"
+   ],
+   "works_for": [
+    "Our daily active user count has grown 5x in two years.",
+    "We've seen exponential growth in the number of API calls on our platform.",
+    "Our Annual Recurring Revenue (ARR) is showing hockey-stick growth.",
+    "The total value of assets on our platform has tripled year-over-year.",
+    "Our marketplace GMV has accelerated significantly over the past 4 quarters.",
+    "The number of connected devices on our IoT network is growing exponentially.",
+    "Our developer community has grown 10x since we launched our public API.",
+    "The volume of data processed by our system has scaled dramatically."
+   ],
+   "variable_elements": {
+    "primary_metric": "A core growth or engagement metric (e.g., Active Users, Revenue, GMV, Transactions, Data Processed).",
+    "secondary_metric": null,
+    "time_dimension": "Time-series, typically shown annually or quarterly.",
+    "comparison_basis": "Self over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a single key performance indicator (e.g., MAU, DAU, ARR, GMV)."
+    ],
+    "data_shape_needed": "Needs a clear, strong, and ideally accelerating upward trend ('hockey stick' shape).",
+    "minimum_data_points": "4-5 time periods (e.g., years or quarters) to establish a clear trend.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to prove strong product-market fit through user engagement.",
+     "To showcase exponential 'hockey stick' growth to investors.",
+     "To demonstrate momentum and rapid market adoption for your product or platform.",
+     "When a single metric tells a powerful story of your company's traction.",
+     "To establish the foundation for a network effects or viral growth argument.",
+     "In a pitch deck section focused on traction or user growth."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your growth is linear, slow, or inconsistent.",
+     "When your key metric is volatile or has declined.",
+     "When the story requires showing efficiency (e.g., profitability), as this slide only shows top-line growth."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Growth & Engagement",
+   "position": "Middle",
+   "title": "Monthly Transacting Actives"
+  },
+  {
+   "id": "square-block-investor-2020#s031",
+   "schema": "rich",
+   "core_message": "Our customer acquisition is highly efficient and profitable, with new customer cohorts paying back their acquisition cost in under a year and generating significant profit thereafter.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cumulative_bar_chart",
+    "specific_content": "A cumulative bar chart tracking the profitability of the June 2017 customer cohort over 12 months. The chart begins with a negative bar representing the initial acquisition spend of ($1.4M), then shows monthly bars of increasing cumulative variable profit, crossing the break-even point before the 12-month mark and ending at a positive $1.6M in cumulative profit.",
+    "data_points_shown": "June 2017 Cohort: Initial Acquisition Spend ($1.4M), Cumulative Variable Profit after 12 months ($1.6M)."
+   },
+   "abstract_pattern": "This pattern visualizes the payback period for a specific customer cohort. It starts by showing the initial investment (Customer Acquisition Cost) as a negative value and then tracks the cumulative profit or revenue generated by that cohort over time. The key moment is when the cumulative value crosses zero, demonstrating the point of profitability and the speed of return on investment. Any company can use this to prove the efficiency of their marketing spend and the long-term value of their customers, showing that initial costs are quickly recouped and turn into ongoing profit.",
+   "keywords": [
+    "payback_period",
+    "cohort_analysis",
+    "unit_economics",
+    "customer_lifetime_value",
+    "LTV_CAC",
+    "acquisition_efficiency",
+    "return_on_investment",
+    "profitability_proof",
+    "scalable_growth",
+    "marketing_ROI",
+    "customer_profitability",
+    "J-curve"
+   ],
+   "works_for": [
+    "Our new users become profitable in just 6 months.",
+    "We recoup our hardware subsidy in 18 months through subscription fees.",
+    "Each dollar we spend on marketing returns three dollars in gross profit within two years.",
+    "Our enterprise cohorts pay back their acquisition cost within the first year of their contract.",
+    "The average subscriber pays back their acquisition cost by their fourth month.",
+    "Our sales and marketing spend is an investment, not just a cost, with a clear and rapid payback.",
+    "We have a highly efficient growth engine, proven by our cohort profitability.",
+    "Our business model is fundamentally sound, as each new customer group quickly becomes profitable."
+   ],
+   "variable_elements": {
+    "primary_metric": "Cumulative profit or revenue from a cohort",
+    "secondary_metric": "Initial acquisition cost for the cohort",
+    "time_dimension": "Time series (monthly or quarterly) tracking a single cohort",
+    "comparison_basis": "Self over time (cumulative profit vs. initial cost)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Customer acquisition cost (CAC) for a specific time-based cohort",
+     "Time-series data of revenue or profit generated by that same cohort"
+    ],
+    "data_shape_needed": "Needs an initial negative value (cost) followed by a series of positive values (profit/revenue) that, when accumulated, eventually surpass the initial cost within a reasonable timeframe.",
+    "minimum_data_points": "At least 12 months of post-acquisition data for a single cohort to show a full-year payback cycle.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving your go-to-market strategy is efficient and profitable.",
+     "Justifying increased marketing or sales spend to investors.",
+     "Demonstrating strong unit economics to show the business is fundamentally sound.",
+     "Showing the 'J-curve' of customer investment and return.",
+     "Answering investor questions about customer lifetime value and CAC payback.",
+     "Highlighting the capital efficiency of your growth model."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your payback period is very long (e.g., > 36 months) and you're raising an early round.",
+     "You don't have reliable cohort tracking in place.",
+     "Your business model is not based on recurring revenue or repeat purchases, making cohort analysis less meaningful."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Profitability",
+   "position": "middle",
+   "title": "Profit exceeded acquisition spend in less than 12 months"
+  },
+  {
+   "id": "square-block-investor-2020#s032",
+   "schema": "rich",
+   "core_message": "Our customer cohorts not only pay back their acquisition costs, but they continue to generate substantial and growing cumulative profit for years, demonstrating strong long-term value and a highly efficient growth model.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cumulative_bar_chart",
+    "specific_content": "A bar chart tracking the cumulative variable profit of the June 2017 customer cohort over 2.5 years. It begins with a single negative bar representing the initial ($1.4M) acquisition spend, followed by a series of steadily increasing green bars showing the cumulative profit growing to $7.7M by February 2020.",
+    "data_points_shown": "Initial Acquisition Spend (June 2017): ($1.4M). Final Cumulative Cohort Variable Profit (Feb 2020): $7.7M. Time period shown is June 2017 to February 2020."
+   },
+   "abstract_pattern": "This pattern visualizes the long-term return on investment for a single customer cohort. It starts by showing the initial upfront cost of acquisition as a negative value. It then tracks the cumulative profit or revenue generated by that same cohort over an extended period, demonstrating how the initial investment is paid back and then continues to generate significant, compounding value. Any company with a recurring or repeat-purchase model can use this to prove that their customer acquisition is a profitable long-term investment, effectively illustrating a strong LTV to CAC ratio.",
+   "keywords": [
+    "cohort_analysis",
+    "customer_lifetime_value",
+    "LTV_CAC_ratio",
+    "payback_period",
+    "long_term_value",
+    "unit_economics",
+    "profitability_engine",
+    "customer_retention_value",
+    "cumulative_profit",
+    "investment_return",
+    "sustainable_growth"
+   ],
+   "works_for": [
+    "Our users become more valuable the longer they stay on our platform.",
+    "Each new class of students generates profit for years after their initial enrollment cost is covered.",
+    "The initial cost to acquire a subscriber is paid back in 6 months, and they generate 5x that cost in profit over 3 years.",
+    "Our cohorts show strong net revenue retention that compounds into significant long-term profit.",
+    "We invest heavily upfront, but our customers' long-term engagement creates a powerful profit engine.",
+    "Our marketplace cohorts demonstrate increasing take-rate and value over time.",
+    "After the initial hardware sale, our software subscriptions drive compounding cohort value."
+   ],
+   "variable_elements": {
+    "primary_metric": "Cumulative profit or revenue from a customer cohort",
+    "secondary_metric": "Initial acquisition cost for that cohort",
+    "time_dimension": "Time series showing progression (months, quarters, or years)",
+    "comparison_basis": "A single cohort's performance over time, from initial cost to long-term cumulative profit"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for a specific customer cohort (e.g., users acquired in a specific month)",
+     "Revenue or profit generated by that cohort over time",
+     "Total customer acquisition cost (CAC) for that cohort"
+    ],
+    "data_shape_needed": "Needs an initial negative value (cost) followed by a consistently upward-trending positive value (cumulative profit/revenue) that clearly surpasses the initial cost.",
+    "minimum_data_points": "At least 8-12 time periods (e.g., quarters or months) after the payback period to show meaningful long-term growth.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving the long-term profitability of your customer acquisition strategy.",
+     "Demonstrating high customer lifetime value (LTV) that far exceeds acquisition cost (CAC).",
+     "Justifying increased marketing spend by showing strong ROI over time.",
+     "Showing investors a predictable and scalable engine for future profit growth.",
+     "Following a slide that shows the payback period, to answer the question 'what happens next?'.",
+     "Highlighting the 'stickiness' and compounding value of your customer base."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your customers churn before generating significant long-term value.",
+     "If you have a purely transactional business model with no repeat behavior to track.",
+     "If you don't have the data infrastructure to track cohort-level profitability over multiple years."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Cohort Analysis",
+   "position": "Middle",
+   "title": "...and continued to grow thereafter"
+  },
+  {
+   "id": "square-block-investor-2020#s033",
+   "schema": "rich",
+   "core_message": "Our customer acquisition is highly efficient and profitable, with cohorts consistently paying back their acquisition cost in under a year and generating a strong, compounding return on investment over time.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cohort_chart",
+    "specific_content": "A line chart showing the Return on Investment (ROI) for multiple monthly customer cohorts over a 30-month period. Each of the many green lines represents a different monthly cohort acquired between Jan 2017 and Dec 2019, plotting their cumulative ROI against the number of months since acquisition.",
+    "data_points_shown": "X-axis: Months from 0 to 30. Y-axis: ROI from 0 to 6. All cohorts start at ROI=0, cross the ROI=1 (payback) line in under 12 months, and reach an ROI of 4x to 6x by month 30."
+   },
+   "abstract_pattern": "This pattern visualizes the long-term value and profitability of customer cohorts over time. It shows how a key performance metric (like ROI or cumulative profit) for different groups of customers, acquired at different times, evolves as they mature. Any company can use this to prove that their customer acquisition strategy is not just about growth, but about profitable growth, demonstrating strong unit economics. The overlapping, consistently upward-trending lines for each cohort reinforce the repeatability and predictability of this value creation.",
+   "keywords": [
+    "cohort_analysis",
+    "unit_economics",
+    "LTV_to_CAC",
+    "payback_period",
+    "return_on_investment",
+    "customer_lifetime_value",
+    "acquisition_efficiency",
+    "profitable_growth",
+    "retention_value",
+    "scalable_model",
+    "cohort_profitability",
+    "compounding_value"
+   ],
+   "works_for": [
+    "Our new user cohorts become profitable within 6 months.",
+    "We have a predictable and highly profitable user acquisition engine.",
+    "Our marketplace cohorts consistently increase their gross merchandise value (GMV) month-over-month.",
+    "Subscriber cohorts from recent years are monetizing faster than our early cohorts.",
+    "Our investment in customer success pays off, as enterprise cohorts expand their usage and spend over time.",
+    "Each customer group we acquire generates multiples of their acquisition cost within two years.",
+    "Our business model is healthy; we consistently turn acquisition spend into long-term profit."
+   ],
+   "variable_elements": {
+    "primary_metric": "A cumulative value metric per cohort, such as Return on Investment (ROI), Lifetime Value (LTV), or cumulative gross profit.",
+    "secondary_metric": "Implicitly, Customer Acquisition Cost (CAC) is the denominator for ROI, and retention is what drives the cumulative value up.",
+    "time_dimension": "Time since acquisition (e.g., days, months, quarters).",
+    "comparison_basis": "Comparison of multiple distinct cohorts against each other over time to show consistency."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Time-series data for customer cohorts (e.g., users acquired in Jan, Feb, etc.)",
+     "Revenue or profit generated by each cohort over time",
+     "Customer acquisition cost (CAC) for each cohort"
+    ],
+    "data_shape_needed": "Needs multiple cohorts showing a consistently upward trend in a cumulative metric over time. The metric should ideally cross a breakeven point (like ROI=1) within a reasonable timeframe.",
+    "minimum_data_points": "At least 4-5 distinct cohorts, tracked over at least 12-18 months to show meaningful long-term value.",
+    "data_sophistication": "late_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving the long-term profitability of your customer acquisition strategy.",
+     "Showing investors that growth is not just 'empty calories' but is building real, compounding value.",
+     "Demonstrating strong product-market fit through long-term retention and monetization.",
+     "Justifying increased marketing spend by showing a predictable, high ROI.",
+     "Highlighting the health and consistency of the business model across different time periods.",
+     "In a Series B or later pitch to prove the business model is ready to scale profitably."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your payback periods are very long (e.g., >24 months) and you're raising an early round.",
+     "If your cohorts are inconsistent, with newer cohorts performing worse than older ones.",
+     "If you don't have the data to track profit/revenue by acquisition cohort."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Profitability",
+   "position": "middle",
+   "title": "Efficient paybacks and positive retention have driven strong customer lifetime value and return on investment"
+  },
+  {
+   "id": "square-block-investor-2020#s034",
+   "schema": "rich",
+   "core_message": "Our customer cohorts become more profitable over time, demonstrating strong retention and a compounding growth model that fuels our overall expansion.",
+   "intents": [],
+   "shows": {
+    "visual_type": "cohort_analysis_chart",
+    "specific_content": "A stacked bar chart showing total Gross Profit for the years 2016 through 2019. Each bar is broken down by the customer acquisition cohort (Pre-2015 through 2019), illustrating how each cohort's contribution to gross profit grows over time.",
+    "data_points_shown": "The chart shows four years of data (2016-2019) broken down into six customer cohorts. While specific dollar values are not shown, the visual trend indicates rapid growth in total gross profit and positive growth within each individual cohort year-over-year."
+   },
+   "abstract_pattern": "Any company can use this pattern to prove the long-term value and stickiness of its customers. It visualizes a key performance metric (like revenue or profit) over time, with the total broken down by customer acquisition cohorts. The pattern is most powerful when it shows that older cohorts not only remain but actually increase their contribution over time, proving 'negative churn' or 'net revenue retention' and demonstrating a highly scalable, compounding business model.",
+   "keywords": [
+    "cohort_analysis",
+    "net_revenue_retention",
+    "negative_churn",
+    "customer_lifetime_value",
+    "unit_economics",
+    "compounding_growth",
+    "customer_stickiness",
+    "value_expansion",
+    "scalable_model",
+    "profitability_over_time",
+    "land_and_expand"
+   ],
+   "works_for": [
+    "Our customers spend more with us the longer they stay on the platform.",
+    "We have strong net dollar retention, proving our product's value and stickiness.",
+    "Our cohort economics show a clear path to long-term profitability.",
+    "User engagement and monetization deepens over time for each cohort we acquire.",
+    "Our land-and-expand strategy is working, with cohorts growing in value each year.",
+    "We have a 'smiles' chart, where older customer groups become our most valuable.",
+    "The core of our growth is retaining and growing existing customer accounts."
+   ],
+   "variable_elements": {
+    "primary_metric": "A value metric like Gross Profit, Revenue, or Contribution Margin.",
+    "secondary_metric": null,
+    "time_dimension": "Time-series snapshots (e.g., annual or quarterly bars).",
+    "comparison_basis": "Self over time, comparing cohort behavior across different periods."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A key performance metric (e.g., revenue, gross profit) per customer",
+     "The acquisition date for each customer to group them into cohorts",
+     "Time-series data for that metric tracked over several periods (quarters or years)"
+    ],
+    "data_shape_needed": "Needs a 'net retention > 100%' shape, where the value from a cohort in year N+1 is greater than its value in year N.",
+    "minimum_data_points": "At least 3-4 cohorts tracked over 3-4 time periods (e.g., years or quarters).",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving a 'land-and-expand' business model is working.",
+     "Demonstrating strong product-market fit and customer stickiness.",
+     "Justifying high customer acquisition costs by showing high lifetime value.",
+     "Showing investors a predictable, compounding revenue or profit engine.",
+     "Countering concerns about churn by showing net positive value retention.",
+     "Highlighting the health of unit economics in a SaaS or subscription business."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You have high churn and cohorts shrink significantly over time (this chart would look bad).",
+     "Your business is purely transactional with no repeat usage or expansion.",
+     "You don't have enough historical data to show a meaningful trend across multiple cohorts."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Unit Economics & Retention",
+   "position": "middle",
+   "title": "Strong cohort economics with positive gross profit retention"
+  },
+  {
+   "id": "square-block-investor-2020#s035",
+   "schema": "rich",
+   "core_message": "Getting customers to adopt a specific feature (Cash Card) dramatically increases the total revenue they generate, proving our upsell strategy is a powerful growth driver.",
+   "intents": [],
+   "shows": {
+    "visual_type": "comparison_chart",
+    "specific_content": "Two stacked bar charts comparing revenue from a customer cohort in the 6 months before and 6 months after they adopted the 'Cash Card'. The 'after' chart shows a significant increase in total revenue, driven entirely by the 'Cash Card, Bitcoin, & Other Revenue' segment, while the 'Instant Deposit' revenue remains constant.",
+    "data_points_shown": "No absolute numbers are shown. The chart visually represents that total revenue approximately doubles or triples after adopting the Cash Card, with all growth coming from new revenue streams."
+   },
+   "abstract_pattern": "This is a 'before and after' cohort analysis pattern. It isolates a group of users who took a specific action (e.g., adopted a feature, upgraded a plan) and compares their value (e.g., revenue, engagement) for a period before the action to a period after. The pattern is designed to visually prove that the action directly causes a significant, positive uplift in user value. It's particularly effective at showing that a new product or feature is additive and a key driver of expansion revenue.",
+   "keywords": [
+    "revenue_uplift",
+    "customer_graduation",
+    "upsell_impact",
+    "cross_sell_success",
+    "cohort_analysis",
+    "before_after_comparison",
+    "product_adoption_value",
+    "customer_lifetime_value",
+    "monetization_engine",
+    "expansion_revenue",
+    "feature_monetization"
+   ],
+   "works_for": [
+    "Upgrading users from our free plan to our pro plan triples their engagement.",
+    "When customers start using our analytics feature, their monthly spend increases by 150%.",
+    "Merchants who adopt our integrated payments solution see a significant increase in their processing volume with us.",
+    "Gamers who purchase the battle pass play 5x more hours per week.",
+    "Once a household adds a second device, their content consumption on our platform doubles.",
+    "Our new feature drives a significant lift in user retention after 30 days.",
+    "Customers who join our loyalty program have a 50% higher average order value."
+   ],
+   "variable_elements": {
+    "primary_metric": "A value metric like Revenue, Engagement, Retention, or Spend.",
+    "secondary_metric": "A baseline metric from an existing product/behavior that may or may not change.",
+    "time_dimension": "A 'before' and 'after' snapshot based on a specific trigger event (e.g., product adoption).",
+    "comparison_basis": "A single customer cohort compared against itself over two distinct time periods defined by an action."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Customer cohort data (a group of users who performed a specific action at a specific time)",
+     "A key value metric (e.g., revenue, usage) measured for that cohort",
+     "Time-stamped data for the trigger event (e.g., product adoption date)",
+     "Data for the metric for a period before and a period after the trigger event"
+    ],
+    "data_shape_needed": "Needs a clear 'uplift' or step-change in the primary metric after the trigger event. The 'before' state should establish a clear baseline.",
+    "minimum_data_points": "One cohort with two data points (a 'before' aggregate and an 'after' aggregate). The time periods should be long enough to be meaningful (e.g., 3-6 months each).",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving that a new product or feature is a successful upsell/cross-sell engine.",
+     "Demonstrating a key lever for increasing customer lifetime value (LTV).",
+     "Justifying investment in marketing or product development for a specific feature.",
+     "Showing investors a clear path to revenue expansion from the existing user base.",
+     "When you want to show that new revenue is additive and doesn't cannibalize existing revenue streams."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When the new feature has no measurable impact on the key metric.",
+     "When the new feature cannibalizes revenue from existing products (the 'after' bar isn't significantly taller).",
+     "When you don't have clean cohort data or a clear trigger event."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "professional"
+   },
+   "section": "Customer Monetization & Upsell",
+   "position": "middle",
+   "title": "Cohort Revenue Mix Before and After Cash Card"
+  },
+  {
+   "id": "square-block-investor-2020#s036",
+   "schema": "rich",
+   "core_message": "As customers adopt more products within our ecosystem, their lifetime value (LTV) increases, demonstrating a clear and effective 'land-and-expand' strategy.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A conceptual diagram shaped like an expanding cone, illustrating a customer's journey through product adoption. It starts with 'Peer-to-Peer', expands to 'Cash Card' and 'Boost', and finally widens to 'Direct Deposit', 'Stocks', and 'Bitcoin', visually representing that customer value increases with deeper product engagement.",
+    "data_points_shown": "No quantitative data is shown. The slide lists product features grouped into three sequential stages of adoption: 1) Peer-to-Peer, 2) Cash Card, Boost, 3) Direct Deposit, Stocks, Bitcoin."
+   },
+   "abstract_pattern": "Any company with a multi-product ecosystem can use this pattern to show how customers progress from an initial entry-point product to adopting additional, higher-value features. It visually represents the customer journey and demonstrates a clear strategy for increasing customer lifetime value (LTV) through cross-selling and upselling. This pattern proves that the product suite is designed to deepen engagement and monetization over time, creating a powerful, built-in growth loop.",
+   "keywords": [
+    "land_and_expand",
+    "LTV_expansion",
+    "product_adoption_pathway",
+    "customer_journey_monetization",
+    "cross_sell_upsell_strategy",
+    "platform_effects",
+    "product_led_growth",
+    "engagement_to_value",
+    "feature_stacking",
+    "customer_value_escalation",
+    "ecosystem_monetization",
+    "product_stickiness"
+   ],
+   "works_for": [
+    "Our free users convert to paid subscribers by first using collaboration tools, then adopting advanced analytics.",
+    "Marketplace sellers start with basic listings, then purchase advertising, and finally subscribe to our fulfillment services, increasing their value at each step.",
+    "Our banking customers typically open a checking account, then get a credit card, and ultimately take out a mortgage.",
+    "Cloud customers start with storage, then add compute resources, and finally adopt our machine learning APIs.",
+    "Gamers begin with our free-to-play title, then make in-app purchases, and eventually join our subscription service.",
+    "Our HR platform lands with payroll, then expands to benefits administration and performance management.",
+    "We acquire customers with our simple design tool and upsell them to team collaboration and brand management suites."
+   ],
+   "variable_elements": {
+    "primary_metric": "Customer Lifetime Value (implied by the expanding shape)",
+    "secondary_metric": null,
+    "time_dimension": "Progression through product adoption stages",
+    "comparison_basis": "Comparison of customer value based on the number/type of products used"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined customer journey with clear product adoption stages",
+     "Data showing that customers who use more products have a higher LTV, ARPU, or retention",
+     "A list of products/features for each stage"
+    ],
+    "data_shape_needed": "needs a clear progression where adding products/features correlates with increased value",
+    "minimum_data_points": "3+ distinct stages of product adoption",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When explaining a 'land-and-expand' business model.",
+     "To prove that your product ecosystem creates a moat and increases customer stickiness.",
+     "To justify investment in new product features by showing how they fit into the value-creation journey.",
+     "When demonstrating a clear path to increasing ARPU or LTV for your user base.",
+     "To show investors how you monetize a large, initially low-revenue user base."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you have a single-product company.",
+     "If your data shows no correlation between product adoption and customer value.",
+     "If your customer journey is not linear or easily bucketed into stages."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "professional"
+   },
+   "section": "Product-Led Growth & Monetization",
+   "position": "middle",
+   "title": "Engagement with additional products has driven higher customer lifetime value"
+  },
+  {
+   "id": "square-block-investor-2020#s037",
+   "schema": "rich",
+   "core_message": "This slide concludes the presentation, reinforces the company's brand identity, and directs the audience to the investor relations website for more information.",
+   "intents": [],
+   "shows": {
+    "visual_type": "logo_slide",
+    "specific_content": "A minimalist slide with a white background featuring the Square company logo in the center. At the bottom, the URL 'square.com/investors' is displayed in a small, dark, sans-serif font.",
+    "data_points_shown": "Company logo, Investor relations URL."
+   },
+   "abstract_pattern": "Any company can use this pattern to cleanly conclude a presentation or a major section. It leverages a minimalist design centered around the company logo to reinforce brand identity. A simple, direct call to action, typically a URL, is provided to guide the audience toward further information or resources. This slide functions as a visual 'full stop,' providing a moment of pause and a clear signpost for what to do or where to look next.",
+   "keywords": [
+    "presentation_conclusion",
+    "thank_you_slide",
+    "call_to_action",
+    "brand_reinforcement",
+    "investor_relations",
+    "contact_information",
+    "section_divider",
+    "minimalist_design",
+    "logo_slide",
+    "end_slide",
+    "resource_link"
+   ],
+   "works_for": [
+    "Thank you. For more information, please visit our website.",
+    "This concludes our Q1 update. Full financials are available at company.com/ir.",
+    "We're hiring. See open roles at our careers page.",
+    "To learn more about our platform, visit our product page.",
+    "This is our vision for the future.",
+    "Q&A",
+    "For partnership inquiries, please contact us at partners@company.com."
+   ],
+   "variable_elements": {
+    "primary_metric": "Company Logo",
+    "secondary_metric": "Call to Action (URL, email, social handle)",
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "High-resolution company logo",
+     "A destination URL or contact point"
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "1 logo and 1 URL/contact point",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "To end a presentation on a clean, professional, and branded note.",
+     "To provide a clear call to action for the audience to find more information.",
+     "As a placeholder slide just before a Q&A session begins.",
+     "To serve as a simple title slide at the very beginning of a presentation.",
+     "As a divider between major, distinct sections of a long deck.",
+     "When you want to leave contact or resource information on screen after the talk."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to summarize key takeaways on the final slide.",
+     "In the middle of a complex argument where it would break the narrative flow.",
+     "If the goal is to end on a high-energy, data-heavy slide."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "highly_polished"
+   },
+   "section": "Conclusion / Appendix",
+   "position": "end",
+   "title": null
+  }
+ ]
+}

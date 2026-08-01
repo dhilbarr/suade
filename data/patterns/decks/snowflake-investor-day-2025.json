@@ -1,0 +1,3421 @@
+{
+ "deck": "snowflake-investor-day-2025",
+ "company": "Snowflake",
+ "narrative_summary": "Snowflake is positioning itself as the dominant, unified AI Data Cloud in a fragmented market. The presentation argues that its superior performance, rapid product innovation (especially in AI), and lower total cost of ownership create a strong competitive moat, enabling it to capture a large, expanding market opportunity and drive future growth.",
+ "stage": null,
+ "industry": null,
+ "record_count": 44,
+ "records": [
+  {
+   "id": "snowflake-investor-day-2025#s001",
+   "schema": "rich",
+   "core_message": "This presentation is for the Snowflake Investor Day in 2025, setting the formal context for the information to be shared with the investment community.",
+   "intents": [],
+   "shows": {
+    "visual_type": "title_slide",
+    "specific_content": "A title slide with a bright blue background. The main text reads 'SNOWFLAKE INVESTOR DAY 2025' in large white and black font. In the bottom right corner, there is a graphic logo for 'SNOWFLAKE SUMMIT 25' featuring mountain imagery and an aurora borealis effect. The footer contains a copyright notice for 2025.",
+    "data_points_shown": "Event Name: Snowflake Investor Day 2025. Related Event: Snowflake Summit 25. Year: 2025."
+   },
+   "abstract_pattern": "This is a classic title slide pattern used to open a formal presentation. It clearly states the name of the event, the company, and the year, immediately orienting the audience to the purpose and context of the meeting. The design uses strong corporate branding, including logos and a specific color palette, to establish a professional and credible tone from the outset. This pattern serves as the official start to a narrative, setting the stage for the information that will follow.",
+   "keywords": [
+    "title_slide",
+    "cover_page",
+    "presentation_opener",
+    "event_branding",
+    "corporate_identity",
+    "setting_the_stage",
+    "investor_day",
+    "annual_meeting",
+    "kickoff",
+    "framing_the_narrative",
+    "presentation_start"
+   ],
+   "works_for": [
+    "Welcome to the [Company] Annual Sales Kickoff 2024.",
+    "This is the [Startup Name] Series B Fundraising Pitch.",
+    "[Product Name] Launch Event.",
+    "Our Q3 2025 All-Hands Meeting.",
+    "[Company] Analyst Day 2026.",
+    "Welcome to the [Non-Profit] Annual Gala.",
+    "This is our Q1 2025 Board of Directors Meeting."
+   ],
+   "variable_elements": {
+    "primary_metric": "Event Title / Presentation Purpose",
+    "secondary_metric": "Company Name (explicit or implied by branding)",
+    "time_dimension": "Year or Date of Event",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Event name",
+     "Company name",
+     "Year/Date",
+     "Corporate branding assets (logo, color palette)"
+    ],
+    "data_shape_needed": "point-in-time_snapshot",
+    "minimum_data_points": "1 event name and year",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Starting any formal presentation to any audience (investors, customers, employees).",
+     "Establishing the specific context of a meeting (e.g., Investor Day vs. Product Demo).",
+     "Reinforcing corporate branding at the beginning of a communication.",
+     "Creating a professional opening for a high-stakes presentation like a fundraiser or board meeting.",
+     "Signaling the start of a major corporate event or announcement."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "For an internal, informal working session.",
+     "As a slide in the middle of a presentation (unless it's a section divider).",
+     "When you want to jump immediately into a surprising data point or story without introduction."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Title & Introduction",
+   "position": "Beginning",
+   "title": "Snowflake Investor Day 2025"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s002",
+   "schema": "rich",
+   "core_message": "This presentation will be led by our key executives covering strategy, product, and revenue, followed by a Q&A session to address audience questions.",
+   "intents": [],
+   "shows": {
+    "visual_type": "agenda_slide",
+    "specific_content": "A list of speakers for the presentation, including their names and titles, followed by a slot for audience Q&A. The speakers are the CEO, EVP of Product, and Chief Revenue Officer.",
+    "data_points_shown": "Speakers: Sridhar Ramaswamy (Chief Executive Officer), Christian Kleinerman (EVP, Product), Mike Gannon (Chief Revenue Officer). Final item: Audience Q&A."
+   },
+   "abstract_pattern": "Any company can use this pattern at the start of a presentation to provide a clear roadmap for the audience. It lists the speakers or topics in sequential order, establishing the flow of the discussion. By featuring senior executives, it also serves to build credibility and signal the importance of the content being shared. The pattern typically concludes by allocating time for audience interaction, such as a Q&A.",
+   "keywords": [
+    "agenda",
+    "roadmap",
+    "presentation_structure",
+    "speaker_introduction",
+    "table_of_contents",
+    "setting_expectations",
+    "executive_lineup",
+    "event_flow",
+    "session_outline",
+    "meeting_kickoff"
+   ],
+   "works_for": [
+    "Here is the plan for today's investor update.",
+    "We will cover our vision, product, and go-to-market strategy in three parts.",
+    "Let's walk through the quarterly results, starting with financials, then product updates, and finally our outlook.",
+    "This webinar will cover three key topics before we open for questions.",
+    "Our demo will be structured in three parts: setup, core features, and advanced analytics.",
+    "To kick off our all-hands, here's who you'll be hearing from today.",
+    "Welcome to our customer conference; here is the agenda for the opening keynote."
+   ],
+   "variable_elements": {
+    "primary_metric": "List of topics or speakers",
+    "secondary_metric": "Titles or sub-topics for each item",
+    "time_dimension": "Sequential order of presentation",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of the presentation sections or speakers",
+     "The order in which they will be presented"
+    ],
+    "data_shape_needed": "sequential_list",
+    "minimum_data_points": "2-3 sections/speakers",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Kicking off any formal presentation like an investor day, all-hands, or webinar.",
+     "Providing a clear structure and roadmap for the audience at the beginning of a meeting.",
+     "Introducing the key speakers and their roles to establish authority and context.",
+     "Managing audience expectations about the content and flow of the presentation.",
+     "Signaling that there will be an opportunity for audience interaction."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In very short, informal updates where an agenda would feel overly formal.",
+     "For a single-topic presentation where a detailed agenda is redundant.",
+     "In a highly interactive workshop format where the flow is meant to be dynamic."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "professional"
+   },
+   "section": "Introduction",
+   "position": "Beginning",
+   "title": "AGENDA"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s003",
+   "schema": "rich",
+   "core_message": "This section of the presentation will be delivered by Sridhar Ramaswamy, the CEO, whose authority and vision are central to the following message.",
+   "intents": [],
+   "shows": {
+    "visual_type": "title_slide",
+    "specific_content": "The name 'SRIDHAR RAMASWAMY' in large, white, sans-serif font. The background is a branded image of snowy mountains under an aurora borealis, with abstract blue geometric shapes and an upward-trending line graphic in the foreground.",
+    "data_points_shown": "The speaker's name."
+   },
+   "abstract_pattern": "This pattern uses a full-bleed, heavily branded slide to introduce a key speaker, typically a C-level executive. The design leverages company-specific imagery and abstract visual metaphors (like upward-trending lines) to reinforce core brand themes such as growth, vision, or stability. The primary function is to transfer authority to the speaker, signal the importance of the upcoming section, and create a clear transition point in the narrative. Any company can use this to lend weight to a leader's message and frame their portion of the presentation.",
+   "keywords": [
+    "speaker_introduction",
+    "executive_presence",
+    "establish_authority",
+    "keynote_opener",
+    "section_title",
+    "branded_transition",
+    "leadership_voice",
+    "vision_setter",
+    "setting_the_stage",
+    "agenda_transition"
+   ],
+   "works_for": [
+    "Our CEO will now outline our vision for the next five years.",
+    "The Head of Product is here to unveil our next-generation platform.",
+    "Our CFO will now walk through our path to profitability.",
+    "Let's welcome our founder to share the story of our company.",
+    "Our new Chief AI Officer will discuss our strategy for enterprise AI.",
+    "Now, for the main keynote on our market leadership.",
+    "The next section on company culture will be led by our Head of People."
+   ],
+   "variable_elements": {
+    "primary_metric": "Speaker's Name",
+    "secondary_metric": "Speaker's Title (often stated verbally or on a subsequent slide)",
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Speaker's name",
+     "Company branding assets (logo, color palette, imagery)"
+    ],
+    "data_shape_needed": "point-in-time_snapshot",
+    "minimum_data_points": "1 speaker name",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing a C-level executive to deliver a keynote or important update.",
+     "Kicking off a major section of a presentation (e.g., Product, Finance, Vision).",
+     "Handing off between speakers in a formal presentation setting.",
+     "Establishing the authority and credibility of the person about to speak.",
+     "Creating a clean, branded transition between topics.",
+     "Opening an investor day, all-hands, or major conference presentation."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "In a short, informal team meeting.",
+     "For a single-speaker presentation where the speaker is already known and introduced.",
+     "When transitions need to be extremely fast and seamless, without a pause."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Speaker Introduction / CEO Keynote",
+   "position": "section_start",
+   "title": "SRIDHAR RAMASWAMY"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s004",
+   "schema": "rich",
+   "core_message": "Our company's core value proposition is a simple formula: we leverage a foundational asset (Data) with a powerful technology (AI) to deliver a high-value outcome (Transformation) for our customers.",
+   "intents": [],
+   "shows": {
+    "visual_type": "conceptual_framework",
+    "specific_content": "A three-panel image (triptych) with a consistent blue color overlay. The first panel shows a circuit board or data visualization with the word 'DATA'. The second panel shows a humanoid robot with the word 'AI'. The third panel shows a fast-moving modern car with the word 'TRANSFORMATION'.",
+    "data_points_shown": "None. This is a purely conceptual slide."
+   },
+   "abstract_pattern": "This slide uses a simple 'A + B = C' formula to communicate a core value proposition. It establishes a foundational element (A), introduces a proprietary process or technology (B), and culminates in a desirable, high-level outcome (C). Any company can use this pattern to frame their narrative, simplifying a complex process into a memorable, linear story of value creation. It's a powerful way to set the stage and define the key pillars of a company's strategy.",
+   "keywords": [
+    "value_proposition_formula",
+    "conceptual_framework",
+    "narrative_framing",
+    "vision_setting",
+    "A_plus_B_equals_C",
+    "cause_and_effect_story",
+    "strategic_pillars",
+    "transformation_narrative",
+    "input_process_output",
+    "technology_stack_simplified",
+    "core_thesis"
+   ],
+   "works_for": [
+    "Our community plus our platform creates powerful network effects.",
+    "We combine proprietary data with our unique algorithm to deliver unparalleled insights.",
+    "Our hardware and software work together to create a seamless user experience.",
+    "By connecting buyers and sellers, we unlock liquidity in a fragmented market.",
+    "Our content and distribution channels drive massive audience engagement.",
+    "We use our logistics network and local partnerships to enable 15-minute delivery.",
+    "Our scientific research combined with our clinical trials leads to breakthrough therapies."
+   ],
+   "variable_elements": {
+    "primary_metric": "Foundational Asset / Input (e.g., Data, Users, Capital, Content)",
+    "secondary_metric": "Core Process / Technology (e.g., AI, Platform, Algorithm, Network)",
+    "time_dimension": "Logical sequence (not time-based)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Three core concepts that define the company's value creation story (e.g., an input, a process, and an outcome)."
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "3 concepts",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Opening a presentation to frame the company's core value proposition.",
+     "Explaining a complex business model in a simple, linear way.",
+     "Setting the strategic vision for the company or a new initiative.",
+     "Introducing the core themes that will be explored in the rest of the deck.",
+     "Creating a memorable, high-level takeaway for the audience.",
+     "When you want to appear visionary and aligned with major tech trends."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show detailed metrics or proof points.",
+     "In the middle of a deep-dive section on financials or operations.",
+     "When your value proposition cannot be simplified into a linear, three-part story."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Introduction & Vision",
+   "position": "Beginning",
+   "title": "DATA AI TRANSFORMATION"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s005",
+   "schema": "rich",
+   "core_message": "Our platform is a comprehensive, end-to-end solution that manages the entire data lifecycle, from ingesting diverse data sources to processing it into high-quality, governed assets for a wide range of business applications.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-column process flow diagram. The first column, 'DATA SOURCE', lists inputs like 'SaaS Applications', 'Databases', and 'IoT'. An arrow labeled 'Stream Extract Load' points to the 'PROCESSING' column. This central column shows data refinement stages ('BRONZE', 'SILVER', 'GOLD'), data type handling ('Unstructured', 'Structured'), and an underlying 'Catalog and Governance' layer. The final 'CONSUMPTION' column lists outputs and use cases like 'BI', 'Data Science', 'Apps', and 'Sharing'.",
+    "data_points_shown": "No quantitative data. Shows categorical labels for data sources, processing stages, and consumption use cases."
+   },
+   "abstract_pattern": "This is a classic 'Input-Process-Output' or 'Value Chain' framework. Any company can use this pattern to explain how their platform or service works by breaking it down into three distinct stages. It shows how raw materials or inputs are ingested, transformed through a series of value-adding steps in the middle 'black box', and then delivered as finished goods or valuable outcomes. This structure is excellent for simplifying a complex system and demonstrating its end-to-end capabilities and the specific value created in the processing stage.",
+   "keywords": [
+    "process_flow",
+    "value_chain",
+    "input_process_output",
+    "end_to_end_platform",
+    "how_it_works",
+    "architectural_diagram",
+    "platform_ecosystem",
+    "data_lifecycle",
+    "workflow_visualization",
+    "conceptual_framework",
+    "technology_stack"
+   ],
+   "works_for": [
+    "Our marketing automation platform turns customer signals into personalized campaigns.",
+    "Our supply chain software manages the entire process from raw material sourcing to final delivery.",
+    "Our developer platform streamlines the entire code lifecycle from commit to deployment.",
+    "Our AI platform transforms raw data into predictive models for business use.",
+    "Our content creation service takes a client brief and delivers a finished video asset.",
+    "Our fintech platform ingests transaction data to provide real-time fraud detection.",
+    "Our HR system manages the employee journey from application to offboarding."
+   ],
+   "variable_elements": {
+    "primary_metric": "Inputs / Raw Materials (e.g., Data Sources, Customer Signals, Raw Materials)",
+    "secondary_metric": "Outputs / Value Delivered (e.g., Business Insights, Deployed Apps, Finished Goods)",
+    "time_dimension": "Sequential Process Flow (Stage 1 -> Stage 2 -> Stage 3)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of the inputs to your system/process",
+     "A breakdown of the key value-adding steps in your process",
+     "A list of the key outputs or use cases your system enables"
+    ],
+    "data_shape_needed": "A linear, sequential process. Does not require quantitative data, but a logical flow.",
+    "minimum_data_points": "2-3 examples for each of the three main stages (input, process, output).",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining a complex product or service in a simple, digestible way.",
+     "Establishing the breadth and end-to-end nature of your platform.",
+     "Introducing your company's core technology or methodology to a new audience.",
+     "Setting the context before diving into specific product features or benefits.",
+     "Showing how different components of your product work together as a unified system."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your product is a simple, single-purpose tool without a multi-stage process.",
+     "When the goal is to show quantitative results like growth or ROI.",
+     "When you need to compare yourself directly against a competitor on specific features."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Architecture / How It Works",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s006",
+   "schema": "rich",
+   "core_message": "Our platform is a complete, end-to-end solution that ingests data from any source, processes it for any workload, and powers a wide range of modern consumption use cases, including AI and applications.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-column flow diagram illustrating a data lifecycle. The columns are 'DATA SOURCE', 'PROCESSING', and 'CONSUMPTION'. 'DATA SOURCE' includes SaaS Applications, Databases, and IoT. 'PROCESSING' shows a 'Bronze, Silver, Gold' data refinement model, handling of 'Unstructured & Structured' data, and an underlying 'Catalog and Governance' layer. 'CONSUMPTION' lists outputs like Chatbots, BI, Predictive AI, Data Science, Agents, Apps, and Sharing.",
+    "data_points_shown": "Conceptual components: Data Sources (SaaS, Databases, IoT), Processing Stages (Bronze, Silver, Gold, Unstructured & Structured, Catalog & Governance), Consumption Use Cases (Chatbots, BI, Predictive AI, Data Science, Agents, Apps, Sharing)."
+   },
+   "abstract_pattern": "This is an 'Input-Process-Output' or 'Value Chain' diagram. It's used to explain how a platform or system works by showing the end-to-end flow. It starts with various raw inputs on the left, moves them through a central proprietary processing engine in the middle, and results in a diverse set of valuable outputs or applications on the right. Any company can use this pattern to position itself as a central, unifying hub that creates order and value from complexity, demonstrating the breadth and completeness of its solution.",
+   "keywords": [
+    "end_to_end_platform",
+    "value_chain_diagram",
+    "input_process_output",
+    "data_lifecycle",
+    "platform_architecture",
+    "unified_solution",
+    "how_it_works",
+    "technology_stack",
+    "data_pipeline",
+    "ecosystem_integration",
+    "system_diagram"
+   ],
+   "works_for": [
+    "Our platform manages the entire supply chain from manufacturer inventory to last-mile delivery.",
+    "We ingest customer signals from all channels, unify them into a single profile, and activate them across personalized campaigns.",
+    "Our CI/CD platform takes code from any repository, runs it through our automated build/test pipeline, and deploys it to any cloud.",
+    "We aggregate financial data from multiple institutions, process it for risk and compliance, and power consumer-facing financial wellness apps.",
+    "Our security platform collects signals from all endpoints, analyzes them in our threat detection engine, and automates response actions.",
+    "Our content platform allows creators to upload any media type, which we transcode and manage, for delivery to any device.",
+    "We integrate patient data from EMRs and wearables, anonymize and structure it, and enable research and clinical trial applications."
+   ],
+   "variable_elements": {
+    "primary_metric": "Input Sources (e.g., Data Sources, Raw Materials, Code Repositories)",
+    "secondary_metric": "Output Applications (e.g., AI Models, Business Dashboards, Deployed Apps)",
+    "time_dimension": "Process flow / stages",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined list of input sources your platform integrates with",
+     "A clear definition of the internal processing stages or value-add layers",
+     "A list of key output use cases or applications enabled by your platform"
+    ],
+    "data_shape_needed": "needs a linear or multi-stage process",
+    "minimum_data_points": "2-3 examples for each of the three stages (input, process, output)",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining a complex platform in a simple, linear way.",
+     "Showing how your product is the central hub in a customer's ecosystem.",
+     "Demonstrating the breadth of your platform's capabilities from start to finish.",
+     "Justifying your position as an indispensable part of a modern technology stack.",
+     "Illustrating how you handle diverse inputs to enable high-value outputs like AI.",
+     "Arguing against point solutions by showing the value of a unified platform."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product is a single-purpose point solution.",
+     "Your value proposition is about depth in one area, not breadth across a process.",
+     "Your workflow is highly non-linear and cannot be simplified into this model."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Architecture / How It Works",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s007",
+   "schema": "rich",
+   "core_message": "Our platform provides a unified, end-to-end solution that ingests raw data from any source, applies sophisticated processing and governance, and delivers refined, analytics-ready data for any consumption use case.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-column diagram illustrating a data pipeline with stages: 'DATA SOURCE', 'PROCESSING', and 'CONSUMPTION'. The central 'PROCESSING' column is highlighted in blue, showing sub-stages of data refinement ('SILVER', 'GOLD') and capabilities like 'Governance' and 'Analytics'. The source and consumption columns are faded, implying they are inputs and outputs to the core processing engine.",
+    "data_points_shown": "Conceptual labels, not quantitative data. Stages shown are: DATA SOURCE, PROCESSING (with sub-labels SILVER, GOLD, structured & unstructured, Governance, Analytics), and CONSUMPTION."
+   },
+   "abstract_pattern": "This is a 'value chain' or 'process flow' pattern that illustrates an end-to-end workflow. It visually breaks down a complex process into three core phases: inputs, a central processing/transformation stage, and outputs. The pattern strategically highlights the central stage to position it as the company's core value-add or 'secret sauce'. Any company can use this to explain how their platform or service takes diverse, raw inputs, applies its unique methodology to create order and value, and produces multiple valuable outcomes, thereby positioning itself as the essential hub in a larger system.",
+   "keywords": [
+    "platform_architecture",
+    "value_chain",
+    "process_flow",
+    "framework_diagram",
+    "input_process_output",
+    "end-to-end_solution",
+    "how_it_works",
+    "unified_platform",
+    "centralized_processing",
+    "transformation_engine",
+    "system_overview"
+   ],
+   "works_for": [
+    "Our platform automates the entire marketing funnel from lead capture to conversion analysis.",
+    "We provide a complete supply chain solution, from raw material sourcing to final delivery.",
+    "Our developer platform simplifies the entire code lifecycle from writing code to deployment and monitoring.",
+    "Our AI engine transforms unstructured documents into structured, actionable insights.",
+    "We manage the full investment lifecycle, from research and portfolio construction to reporting.",
+    "Our system turns patient data from various sources into a unified health record for providers.",
+    "Our creative platform manages the entire content lifecycle from brief to production to distribution."
+   ],
+   "variable_elements": {
+    "primary_metric": "Stages of the core process (e.g., data refinement levels, manufacturing steps)",
+    "secondary_metric": "Categories of inputs and outputs (e.g., data sources, end-user applications)",
+    "time_dimension": "Sequential process flow",
+    "comparison_basis": "Implicitly, a unified process (this platform) vs. a fragmented, multi-tool alternative."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A well-defined, multi-stage internal process or workflow",
+     "Clear categories for inputs (e.g., sources, raw materials)",
+     "Clear categories for outputs (e.g., use cases, finished products)"
+    ],
+    "data_shape_needed": "needs a linear, sequential process model",
+    "minimum_data_points": "3 main stages (input, process, output) with 2-4 sub-steps in the core process stage",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining how your product works at a high, conceptual level.",
+     "Demonstrating how you unify a traditionally fragmented or complex process.",
+     "Positioning your product as the central 'engine' in a broader ecosystem.",
+     "Educating prospects or investors on your core methodology and value proposition.",
+     "Showing the breadth of your platform, from handling diverse inputs to enabling multiple outputs.",
+     "Onboarding new customers or partners to your platform's philosophy."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product is a simple point solution, not a multi-stage platform.",
+     "You need to show quantitative results like revenue growth or user metrics.",
+     "The goal is to compare specific features against a competitor head-to-head."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Architecture Overview",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s008",
+   "schema": "rich",
+   "core_message": "Our platform excels at the foundational stage of data engineering, seamlessly ingesting and preparing all types of data to power the entire analytics and AI lifecycle.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-stage data pipeline diagram (Data Source, Processing, Consumption) is shown, with most of it blurred out. A specific part of the 'Processing' stage, labeled 'Data Engineering', is highlighted. This highlighted section shows a 'Stream Extract Load' process feeding into 'Bronze' (structured) and 'Unstructured & Structured' data storage layers.",
+    "data_points_shown": "The diagram shows conceptual stages: Data Source, Processing (with sub-stages like Bronze, Silver, Gold, Data Engineering, Catalog and Governance), and Consumption (with sub-stages like BI, Data Science, Apps, Sharing). The focus is on the 'Data Engineering' component."
+   },
+   "abstract_pattern": "This slide uses a 'spotlight' pattern to explain a complex system. It first presents a complete, multi-stage process or architecture in the background to establish context, and then visually highlights one specific component for a detailed explanation. This approach breaks down a complex topic, allowing the presenter to focus the audience's attention on a key capability, differentiator, or value-add without losing the broader context. Any company can use this to explain how a specific feature or strength fits into and enhances a larger workflow or value chain.",
+   "keywords": [
+    "process_spotlight",
+    "component_deep_dive",
+    "system_architecture",
+    "value_chain_focus",
+    "feature_highlight",
+    "end-to-end_process",
+    "modular_explanation",
+    "platform_capability",
+    "workflow_diagram",
+    "technical_deep_dive",
+    "context_and_focus"
+   ],
+   "works_for": [
+    "Our logistics platform handles the entire supply chain, but our last-mile delivery optimization is the key to our efficiency.",
+    "Our marketing automation tool manages the full customer lifecycle, but our AI-powered lead scoring engine is what sets us apart.",
+    "We provide a complete developer security platform, but I want to show you how our 'shift-left' code scanning works.",
+    "Our drug discovery process is complex, but the key is our AI-powered molecule simulation phase.",
+    "Our e-commerce platform has many features, but let's focus on our one-click checkout process that dramatically increases conversion.",
+    "The entire manufacturing process is automated, but our predictive maintenance module is the core of our uptime guarantee."
+   ],
+   "variable_elements": {
+    "primary_metric": "The specific stage or component being highlighted (e.g., Data Engineering, Lead Scoring, Last-Mile Delivery).",
+    "secondary_metric": "The surrounding stages of the overall process that provide context (e.g., Data Sources and Consumption).",
+    "time_dimension": "Logical process flow or sequence of steps.",
+    "comparison_basis": "A specific part of a system is compared to the whole system for explanatory purposes."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A well-defined multi-stage process, workflow, or system architecture.",
+     "A specific component or stage within that process that represents a key strength or differentiator."
+    ],
+    "data_shape_needed": "needs a linear or branching sequence of steps",
+    "minimum_data_points": "3+ distinct stages in the overall process",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining a complex product architecture in a digestible way.",
+     "Highlighting a specific feature that is a key competitive differentiator.",
+     "Educating the audience on how your product enables a modern, industry-standard workflow.",
+     "Breaking down a value chain to show where you add the most value.",
+     "Introducing a new capability by showing where it fits in the existing product ecosystem."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your message is about a single, simple metric (e.g., revenue growth).",
+     "The process you're describing is trivial and you have no unique take on it.",
+     "You need to compare multiple standalone products or companies directly."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 6,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Architecture & Capabilities",
+   "position": "middle",
+   "title": "Data Engineering Process Spotlight"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s009",
+   "schema": "rich",
+   "core_message": "Our platform has evolved beyond traditional data workloads like BI and Data Science to now fully support and enable the next frontier: AI applications.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-stage process flow diagram showing 'DATA SOURCE' -> 'PROCESSING' -> 'CONSUMPTION'. The first two stages are blurred out, while the 'CONSUMPTION' stage is highlighted in blue. The 'CONSUMPTION' box contains three items: 'BI', 'Data Science', and 'AI', with the 'AI' item featuring a sparkle icon for emphasis.",
+    "data_points_shown": "Categorical labels: Data Source, Processing, Consumption, BI, Data Science, AI. No numerical data is present."
+   },
+   "abstract_pattern": "This pattern illustrates a value chain or process, intentionally de-emphasizing the earlier, foundational stages to focus attention on a new, high-value final stage. It's used to communicate a shift in focus or an evolution of capability. Any company can use this to show that while they still handle the foundational steps, their true value and differentiation now lie in a new, advanced outcome they enable, positioning it as the next logical step in the industry's progression.",
+   "keywords": [
+    "value_chain_evolution",
+    "capability_expansion",
+    "moving_up_the_stack",
+    "outcome_focused",
+    "platform_evolution",
+    "next_frontier",
+    "new_use_case",
+    "product_differentiation",
+    "strategic_focus",
+    "future_proofing",
+    "highlighting_innovation"
+   ],
+   "works_for": [
+    "Our marketing automation platform now goes beyond email and SMS to power personalized AI-driven customer journeys.",
+    "Our logistics software has evolved from simple tracking to predictive supply chain optimization.",
+    "This cybersecurity platform doesn't just detect threats; it now uses AI to autonomously respond to them.",
+    "Our financial planning tool has moved past budgeting to offer automated, AI-powered investment strategies.",
+    "We're not just a CRM; we're a full customer intelligence platform that predicts churn and identifies upsell opportunities.",
+    "Our developer tools have expanded from code hosting to a complete CI/CD and automated deployment platform.",
+    "Our e-commerce platform now offers not just a storefront, but AI-powered personalization and merchandising."
+   ],
+   "variable_elements": {
+    "primary_metric": "The new, high-value outcome or capability (e.g., AI, Autonomous Response, Predictive Analytics).",
+    "secondary_metric": "The established, foundational capabilities being de-emphasized (e.g., BI, Data Science, Threat Detection).",
+    "time_dimension": "Implicit progression from established capabilities to new, innovative ones.",
+    "comparison_basis": "The company's own platform evolution, comparing the new state to the old state."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of a multi-stage process or value chain",
+     "A new, high-value capability that builds upon existing ones",
+     "Established, well-understood foundational capabilities"
+    ],
+    "data_shape_needed": "Needs a logical progression of stages, where the final stage represents a clear advancement or higher-value outcome.",
+    "minimum_data_points": "At least 3 stages in the process, with 2+ sub-categories in the final, highlighted stage.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Announcing a major product expansion into a new, high-value area like AI.",
+     "Shifting the company's narrative from a utility provider to a strategic, high-value partner.",
+     "Explaining how your platform's value has evolved beyond its original use case.",
+     "Differentiating from competitors who are stuck in the earlier, commoditized stages of the value chain.",
+     "Justifying a higher valuation by highlighting forward-looking, advanced capabilities."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your company is still trying to prove the value of the foundational stages.",
+     "The new capability is only a minor or incremental improvement.",
+     "The audience is completely unfamiliar with the basic process, as the blurring would cause confusion."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Capabilities & Vision",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s010",
+   "schema": "rich",
+   "core_message": "While we support the entire data lifecycle, our unique value and key differentiator lies in the 'consumption' layer, where we enable customers to build applications and collaborate directly on our platform.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A three-stage process flow diagram labeled 'DATA SOURCE', 'PROCESSING', and 'CONSUMPTION'. The first two stages are greyed out and blurred. The final stage, 'CONSUMPTION', is highlighted in blue, with a sub-section for 'Applications & Collaboration' (containing 'Apps' and 'Sharing') receiving extra emphasis with a bright blue border and an icon.",
+    "data_points_shown": "The diagram shows a conceptual flow, not specific data points. The stages are: Data Source, Processing, and Consumption. The highlighted components are Apps, Sharing, and the category 'Applications & Collaboration'."
+   },
+   "abstract_pattern": "This pattern illustrates a standard industry process or value chain, typically with 3-5 stages. It visually de-emphasizes the well-understood or commoditized parts of the process to spotlight the specific stage where the company provides unique value, innovation, or differentiation. By acknowledging the entire workflow but focusing on one key area, it communicates strategic focus and explains where the company's 'secret sauce' lies within a broader, familiar context. This is a powerful way to shift the narrative from being 'just another player' to being an innovator at a critical value-add layer.",
+   "keywords": [
+    "value_chain_differentiation",
+    "process_highlight",
+    "strategic_focus",
+    "innovation_spotlight",
+    "platform_layer",
+    "ecosystem_enablement",
+    "end-to-end_solution",
+    "unique_value_proposition",
+    "competitive_moat",
+    "moving_up_the_stack",
+    "value_add_layer"
+   ],
+   "works_for": [
+    "Our logistics platform handles the full supply chain, but our real value is in our AI-powered last-mile delivery optimization.",
+    "While we support the entire marketing funnel, our proprietary conversion intelligence engine is what sets us apart.",
+    "We provide a complete CI/CD solution, but our key differentiator is our advanced production observability and security suite.",
+    "Our e-commerce platform provides the storefront and checkout, but our unique advantage is the post-purchase customer engagement module.",
+    "We're not just a database; our value is in the application and analytics layer that sits on top.",
+    "Our HR platform covers the employee lifecycle, but our unique strength is in our predictive talent retention and development tools.",
+    "Our fintech infrastructure handles payments end-to-end, but our real-time fraud detection and compliance engine is our moat."
+   ],
+   "variable_elements": {
+    "primary_metric": "The highlighted stage or component of the value chain where the company claims differentiation.",
+    "secondary_metric": "The contextual, de-emphasized stages of the value chain.",
+    "time_dimension": "A sequential process flow (e.g., Stage 1 -> Stage 2 -> Stage 3).",
+    "comparison_basis": "The company's unique value-add stage versus the standard, commoditized stages of the process."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined, multi-stage industry value chain or process.",
+     "A clear point of differentiation or innovation within one of those stages."
+    ],
+    "data_shape_needed": "needs a linear, sequential process with distinct stages",
+    "minimum_data_points": "3-5 stages in the process",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining your unique position in a complex, multi-step industry.",
+     "Differentiating from competitors by showing you innovate at a higher-value layer.",
+     "Shifting the narrative from your core (but now commoditized) offering to a new growth area.",
+     "Articulating a platform strategy and where network effects are being built.",
+     "When you need to show you understand the whole problem but are solving a specific part exceptionally well."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product is a single point solution that doesn't fit into a broader, well-known process.",
+     "You are an early-stage company still trying to prove your core function works.",
+     "Your differentiation is spread evenly across the process, rather than concentrated in one area."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Strategy & Vision",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s011",
+   "schema": "rich",
+   "core_message": "Our platform is a comprehensive, unified solution that supports the full spectrum of modern data workloads, from foundational data engineering to advanced AI and application development.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "Four equally-sized blue rounded rectangles are arranged horizontally. Each box contains a white icon and text, representing a core capability: 'Data Engineering', 'Analytics', 'AI', and 'Applications & Collaboration'.",
+    "data_points_shown": "This slide displays four qualitative categories, not quantitative data."
+   },
+   "abstract_pattern": "This pattern breaks down a complex product, platform, or strategy into a small number of distinct, equally important pillars. It uses simple icons and labels to create a memorable framework that defines the scope and breadth of the offering. Any company can use this to introduce their core value propositions or product modules in a clear, digestible way, often setting the agenda for the rest of the presentation section.",
+   "keywords": [
+    "platform_pillars",
+    "product_capabilities",
+    "framework_diagram",
+    "core_components",
+    "value_propositions",
+    "solution_overview",
+    "market_coverage",
+    "unified_platform",
+    "product_modules",
+    "strategic_pillars",
+    "ecosystem_view"
+   ],
+   "works_for": [
+    "Our marketing cloud has four integrated modules: Email, Social, Ads, and Analytics.",
+    "We attack the security problem on three fronts: Prevention, Detection, and Response.",
+    "Our financial platform serves three key stakeholders: Consumers, Merchants, and Developers.",
+    "Our sustainability strategy is built on three pillars: Planet, People, and Product.",
+    "We offer a complete suite of tools for creative professionals: Design, Video, and Web.",
+    "Our approach to healthcare combines three key elements: Virtual Care, In-person Clinics, and Pharmacy Services.",
+    "Our business operates across three core segments: Enterprise, SMB, and Consumer.",
+    "Our AI stack consists of three layers: Infrastructure, Models, and Applications."
+   ],
+   "variable_elements": {
+    "primary_metric": "Categorical Pillars / Components",
+    "secondary_metric": null,
+    "time_dimension": "Static snapshot",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of the 3-5 core pillars of your product, strategy, or value proposition.",
+     "Simple labels for each pillar."
+    ],
+    "data_shape_needed": "Needs a small number of distinct, high-level categories that can be presented as equals.",
+    "minimum_data_points": "3-5 categories",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing your company's product or platform for the first time.",
+     "Structuring a presentation around your key value propositions.",
+     "Showing the breadth and completeness of your solution against point-solution competitors.",
+     "Simplifying a complex, multi-faceted business into digestible chunks.",
+     "Defining the key workloads or use cases your platform supports.",
+     "Setting the agenda for the product section of a pitch."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show data, trends, or performance metrics.",
+     "When the relationship between the parts is a linear process or hierarchy (a funnel or flow chart would be better).",
+     "When your product is a single-feature point solution."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product or Platform Overview",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s012",
+   "schema": "rich",
+   "core_message": "We are operating in a massive and rapidly expanding market, which is projected to more than double in the next five years, providing a huge runway for our future growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "chart",
+    "specific_content": "A bar chart showing the projected growth of the total addressable market (TAM) from calendar year 2024 to 2029. An arrow and a '+2x' callout highlight that the market is expected to more than double in this period, from a starting value of $170B to a final value of $355B.",
+    "data_points_shown": "Market size projected to grow from $170B in CY24 to $355B in CY29."
+   },
+   "abstract_pattern": "Any company can use this pattern to quantify the size of their addressable market and demonstrate its significant future growth potential. The slide establishes a large starting point and projects a substantial increase over a multi-year period, often using a simple multiplier (e.g., 2x, 3x) to emphasize the scale of the expansion. This visually communicates a 'large and growing' narrative, framing the company's opportunity as being part of a powerful secular trend.",
+   "keywords": [
+    "market_opportunity",
+    "TAM_slide",
+    "market_sizing",
+    "future_growth_projection",
+    "expanding_market",
+    "secular_growth_trend",
+    "addressable_market",
+    "runway_for_growth",
+    "large_and_growing",
+    "market_forecast",
+    "investment_thesis",
+    "market_expansion"
+   ],
+   "works_for": [
+    "The global market for electric vehicles is projected to triple by 2030.",
+    "Our serviceable obtainable market for enterprise AI will grow from $50B to $150B in the next 5 years.",
+    "The number of connected IoT devices is expected to double, creating a massive data management opportunity.",
+    "Spending on cybersecurity is forecast to increase by 150% as threats become more sophisticated.",
+    "The creator economy is a $100B market today, projected to reach $250B by 2028.",
+    "The market for sustainable packaging will grow 2.5x over the next decade.",
+    "Global data creation will more than double in the next four years, fueling demand for our services."
+   ],
+   "variable_elements": {
+    "primary_metric": "Total Addressable Market (TAM) size in currency",
+    "secondary_metric": null,
+    "time_dimension": "Forward-looking time series (e.g., by year)",
+    "comparison_basis": "Self over time (future projection)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Market size data or projections for a future period",
+     "A starting point market size (current or near-future)",
+     "A credible source for the projection (e.g., analyst report, internal analysis)"
+    ],
+    "data_shape_needed": "needs upward trend",
+    "minimum_data_points": "A start point and an end point (2+ points). 4-6 points are common to show progression.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "At the beginning of an investor pitch to establish the scale of the opportunity.",
+     "To justify a high valuation by pointing to a massive, growing market.",
+     "When entering a new market segment, to show its future potential.",
+     "To frame the company's growth as part of a larger, inevitable industry trend.",
+     "To convince partners or recruits of the long-term vision and potential."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your market is niche, mature, or shrinking.",
+     "If you don't have credible data sources for your projections, as it will undermine credibility.",
+     "When your story is about taking share in a static market, not riding a growth wave."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Sizing / TAM",
+   "position": "Beginning",
+   "title": "Market Opportunity"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s013",
+   "schema": "rich",
+   "core_message": "Our platform is not only significantly faster than key competitors for core analytics, but we are also innovating at a rapid pace, which is driving strong customer adoption of our new AI/ML capabilities.",
+   "intents": [],
+   "shows": {
+    "visual_type": "metrics_dashboard",
+    "specific_content": "A slide divided into two sections, 'Analytics' and 'Innovation', connected by a plus sign. The 'Analytics' section shows two performance benchmarks: 1.9x faster than Managed Spark and 1.8x faster than Cloud Native. The 'Innovation' section shows two metrics: a 2x increase in product velocity and 5.2K accounts using AI/ML on a weekly basis.",
+    "data_points_shown": "Analytics Performance: 1.9x faster vs. Managed Spark, 1.8x faster vs. Cloud Native. Innovation Metrics: 2x product velocity increase, 5.2K weekly active AI/ML accounts."
+   },
+   "abstract_pattern": "Any company can use this pattern to demonstrate a two-pronged value proposition that establishes both current dominance and future leadership. The slide structure juxtaposes proof of superior performance against established competitors with evidence of rapid innovation and adoption in a new, strategic growth area. This 'best of both worlds' narrative argues that the company is not just winning today but is also outpacing the market in building what comes next, creating a durable competitive advantage.",
+   "keywords": [
+    "competitive_benchmark",
+    "performance_superiority",
+    "innovation_velocity",
+    "feature_adoption",
+    "dual_value_proposition",
+    "present_vs_future",
+    "technical_moat",
+    "product_leadership",
+    "market_validation",
+    "growth_drivers",
+    "core_strength",
+    "emerging_opportunity"
+   ],
+   "works_for": [
+    "Our e-commerce platform has the fastest checkout time, and our new AI recommendation engine is already driving a 15% AOV uplift for early adopters.",
+    "Our security software has the highest threat detection rate, and we're shipping new compliance modules twice as fast as last year.",
+    "We offer the lowest transaction fees, and our new cross-border payment feature is already used by 1,000 businesses.",
+    "Our CRM is 3x faster to implement than Salesforce, and our new mobile-first version is growing 50% month-over-month.",
+    "Our developer tools result in 40% fewer bugs than open-source alternatives, and our new code-generation AI is used in 20% of all new projects.",
+    "Our marketing automation platform delivers 25% higher ROI than competitors, and we're seeing 10,000 users adopt our new predictive analytics feature.",
+    "Our supply chain software reduces shipping costs by 15% more than rivals, and our innovation in real-time tracking is accelerating."
+   ],
+   "variable_elements": {
+    "primary_metric": "A measure of current product performance or advantage (e.g., speed, cost, efficiency, quality) vs. competitors.",
+    "secondary_metric": "A measure of innovation or adoption of new capabilities (e.g., development velocity, feature usage, new product revenue).",
+    "time_dimension": "Implicitly a current state ('as of') for benchmarks, and a rate of change ('increase in') or current usage for innovation metrics.",
+    "comparison_basis": "Comparison against specific competitors for the performance metric, and comparison against self (past performance) or absolute adoption numbers for the innovation metric."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Performance benchmark data vs. at least one key competitor",
+     "A metric quantifying innovation speed or output (e.g., release cadence, features shipped)",
+     "A metric showing adoption of a new, strategic feature or product line"
+    ],
+    "data_shape_needed": "Needs clear superiority in benchmarks (e.g., >1.5x better) and a significant, positive number for innovation/adoption metrics.",
+    "minimum_data_points": "2+ competitor benchmarks, 1+ innovation metric, 1+ adoption metric.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving you are both the current leader and the future leader in your category.",
+     "Justifying a premium valuation by showing a strong core and high growth potential.",
+     "Countering a narrative that you are a legacy player being disrupted by newer companies.",
+     "Highlighting a dual moat: superior core technology and a faster pace of innovation.",
+     "When launching a new product line (e.g., AI) and wanting to show it's built on a best-in-class foundation."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your performance is only marginally better than competitors.",
+     "If you have no new strategic features with meaningful adoption to showcase.",
+     "If your story is one-dimensional (e.g., focused only on price or a single feature)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Superiority & Competitive Advantage",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s014",
+   "schema": "rich",
+   "core_message": "We offer a single, unified platform that simplifies a complex and fragmented market of disparate point solutions.",
+   "intents": [],
+   "shows": {
+    "visual_type": "comparison_diagram",
+    "specific_content": "A side-by-side visual comparison. The left side, labeled 'Snowflake', shows a single, large company logo at the center of concentric circles. The right side, labeled 'Competitors', shows a scattered, chaotic collection of many smaller, diverse technology icons.",
+    "data_points_shown": "No quantitative data is shown. The slide uses logos and icons as conceptual representations of a 'unified platform' versus 'fragmented point solutions'."
+   },
+   "abstract_pattern": "This pattern visually contrasts a single, unified entity against a large, fragmented, and chaotic collection of alternatives. It is used to position a company's product as the simple, integrated solution in a complex market. Any company can use this to argue that their 'all-in-one' platform is superior to stitching together multiple 'point solutions' or navigating a disorganized competitive landscape. The core visual metaphor is 'order vs. chaos' or 'one vs. many,' establishing the hero's (the company's) value proposition as a simplifying and consolidating force.",
+   "keywords": [
+    "platform_vs_point_solution",
+    "market_fragmentation",
+    "unified_platform",
+    "all_in_one_solution",
+    "competitive_landscape",
+    "simplicity_vs_complexity",
+    "market_consolidation",
+    "ecosystem_view",
+    "value_proposition_framing",
+    "order_from_chaos",
+    "integrated_system"
+   ],
+   "works_for": [
+    "Our marketing suite replaces a dozen different tools for email, social, and analytics.",
+    "Instead of using separate apps for messaging, video, and files, our platform unifies communication.",
+    "We provide a single financial platform for startups, eliminating separate banking, card, and expense software.",
+    "Our unified security platform protects your entire infrastructure, unlike a patchwork of legacy tools.",
+    "Our design platform combines vector editing, prototyping, and developer handoff, replacing three separate apps.",
+    "Stop managing multiple vendors; our single solution handles all your logistics needs.",
+    "Our ERP system integrates all core business processes, from HR to finance to supply chain."
+   ],
+   "variable_elements": {
+    "primary_metric": "The company's own brand/logo, representing the unified solution.",
+    "secondary_metric": "A collection of logos or icons representing the fragmented alternatives (competitors, point solutions, legacy systems).",
+    "time_dimension": null,
+    "comparison_basis": "Own solution vs. the entire competitive/alternative landscape."
+   },
+   "data_requirements": {
+    "must_have": [
+     "An understanding of the competitive landscape as being fragmented",
+     "Your company's logo",
+     "A collection of generic or specific competitor/point-solution logos or icons"
+    ],
+    "data_shape_needed": "needs_clear_contrast - The narrative requires a 'one vs. many' market structure where your company is the 'one'.",
+    "minimum_data_points": "N/A - This is a conceptual, qualitative slide. You need one 'us' and a representation of 'many' of 'them'.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Establishing the core problem of market fragmentation that your platform solves.",
+     "Positioning your company as a category-defining, all-in-one solution.",
+     "Visually explaining a value proposition of simplicity and integration.",
+     "Early in a pitch deck to frame the competitive landscape and your unique position.",
+     "When you compete against a 'build-it-yourself' or 'stitch-it-together' customer behavior.",
+     "Justifying a higher price point by highlighting the total cost of ownership (TCO) of managing multiple tools."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you are a point solution yourself and do not have a platform story.",
+     "When your primary competitor is a single, dominant incumbent (e.g., David vs. one Goliath).",
+     "When the market is already a consolidated oligopoly with only 2-3 major players."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Competitive Landscape & Market Positioning",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s015",
+   "schema": "rich",
+   "core_message": "Our platform is the central hub of a vast and powerful ecosystem of partners, customers, and integrations, demonstrating our market leadership and creating a strong, defensible moat.",
+   "intents": [],
+   "shows": {
+    "visual_type": "logo_landscape",
+    "specific_content": "A large grid of over 60 company logos from the technology, data, analytics, and consulting industries. The 'Sigma' logo is featured prominently at the top center, with the other logos arranged in rows below it.",
+    "data_points_shown": "Logos of companies including Sigma, Atlan, dbt Labs, Fivetran, Accenture, AWS, Deloitte, Microsoft, Salesforce, IBM, KPMG, Datadog, and many others."
+   },
+   "abstract_pattern": "This pattern uses a large collection of logos to visually represent the breadth and depth of a company's ecosystem. By showcasing numerous well-known partners, customers, or integrations, it serves as powerful social proof of market validation and adoption. Any company can use this to demonstrate that it is a central, validated, and indispensable player in its industry. The visual density creates a sense of an insurmountable competitive advantage derived from network effects.",
+   "keywords": [
+    "ecosystem_slide",
+    "partner_landscape",
+    "logo_wall",
+    "social_proof",
+    "market_validation",
+    "network_effects",
+    "platform_strength",
+    "competitive_moat",
+    "industry_centrality",
+    "integration_partners",
+    "channel_partners",
+    "market_leadership"
+   ],
+   "works_for": [
+    "Our marketplace has attracted all the top developers in the space.",
+    "We are the trusted platform for the world's leading financial institutions.",
+    "Our open-source project has a vibrant ecosystem of contributors and commercial partners.",
+    "The largest brands in CPG rely on our supply chain software.",
+    "Our security solution integrates seamlessly with every major enterprise tool.",
+    "We are the standard for data integration in the modern enterprise.",
+    "Our API is used by all the leading players in our vertical."
+   ],
+   "variable_elements": {
+    "primary_metric": "Breadth and quality of ecosystem members (partners, customers, integrations).",
+    "secondary_metric": "Optional highlight of a key partner or case study (e.g., the 'Sigma' logo).",
+    "time_dimension": "Not applicable (snapshot in time).",
+    "comparison_basis": "Implicitly compares the company's ecosystem to the smaller or non-existent ecosystems of competitors."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A large list of partner, customer, or integration company names",
+     "Permission to use company logos"
+    ],
+    "data_shape_needed": "needs a large volume of examples to create an overwhelming visual effect",
+    "minimum_data_points": "30+ logos to be effective, 50+ for a strong impact",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Proving you are the market standard or platform of choice.",
+     "Demonstrating a strong competitive moat built on network effects.",
+     "Showcasing the value of your partner program to potential new partners.",
+     "Instilling confidence in large enterprise buyers.",
+     "Answering the question 'Who else uses/integrates with you?' before it's asked.",
+     "Visually representing your central role in a complex industry."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You only have a handful of partners or customers.",
+     "Your partners are unknown or not well-respected in the industry.",
+     "The slide looks sparse, which can signal weakness instead of strength."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Ecosystem & Partners",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s016",
+   "schema": "rich",
+   "core_message": "We have a strong, experienced, and complete leadership team with expertise across all key functions, ready to execute our vision and drive the company forward.",
+   "intents": [],
+   "shows": {
+    "visual_type": "team_gallery",
+    "specific_content": "A grid of eight circular headshots of the executive team, arranged in two rows of four. Each person's name and title is listed below their photo on a clean, light blue and white background.",
+    "data_points_shown": "The slide shows the names and titles of eight executives: Sridhar Ramaswamy (CEO), Benoit Dageville (Co-Founder & President of Products), Mike Scarpelli (CFO), Mike Gannon (CRO), Denise Persson (CMO), Christian Kleinerman (EVP, Product), Vivek Raghunathan (SVP of Engineering), and Mike Blandina (CIO)."
+   },
+   "abstract_pattern": "Any company can use this pattern to establish credibility by showcasing its leadership team. The slide presents a gallery of key executives, covering all major functional areas (e.g., CEO, Product, Finance, Sales, Engineering). This visual format communicates that the company is well-structured and has the necessary human capital and experience to execute its strategy. It builds trust by putting faces to the names and demonstrating a complete, seasoned team at the helm.",
+   "keywords": [
+    "leadership_team",
+    "executive_credibility",
+    "team_strength",
+    "management_experience",
+    "organizational_structure",
+    "human_capital",
+    "founder_involvement",
+    "C-suite_roster",
+    "investor_confidence",
+    "execution_capability",
+    "dream_team",
+    "who_we_are"
+   ],
+   "works_for": [
+    "Our team has deep industry experience from Google, Oracle, and Microsoft.",
+    "We've assembled a world-class team to tackle this complex market.",
+    "Our founders are still deeply involved in product and technology leadership.",
+    "We have the right leadership to scale from $100M to $1B in revenue.",
+    "Our executive team has a proven track record of success in previous ventures.",
+    "Meet the team that is building the future of AI.",
+    "We have a balanced team of visionary founders and experienced operators.",
+    "Our leadership combines technical depth with go-to-market expertise."
+   ],
+   "variable_elements": {
+    "primary_metric": "Team members / Executives",
+    "secondary_metric": "Titles / Roles",
+    "time_dimension": "Static snapshot",
+    "comparison_basis": "Implicitly, the completeness and quality of the team vs. what's expected for a company at this stage."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Professional headshots of key team members",
+     "Full names of each person",
+     "Official titles/roles of each person"
+    ],
+    "data_shape_needed": "point-in-time snapshot",
+    "minimum_data_points": "4-6 key executives to show a complete C-suite or founding team.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the company to new investors, customers, or partners.",
+     "Building confidence in the company's ability to execute its strategy.",
+     "Humanizing the company and showing the faces behind the brand.",
+     "At the beginning of a pitch deck to establish credibility early on.",
+     "Highlighting the addition of a new, high-profile executive.",
+     "Reinforcing the stability of the management team during a town hall or all-hands meeting."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When the team is incomplete or has significant, obvious gaps in key roles.",
+     "In a very short, tactical presentation where the audience already knows the team.",
+     "If there has been recent negative press or turnover concerning the leadership team."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Company Introduction",
+   "position": "beginning",
+   "title": "Executive Team"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s017",
+   "schema": "rich",
+   "core_message": "Our company operates on four core values: putting customers first, taking accountability, ensuring internal alignment, and striving for ongoing excellence.",
+   "intents": [],
+   "shows": {
+    "visual_type": "icon_grid",
+    "specific_content": "Four blue rounded squares are arranged horizontally, each containing a white icon and a text label. The labels are: 'Customer First' (with a crown icon), 'Accountability' (with a hand-in-oath icon), 'Alignment' (with a group holding a flag icon), and 'Ongoing Excellence' (with a prize ribbon icon).",
+    "data_points_shown": "The four values: Customer First, Accountability, Alignment, Ongoing Excellence."
+   },
+   "abstract_pattern": "Any company can use this pattern to present a set of foundational pillars, such as core values, strategic principles, or product tenets. The visual layout, typically a balanced grid of 3-5 items, communicates that these concepts are distinct yet equally important components of a unified whole. This pattern is used to establish a framework of belief or strategy, providing the 'why' behind the company's actions and building a qualitative, character-based argument rather than a quantitative one.",
+   "keywords": [
+    "company_values",
+    "core_principles",
+    "guiding_philosophy",
+    "cultural_pillars",
+    "brand_identity",
+    "strategic_framework",
+    "foundational_elements",
+    "corporate_ethos",
+    "mission_pillars",
+    "value_proposition_components"
+   ],
+   "works_for": [
+    "Our product is built on three pillars: Security, Scalability, and Simplicity.",
+    "Our investment thesis is based on three factors: Founder, Market, and Moat.",
+    "We have a three-pronged approach to sustainability: Reduce, Reuse, and Innovate.",
+    "Our go-to-market strategy has four key motions: Enterprise, Mid-Market, Self-Serve, and Channel.",
+    "Our leadership principles are: Own Outcomes, Think Big, and Hire the Best.",
+    "The future of our industry depends on three key trends we are leading.",
+    "Our customer promise is based on: 24/7 Support, Transparent Pricing, and Continuous Innovation."
+   ],
+   "variable_elements": {
+    "primary_metric": "Core Concepts / Pillars / Values",
+    "secondary_metric": null,
+    "time_dimension": "Static / Point-in-time",
+    "comparison_basis": "Internal framework (not a comparison)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined set of 3-5 core values, principles, or strategic pillars."
+    ],
+    "data_shape_needed": "a set of distinct concepts",
+    "minimum_data_points": "3-5 concepts/pillars",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the company's culture to new hires, partners, or investors.",
+     "Setting the foundation for the company's mission and vision at the start of a presentation.",
+     "Explaining the 'why' behind the company's strategy and decisions.",
+     "Differentiating from competitors based on ethos and operational philosophy.",
+     "Summarizing the key tenets of a product or service offering.",
+     "Reinforcing brand identity in a corporate overview."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show quantitative performance, growth, or financial metrics.",
+     "When the audience is solely focused on technical specifications or a product demo.",
+     "When your values are generic and not authentically reflected in your company's actions."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Company Introduction / Culture",
+   "position": "beginning",
+   "title": "Our Values"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s018",
+   "schema": "rich",
+   "core_message": "We have a disciplined and multi-faceted investment strategy, allocating capital efficiently across R&D, Sales, SBC, and M&A to drive sustainable growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A title 'Efficient Investment' and a 2x2 grid of four blue boxes. The boxes are labeled R&D, Sales, SBC (Stock-Based Compensation), and M&A, each with a corresponding simple white icon (gears, laptop with dollar sign, server rack, buildings).",
+    "data_points_shown": "This is a conceptual slide with no quantitative data. It shows four categories of investment: R&D, Sales, SBC, M&A."
+   },
+   "abstract_pattern": "Any company can use this pattern to introduce a multi-faceted strategy or concept. It serves as an agenda or framework slide, breaking down a complex topic (like 'investment strategy', 'growth levers', or 'market approach') into 3-4 distinct, digestible pillars. This grid structure signals a comprehensive and organized approach, setting the stage for a deeper dive into each component on subsequent slides. It establishes the key areas the audience should focus on for the upcoming section.",
+   "keywords": [
+    "framework_slide",
+    "agenda_setting",
+    "strategic_pillars",
+    "component_breakdown",
+    "investment_allocation",
+    "capital_allocation",
+    "growth_levers",
+    "strategic_focus",
+    "business_areas",
+    "operating_model",
+    "four_quadrant"
+   ],
+   "works_for": [
+    "Our growth is driven by three key pillars: product innovation, international expansion, and enterprise sales.",
+    "Our go-to-market strategy has four core components.",
+    "We build our competitive moat through technology, network effects, and brand.",
+    "Our path to profitability is based on improving gross margins, sales efficiency, and G&A leverage.",
+    "We create customer value in three ways: reducing costs, increasing revenue, and mitigating risk.",
+    "Our ESG strategy focuses on environmental impact, social responsibility, and corporate governance.",
+    "Our product roadmap is focused on these four key areas of development."
+   ],
+   "variable_elements": {
+    "primary_metric": "Core Concept / Strategy (e.g., Investment, Growth, Go-to-Market)",
+    "secondary_metric": "Component Categories (e.g., R&D, Sales, Product, Marketing)",
+    "time_dimension": "none (static framework)",
+    "comparison_basis": "none (internal breakdown)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined strategic concept (e.g., investment, growth)",
+     "3-4 distinct sub-components or pillars of that strategy"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3-4 categories",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "As a section title slide to introduce a multi-part topic.",
+     "To provide a high-level overview of a company's strategic priorities.",
+     "When explaining how resources or capital are allocated across the business.",
+     "To structure a complex argument into simple, memorable buckets.",
+     "To signal a disciplined and comprehensive approach to a business function."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You need to show data, trends, or performance on the slide itself.",
+     "The topic is simple and does not have distinct sub-components.",
+     "You are telling a single, linear story that doesn't need to be broken down."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Financial Strategy & Capital Allocation",
+   "position": "middle",
+   "title": "Efficient Investment"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s019",
+   "schema": "rich",
+   "core_message": "This slide introduces the next speaker, Christian Kleinerman, who will present the following section of the presentation.",
+   "intents": [],
+   "shows": {
+    "visual_type": "speaker_introduction_slide",
+    "specific_content": "The name 'CHRISTIAN KLEINERMAN' in large, white, sans-serif font. The background is a stylized image of snowy mountains under a night sky with an aurora. In the bottom right, there are abstract light blue geometric shapes that suggest an upward-trending chart or mountain peaks.",
+    "data_points_shown": "None. The slide only shows the speaker's name."
+   },
+   "abstract_pattern": "This pattern serves as a transition or introduction. It uses a large, prominent text element—typically a person's name or a section title—to signal a new chapter in the presentation. The background is often a full-bleed, high-quality image that reinforces the company's brand identity. This slide type is used to manage the presentation's flow, attribute content to a specific expert, and give the audience a clear structural cue about what's coming next.",
+   "keywords": [
+    "speaker_introduction",
+    "section_break",
+    "transition_slide",
+    "presenter_intro",
+    "agenda_item",
+    "establishing_authority",
+    "brand_reinforcement",
+    "narrative_pacing",
+    "chapter_heading",
+    "keynote_speaker"
+   ],
+   "works_for": [
+    "Now, our CFO will walk you through the financials.",
+    "Next, we'll cover our Go-To-Market strategy.",
+    "Introducing our Head of Product to discuss the roadmap.",
+    "Let's dive into the technical architecture.",
+    "The next chapter of our story: Scaling our platform.",
+    "A deep dive into our competitive advantages.",
+    "Our Vision for the Future."
+   ],
+   "variable_elements": {
+    "primary_metric": "Speaker Name or Section Title",
+    "secondary_metric": null,
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Speaker's name",
+     "High-quality branded background image"
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "1 (the name/title)",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing a new speaker to the stage.",
+     "Creating a clear transition between different major topics in a presentation.",
+     "Attributing a specific section of the presentation to an expert or executive.",
+     "Pacing the presentation to give the audience a moment to reset.",
+     "Reinforcing brand identity with a full-bleed background image.",
+     "Signaling the start of a new module in a long presentation or workshop."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to convey data or a specific business argument.",
+     "In a very short, rapid-fire presentation where transitions are omitted for time.",
+     "When there is only one speaker and no distinct sections."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Speaker Introduction",
+   "position": "middle",
+   "title": "Christian Kleinerman"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s020",
+   "schema": "rich",
+   "core_message": "Our platform is superior to the competition, offering more critical capabilities at a significantly lower total cost of ownership (TCO).",
+   "intents": [],
+   "shows": {
+    "visual_type": "comparison_table",
+    "specific_content": "A comparison table showing Snowflake versus a competitor, 'Managed Spark'. It compares them on three qualitative features ('Self-Optimizing', 'Fully Managed Service', 'One Platform Across Stack') where Snowflake has all three (indicated by checkmarks) and the competitor has none (indicated by X's). It also includes a quantitative comparison of Total Cost of Ownership (TCO), where Snowflake is the baseline (1.0x) and Managed Spark is 30% more expensive (1.3x).",
+    "data_points_shown": "Features: Self-Optimizing (Yes/No), Fully Managed Service (Yes/No), One Platform Across Stack (Yes/No). TCO Multiplier: Snowflake 1.0x, Managed Spark 1.3x."
+   },
+   "abstract_pattern": "Any company can use this 'Us vs. Them' pattern to prove superiority over a direct competitor or alternative. The slide establishes a clear narrative by first comparing a checklist of qualitative features, showing where 'we' have capabilities that 'they' lack. This builds a foundation of functional advantage. It then culminates in a single, powerful quantitative metric (like cost, performance, or ROI) that summarizes the overall benefit, making the choice obvious. This combination of qualitative 'what' and quantitative 'how much better' is a highly effective way to create a strong competitive moat.",
+   "keywords": [
+    "competitive_comparison",
+    "us_vs_them",
+    "feature_matrix",
+    "value_proposition",
+    "total_cost_of_ownership",
+    "TCO_advantage",
+    "product_differentiation",
+    "competitive_moat",
+    "head_to_head",
+    "benchmark_results",
+    "superiority_proof",
+    "bake_off"
+   ],
+   "works_for": [
+    "Our CRM is easier to use and 20% cheaper than Salesforce for SMBs.",
+    "Our security software detects threats 5x faster than the legacy solution.",
+    "Compared to building in-house, our platform reduces development time by 60%.",
+    "We offer end-to-end encryption and compliance features that our main competitor lacks.",
+    "Our electric vehicle has a 25% longer range and charges faster than the leading competitor.",
+    "Our marketing automation tool has native integrations that competitors require expensive add-ons for.",
+    "Why choose us over AWS Lambda? We offer better performance with no cold starts and lower overall cost.",
+    "Our solution provides a unified dashboard, unlike the fragmented tools of our competitors, saving 10 hours per week."
+   ],
+   "variable_elements": {
+    "primary_metric": "Qualitative feature checklist (Yes/No)",
+    "secondary_metric": "A single, summary quantitative metric (e.g., TCO, performance multiplier, cost savings, speed)",
+    "time_dimension": null,
+    "comparison_basis": "Direct comparison against a named competitor or alternative solution"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of 2-4 key differentiating features",
+     "A named competitor or clear alternative (e.g., 'In-house solution')",
+     "A quantifiable metric (TCO, performance, speed, cost) benchmarked against the competitor",
+     "Third-party validation for the benchmark data (highly recommended for credibility)"
+    ],
+    "data_shape_needed": "needs_clear_contrast_difference",
+    "minimum_data_points": "3-4 comparison points (a mix of features and at least one key metric)",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to clearly differentiate from a well-known competitor.",
+     "To justify a premium price by showing a lower Total Cost of Ownership (TCO).",
+     "To counter a competitor's claims in the market.",
+     "When prospects are frequently asking 'How are you different from X?'",
+     "To arm your sales team with a simple, powerful competitive battlecard.",
+     "When a competitor is a major obstacle in sales cycles."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your feature set is very similar to the competitor's (feature parity).",
+     "When you are creating a new category and direct competitors don't exist yet.",
+     "When your quantitative advantage is small or negligible (e.g., 1.0x vs 1.05x TCO)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Competitive Advantage",
+   "position": "middle",
+   "title": "Leading Platform"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s021",
+   "schema": "rich",
+   "core_message": "Our platform is significantly faster and more efficient for core analytics tasks than major competitors and alternative technologies, providing a clear and quantifiable performance advantage.",
+   "intents": [],
+   "shows": {
+    "visual_type": "bar_chart_comparison",
+    "specific_content": "A bar chart comparing the 'Elapsed Time' for 'Core Analytics Workloads' across three platforms: 'Managed Spark', 'Cloud Native', and 'Snowflake'. The bars for Managed Spark and Cloud Native are tall, while the Snowflake bar is significantly shorter, indicating it takes less time. Text callouts on the left quantify this, stating Snowflake is '1.9x' faster than Managed Spark and '1.8x' faster than Cloud Native.",
+    "data_points_shown": "Performance comparison: Snowflake is 1.9x faster than Managed Spark; Snowflake is 1.8x faster than Cloud Native. The chart visually represents relative elapsed time, with Snowflake being the lowest."
+   },
+   "abstract_pattern": "Any company can use this pattern to prove its superiority over competitors on a single, critical performance metric. It uses a simple bar chart to visually contrast 'us' vs. 'them', where a lower (or higher) bar clearly signifies 'better'. This visual is reinforced with large, simple multiplier callouts (e.g., '2x faster', '50% cheaper') to create a memorable and powerful proof point of differentiation. This 'bake-off' or 'head-to-head' comparison is designed to be easily understood and highly persuasive.",
+   "keywords": [
+    "competitive_benchmark",
+    "performance_advantage",
+    "head-to-head_comparison",
+    "product_superiority",
+    "quantified_differentiation",
+    "technical_moat",
+    "better_faster_cheaper",
+    "bake-off_slide",
+    "alternative_comparison",
+    "proof_point",
+    "performance_metric"
+   ],
+   "works_for": [
+    "Our new chip processes AI models 3x faster than the competition.",
+    "Our battery technology provides 50% more range than the leading electric vehicle.",
+    "Our security software detects threats in half the time of legacy systems.",
+    "Our compression algorithm reduces file sizes by 75%, far more than the industry standard.",
+    "Our marketing platform delivers a 2.5x higher return on ad spend than our main rival.",
+    "We can deploy a new server instance in 10 seconds, while AWS takes over a minute.",
+    "Our drug candidate shows a 40% higher efficacy rate in clinical trials compared to the current treatment."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key performance indicator where lower is better (e.g., time, cost, error rate) or higher is better (e.g., speed, accuracy, ROI).",
+    "secondary_metric": null,
+    "time_dimension": "Point-in-time snapshot",
+    "comparison_basis": "vs competitors or industry alternatives"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Benchmark data for your product on a key performance metric",
+     "Comparable benchmark data for at least one major competitor or alternative solution",
+     "A clear methodology for the comparison (as noted in the footnote)"
+    ],
+    "data_shape_needed": "needs_clear_contrast_difference",
+    "minimum_data_points": "Your product vs. 1-2 competitors/alternatives",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you have a clear, defensible, and significant performance advantage on a metric customers care about.",
+     "To directly counter a competitor's claims or establish your product as the new standard.",
+     "In a sales or investor pitch to provide a simple, powerful reason to choose your solution.",
+     "To justify a premium price by demonstrating superior value (e.g., speed, efficiency).",
+     "When building a narrative around a technical or performance-based moat.",
+     "To show how your product solves a key pain point (e.g., slow processing) better than anyone else."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your performance advantage is minor or incremental.",
+     "When the metric being compared is not a key purchasing driver for your target audience.",
+     "When the comparison data is not credible, defensible, or could be easily disputed."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Competitive Advantage & Performance",
+   "position": "middle",
+   "title": "Core Analytics Workloads"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s022",
+   "schema": "rich",
+   "core_message": "Our platform is significantly faster and more efficient than a key competitor (Managed Spark) for a critical, modern data workload (Iceberg Tables).",
+   "intents": [],
+   "shows": {
+    "visual_type": "comparison_chart",
+    "specific_content": "A bar chart comparing the 'Elapsed Time' for 'Core Analytics Workloads on Iceberg Tables' between 'Managed Spark' and 'Snowflake'. Snowflake's bar is significantly lower, indicating faster performance. A large text callout states Snowflake is '1.8x' faster than Managed Spark.",
+    "data_points_shown": "Snowflake is 1.8x faster than Managed Spark. The chart visually shows Snowflake's elapsed time is roughly half of Managed Spark's for a specific workload."
+   },
+   "abstract_pattern": "This pattern uses a simple bar chart to directly compare a key performance metric of 'our product' against a specific competitor or alternative. The visual clearly shows 'our product' is superior on a 'lower is better' metric (like time, cost, or error rate). A large, bold callout quantifies this advantage with a multiplier (e.g., '2x faster', '50% cheaper'), making the takeaway immediate and memorable. Any company can use this to prove a clear, quantifiable performance or cost advantage over a well-known competitor.",
+   "keywords": [
+    "competitive_benchmark",
+    "performance_superiority",
+    "head-to-head_comparison",
+    "quantified_advantage",
+    "technical_proof_point",
+    "lower_is_better",
+    "efficiency_gain",
+    "speed_comparison",
+    "product_differentiation",
+    "cost_reduction",
+    "total_cost_of_ownership"
+   ],
+   "works_for": [
+    "Our cloud hosting is 30% cheaper than AWS for the same workload.",
+    "Our algorithm reduces model training time by half compared to the open-source standard.",
+    "Our security software has a 5x lower false positive rate than the industry leader.",
+    "Our checkout process takes 40% fewer steps than Shopify's.",
+    "We deliver packages in half the time of our main rival.",
+    "Our battery lasts 1.5x longer than the leading competitor's phone.",
+    "Our CRM onboarding takes 3 hours, compared to 10 hours for Salesforce."
+   ],
+   "variable_elements": {
+    "primary_metric": "A performance or cost metric where lower is better (e.g., elapsed time, cost, error rate, steps to complete).",
+    "secondary_metric": null,
+    "time_dimension": null,
+    "comparison_basis": "vs competitor / alternative"
+   },
+   "data_requirements": {
+    "must_have": [
+     "Benchmark data for your product on a specific task",
+     "Benchmark data for a direct competitor or well-known alternative on the same task",
+     "A single, clear performance or cost metric to compare"
+    ],
+    "data_shape_needed": "needs clear contrast/difference",
+    "minimum_data_points": "2 (your product vs. one competitor)",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to prove a specific, technical performance claim against a major competitor.",
+     "To justify a higher price by demonstrating superior efficiency or lower total cost of ownership (TCO).",
+     "To counter a competitor's marketing claims with hard data.",
+     "When targeting technical buyers who value performance benchmarks.",
+     "To highlight a key product differentiator that constitutes a competitive moat."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your performance advantage is marginal or not statistically significant.",
+     "When the metric being compared is not meaningful to the customer's business outcome.",
+     "When you don't have a credible, apples-to-apples comparison methodology."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Competitive Advantage & Product Performance",
+   "position": "middle",
+   "title": "Iceberg Performance"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s023",
+   "schema": "rich",
+   "core_message": "Our commitment to innovation ensures our platform's price/performance ratio continuously and exponentially improves, delivering compounding value to customers over time.",
+   "intents": [],
+   "shows": {
+    "visual_type": "conceptual_timeline_chart",
+    "specific_content": "A conceptual timeline chart showing an accelerating upward curve for 'Price/Performance'. The timeline is marked with three key technology milestones: 'Serverless' in 2012, 'Gen2' in 2025, and 'Adaptive' in the 'NEXT' phase.",
+    "data_points_shown": "The chart is conceptual and does not show specific numerical data. It shows three time-based milestones: 2012 (Serverless), 2025 (Gen2), and NEXT (Adaptive). The Y-axis is a single metric: 'Price/Performance'."
+   },
+   "abstract_pattern": "This pattern visualizes a company's commitment to continuous, accelerating improvement in a core value metric over time. It uses a timeline anchored by key product or technology generations to show past progress as a foundation for future, even greater gains. Any company can use this to build confidence in its long-term vision and technology roadmap, framing its product not as a static solution but as an evolving platform that delivers compounding value. It transforms a history of innovation into a promise for the future.",
+   "keywords": [
+    "continuous_improvement",
+    "accelerating_returns",
+    "price_performance",
+    "technology_roadmap",
+    "product_evolution",
+    "compounding_advantage",
+    "future_proofing",
+    "value_creation_over_time",
+    "innovation_flywheel",
+    "long-term_value",
+    "cost_efficiency",
+    "generational_leaps"
+   ],
+   "works_for": [
+    "Our AI models get exponentially more accurate with each new version.",
+    "The energy efficiency of our hardware doubles with every product generation.",
+    "Our platform's processing speed has consistently increased, and our next release will be the biggest leap yet.",
+    "We are driving down the cost per transaction for our customers through continuous software optimization.",
+    "Our commitment to R&D means our drug discovery platform identifies candidates faster with each update.",
+    "The time-to-value for our customers is decreasing at an accelerating rate.",
+    "Our security platform detects more threats with higher accuracy with every engine update."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key performance or efficiency ratio (e.g., Price/Performance, Speed, Accuracy, Efficiency).",
+    "secondary_metric": null,
+    "time_dimension": "A timeline marked by key product generations, technology milestones, or years.",
+    "comparison_basis": "Comparison of the company's own performance against itself over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A key performance metric that can be shown to improve over time.",
+     "A defined set of historical and future product/technology milestones that can be tied to performance gains."
+    ],
+    "data_shape_needed": "Needs a clear, positive, and ideally accelerating trend. The milestones should logically connect to the improvements.",
+    "minimum_data_points": "At least one past and one future milestone (3+ total points are better to show a curve).",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to demonstrate a long-term competitive advantage rooted in technology.",
+     "To justify a premium price by showing superior value and future improvements.",
+     "When introducing a new product generation and putting it in a historical context of innovation.",
+     "To build investor confidence in the company's R&D strategy and future growth potential.",
+     "To reassure customers that they are investing in a platform that won't become obsolete.",
+     "When you want to frame your company as an innovation leader in your category."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your product's value proposition is static and not based on performance improvements.",
+     "If you don't have a credible story for future innovation or your progress has plateaued.",
+     "If your business is services-based rather than technology or product-driven."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Technology and Product Strategy",
+   "position": "middle",
+   "title": "Committed to Leading Price Performance"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s024",
+   "schema": "rich",
+   "core_message": "Our pace of product innovation is not just growing, it's accelerating dramatically, creating a compounding advantage and widening our competitive moat.",
+   "intents": [],
+   "shows": {
+    "visual_type": "bar_chart",
+    "specific_content": "A bar chart showing a significant increase in 'Product Velocity' over three fiscal years (FY24, FY25, FY26+). The bar for FY25 is labeled with '+2X' and upward arrows, indicating a doubling from FY24. The bar for FY26+ is taller and has a gradient fade, suggesting a future projection of continued acceleration.",
+    "data_points_shown": "The chart shows relative growth, not absolute numbers. Key data points are a baseline for FY24, a 2x increase for FY25, and a projected further increase for FY26+."
+   },
+   "abstract_pattern": "Any company can use this pattern to demonstrate that a key operational capability, such as innovation, sales efficiency, or data processing, is not just improving but accelerating over time. It uses a simple bar chart with a prominent multiplier callout to emphasize a step-change in performance between two periods. It often includes a forward-looking, visually distinct bar (e.g., faded or outlined) to signal that this acceleration is expected to continue, building a narrative of momentum and a widening competitive advantage.",
+   "keywords": [
+    "acceleration",
+    "momentum",
+    "step-change",
+    "product_velocity",
+    "innovation_rate",
+    "operational_excellence",
+    "compounding_advantage",
+    "future_outlook",
+    "non-financial_kpi",
+    "growth_rate_increase",
+    "scaling_capability",
+    "R&D_output"
+   ],
+   "works_for": [
+    "Our sales team's efficiency has tripled this year, allowing us to scale faster.",
+    "We are onboarding new enterprise customers 4x faster than last year.",
+    "The number of AI models deployed on our platform is accelerating, proving network effects.",
+    "Our rate of shipping new features has doubled, widening our lead over competitors.",
+    "The growth in our developer community is compounding year-over-year.",
+    "We've doubled our data processing capacity while keeping costs flat.",
+    "Our content production has accelerated, making us the dominant voice in the market.",
+    "The number of integrations we build per quarter is increasing exponentially."
+   ],
+   "variable_elements": {
+    "primary_metric": "A key operational or innovation metric (e.g., features shipped, models deployed, integrations built, customers onboarded).",
+    "secondary_metric": null,
+    "time_dimension": "Discrete time periods (e.g., years, quarters).",
+    "comparison_basis": "Self over time."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A quantifiable metric for an operational process (e.g., number of features shipped, number of integrations built, number of patents filed).",
+     "Time-series data for this metric over at least two completed periods."
+    ],
+    "data_shape_needed": "Needs a clear acceleration or step-change between at least two periods. A simple upward trend is not enough; the rate of growth itself must be increasing.",
+    "minimum_data_points": "3+ time periods (e.g., last year, this year, next year's projection).",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to prove your R&D or operational engine is a key competitive advantage.",
+     "To justify increased investment in product or engineering by showing accelerating returns.",
+     "To build a narrative of momentum and market leadership that competitors can't match.",
+     "When shifting the story from 'what' you've built to 'how fast' you can innovate.",
+     "To counter claims that your innovation has slowed down or that competitors are catching up.",
+     "In an investor or board update to showcase operational excellence."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your growth is linear or slowing down.",
+     "When the metric being shown is not clearly linked to business value (i.e., it's a vanity metric).",
+     "When you cannot quantify the metric in a believable or defensible way."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Competitive Advantage / Moat",
+   "position": "middle",
+   "title": "Product Velocity"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s025",
+   "schema": "rich",
+   "core_message": "Snowflake is an AI innovation leader that solves critical enterprise problems with specific, advanced technologies, delivering measurable improvements in speed, cost, and quality.",
+   "intents": [],
+   "shows": {
+    "visual_type": "problem_solution_outcome_table",
+    "specific_content": "A three-column layout labeled 'Customer Problem', 'Solution', and 'Outcome'. It presents three rows, each mapping a specific customer pain point (e.g., 'Slow Chatbots') to a proprietary Snowflake technology (e.g., 'Speculative Decoding') and a quantifiable positive result (e.g., '4X Faster Inference').",
+    "data_points_shown": "Problem 1: Slow Chatbots -> Solution: Speculative Decoding -> Outcome: 4X Faster Inference. Problem 2: Inference is too Expensive -> Solution: swiftKV -> Outcome: 75% Cost Reduction. Problem 3: Unreliable SQL Generation -> Solution: ExCOT -> Outcome: #1 SQL Benchmarks."
+   },
+   "abstract_pattern": "Any company can use this pattern to translate technical innovation into clear business value. The structure explicitly identifies a common customer pain point, introduces the company's specific feature or technology as the direct solution, and then proves its effectiveness with a compelling, quantifiable outcome. This 'Problem-Solution-Benefit' framework is highly effective for demonstrating a strong ROI, justifying product superiority, and establishing thought leadership by showing, not just telling, how you solve real-world problems better, faster, or cheaper.",
+   "keywords": [
+    "problem_solution_benefit",
+    "value_proposition",
+    "feature_to_benefit",
+    "quantified_impact",
+    "technical_differentiation",
+    "ROI_proof",
+    "innovation_showcase",
+    "customer_pain_points",
+    "solution_mapping",
+    "tangible_outcomes",
+    "before_and_after"
+   ],
+   "works_for": [
+    "Our new algorithm reduces cloud storage costs by 50%.",
+    "Our automated fraud detection system catches 30% more fraudulent transactions.",
+    "Our supply chain optimization software reduces delivery times by 2 days.",
+    "Our developer tools increase engineering velocity by 25%.",
+    "Our marketing automation platform improves lead conversion by 15%.",
+    "Our security platform blocks 99.9% of zero-day threats, a 10% improvement over competitors.",
+    "Our CRM's AI assistant cuts down data entry time by 80%."
+   ],
+   "variable_elements": {
+    "primary_metric": "Customer Problem (Qualitative Pain Point)",
+    "secondary_metric": "Quantified Outcome (e.g., speed, cost, rank)",
+    "time_dimension": null,
+    "comparison_basis": "Implicit before-and-after comparison (Problem vs. Outcome)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of well-understood customer pain points",
+     "Specific company products or features that address each pain point",
+     "Quantifiable metrics demonstrating the positive impact of the solution (e.g., percentage improvement, multiplier, cost savings, ranking)"
+    ],
+    "data_shape_needed": "Needs a clear one-to-one mapping between a problem, a solution, and a significant, positive outcome. The outcome data must be compelling and easy to grasp.",
+    "minimum_data_points": "2-3 examples to establish a pattern of innovation and problem-solving.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When proving that R&D investments are creating tangible customer value.",
+     "To translate complex technical features into simple business benefits (faster, cheaper, better).",
+     "To establish technical superiority and thought leadership in a specific domain.",
+     "When justifying a premium price by demonstrating a clear and superior ROI.",
+     "To differentiate from competitors by showcasing unique, effective solutions.",
+     "In a product-focused section of a pitch to prove product-market fit with hard data."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When your product's benefits are primarily qualitative and lack hard numbers.",
+     "If your improvements are only marginal and not compelling enough to highlight.",
+     "When you cannot directly link a specific feature to solving a specific, recognized problem."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Innovation & Technical Moat",
+   "position": "middle",
+   "title": "Enterprise AI Thought Leader"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s026",
+   "schema": "rich",
+   "core_message": "We are not just a participant in our industry; we are a leader that actively shapes its direction by contributing to, influencing, and convening the community around key open standards.",
+   "intents": [],
+   "shows": {
+    "visual_type": "bullet_points_with_icons",
+    "specific_content": "A slide titled 'Shaping the Industry' lists three key activities related to the 'Iceberg' open standard. The activities are presented in stacked boxes with icons: 'Iceberg Contributors', 'Iceberg Proposals', and 'Hosted Iceberg Summit'.",
+    "data_points_shown": "This slide presents qualitative proof points, not quantitative data. The points are: being contributors, making proposals, and hosting a summit for the Iceberg community."
+   },
+   "abstract_pattern": "Any company can use this pattern to demonstrate its leadership and influence over an external ecosystem, standard, or community. It presents a list of qualitative 'proof points' to build a case for being a central, indispensable player. The pattern often shows an escalating level of involvement, moving from simple participation (e.g., contributing) to active influence (e.g., proposing changes) and finally to a position of authority (e.g., hosting or leading). This establishes a non-obvious moat based on strategic influence rather than just product features.",
+   "keywords": [
+    "industry_leadership",
+    "ecosystem_influence",
+    "thought_leadership",
+    "shaping_the_market",
+    "open_source_contribution",
+    "standard_setting",
+    "community_building",
+    "qualitative_proof",
+    "category_creation",
+    "competitive_moat",
+    "strategic_influence"
+   ],
+   "works_for": [
+    "We are defining the future of decentralized identity by leading the W3C working group.",
+    "Our company is at the heart of the AI safety conversation, chairing key ethics committees.",
+    "We are the #1 contributor to the open-source framework that powers our entire industry.",
+    "We created and now host the largest annual conference for mobile developers.",
+    "Our research papers are the most cited in the field of quantum computing.",
+    "We are driving the adoption of the new industry-wide data protocol we helped create.",
+    "Our executives are consistently invited as keynotes for major industry events.",
+    "We are setting the standard for sustainable manufacturing in our sector."
+   ],
+   "variable_elements": {
+    "primary_metric": "Qualitative proof points of influence (e.g., contributions, proposals, events, leadership roles).",
+    "secondary_metric": null,
+    "time_dimension": "Implicit progression of influence (e.g., from participation to leadership).",
+    "comparison_basis": "Implicitly positions the company as a leader relative to others in the industry."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Evidence of significant contributions to an industry standard, open-source project, or community",
+     "Proof of leadership roles (e.g., hosting events, chairing committees, authoring key proposals)"
+    ],
+    "data_shape_needed": "needs a list of 2-4 distinct, escalating examples of influence or contribution",
+    "minimum_data_points": "3+ examples of contribution/leadership",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to establish your company as a thought leader, not just a product vendor.",
+     "To demonstrate a non-obvious competitive moat built on ecosystem influence.",
+     "When justifying your strategic importance to the broader industry.",
+     "To build trust with a technical or developer-focused audience by showing commitment to open standards.",
+     "When you are trying to create or define a new market category.",
+     "To show you are a good citizen in an open-source community."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If your contributions are minor or on par with many competitors.",
+     "When your audience is purely focused on financial metrics or product features.",
+     "If you are an early-stage company that hasn't yet established a significant industry presence."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Market Leadership & Competitive Moat",
+   "position": "middle",
+   "title": "Shaping the Industry"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s027",
+   "schema": "rich",
+   "core_message": "Our platform is comprehensive, unifying previously separate data workloads (Analytical, Transactional, and Hybrid) into a single, powerful solution.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "Three blue circles with icons, each representing a type of data workload. The labels are 'Analytical' (with a data cube icon), 'Hybrid' (with a fast-moving table icon), and 'Transactional' (with a database cylinder icon with up/down arrows).",
+    "data_points_shown": "No quantitative data is shown. The slide presents three qualitative categories: Analytical, Hybrid, and Transactional."
+   },
+   "abstract_pattern": "This pattern uses three distinct, equally-weighted visual elements to categorize a domain, market, or product's capabilities. It establishes a simple framework for understanding a complex space by breaking it down into its core components. Any company can use this to introduce the key pillars of their strategy, the primary use cases for their product, or the main segments of the market they address. The goal is to simplify a topic and position the company's solution as comprehensive across these established categories.",
+   "keywords": [
+    "three_pillars",
+    "product_capabilities",
+    "market_segmentation",
+    "framework_introduction",
+    "use_case_overview",
+    "platform_breadth",
+    "comprehensive_solution",
+    "holistic_approach",
+    "categorization",
+    "conceptual_framework",
+    "unified_platform"
+   ],
+   "works_for": [
+    "Our security platform covers prevention, detection, and response.",
+    "We serve three core customer segments: small businesses, mid-market, and enterprise.",
+    "Our marketing automation tool drives acquisition, engagement, and retention.",
+    "Our investment strategy is balanced across growth, value, and income assets.",
+    "We enable development for web, mobile, and desktop from a single codebase.",
+    "Our AI model handles text, image, and audio inputs.",
+    "Our business operates on three principles: speed, quality, and cost-efficiency."
+   ],
+   "variable_elements": {
+    "primary_metric": "Categories of capability, strategy, or market segments",
+    "secondary_metric": null,
+    "time_dimension": null,
+    "comparison_basis": "Implicitly, a unified offering vs. a fragmented market of point solutions."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear, accepted categorization of the market, product capabilities, or customer use cases into (typically three) distinct pillars."
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3 distinct categories",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the core pillars of your product strategy.",
+     "Explaining the breadth of your platform's capabilities in a simple way.",
+     "Segmenting a complex market to show how you address each part.",
+     "Setting up a narrative about how you unify previously separate functions.",
+     "Defining the key use cases your product solves for customers.",
+     "Visually representing the core values or principles of your company."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show quantitative data, trends, or performance.",
+     "When your product or strategy is focused on a single, narrow function.",
+     "When the categories are not well-defined or easily understood by the audience."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Capabilities Framework",
+   "position": "Early Middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s028",
+   "schema": "rich",
+   "core_message": "Our single, unified platform supports the entire modern data stack, covering all key workloads from data engineering and analytics to AI and application development.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A diagram showing a foundational 'Platform' layer supporting four vertical pillars. The pillars are labeled 'Data Engineering', 'Analytics', 'AI', and 'Applications & Collaboration', each with a specific product name (OpenFlow, AI SQL, Snowflake Intelligence, AI Ready Data) and a corresponding icon.",
+    "data_points_shown": "No quantitative data. Shows product categories and specific feature/product names: Platform (Adaptive), Data Engineering (OpenFlow), Analytics (AI SQL), AI (Snowflake Intelligence), Applications & Collaboration (AI Ready Data)."
+   },
+   "abstract_pattern": "Any company can use this 'pillars on a foundation' pattern to illustrate how a single, core technology or service enables a wide range of distinct but related capabilities or product offerings. It visually communicates breadth, integration, and the idea that the whole is greater than the sum of its parts. This framework is used to position a product as a comprehensive, unified solution rather than a collection of point tools, showing how different use cases are all supported by a common, powerful core.",
+   "keywords": [
+    "platform_strategy",
+    "unified_architecture",
+    "product_pillars",
+    "ecosystem_view",
+    "comprehensive_solution",
+    "foundational_layer",
+    "integrated_platform",
+    "breadth_of_offering",
+    "use_case_coverage",
+    "platform_moat",
+    "one-stop-shop",
+    "product_suite"
+   ],
+   "works_for": [
+    "Our marketing cloud provides a single solution for email, social, advertising, and analytics.",
+    "Our operating system powers everything from mobile to desktop to cloud services.",
+    "Our financial platform supports consumer banking, investing, lending, and business services.",
+    "Our design suite covers vector graphics, photo editing, UI/UX design, and video production.",
+    "Our logistics network handles everything from first-mile pickup to last-mile delivery.",
+    "Our single API gives you access to payments, identity verification, and fraud prevention.",
+    "Our security platform provides endpoint, network, and cloud protection from a single console."
+   ],
+   "variable_elements": {
+    "primary_metric": "Product/Capability Pillars",
+    "secondary_metric": "Foundational Layer/Technology",
+    "time_dimension": null,
+    "comparison_basis": "Internal components of a single platform"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined set of 3-5 major product categories or key use cases",
+     "A core technology, brand, or platform concept that unifies them"
+    ],
+    "data_shape_needed": "needs multiple categories that can be logically grouped as pillars on a foundation",
+    "minimum_data_points": "3+ product pillars/categories",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining your product architecture to strategic or technical audiences.",
+     "Pivoting the company narrative from a single product to a multi-product platform.",
+     "Showing how different features or business lines are interconnected and synergistic.",
+     "Justifying a higher price point by demonstrating comprehensive value.",
+     "Arguing against point solutions by showing an integrated alternative.",
+     "Introducing a new, unifying layer to your existing product suite."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product is a single-feature point solution.",
+     "Your different products are not actually integrated and are just a bundle.",
+     "You are pitching a very early-stage idea that hasn't been built yet."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Overview",
+   "position": "Beginning-to-Middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s029",
+   "schema": "rich",
+   "core_message": "We have a robust innovation pipeline that systematically turns new products into adopted features, creating multiple, predictable drivers for future growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "comparison_table",
+    "specific_content": "A matrix scorecard tracking eight Snowflake products/features (Snowpark, Cortex AI, Unistore, etc.) across three maturity stages: 'General Availability', 'Adoption', and 'Anticipated FY25 Growth Contribution'. Green checkmarks and circles indicate which stage each product has successfully reached.",
+    "data_points_shown": "Status (achieved/not achieved) for 8 products across 3 stages. Key achievements shown: Snowpark, Unstructured Data, and Streamlit have reached >10% customer adoption. Snowpark and Unstructured Data are anticipated to contribute to FY25 growth."
+   },
+   "abstract_pattern": "This slide pattern visualizes a company's innovation pipeline or product portfolio maturity. It uses a matrix to track multiple initiatives (products, features, or projects) as they progress through a defined set of lifecycle stages, such as launch, adoption, and monetization. This framework allows a company to demonstrate a healthy and balanced portfolio, showing which initiatives are established, which are gaining traction, and which represent future opportunities. It's a powerful way to prove a systematic approach to growth and de-risk future revenue by showing it's not dependent on a single bet.",
+   "keywords": [
+    "product_maturity_lifecycle",
+    "innovation_pipeline",
+    "growth_drivers",
+    "product_portfolio_status",
+    "feature_adoption_funnel",
+    "roadmap_to_revenue",
+    "platform_expansion",
+    "new_product_traction",
+    "future_growth_story",
+    "de-risking_future_revenue",
+    "multi-product_strategy",
+    "value_creation_pathway"
+   ],
+   "works_for": [
+    "Our platform strategy is working, with new modules being adopted and monetized by our customer base.",
+    "We have a clear pipeline of new drugs, with several moving from clinical trials to market launch.",
+    "Our investments in R&D are paying off, with a clear path from innovation to commercial success.",
+    "Our expansion into new markets is progressing, with early regions already contributing to profit.",
+    "We are successfully incubating and scaling new business lines to diversify our revenue streams.",
+    "Our new AI features are moving from launch to adoption and will soon be major revenue contributors.",
+    "This shows our engine for growth: we consistently launch, validate, and scale new value for customers."
+   ],
+   "variable_elements": {
+    "primary_metric": "The products, features, or initiatives being tracked.",
+    "secondary_metric": "The defined stages of maturity or progression (e.g., Launch, Adoption, Monetization).",
+    "time_dimension": "A point-in-time snapshot showing progress through stages.",
+    "comparison_basis": "Comparison of multiple internal initiatives against a standardized maturity framework."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of distinct products, features, or strategic initiatives.",
+     "A defined set of 3-4 maturity stages.",
+     "A quantifiable definition for achieving each stage (e.g., 'Adoption' = >10% of users).",
+     "Status data for each initiative against each stage."
+    ],
+    "data_shape_needed": "multiple_categories with a point-in-time snapshot status, showing a distribution of items across different stages to illustrate a healthy pipeline.",
+    "minimum_data_points": "3+ products/initiatives and 3+ maturity stages.",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When proving that R&D investment is translating into future growth opportunities.",
+     "When shifting the narrative from a single-product company to a multi-product platform company.",
+     "In an investor day or board meeting to showcase the health of the product pipeline.",
+     "To de-risk the company's future by showing multiple 'shots on goal' for growth.",
+     "To explain a long-term growth strategy based on continuous innovation and adoption.",
+     "When justifying future investment by showing a track record of moving products from launch to impact."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You only have one primary product or feature.",
+     "Your new initiatives have failed to gain any meaningful adoption.",
+     "You cannot create clear, quantifiable definitions for the maturity stages."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Strategy & Roadmap",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s030",
+   "schema": "rich",
+   "core_message": "We have a robust pipeline of new products moving through a maturity lifecycle, with several key initiatives now poised to become our next major drivers of company growth.",
+   "intents": [],
+   "shows": {
+    "visual_type": "maturity_matrix",
+    "specific_content": "A matrix chart showing a portfolio of eight products/features (Snowpark, Cortex AI, etc.) as columns, and three stages of maturity as rows: 'General Availability', 'Adoption', and 'Anticipated FY25 Growth Contribution'. Icons (checkmarks and colored dots) indicate the status of each product at each stage, with a blue box highlighting the three products expected to contribute to growth in the next fiscal year.",
+    "data_points_shown": "Products: Snowpark, Cortex AI, Unstructured Data, Iceberg Tables, Native Apps, Snowpark Containers, Streamlit, Unistore. Stages: General Availability (most are checked), Adoption (>10% customer use), Anticipated Growth Contribution. Highlights Snowpark, Cortex AI, and Unstructured Data as future growth drivers."
+   },
+   "abstract_pattern": "Any company can use this pattern to showcase a portfolio of initiatives (like products, features, or market entries) progressing through a defined lifecycle. It visually maps each initiative's current stage, from initial launch to adoption and finally to significant business impact (e.g., revenue contribution). This framework effectively communicates a 'pipeline of value,' demonstrating to stakeholders that the company has a systematic process for innovation and that future growth is supported by tangible assets that are already maturing.",
+   "keywords": [
+    "product_lifecycle",
+    "maturity_model",
+    "growth_pipeline",
+    "innovation_roadmap",
+    "portfolio_status",
+    "future_growth_drivers",
+    "product_adoption_funnel",
+    "phased_rollout",
+    "value_creation_pipeline",
+    "strategic_initiatives_scorecard",
+    "product_maturity",
+    "roadmap_to_revenue"
+   ],
+   "works_for": [
+    "Our new drug candidates are progressing through clinical trials, with several poised to enter Phase 3.",
+    "We are successfully expanding into new geographic markets, with Europe now showing early traction and Asia targeted for next year's growth.",
+    "Our new AI features are moving from beta to general availability and are already showing strong early adoption.",
+    "Our investments in new business lines are maturing, with two set to become profitable next fiscal year.",
+    "We have a clear pipeline for monetizing our user base, moving from engagement features to direct revenue products.",
+    "Our platform modules are gaining traction, with several now ready to be monetized as standalone offerings.",
+    "Our sustainability initiatives are moving from pilot to full-scale implementation, with three projects set to significantly reduce our carbon footprint next year."
+   ],
+   "variable_elements": {
+    "primary_metric": "The initiatives being tracked (e.g., Products, Features, R&D Projects, Market Segments)",
+    "secondary_metric": "The stages of the maturity lifecycle (e.g., R&D -> GA -> Adoption -> Monetization)",
+    "time_dimension": "Progression through a series of discrete maturity stages",
+    "comparison_basis": "Comparison of multiple initiatives against a standardized lifecycle framework"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of distinct products, features, or strategic initiatives",
+     "A defined, multi-stage lifecycle or maturity model (e.g., 3-5 stages)",
+     "Status data for each initiative against each stage of the lifecycle"
+    ],
+    "data_shape_needed": "needs multiple categories with varied progress across a standardized set of stages, showing a 'pipeline' effect",
+    "minimum_data_points": "3+ initiatives and 3+ lifecycle stages",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When explaining your long-term growth strategy to investors.",
+     "To prove that future revenue forecasts are backed by a solid product pipeline.",
+     "When transitioning the company narrative from a single-product to a multi-product platform.",
+     "To justify R&D spending by showing the path from investment to revenue contribution.",
+     "To demonstrate a systematic approach to innovation and market expansion.",
+     "In an investor day or board meeting to give a high-level status of strategic priorities."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "If you only have one core product or initiative.",
+     "If your new products are failing to gain adoption, as the chart would look sparse and negative.",
+     "If you lack a clear, repeatable process for product development and rollout."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Strategy & Growth Drivers",
+   "position": "middle",
+   "title": "Product Maturity and Growth Contribution Scorecard"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s031",
+   "schema": "rich",
+   "core_message": "Our future growth is not abstract; it will be driven by a specific, focused set of new products and platform capabilities.",
+   "intents": [],
+   "shows": {
+    "visual_type": "labeled_list_with_icons",
+    "specific_content": "A title 'FY25 Growth Contribution' followed by a vertical list of four product/feature names: Snowpark, Cortex, Dynamic Tables, and Iceberg Tables. Each item is paired with an icon inside a segmented vertical graphic with upward-pointing chevrons.",
+    "data_points_shown": "The names of four specific products/features that are expected to contribute to growth in Fiscal Year 2025."
+   },
+   "abstract_pattern": "Any company can use this pattern to articulate the primary drivers of its future success. It deconstructs a high-level, forward-looking goal (like 'growth' or 'profitability') into a short, digestible list of specific initiatives, products, or strategic pillars. This communicates a clear plan and focus, assuring the audience that future success is based on concrete, named initiatives rather than abstract hopes. It answers the question 'What, specifically, will get you there?'",
+   "keywords": [
+    "growth_drivers",
+    "strategic_pillars",
+    "future_outlook",
+    "product_led_growth",
+    "sources_of_value",
+    "innovation_roadmap",
+    "growth_strategy",
+    "key_initiatives",
+    "forward_looking_statement",
+    "value_creation_plan",
+    "growth_levers"
+   ],
+   "works_for": [
+    "Our path to profitability is focused on these three key operational improvements.",
+    "Our expansion into the enterprise market will be led by these four new product modules.",
+    "We will capture the SMB market through these three specific go-to-market strategies.",
+    "Our next 10 million users will come from these specific international markets.",
+    "The key drivers of our platform's network effect are these three user activities.",
+    "Our sustainability goals will be met through these four key supply chain initiatives.",
+    "We are building our competitive moat by investing in these three core technologies."
+   ],
+   "variable_elements": {
+    "primary_metric": "A future-oriented goal (e.g., Growth, Profitability, Market Share)",
+    "secondary_metric": "The specific initiatives or products driving the goal",
+    "time_dimension": "A future time period (e.g., next fiscal year, next 18 months)",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined corporate strategy for the future",
+     "A prioritized list of 3-5 key products, features, or initiatives that support the strategy"
+    ],
+    "data_shape_needed": "a_short_qualitative_list",
+    "minimum_data_points": "3-5 key drivers/pillars",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "When you need to answer the question 'Where will future growth come from?'",
+     "To build investor confidence by showing a clear, focused plan for growth.",
+     "To highlight the strategic importance of recent or upcoming product launches.",
+     "As an agenda slide for a deep-dive section on new strategic initiatives.",
+     "To transition from discussing past performance to outlining future strategy.",
+     "When you want to signal a focus on innovation as a driver of value."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show a quantitative breakdown of growth sources (this slide is qualitative).",
+     "When you don't have a clear, defensible story for your next growth drivers.",
+     "For very early-stage companies where the only growth driver is the core product."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Future Growth Strategy",
+   "position": "Middle",
+   "title": "FY25 Growth Contribution"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s032",
+   "schema": "rich",
+   "core_message": "The modern data landscape is a complex and fragmented collection of disparate tools, technologies, and processes that are difficult to manage.",
+   "intents": [],
+   "shows": {
+    "visual_type": "icon_cloud",
+    "specific_content": "A scattered collection of approximately 18 blue line-art icons on a plain white background. The icons represent various concepts in the data and analytics space, such as databases (SQL, secure, shared), data pipelines, analytics, machine learning, and data processing.",
+    "data_points_shown": "None. This is a purely conceptual slide using icons to represent components of an ecosystem."
+   },
+   "abstract_pattern": "This pattern visually represents a complex, fragmented, or chaotic ecosystem by displaying a scattered collection of icons, each representing a distinct component, tool, or step in a process. It serves as a 'before' picture to establish the problem of disorganization, complexity, or lack of integration. Any company can use this to introduce the convoluted market or workflow that their product simplifies, unifies, or replaces, setting the stage for their solution.",
+   "keywords": [
+    "fragmented_landscape",
+    "ecosystem_complexity",
+    "problem_setup",
+    "before_state",
+    "disparate_tools",
+    "component_view",
+    "market_chaos",
+    "workflow_inefficiency",
+    "point_solution_overload",
+    "setting_the_stage",
+    "unstructured_environment"
+   ],
+   "works_for": [
+    "The marketing technology landscape is a confusing mess of point solutions.",
+    "Managing a modern software development lifecycle involves juggling dozens of separate tools.",
+    "The patient journey is broken, with dozens of uncoordinated touchpoints and data silos.",
+    "Small businesses are overwhelmed by the number of financial apps they need to run their operations.",
+    "The modern supply chain is a black box of disconnected systems and manual processes.",
+    "Navigating corporate compliance requires interacting with numerous disconnected agencies and regulations.",
+    "Building a single customer view is impossible with today's siloed departmental software."
+   ],
+   "variable_elements": {
+    "primary_metric": "N/A - Conceptual representation of components",
+    "secondary_metric": null,
+    "time_dimension": "Static snapshot of a state",
+    "comparison_basis": "Implicitly, this 'fragmented state' is the basis for comparison against a future 'unified state' slide."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A conceptual understanding of the components of the ecosystem or workflow being depicted.",
+     "A set of icons to represent these components."
+    ],
+    "data_shape_needed": "N/A - This is a conceptual slide, not data-driven. It requires a collection of distinct concepts to visualize.",
+    "minimum_data_points": "10-20 icons to effectively convey complexity and fragmentation.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the problem of a fragmented market that your platform unifies.",
+     "As a section divider for the 'Problem' or 'Market Landscape' part of a pitch deck.",
+     "Visually representing the complexity that your solution simplifies.",
+     "Setting up a 'before and after' comparison to highlight your value proposition.",
+     "As a title or transition slide to frame the subsequent discussion.",
+     "When you want to make the audience feel the pain of the status quo."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to present quantitative data or specific metrics.",
+     "When your value proposition is not about simplification, integration, or unification.",
+     "In the middle of a deep-dive on financials or performance metrics."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Problem Statement: The Fragmented Data Ecosystem",
+   "position": "beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s033",
+   "schema": "rich",
+   "core_message": "Our single, unified platform comprehensively covers all major data workloads, from data engineering and analytics to AI and application development, making us an end-to-end solution.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A diagram showing a foundational 'Platform' layer that supports four vertical pillars: 'Data Engineering', 'Analytics', 'AI', and 'Applications & Collaboration'. Each pillar contains multiple icons with labels representing specific product features or capabilities within that category.",
+    "data_points_shown": "This is a qualitative slide showing product capabilities, not quantitative data. It lists features like: Data Engineering (Snowpark, Streaming), Analytics (Data Warehouse, AI SQL), AI (Snowflake Cortex, Snowpark Containers), and Applications & Collaboration (Data Sharing, Native Apps, Data Clean Rooms)."
+   },
+   "abstract_pattern": "Any company can use this pattern to visually represent their product as a comprehensive, integrated platform. It works by establishing a foundational element (the 'platform') and then building distinct pillars or categories of capabilities on top. This structure communicates that the company offers a complete, end-to-end solution, not just a point product. It's effective for showcasing the breadth of an offering and implying that all components work together seamlessly, creating a value greater than the sum of its parts.",
+   "keywords": [
+    "platform_breadth",
+    "ecosystem_slide",
+    "product_architecture",
+    "feature_showcase",
+    "all-in-one_solution",
+    "integrated_platform",
+    "end-to-end_capabilities",
+    "product_pillars",
+    "unified_offering",
+    "solution_stack",
+    "capability_map"
+   ],
+   "works_for": [
+    "Our marketing cloud handles everything from acquisition to retention.",
+    "We provide a complete HR suite for the entire employee lifecycle.",
+    "Our security platform protects every layer of the enterprise stack.",
+    "We are the operating system for modern restaurants, covering front and back of house.",
+    "Our developer platform covers the full software development lifecycle.",
+    "Our financial services suite addresses all needs from banking to wealth management.",
+    "We offer a complete solution for e-commerce, from storefront to fulfillment."
+   ],
+   "variable_elements": {
+    "primary_metric": "Product/Service Categories (the pillars)",
+    "secondary_metric": "Specific features or modules within each category",
+    "time_dimension": null,
+    "comparison_basis": "Implicitly, vs. fragmented point solutions"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear categorization of product features or services into 3-5 pillars",
+     "A list of specific features/products for each category",
+     "A unifying concept or 'platform' that ties them all together"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3-4 categories, with 2-6 features per category",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining a complex, multi-faceted product in a simple, organized way.",
+     "Arguing against a fragmented market of point solutions by showing an integrated alternative.",
+     "Showing how a company has expanded from a point solution to a full platform.",
+     "Setting the stage at the beginning of a product-focused presentation.",
+     "Visually demonstrating a competitive moat built on product breadth and integration.",
+     "Justifying a higher price point by showcasing comprehensive value."
+    ],
+    "company_stage_fit": [
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your product is a single-feature point solution.",
+     "You need to show growth metrics, financial performance, or user data.",
+     "Your product components are not well-integrated and don't truly form a platform."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 5,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Architecture / Platform Overview",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s034",
+   "schema": "rich",
+   "core_message": "Our single, unified platform supports a comprehensive set of critical data workloads, from data engineering and analytics to AI and application development.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A diagram showing four key workloads (Data Engineering, Analytics, AI, Applications & Collaboration) as distinct blocks resting on a single, foundational 'Platform' layer. Each workload block has a corresponding icon.",
+    "data_points_shown": "None. This is a conceptual diagram with labels and icons, not a data visualization."
+   },
+   "abstract_pattern": "This pattern visualizes a 'one-to-many' relationship, where a single foundational element (the platform) supports multiple distinct capabilities, products, or use cases. It's used to communicate the breadth, comprehensiveness, and unified nature of an offering. Any company can use this to shift the narrative from being a single-point solution to a comprehensive platform, highlighting how their core technology enables a wide range of value-added services or applications.",
+   "keywords": [
+    "platform_architecture",
+    "unified_platform",
+    "product_ecosystem",
+    "core_and_satellite",
+    "foundational_layer",
+    "breadth_of_offering",
+    "comprehensive_solution",
+    "one-to-many_value",
+    "platform_strategy",
+    "use_case_coverage",
+    "integrated_system"
+   ],
+   "works_for": [
+    "Our OS powers a full suite of productivity applications.",
+    "Our logistics network enables services from e-commerce fulfillment to grocery delivery.",
+    "Our core financial infrastructure supports payments, lending, and investment products.",
+    "Our marketing automation engine powers email, social, and advertising campaigns.",
+    "Our single API gives developers access to multiple distinct data sources.",
+    "Our design platform supports everything from social media graphics to video editing.",
+    "Our core machine learning model is the foundation for our translation, summarization, and content generation features."
+   ],
+   "variable_elements": {
+    "primary_metric": "Foundational Platform/Technology",
+    "secondary_metric": "Supported Products/Use Cases/Workloads",
+    "time_dimension": "None, it's a static architectural view.",
+    "comparison_basis": "Implicitly compares a unified platform against a collection of disparate point solutions."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of the core platform/technology",
+     "A list of 3-5 distinct products, features, or use cases that are built on that platform"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "1 platform and 3+ capabilities/products",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining your product architecture to investors or customers.",
+     "Shifting perception from a point solution to a comprehensive platform.",
+     "Justifying a higher valuation based on platform potential and network effects.",
+     "Introducing the different product pillars or business units of your company.",
+     "Setting the context for a presentation before diving into specific product features."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You are truly a single-purpose point solution with no platform ambitions.",
+     "Your products are not integrated and don't share a common foundation.",
+     "The audience already has a deep understanding of your product architecture."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Platform Architecture",
+   "position": "Beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s035",
+   "schema": "rich",
+   "core_message": "Our product is a single, unified platform that consolidates multiple critical data workloads (from engineering to AI) and is built on a foundation of enterprise-grade features like security and cross-cloud compatibility.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A central title 'AI DATA CLOUD' with a subtitle 'Unified Platform and Connected Ecosystem'. Below this are four boxes representing key workloads: Data Engineering, Analytics, AI, and Applications & Collaboration. A banner at the bottom lists five platform attributes: Fully Managed, Cross-Cloud, Interoperable, Secure, and Governed.",
+    "data_points_shown": "No quantitative data. Shows qualitative categories: 4 product pillars (Data Engineering, Analytics, AI, Applications & Collaboration) and 5 platform attributes (Fully Managed, Cross-Cloud, Interoperable, Secure, Governed)."
+   },
+   "abstract_pattern": "Any company can use this pattern to introduce their core product or platform by defining it with a central, aspirational name. The pattern then breaks down the platform into 3-5 key functional pillars or customer use cases, demonstrating its breadth and comprehensiveness. Finally, it lists a set of foundational, cross-cutting attributes or benefits that underpin the entire offering, establishing its core value proposition and quality.",
+   "keywords": [
+    "platform_overview",
+    "product_pillars",
+    "unified_platform",
+    "feature_breakdown",
+    "core_capabilities",
+    "value_proposition_framework",
+    "all-in-one_solution",
+    "ecosystem_view",
+    "product_architecture",
+    "foundational_attributes",
+    "holistic_offering"
+   ],
+   "works_for": [
+    "Our marketing cloud is a unified suite for acquisition, engagement, and analytics.",
+    "Our developer platform handles the entire software lifecycle: build, test, deploy, and monitor.",
+    "Our financial OS integrates payments, banking, accounting, and forecasting into one system.",
+    "Our HR platform combines recruiting, onboarding, payroll, and performance management.",
+    "Our security suite provides end-to-end protection: endpoint, network, cloud, and identity.",
+    "Our creative suite covers everything from photo editing and video production to graphic design.",
+    "We offer a complete commerce solution, from storefront and payments to fulfillment and marketing."
+   ],
+   "variable_elements": {
+    "primary_metric": "Product/Platform Pillars (Categories of functionality)",
+    "secondary_metric": "Foundational Attributes (Cross-cutting benefits)",
+    "time_dimension": "Not applicable (snapshot in time)",
+    "comparison_basis": "Implicitly, vs. a fragmented market of point solutions"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A clear definition of the product/platform",
+     "3-5 distinct product pillars or core use cases",
+     "A list of foundational, cross-cutting benefits or features"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "3-4 product pillars and 3-5 foundational attributes",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing your company's core product for the first time.",
+     "Explaining how multiple products or features form a single, cohesive platform.",
+     "Arguing that your all-in-one solution is superior to using multiple point solutions.",
+     "Setting the stage at the beginning of a product-focused presentation.",
+     "Visually representing your product strategy and scope.",
+     "Defining your company's category or market positioning."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You are a single-feature product with no platform story.",
+     "The goal of the slide is to show growth, performance, or financial metrics.",
+     "Your product components are not integrated and don't share common attributes."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Product Overview",
+   "position": "Beginning",
+   "title": "AI DATA CLOUD"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s036",
+   "schema": "rich",
+   "core_message": "This slide introduces the next speaker, Mike Gannon, and serves as a transition point in the presentation.",
+   "intents": [],
+   "shows": {
+    "visual_type": "speaker_introduction_slide",
+    "specific_content": "The name 'MIKE GANNON' is displayed in large, white, sans-serif font. The background is a stylized photograph of snowy mountains under a night sky with an aurora borealis. In the bottom right, there is an abstract graphic of blue shapes with a white line tracing an upward-trending path, resembling a stylized growth chart. The Snowflake logo and copyright information are at the bottom left.",
+    "data_points_shown": "None. The slide contains a name and decorative, branded graphics."
+   },
+   "abstract_pattern": "This pattern is used to introduce a person or a new topic, acting as a structural signpost in a presentation. It uses a full-bleed, high-quality background image, often thematically linked to the company's brand, to create a professional and polished feel. The key information, such as a speaker's name or a section title, is displayed prominently in large, clean typography. This slide type serves to manage the audience's attention, signal a transition, and lend authority to the speaker or topic being introduced.",
+   "keywords": [
+    "speaker_introduction",
+    "section_break",
+    "transition_slide",
+    "presenter_intro",
+    "establishing_authority",
+    "narrative_structure",
+    "presentation_flow",
+    "agenda_slide",
+    "branded_template",
+    "title_card"
+   ],
+   "works_for": [
+    "Introducing our next speaker, Jane Doe, Head of Product.",
+    "Now, let's dive into our Go-To-Market Strategy.",
+    "Section 3: A Deep Dive into our Technology.",
+    "And now for a customer testimonial from John Smith, CEO of Acme Corp.",
+    "Let's welcome our special guest to the stage.",
+    "Our Financials, presented by our CFO, Sarah Chen.",
+    "Topic 2: Competitive Landscape.",
+    "Q&A Session"
+   ],
+   "variable_elements": {
+    "primary_metric": "Speaker Name or Section Title",
+    "secondary_metric": "Speaker Title (optional, not shown here)",
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Speaker's name or Section title",
+     "Branded background image or template"
+    ],
+    "data_shape_needed": "Not applicable. This is a qualitative, structural slide.",
+    "minimum_data_points": "1 name or title.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing a new speaker to the audience.",
+     "Creating a clear transition between different sections of a presentation.",
+     "Establishing the credibility and importance of the person about to speak.",
+     "Providing a visual 'breather' for the audience between dense, data-heavy slides.",
+     "Reinforcing brand identity through consistent visual templates.",
+     "Signaling the start of a new agenda item."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When the presentation is very short and has only one speaker.",
+     "In a highly informal, internal working session where formal introductions are unnecessary.",
+     "When trying to convey quantitative data or a complex argument."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Speaker Introduction",
+   "position": "Middle",
+   "title": "Mike Gannon"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s037",
+   "schema": "rich",
+   "core_message": "We are the trusted platform for leading enterprises across every major industry, demonstrating our broad applicability and market leadership.",
+   "intents": [],
+   "shows": {
+    "visual_type": "logo_landscape",
+    "specific_content": "A grid of over 40 customer logos, categorized into 8 distinct industry verticals: Retail & Consumer Goods, Media & Entertainment, Financial Services, Telecommunications, Travel & Hospitality, Public Sector, Manufacturing & Industrials, and Healthcare & Life Sciences.",
+    "data_points_shown": "Logos of major companies like Instacart, PepsiCo, NBCUniversal, Snapchat, Goldman Sachs, JPMorgan Chase, AT&T, Zoom, Marriott, JetBlue, Sanofi, Pfizer, Siemens, and Honeywell."
+   },
+   "abstract_pattern": "This pattern uses a categorized logo wall to establish credibility and demonstrate broad market penetration. By grouping an impressive collection of well-known customer logos into distinct verticals or segments, a company can prove its solution is not a niche product but a horizontal platform trusted by leaders across the entire economy. This visual argument simultaneously builds trust, implies a large and diverse market opportunity, and creates a 'fear of missing out' (FOMO) for prospects in those industries.",
+   "keywords": [
+    "customer_logos",
+    "social_proof",
+    "market_leadership",
+    "industry_penetration",
+    "enterprise_credibility",
+    "logo_wall",
+    "customer_validation",
+    "broad_market_fit",
+    "category_dominance",
+    "trust_and_adoption",
+    "horizontal_platform"
+   ],
+   "works_for": [
+    "We are the go-to security solution for the Fortune 500.",
+    "Our collaboration tool is used by top universities and creative agencies alike.",
+    "Leading financial institutions and healthcare providers trust our compliance software.",
+    "We have achieved significant traction across both CPG and automotive sectors.",
+    "Our platform is the standard for modern e-commerce brands.",
+    "We are the trusted partner for governments and public sector agencies.",
+    "From startups to global enterprises, companies build on our infrastructure."
+   ],
+   "variable_elements": {
+    "primary_metric": "Customer logos (representing adoption and trust)",
+    "secondary_metric": "Industry categories (representing market breadth)",
+    "time_dimension": null,
+    "comparison_basis": "Implicitly, us vs. competitors (by showing we have the best customers)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A list of recognizable customer logos",
+     "Permission to use customer logos",
+     "A clear way to categorize customers (e.g., by industry, size, use case)"
+    ],
+    "data_shape_needed": "needs multiple categories with several strong examples in each",
+    "minimum_data_points": "At least 3-4 categories with 3+ recognizable logos each to be effective",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Establishing credibility at the beginning of a sales or investor pitch.",
+     "Proving your product has broad, horizontal appeal across different markets.",
+     "Demonstrating you've crossed the chasm from early adopters to the mainstream market.",
+     "Visually reinforcing a claim of market leadership or dominance.",
+     "Showing prospects that their respected peers are already customers.",
+     "Justifying a large Total Addressable Market (TAM) claim."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "You only have customers in one niche vertical (a simple logo list is better).",
+     "Your customers are not well-known brands (testimonials or case studies would be more effective).",
+     "You don't have permission to use the logos."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Customer Proof & Market Leadership",
+   "position": "beginning",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s038",
+   "schema": "rich",
+   "core_message": "Our platform is built on three core pillars: it is easy to use, provides a single connected ecosystem for all data, and is a trusted, secure foundation for our customers.",
+   "intents": [],
+   "shows": {
+    "visual_type": "three-pillar_value_proposition",
+    "specific_content": "A three-panel slide with the keywords 'EASY', 'CONNECTED', and 'TRUSTED' overlaid. The 'EASY' panel shows a developer tutorial on a laptop screen. The 'CONNECTED' panel shows an abstract graphic of a glowing data network. The 'TRUSTED' panel shows a smiling professional woman looking at her computer.",
+    "data_points_shown": "No quantitative data is shown. The text includes the keywords 'EASY', 'CONNECTED', 'TRUSTED' and details of a 'Snowflake in 20 Minutes' tutorial."
+   },
+   "abstract_pattern": "Any company can use this pattern to establish its core value proposition by breaking it down into three simple, memorable pillars. This 'Rule of Three' structure makes a complex product or service digestible and provides a narrative framework for the rest of the presentation. Each pillar is typically represented by a single keyword and supported by a visual metaphor (e.g., ease of use shown by a tutorial, connectivity by a network, and trust by a happy customer) to create a strong, high-level brand message.",
+   "keywords": [
+    "rule_of_three",
+    "value_proposition_pillars",
+    "conceptual_framework",
+    "brand_identity",
+    "product_philosophy",
+    "core_tenets",
+    "narrative_framing",
+    "qualitative_benefits",
+    "trust_building",
+    "platform_storytelling",
+    "memorable_structure"
+   ],
+   "works_for": [
+    "Our security product is built on Prevention, Detection, and Response.",
+    "We win because our marketplace is Liquid, Global, and Curated.",
+    "Our design philosophy is Simple, Powerful, and Elegant.",
+    "Our company culture is driven by Ownership, Transparency, and Impact.",
+    "Our AI platform delivers Speed, Accuracy, and Scalability.",
+    "Our customer promise is: Better Selection, Lower Prices, and Faster Delivery.",
+    "Our service guarantees Reliability, Security, and Performance."
+   ],
+   "variable_elements": {
+    "primary_metric": "Pillar 1 Keyword (e.g., Easy)",
+    "secondary_metric": "Pillar 2 & 3 Keywords (e.g., Connected, Trusted)",
+    "time_dimension": "Not applicable (conceptual snapshot)",
+    "comparison_basis": "Implicitly defines the company's core identity against a complex, fragmented, or untrustworthy alternative."
+   },
+   "data_requirements": {
+    "must_have": [
+     "Three core value proposition keywords",
+     "Supporting imagery or icons for each keyword"
+    ],
+    "data_shape_needed": "Needs three distinct, positive, and memorable concepts that define the product or company.",
+    "minimum_data_points": "3 pillars/keywords",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the core value proposition of your product or company at the beginning of a presentation.",
+     "Framing the narrative and providing a structure for the slides that will follow.",
+     "Distilling a complex product into three simple, memorable benefits.",
+     "Building brand identity and establishing the 'why' behind your company.",
+     "Setting a high-level, non-technical stage for a diverse audience."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show hard data or quantitative proof (this slide is the setup, not the payoff).",
+     "In the middle of a deep-dive technical or financial section.",
+     "If your value proposition cannot be credibly simplified into three distinct pillars."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Value Proposition",
+   "position": "beginning",
+   "title": "EASY CONNECTED TRUSTED"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s039",
+   "schema": "rich",
+   "core_message": "Our market leadership is built on a three-pronged strategy: a strong direct sales force, a powerful partner ecosystem, and deep technical specialization.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "Three vertical columns, each with an icon and a two-word title. The columns are 'Core Sales' (with a bar chart icon), 'Our Partners' (with a people icon), and 'Data Specialization' (with a database icon).",
+    "data_points_shown": "None. This is a conceptual slide with no quantitative data."
+   },
+   "abstract_pattern": "This pattern introduces a multi-pronged strategy or framework, typically using three pillars to structure an argument. It breaks down a complex topic (like growth, strategy, or value proposition) into distinct, digestible components. Any company can use this to set the agenda for a deeper discussion, showing that their success is not based on a single factor but on a combination of strategic pillars, such as go-to-market channels, product differentiators, and ecosystem advantages.",
+   "keywords": [
+    "three_pillars",
+    "strategic_framework",
+    "growth_drivers",
+    "value_proposition_components",
+    "go-to-market_strategy",
+    "multi-pronged_approach",
+    "agenda_setting",
+    "structuring_the_argument",
+    "business_model_breakdown",
+    "key_differentiators",
+    "pillars_of_success"
+   ],
+   "works_for": [
+    "Our product's value is built on three pillars: performance, security, and ease of use.",
+    "We win through a combination of superior technology, a world-class team, and a unique distribution model.",
+    "Our path to profitability has three key levers: increasing customer LTV, decreasing CAC, and expanding into new markets.",
+    "Our platform creates a moat through network effects, proprietary data, and high switching costs.",
+    "We will achieve our goals by focusing on these three priorities: product innovation, international expansion, and enterprise sales.",
+    "Our AI model's superiority comes from our unique data, novel architecture, and efficient training methods.",
+    "Our customer acquisition strategy relies on content marketing, paid search, and community building."
+   ],
+   "variable_elements": {
+    "primary_metric": "Pillar 1 / First component of a strategy (e.g., Sales, Product, Technology)",
+    "secondary_metric": "Pillar 2 & 3 / Subsequent components (e.g., Partners, Team, Data)",
+    "time_dimension": "None. It's a static framework.",
+    "comparison_basis": "Internal components of a single strategy or concept."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined strategy or framework with 2-4 key pillars or components.",
+     "Clear, concise labels for each pillar."
+    ],
+    "data_shape_needed": "needs_multiple_categories",
+    "minimum_data_points": "2-4 pillars/categories",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the key drivers of your company's success or strategy.",
+     "Structuring the middle section of a presentation before diving into details on each point.",
+     "Explaining a multi-faceted value proposition or business model.",
+     "Breaking down a complex concept into simple, memorable pillars.",
+     "As an agenda slide for an upcoming section of the presentation.",
+     "Summarizing the core components of your competitive advantage."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show quantitative data, trends, or comparisons.",
+     "When your story is about a single, linear progression rather than multiple components.",
+     "When you don't have a clear, structured strategy to communicate."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Go-to-Market Strategy & Growth Pillars",
+   "position": "middle",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s040",
+   "schema": "rich",
+   "core_message": "Our company operates on two fundamental values: putting the customer first and taking accountability for our actions and results.",
+   "intents": [],
+   "shows": {
+    "visual_type": "icon_and_text_blocks",
+    "specific_content": "Two large blue rounded squares are shown side-by-side. The left block contains a crown icon and the text 'Customer First'. The right block contains an icon of a hand raised in a pledge and the text 'Accountability'.",
+    "data_points_shown": "No quantitative data is shown. The slide presents two qualitative company values: 'Customer First' and 'Accountability'."
+   },
+   "abstract_pattern": "Any company can use this pattern to visually represent its core values, mission pillars, or guiding principles. It uses simple icons and keywords in distinct blocks to communicate the foundational beliefs that drive the company's culture and decision-making. This format is effective for establishing a company's character and building trust with an audience (investors, customers, employees) by clearly stating what the organization stands for.",
+   "keywords": [
+    "core_values",
+    "guiding_principles",
+    "company_culture",
+    "mission_statement",
+    "brand_pillars",
+    "establishing_trust",
+    "corporate_ethos",
+    "foundational_beliefs",
+    "organizational_identity",
+    "company_mission",
+    "cultural_tenets"
+   ],
+   "works_for": [
+    "Our three pillars are Innovation, Integrity, and Impact.",
+    "We are driven by a commitment to Sustainability and Community.",
+    "Our success is built on Speed and Simplicity.",
+    "We believe in Radical Transparency and Extreme Ownership.",
+    "Our guiding principles are to Think Big and Be Bold.",
+    "Everything we do is centered on Trust and Safety.",
+    "Our operating model is based on two things: Move Fast and Be Customer-Obsessed."
+   ],
+   "variable_elements": {
+    "primary_metric": "Core Value / Principle 1",
+    "secondary_metric": "Core Value / Principle 2 (and so on)",
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined set of company values, principles, or mission pillars."
+    ],
+    "data_shape_needed": "a_small_set_of_distinct_concepts",
+    "minimum_data_points": "2+ core values or principles",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Introducing the company's culture in an investor pitch.",
+     "Setting the foundation for the company's mission at the beginning of a presentation.",
+     "Reinforcing brand identity in a marketing or sales deck.",
+     "Onboarding new employees to the company's ethos.",
+     "Concluding a presentation by summarizing the principles that drive success.",
+     "Explaining the 'why' behind strategic decisions."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When you need to show quantitative performance or data.",
+     "When the values are generic and don't genuinely reflect the company's actions.",
+     "In a deep-dive technical presentation focused purely on product specifications."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 2,
+    "polish_level": "highly_polished"
+   },
+   "section": "Company Culture & Values",
+   "position": "beginning_or_end",
+   "title": null
+  },
+  {
+   "id": "snowflake-investor-day-2025#s041",
+   "schema": "rich",
+   "core_message": "Our entire Go-To-Market organization is built around the customer, with specialized teams working in concert to guide them through a complete journey from awareness to long-term value and trust.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A hub-and-spoke diagram shows the customer at the center, surrounded by seven Go-To-Market functions: Sales Development, Field Sales, Solution Engineering, Support, Marketing, Professional Services, and Partners. Below this, a four-stage linear timeline represents the Customer Journey: Create Awareness, Build Trust, Deliver Results, and Grow Trust.",
+    "data_points_shown": "This is a conceptual slide. The 'data' are the names of the organizational functions (e.g., Field Sales, Marketing) and the stages of the customer journey (e.g., Create Awareness, Build Trust). No quantitative data is shown."
+   },
+   "abstract_pattern": "Any company can use this pattern to illustrate how its internal teams are organized around the customer. It visually connects different functional departments (like sales, marketing, support) to a central customer icon, demonstrating a unified, customer-centric approach. This is often paired with a linear process flow (like a customer journey or value chain) to show how this organization delivers value over time, building confidence in the company's operational maturity and focus.",
+   "keywords": [
+    "customer_centricity",
+    "go_to_market_strategy",
+    "operating_model",
+    "organizational_structure",
+    "customer_journey_mapping",
+    "hub_and_spoke_model",
+    "integrated_teams",
+    "sales_and_marketing_alignment",
+    "holistic_approach",
+    "value_delivery_process",
+    "cross_functional_collaboration"
+   ],
+   "works_for": [
+    "Our entire company is aligned to ensure customer success at every stage.",
+    "We have a comprehensive support ecosystem that guides users from onboarding to mastery.",
+    "Our developer relations, marketing, and product teams work together to build a thriving community.",
+    "Our sales process is designed to build trust and deliver tangible results, not just close deals.",
+    "We map our internal resources directly to the patient's treatment journey.",
+    "Our partner, sales, and success teams are integrated to provide a seamless enterprise experience.",
+    "Our platform strategy is supported by a dedicated organization for each stakeholder: developers, partners, and end-users."
+   ],
+   "variable_elements": {
+    "primary_metric": "Organizational Functions / Departments",
+    "secondary_metric": "Customer Journey Stages",
+    "time_dimension": "Linear process flow representing the customer lifecycle",
+    "comparison_basis": "Implicitly compares a fragmented/siloed approach to this integrated, customer-centric model."
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined set of customer-facing departments/functions",
+     "A defined model of the customer journey or lifecycle (e.g., awareness, consideration, purchase, loyalty)"
+    ],
+    "data_shape_needed": "This is a conceptual framework, not data-driven. It requires a clear articulation of the company's operating philosophy and organizational design.",
+    "minimum_data_points": "4-8 organizational functions and 3-5 stages in the customer journey",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining your Go-To-Market motion to investors or new hires.",
+     "Demonstrating a customer-centric culture and organizational design.",
+     "Showing how different teams (sales, marketing, support, services) work together cohesively.",
+     "Justifying headcount or investment in non-product functions by linking them to the customer journey.",
+     "Differentiating from competitors by highlighting a more integrated or comprehensive customer experience.",
+     "Illustrating how you manage a complex enterprise sales cycle."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your organization is actually very siloed and this would feel inauthentic.",
+     "You are at a very early stage where roles are not yet specialized.",
+     "The presentation is purely focused on product or technology, and operational structure is irrelevant."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 4,
+    "polish_level": "highly_polished"
+   },
+   "section": "Go-to-Market Strategy",
+   "position": "middle",
+   "title": "GTM Organization"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s042",
+   "schema": "rich",
+   "core_message": "Our go-to-market strategy is a sophisticated 'land and expand' model, using specialized industry and product teams to both acquire new customers and drive significant growth within our existing customer base.",
+   "intents": [],
+   "shows": {
+    "visual_type": "framework_diagram",
+    "specific_content": "A diagram showing a Go-To-Market (GTM) approach. It has two main pillars at the top: 'Acquisition' (with a building icon) and 'Expansion' (with an outward-pointing arrows icon). Below these are two horizontal bars representing supporting teams: 'Industry Specialists' and 'Product Specialists'.",
+    "data_points_shown": "No quantitative data. The slide shows four conceptual components: Acquisition, Expansion, Industry Specialists, and Product Specialists."
+   },
+   "abstract_pattern": "Any company, particularly in B2B, can use this pattern to explain their go-to-market strategy. It visually separates the growth engine into two primary motions: acquiring new customers ('land') and growing revenue from existing ones ('expand'). It then shows the underlying specialized resources (e.g., by industry, product, or customer segment) that power both motions, demonstrating a sophisticated, scalable, and defensible approach to sales and customer success.",
+   "keywords": [
+    "go_to_market_strategy",
+    "land_and_expand",
+    "customer_acquisition",
+    "account_expansion",
+    "net_dollar_retention",
+    "sales_specialization",
+    "verticalization",
+    "enterprise_sales_motion",
+    "growth_engine",
+    "scalable_sales_model",
+    "customer_lifecycle_management"
+   ],
+   "works_for": [
+    "Our sales strategy focuses on landing new enterprise clients and then expanding usage across departments.",
+    "We drive growth through a two-part model: a self-serve funnel for initial adoption and an enterprise sales team for expansion.",
+    "Our GTM is built on deep vertical expertise, allowing us to solve specific industry challenges for our customers.",
+    "We acquire customers through our core product, then upsell them on our new AI and analytics modules.",
+    "Our growth is fueled by both new logo velocity and best-in-class net revenue retention.",
+    "We have dedicated teams for acquiring SMBs and separate teams for expanding our largest global accounts.",
+    "Our sales organization is structured to support the full customer journey from initial sale to long-term partnership."
+   ],
+   "variable_elements": {
+    "primary_metric": "New customer acquisition motion ('Land')",
+    "secondary_metric": "Existing customer expansion motion ('Expand')",
+    "time_dimension": "Not applicable (structural diagram)",
+    "comparison_basis": "Not applicable (describes an internal structure)"
+   },
+   "data_requirements": {
+    "must_have": [
+     "A defined go-to-market strategy",
+     "Distinct processes or teams for new customer acquisition vs. existing customer growth",
+     "Some form of sales or support specialization (e.g., by industry, product, company size)"
+    ],
+    "data_shape_needed": "needs multiple categories",
+    "minimum_data_points": "2 primary growth motions (e.g., land, expand) and at least 1 layer of specialization",
+    "data_sophistication": "growth_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "Explaining how your company will capture a large market opportunity.",
+     "Justifying a high Net Dollar Retention (NDR) rate by showing the 'Expand' motion.",
+     "Demonstrating a sophisticated and scalable sales process to investors.",
+     "Showing how you compete in a complex market with specialized customer needs.",
+     "When your business model relies heavily on growing with your customers over time.",
+     "Detailing the structure of your enterprise sales organization."
+    ],
+    "company_stage_fit": [
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "Your business is purely transactional with no expansion revenue (e.g., one-time sales).",
+     "You have a very simple, single-channel sales model without specialization.",
+     "You are a very early-stage company still figuring out your sales motion."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Go-To-Market Strategy",
+   "position": "middle",
+   "title": "GTM Approach"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s044",
+   "schema": "rich",
+   "core_message": "The formal presentation is complete, and our core leadership team, spanning CEO, finance, product, and revenue, is now available to answer your questions.",
+   "intents": [],
+   "shows": {
+    "visual_type": "team_introduction_slide",
+    "specific_content": "A slide titled 'Q&A' featuring circular headshots, names, and titles of four company executives: Sridhar Ramaswamy (Chief Executive Officer), Mike Scarpelli (Chief Financial Officer), Christian Kleinerman (EVP, Product), and Mike Gannon (Chief Revenue Officer).",
+    "data_points_shown": "Executives and their titles: CEO, CFO, EVP Product, CRO."
+   },
+   "abstract_pattern": "This pattern is used to transition from a formal presentation to an interactive Q&A session. It introduces the key leaders who will be answering questions, typically covering the most critical functions of the business (e.g., CEO, Finance, Product, Sales/Revenue). By presenting the team, the company projects an image of transparency, expertise, and a unified leadership front, building audience confidence before they ask their questions. It signals that the company has brought its top minds to the table to provide comprehensive answers.",
+   "keywords": [
+    "q&a_session",
+    "leadership_team",
+    "executive_panel",
+    "meet_the_team",
+    "establish_credibility",
+    "audience_engagement",
+    "presentation_conclusion",
+    "speaker_introduction",
+    "transparency",
+    "expert_panel",
+    "fireside_chat"
+   ],
+   "works_for": [
+    "We are now ready to take your questions.",
+    "Meet the leadership team who will be answering your questions today.",
+    "Our executive team is here to address your inquiries on strategy, finance, and product.",
+    "Let's open it up for discussion with our key decision-makers.",
+    "To provide comprehensive answers, we've assembled our core leadership.",
+    "This concludes our prepared remarks; we will now begin the question and answer session.",
+    "Introducing our panel for today's discussion."
+   ],
+   "variable_elements": {
+    "primary_metric": "Executive Roles",
+    "secondary_metric": null,
+    "time_dimension": null,
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Headshots of speakers/executives",
+     "Full names of speakers/executives",
+     "Titles/roles of speakers/executives"
+    ],
+    "data_shape_needed": "Not applicable; requires qualitative information (people and roles), not quantitative data.",
+    "minimum_data_points": "2+ executives to form a panel.",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "At the end of any formal presentation (investor day, all-hands, webinar) to transition to Q&A.",
+     "When you want to establish the credibility and breadth of expertise of the team answering questions.",
+     "To introduce the panel of speakers for a fireside chat or discussion.",
+     "To signal transparency and a willingness to engage with the audience directly.",
+     "To put a human face on the company's leadership.",
+     "In a pitch deck to show the team that will be available for follow-up diligence."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When there is no Q&A session planned.",
+     "In the middle of a presentation's core narrative (unless it's for a planned mid-point Q&A).",
+     "If only one person is presenting and answering questions (a simple 'Q&A' title slide would suffice)."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 3,
+    "polish_level": "highly_polished"
+   },
+   "section": "Conclusion & Q&A",
+   "position": "End",
+   "title": "Q&A"
+  },
+  {
+   "id": "snowflake-investor-day-2025#s044",
+   "schema": "rich",
+   "core_message": "This concludes the presentation; thank you for your attention. The floor is now open for questions.",
+   "intents": [],
+   "shows": {
+    "visual_type": "closing_slide",
+    "specific_content": "Large white text reading 'THANK YOU' on a solid light blue background. In the bottom right corner is a stylized graphic of mountain peaks. In the bottom left is a copyright notice '© 2025 Snowflake Inc. All Rights Reserved' with the company logo.",
+    "data_points_shown": "None. This is a non-data, structural slide."
+   },
+   "abstract_pattern": "Any company can use this slide pattern to formally conclude a presentation. It serves as a clear visual cue that the main narrative is complete, expresses gratitude to the audience, and typically functions as a placeholder slide during a subsequent Q&A session. This pattern provides a clean, professional, and branded end-point, allowing the presenter to transition smoothly from monologue to dialogue.",
+   "keywords": [
+    "presentation_conclusion",
+    "thank_you_slide",
+    "q&a_slide",
+    "closing_remarks",
+    "end_of_presentation",
+    "final_slide",
+    "audience_acknowledgement",
+    "call_for_questions",
+    "presentation_ender",
+    "summary_slide"
+   ],
+   "works_for": [
+    "This concludes our overview of the investment opportunity.",
+    "We've shown you our plan, now we'd like to hear your questions.",
+    "Thank you for your time, we look forward to partnering with you.",
+    "That's our vision for the future, what questions do you have?",
+    "We appreciate you joining our webinar today.",
+    "This marks the end of our quarterly business review.",
+    "Thank you, and please visit our booth for a live demo."
+   ],
+   "variable_elements": {
+    "primary_metric": "Not applicable. The primary element is the closing text ('Thank You', 'Q&A', 'Contact Us', etc.).",
+    "secondary_metric": null,
+    "time_dimension": "Not applicable.",
+    "comparison_basis": null
+   },
+   "data_requirements": {
+    "must_have": [
+     "Company branding (logo, color palette, fonts)"
+    ],
+    "data_shape_needed": "not_applicable",
+    "minimum_data_points": "not_applicable",
+    "data_sophistication": "early_stage"
+   },
+   "use_when": {
+    "ideal_for": [
+     "To end any formal presentation professionally.",
+     "To create a clean visual placeholder during a Q&A session.",
+     "To formally thank the audience for their time and attention.",
+     "To signal the transition from presentation to discussion.",
+     "To reinforce brand identity one last time before the presentation ends."
+    ],
+    "company_stage_fit": [
+     "seed",
+     "series_a",
+     "series_b",
+     "series_c_plus",
+     "public"
+    ],
+    "avoid_when": [
+     "When the final slide needs to be a strong, specific call-to-action with contact details or next steps.",
+     "In a highly informal, conversational presentation where a formal closing is not needed.",
+     "When you want to leave a complex, data-rich summary slide on screen during Q&A."
+    ]
+   },
+   "visual_complexity": {
+    "complexity_score": 1,
+    "polish_level": "professional"
+   },
+   "section": "Conclusion & Q&A",
+   "position": "End",
+   "title": "THANK YOU"
+  }
+ ]
+}
