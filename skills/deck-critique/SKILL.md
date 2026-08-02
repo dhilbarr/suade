@@ -28,7 +28,7 @@ Resolve plugin files via `${CLAUDE_PLUGIN_ROOT}` (when running from a dev checko
 
 **6. Attach pattern analogies.** For each top fix, search the pattern corpus for how a tier-1 deck made the same move:
    - Load `${CLAUDE_PLUGIN_ROOT}/data/patterns/index.json` and/or Grep `decks/*.json` for terms from the slide's message in `works_for` and `abstract_pattern` fields (those fields were written as a semantic index — use them).
-   - Cite by record id (e.g. `snowflake-investor-day-2025#s006`) with one line: the pattern name and why it applies here.
+   - Cite by record id (e.g. `snowflake-investor-day-2025#s006`) with one line naming BOTH the pattern and its psychological mechanism, pulled from the record's `shows`/`abstract_pattern` fields ("dense logo grid — crowdedness conveyed pre-verbally"). The mechanism is what makes the citation teach rather than merely point.
    - **Verify every cited id exists in index.json.** If no genuinely relevant pattern exists, say so rather than stretching — a forced analogy is worse than none.
    - Corpus skew note: all 14 decks are public-company investor materials. For seed-stage decks, match at the `abstract_pattern` level, not section/position level.
 

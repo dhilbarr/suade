@@ -12,7 +12,7 @@ One slide per role in `strategy.ordered_slide_roles`, in order. For each slide:
 - **must_prove** — the specific assertions this slide is on the hook for.
 - **evidence_refs** — ids from `evidence.json` (`m*`, `c*`, entity ids). Evidence-requiring roles (why_now, problem, market, traction, business_model, gtm, moat, competition, team, ask) need ≥1 ref, ideally 2+. **Never cite an id that does not exist in evidence.json** — the critique skill's grounding check will run against these.
 - **open_gaps** — gap ids from `evidence.json` this slide depends on. A slide may ship with an open gap; it may not ship with an invented fact.
-- **visual_hint** — optional, one plain-English line for the eventual renderer ("single big number", "before/after two-panel"). No chart specs, no layout coordinates: pixels are not our layer.
+- **visual_hint** — optional, one plain-English line for the eventual renderer. **Derive it from the corpus when a cited record fits:** the record's `shows` and `abstract_pattern` fields carry the visual psychology of tier-1 slides — name the move, the mechanism, and the source id ("crowded logo wall — density conveys a contested market pre-verbally, the move in `adobe-investor-mtg-2023#s005`"). When no record fits, a plain hint is fine ("single big number", "before/after two-panel"). Either way: no chart specs, no layout coordinates — pixels are not our layer, but the *psychology* of the layout is.
 
 Deck-level: `narrative_theme` carries over from the strategy; `assumptions` and `unresolved_questions` collect what the user must confirm. Front-matter `version` starts at 1.
 
